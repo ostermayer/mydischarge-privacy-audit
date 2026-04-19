@@ -1,0 +1,76 @@
+{
+  "doc_id": "00116",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0116",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Hvidberg-ZQK0116",
+      "canary": "ZQK0116",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/10/1976",
+      "canary": "ZQK0116",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "86",
+      "canary": "ZQK0116",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-36-0116",
+      "canary": "ZQK0116",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0116",
+      "canary": "ZQK0116",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0116@example.invalid",
+      "canary": "ZQK0116",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0116",
+      "canary": "ZQK0116",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0116XYZ9",
+      "canary": "ZQK0116",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000116",
+      "canary": "ZQK0116",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "117 Canary-ZQK0116 Lane, Testville, TX 77000",
+      "canary": "ZQK0116",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "3/14/2026"
+  }
+}

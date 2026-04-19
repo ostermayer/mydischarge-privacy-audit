@@ -1,0 +1,76 @@
+{
+  "doc_id": "00353",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0353",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Mogensen-ZQK0353",
+      "canary": "ZQK0353",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/27/1933",
+      "canary": "ZQK0353",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "83",
+      "canary": "ZQK0353",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-93-0353",
+      "canary": "ZQK0353",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0353",
+      "canary": "ZQK0353",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0353@example.invalid",
+      "canary": "ZQK0353",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0353",
+      "canary": "ZQK0353",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0353XYZ9",
+      "canary": "ZQK0353",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000353",
+      "canary": "ZQK0353",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "354 Canary-ZQK0353 Lane, Testville, TX 77000",
+      "canary": "ZQK0353",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "9/15/2026"
+  }
+}

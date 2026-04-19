@@ -1,0 +1,17 @@
+تعليمات الخروج من قسم الطوارئ
+المستشفى: Memorial Hermann Texas Medical Center
+هاتف المستشفى: 713-500-7878
+
+اسم المريض: Beatriz Ashworth-ZQK0239
+تاريخ الميلاد: 09/20/1959    العمر: 89
+رقم الضمان الاجتماعي: 900-69-0239
+جوال المريض: 555-010-0239
+البريد الإلكتروني للمريض: canary-zqk0239@example.invalid
+عنوان المريض: 240 Canary-ZQK0239 Lane, Testville, TX 77000
+رقم الملف الطبي: MRNZQK0239
+رقم التأمين: INSZQK0239XYZ9
+
+الطبيب: Dr. Ostermayer
+التشخيص: acute otitis media
+الدواء: خذ metoprolol 25 mg حسب التعليمات.
+المتابعة: موعد 2/12/2026 مع طبيبك.

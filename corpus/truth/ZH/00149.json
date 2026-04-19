@@ -1,0 +1,76 @@
+{
+  "doc_id": "00149",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0149",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Hvidberg-ZQK0149",
+      "canary": "ZQK0149",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/21/1939",
+      "canary": "ZQK0149",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "79",
+      "canary": "ZQK0149",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-69-0149",
+      "canary": "ZQK0149",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0149",
+      "canary": "ZQK0149",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0149@example.invalid",
+      "canary": "ZQK0149",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0149",
+      "canary": "ZQK0149",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0149XYZ9",
+      "canary": "ZQK0149",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000149",
+      "canary": "ZQK0149",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "150 Canary-ZQK0149 Lane, Testville, TX 77000",
+      "canary": "ZQK0149",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "5/2/2026"
+  }
+}

@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Lyndon B Johnson Hospital (call 713-500-7878 for questions)
+Name: Octavio Hvidberg-ZQK0048
+Date of Birth: 09/02/1978
+Age: 58 years
+Home Address: 49 Canary-ZQK0048 Lane, Testville, TX 77000
+Cell: 555-010-0048
+Email: canary-zqk0048@example.invalid
+Medical Record Number: MRNZQK0048
+Member ID: INSZQK0048XYZ9
+Primary provider: Dr. Fischer
+Diagnosis: musculoskeletal strain
+Your doctor prescribed metoprolol 25 mg.
+Follow up on 7/24/2026.

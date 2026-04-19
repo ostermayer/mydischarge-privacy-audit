@@ -1,0 +1,76 @@
+{
+  "doc_id": "00050",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0050",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Tchaikovsky-ZQK0050",
+      "canary": "ZQK0050",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/19/1980",
+      "canary": "ZQK0050",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "60",
+      "canary": "ZQK0050",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-60-0050",
+      "canary": "ZQK0050",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0050",
+      "canary": "ZQK0050",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0050@example.invalid",
+      "canary": "ZQK0050",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0050",
+      "canary": "ZQK0050",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0050XYZ9",
+      "canary": "ZQK0050",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000050",
+      "canary": "ZQK0050",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "51 Canary-ZQK0050 Lane, Testville, TX 77000",
+      "canary": "ZQK0050",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "12/17/2026"
+  }
+}

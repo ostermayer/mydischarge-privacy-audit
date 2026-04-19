@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Bayshore Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Beatriz Hvidberg-ZQK0116
+Fecha de Nacimiento: 02/10/1976    Edad: 86
+Número de Seguro Social: 900-36-0116
+Celular del paciente: 555-010-0116
+Correo del paciente: canary-zqk0116@example.invalid
+Dirección del Paciente: 117 Canary-ZQK0116 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0116
+Número de Seguro: INSZQK0116XYZ9
+Cuenta: 90000116
+
+Médico: Dr. Rodriguez
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome ibuprofen 400 mg según indicación.
+Seguimiento: Cita el 3/14/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

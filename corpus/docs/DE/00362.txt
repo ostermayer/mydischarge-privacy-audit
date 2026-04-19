@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Bayshore Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Ximena Ashworth-ZQK0362
+Geburtsdatum: 02/20/1942   Alter: 52
+Sozialversicherungsnummer: 900-12-0362
+Handy Patient: 555-010-0362
+Email Patient: canary-zqk0362@example.invalid
+Patientenadresse: 363 Canary-ZQK0362 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0362
+Versicherungsnummer: INSZQK0362XYZ9
+
+Arzt: Dr. Luber
+Diagnose: community-acquired pneumonia
+Medikament: Nehmen Sie metoprolol 25 mg wie verordnet.
+Termin: 4/11/2026 bei Ihrem Arzt.

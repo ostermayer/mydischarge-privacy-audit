@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Lyndon B Johnson Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Octavio Tchaikovsky-ZQK0273
+Date de Naissance: 12/05/1993   Âge: 83
+Numéro de Sécurité Sociale: 900-13-0273
+Portable patient: 555-010-0273
+Email patient: canary-zqk0273@example.invalid
+Adresse du Patient: 274 Canary-ZQK0273 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0273
+Numéro d'Assurance: INSZQK0273XYZ9
+
+Médecin: Dr. Fischer
+Diagnostic: viral gastroenteritis
+Médicament: Prenez ondansetron 4 mg selon prescription.
+Rendez-vous: 10/22/2026 avec votre médecin.

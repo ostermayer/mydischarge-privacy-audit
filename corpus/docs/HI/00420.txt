@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Harris Health East Clinic
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Dashiell Papadimitriou-ZQK0420
+जन्म तिथि: 10/08/1930   आयु: 70
+सामाजिक सुरक्षा संख्या: 900-70-0420
+रोगी मोबाइल: 555-010-0420
+रोगी ईमेल: canary-zqk0420@example.invalid
+रोगी का पता: 421 Canary-ZQK0420 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0420
+बीमा संख्या: INSZQK0420XYZ9
+
+डॉक्टर: Dr. Fischer
+निदान: community-acquired pneumonia
+दवा: ondansetron 4 mg निर्देशानुसार लें।
+अनुवर्ती: 2/12/2026 को अपने डॉक्टर के पास जाएँ।

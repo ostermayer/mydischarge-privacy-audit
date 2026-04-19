@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: UT Physicians Clinic (call 713-500-7878 for questions)
+Name: Priyanka Mogensen-ZQK0038
+Date of Birth: 04/20/1968
+Age: 88 years
+Home Address: 39 Canary-ZQK0038 Lane, Testville, TX 77000
+Cell: 555-010-0038
+Email: canary-zqk0038@example.invalid
+Medical Record Number: MRNZQK0038
+Member ID: INSZQK0038XYZ9
+Primary provider: Dr. Ostermayer
+Diagnosis: acute bronchitis
+Your doctor prescribed metoprolol 25 mg.
+Follow up on 1/9/2026.

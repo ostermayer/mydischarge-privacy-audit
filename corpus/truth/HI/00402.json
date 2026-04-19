@@ -1,0 +1,76 @@
+{
+  "doc_id": "00402",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0402",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Vranjevic-ZQK0402",
+      "canary": "ZQK0402",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/05/1982",
+      "canary": "ZQK0402",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "52",
+      "canary": "ZQK0402",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-52-0402",
+      "canary": "ZQK0402",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0402",
+      "canary": "ZQK0402",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0402@example.invalid",
+      "canary": "ZQK0402",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0402",
+      "canary": "ZQK0402",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0402XYZ9",
+      "canary": "ZQK0402",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000402",
+      "canary": "ZQK0402",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "403 Canary-ZQK0402 Lane, Testville, TX 77000",
+      "canary": "ZQK0402",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "9/15/2026"
+  }
+}

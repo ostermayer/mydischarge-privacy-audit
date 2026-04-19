@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Ben Taub General Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Aleksandr Ashworth-ZQK0258
+Date de Naissance: 04/10/1978   Âge: 68
+Numéro de Sécurité Sociale: 900-88-0258
+Portable patient: 555-010-0258
+Email patient: canary-zqk0258@example.invalid
+Adresse du Patient: 259 Canary-ZQK0258 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0258
+Numéro d'Assurance: INSZQK0258XYZ9
+
+Médecin: Dr. Fischer
+Diagnostic: acute bronchitis
+Médicament: Prenez amoxicillin 500 mg selon prescription.
+Rendez-vous: 4/7/2026 avec votre médecin.

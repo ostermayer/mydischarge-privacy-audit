@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Harris Health East Clinic
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Ingrid Chakrabarti-ZQK0153
+Ngày sinh: 03/28/1943   Tuổi: 83
+Số an sinh xã hội: 900-73-0153
+Di động bệnh nhân: 555-010-0153
+Email bệnh nhân: canary-zqk0153@example.invalid
+Địa chỉ bệnh nhân: 154 Canary-ZQK0153 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0153
+Số thẻ bảo hiểm: INSZQK0153XYZ9
+
+Bác sĩ: Dr. Fischer
+Chẩn đoán: community-acquired pneumonia
+Thuốc: Uống amoxicillin 500 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 6/27/2026 với bác sĩ của bạn.

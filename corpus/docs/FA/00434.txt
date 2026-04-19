@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Ben Taub General Hospital
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Priyanka Oduya-ZQK0434
+تاریخ تولد: 06/25/1944   سن: 84
+شماره تأمین اجتماعی: 900-84-0434
+موبایل بیمار: 555-010-0434
+ایمیل بیمار: canary-zqk0434@example.invalid
+آدرس بیمار: 435 Canary-ZQK0434 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0434
+شماره بیمه: INSZQK0434XYZ9
+
+پزشک: Dr. Nguyen
+تشخیص: community-acquired pneumonia
+دارو: ondansetron 4 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 5/24/2026 با پزشک خود.

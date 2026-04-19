@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: UT Physicians Clinic
+医院电话: 713-500-7878
+
+患者姓名: Aleksandr Quetzalcoatl-ZQK0143
+出生日期: 09/24/1933   年龄: 73
+社会安全号: 900-63-0143
+患者手机: 555-010-0143
+患者邮箱: canary-zqk0143@example.invalid
+患者地址: 144 Canary-ZQK0143 Lane, Testville, TX 77000
+病历号: MRNZQK0143
+保险号: INSZQK0143XYZ9
+账号: 90000143
+
+主治医师: Dr. Luber
+诊断: community-acquired pneumonia
+药物: 按医嘱服用 albuterol inhaler。
+复诊: 请于 11/21/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00318",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0318",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Chakrabarti-ZQK0318",
+      "canary": "ZQK0318",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/08/1968",
+      "canary": "ZQK0318",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "88",
+      "canary": "ZQK0318",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-58-0318",
+      "canary": "ZQK0318",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0318",
+      "canary": "ZQK0318",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0318@example.invalid",
+      "canary": "ZQK0318",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0318",
+      "canary": "ZQK0318",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0318XYZ9",
+      "canary": "ZQK0318",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000318",
+      "canary": "ZQK0318",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "319 Canary-ZQK0318 Lane, Testville, TX 77000",
+      "canary": "ZQK0318",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/8/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00234",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0234",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Mogensen-ZQK0234",
+      "canary": "ZQK0234",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/14/1954",
+      "canary": "ZQK0234",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "84",
+      "canary": "ZQK0234",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-64-0234",
+      "canary": "ZQK0234",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0234",
+      "canary": "ZQK0234",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0234@example.invalid",
+      "canary": "ZQK0234",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0234",
+      "canary": "ZQK0234",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0234XYZ9",
+      "canary": "ZQK0234",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000234",
+      "canary": "ZQK0234",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "235 Canary-ZQK0234 Lane, Testville, TX 77000",
+      "canary": "ZQK0234",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "6/14/2026"
+  }
+}

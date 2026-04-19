@@ -1,0 +1,76 @@
+{
+  "doc_id": "00414",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0414",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Papadimitriou-ZQK0414",
+      "canary": "ZQK0414",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/18/1994",
+      "canary": "ZQK0414",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "64",
+      "canary": "ZQK0414",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-64-0414",
+      "canary": "ZQK0414",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0414",
+      "canary": "ZQK0414",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0414@example.invalid",
+      "canary": "ZQK0414",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0414",
+      "canary": "ZQK0414",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0414XYZ9",
+      "canary": "ZQK0414",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000414",
+      "canary": "ZQK0414",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "415 Canary-ZQK0414 Lane, Testville, TX 77000",
+      "canary": "ZQK0414",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "10/19/2026"
+  }
+}

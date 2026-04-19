@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Ben Taub General Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Beatriz Bergström-ZQK0349
+Dat Nesans: 08/15/1999   Laj: 79
+SSN: 900-89-0349
+Telefòn pasyan: 555-010-0349
+Email pasyan: canary-zqk0349@example.invalid
+Adrès Pasyan: 350 Canary-ZQK0349 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0349
+Nimewo Asirans: INSZQK0349XYZ9
+
+Doktè: Dr. Luber
+Dyagnostik: acute otitis media
+Medikaman: Pran acetaminophen 650 mg jan yo preskri a.
+Swivi: Randevou 4/14/2026 ak doktè ou.

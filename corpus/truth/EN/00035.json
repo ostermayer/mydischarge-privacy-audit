@@ -1,0 +1,76 @@
+{
+  "doc_id": "00035",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0035",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Mogensen-ZQK0035",
+      "canary": "ZQK0035",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/05/1965",
+      "canary": "ZQK0035",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "85",
+      "canary": "ZQK0035",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-45-0035",
+      "canary": "ZQK0035",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0035",
+      "canary": "ZQK0035",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0035@example.invalid",
+      "canary": "ZQK0035",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0035",
+      "canary": "ZQK0035",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0035XYZ9",
+      "canary": "ZQK0035",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000035",
+      "canary": "ZQK0035",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "36 Canary-ZQK0035 Lane, Testville, TX 77000",
+      "canary": "ZQK0035",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "1/8/2026"
+  }
+}

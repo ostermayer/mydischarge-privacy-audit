@@ -1,0 +1,76 @@
+{
+  "doc_id": "00122",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0122",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Vranjevic-ZQK0122",
+      "canary": "ZQK0122",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/10/1982",
+      "canary": "ZQK0122",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "52",
+      "canary": "ZQK0122",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-42-0122",
+      "canary": "ZQK0122",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0122",
+      "canary": "ZQK0122",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0122@example.invalid",
+      "canary": "ZQK0122",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0122",
+      "canary": "ZQK0122",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0122XYZ9",
+      "canary": "ZQK0122",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000122",
+      "canary": "ZQK0122",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "123 Canary-ZQK0122 Lane, Testville, TX 77000",
+      "canary": "ZQK0122",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "4/22/2026"
+  }
+}

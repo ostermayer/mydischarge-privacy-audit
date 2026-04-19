@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Harris Health East Clinic
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Saoirse Vranjevic-ZQK0440
+تاریخ تولد: 12/16/1950   سن: 50
+شماره تأمین اجتماعی: 900-90-0440
+موبایل بیمار: 555-010-0440
+ایمیل بیمار: canary-zqk0440@example.invalid
+آدرس بیمار: 441 Canary-ZQK0440 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0440
+شماره بیمه: INSZQK0440XYZ9
+
+پزشک: Dr. Nguyen
+تشخیص: acute otitis media
+دارو: ondansetron 4 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 5/10/2026 با پزشک خود.

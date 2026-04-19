@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Memorial Hermann Texas Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Dashiell Hvidberg-ZQK0094
+Fecha de Nacimiento: 02/25/1954    Edad: 64
+Número de Seguro Social: 900-14-0094
+Celular del paciente: 555-010-0094
+Correo del paciente: canary-zqk0094@example.invalid
+Dirección del Paciente: 95 Canary-ZQK0094 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0094
+Número de Seguro: INSZQK0094XYZ9
+Cuenta: 90000094
+
+Médico: Dr. Power
+Diagnóstico: viral gastroenteritis
+Medicamento: Tome amoxicillin 500 mg según indicación.
+Seguimiento: Cita el 3/15/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

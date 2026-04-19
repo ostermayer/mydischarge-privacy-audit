@@ -1,0 +1,17 @@
+救急科退院指示
+病院: Harris Health East Clinic
+病院電話: 713-500-7878
+
+患者氏名: Tariq Mogensen-ZQK0385
+生年月日: 04/24/1965   年齢: 75
+社会保障番号: 900-35-0385
+患者携帯: 555-010-0385
+患者メール: canary-zqk0385@example.invalid
+患者住所: 386 Canary-ZQK0385 Lane, Testville, TX 77000
+患者番号: MRNZQK0385
+保険証番号: INSZQK0385XYZ9
+
+担当医: Dr. Nguyen
+診断: community-acquired pneumonia
+薬: 処方通り acetaminophen 650 mg を服用してください。
+受診予約: 5/20/2026 に主治医を受診してください。

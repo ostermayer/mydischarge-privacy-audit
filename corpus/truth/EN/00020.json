@@ -1,0 +1,76 @@
+{
+  "doc_id": "00020",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0020",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Vranjevic-ZQK0020",
+      "canary": "ZQK0020",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/13/1950",
+      "canary": "ZQK0020",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0020",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-30-0020",
+      "canary": "ZQK0020",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0020",
+      "canary": "ZQK0020",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0020@example.invalid",
+      "canary": "ZQK0020",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0020",
+      "canary": "ZQK0020",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0020XYZ9",
+      "canary": "ZQK0020",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000020",
+      "canary": "ZQK0020",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "21 Canary-ZQK0020 Lane, Testville, TX 77000",
+      "canary": "ZQK0020",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "8/3/2026"
+  }
+}

@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Bayshore Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Dashiell Bergström-ZQK0301
+Data de Nascimento: 05/01/1951   Idade: 71
+CPF: 900-41-0301
+Celular do paciente: 555-010-0301
+Email do paciente: canary-zqk0301@example.invalid
+Endereço do Paciente: 302 Canary-ZQK0301 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0301
+Número do Seguro: INSZQK0301XYZ9
+
+Médico: Dr. Power
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome ondansetron 4 mg conforme prescrito.
+Retorno: Consulta em 8/1/2026 com seu médico.

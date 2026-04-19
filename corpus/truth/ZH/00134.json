@@ -1,0 +1,76 @@
+{
+  "doc_id": "00134",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0134",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Mogensen-ZQK0134",
+      "canary": "ZQK0134",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/26/1994",
+      "canary": "ZQK0134",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "64",
+      "canary": "ZQK0134",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-54-0134",
+      "canary": "ZQK0134",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0134",
+      "canary": "ZQK0134",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0134@example.invalid",
+      "canary": "ZQK0134",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0134",
+      "canary": "ZQK0134",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0134XYZ9",
+      "canary": "ZQK0134",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000134",
+      "canary": "ZQK0134",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "135 Canary-ZQK0134 Lane, Testville, TX 77000",
+      "canary": "ZQK0134",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "12/12/2026"
+  }
+}

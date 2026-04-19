@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Lyndon B Johnson Hospital
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Saoirse Chakrabarti-ZQK0314
+Data de Nascimento: 10/11/1964   Idade: 84
+CPF: 900-54-0314
+Celular do paciente: 555-010-0314
+Email do paciente: canary-zqk0314@example.invalid
+Endereço do Paciente: 315 Canary-ZQK0314 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0314
+Número do Seguro: INSZQK0314XYZ9
+
+Médico: Dr. Ostermayer
+Diagnóstico: acute bronchitis
+Medicamento: Tome amoxicillin 500 mg conforme prescrito.
+Retorno: Consulta em 6/28/2026 com seu médico.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00439",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0439",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Quetzalcoatl-ZQK0439",
+      "canary": "ZQK0439",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/22/1949",
+      "canary": "ZQK0439",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "89",
+      "canary": "ZQK0439",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-89-0439",
+      "canary": "ZQK0439",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0439",
+      "canary": "ZQK0439",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0439@example.invalid",
+      "canary": "ZQK0439",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0439",
+      "canary": "ZQK0439",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0439XYZ9",
+      "canary": "ZQK0439",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000439",
+      "canary": "ZQK0439",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "440 Canary-ZQK0439 Lane, Testville, TX 77000",
+      "canary": "ZQK0439",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "4/8/2026"
+  }
+}

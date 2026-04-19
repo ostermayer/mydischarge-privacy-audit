@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Memorial Hermann Texas Medical Center
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Octavio Ashworth-ZQK0332
+Dat Nesans: 04/11/1982   Laj: 62
+SSN: 900-72-0332
+Telefòn pasyan: 555-010-0332
+Email pasyan: canary-zqk0332@example.invalid
+Adrès Pasyan: 333 Canary-ZQK0332 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0332
+Nimewo Asirans: INSZQK0332XYZ9
+
+Doktè: Dr. Nguyen
+Dyagnostik: acute otitis media
+Medikaman: Pran ondansetron 4 mg jan yo preskri a.
+Swivi: Randevou 2/6/2026 ak doktè ou.

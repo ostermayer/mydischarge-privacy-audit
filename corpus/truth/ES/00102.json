@@ -1,0 +1,76 @@
+{
+  "doc_id": "00102",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0102",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Chakrabarti-ZQK0102",
+      "canary": "ZQK0102",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/14/1962",
+      "canary": "ZQK0102",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "72",
+      "canary": "ZQK0102",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-22-0102",
+      "canary": "ZQK0102",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0102",
+      "canary": "ZQK0102",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0102@example.invalid",
+      "canary": "ZQK0102",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0102",
+      "canary": "ZQK0102",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0102XYZ9",
+      "canary": "ZQK0102",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000102",
+      "canary": "ZQK0102",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "103 Canary-ZQK0102 Lane, Testville, TX 77000",
+      "canary": "ZQK0102",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "2/27/2026"
+  }
+}

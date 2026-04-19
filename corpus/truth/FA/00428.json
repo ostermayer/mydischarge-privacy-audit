@@ -1,0 +1,76 @@
+{
+  "doc_id": "00428",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0428",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Hvidberg-ZQK0428",
+      "canary": "ZQK0428",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/18/1938",
+      "canary": "ZQK0428",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "78",
+      "canary": "ZQK0428",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-78-0428",
+      "canary": "ZQK0428",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0428",
+      "canary": "ZQK0428",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0428@example.invalid",
+      "canary": "ZQK0428",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0428",
+      "canary": "ZQK0428",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0428XYZ9",
+      "canary": "ZQK0428",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000428",
+      "canary": "ZQK0428",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "429 Canary-ZQK0428 Lane, Testville, TX 77000",
+      "canary": "ZQK0428",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "12/12/2026"
+  }
+}

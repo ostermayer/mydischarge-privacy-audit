@@ -1,0 +1,76 @@
+{
+  "doc_id": "00330",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0330",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Mogensen-ZQK0330",
+      "canary": "ZQK0330",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/23/1980",
+      "canary": "ZQK0330",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "60",
+      "canary": "ZQK0330",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-70-0330",
+      "canary": "ZQK0330",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0330",
+      "canary": "ZQK0330",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0330@example.invalid",
+      "canary": "ZQK0330",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0330",
+      "canary": "ZQK0330",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0330XYZ9",
+      "canary": "ZQK0330",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000330",
+      "canary": "ZQK0330",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "331 Canary-ZQK0330 Lane, Testville, TX 77000",
+      "canary": "ZQK0330",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "9/25/2026"
+  }
+}

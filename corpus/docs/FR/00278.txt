@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Bayshore Medical Center
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Yumiko Bergström-ZQK0278
+Date de Naissance: 12/27/1998   Âge: 88
+Numéro de Sécurité Sociale: 900-18-0278
+Portable patient: 555-010-0278
+Email patient: canary-zqk0278@example.invalid
+Adresse du Patient: 279 Canary-ZQK0278 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0278
+Numéro d'Assurance: INSZQK0278XYZ9
+
+Médecin: Dr. Nguyen
+Diagnostic: musculoskeletal strain
+Médicament: Prenez ondansetron 4 mg selon prescription.
+Rendez-vous: 2/8/2026 avec votre médecin.

@@ -1,0 +1,15 @@
+DISCHARGE INSTRUCTI0NS
+Facility: Memorial Hermann TMC
+Hospital Phone: 713-500-7878
+
+Patient Name: Marcus Thornton-ZQK1008
+D0B: 03/14/1962  Age: 63
+SSN: 900-44-1008
+Patient Phone: 555-020-1008
+Patient Email: canary-zqk1008@example.invalid
+Patient Address: 14 Canary-ZQK1008 Ct, Testville, TX 77000
+MRN: MRNZQK1008
+Insurance ID: INSZQK1008XYZ
+Account: 90001008
+
+Follow up in 1 week.

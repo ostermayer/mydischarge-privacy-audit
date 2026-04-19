@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Ben Taub General Hospital
+医院电话: 713-500-7878
+
+患者姓名: Dashiell Hvidberg-ZQK0149
+出生日期: 04/21/1939   年龄: 79
+社会安全号: 900-69-0149
+患者手机: 555-010-0149
+患者邮箱: canary-zqk0149@example.invalid
+患者地址: 150 Canary-ZQK0149 Lane, Testville, TX 77000
+病历号: MRNZQK0149
+保险号: INSZQK0149XYZ9
+账号: 90000149
+
+主治医师: Dr. Power
+诊断: acute otitis media
+药物: 按医嘱服用 acetaminophen 650 mg。
+复诊: 请于 5/2/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

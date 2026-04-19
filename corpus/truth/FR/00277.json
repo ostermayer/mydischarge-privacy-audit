@@ -1,0 +1,76 @@
+{
+  "doc_id": "00277",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0277",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Ashworth-ZQK0277",
+      "canary": "ZQK0277",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/11/1997",
+      "canary": "ZQK0277",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "87",
+      "canary": "ZQK0277",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-17-0277",
+      "canary": "ZQK0277",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0277",
+      "canary": "ZQK0277",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0277@example.invalid",
+      "canary": "ZQK0277",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0277",
+      "canary": "ZQK0277",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0277XYZ9",
+      "canary": "ZQK0277",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000277",
+      "canary": "ZQK0277",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "278 Canary-ZQK0277 Lane, Testville, TX 77000",
+      "canary": "ZQK0277",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "7/14/2026"
+  }
+}

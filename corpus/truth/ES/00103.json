@@ -1,0 +1,76 @@
+{
+  "doc_id": "00103",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0103",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Quetzalcoatl-ZQK0103",
+      "canary": "ZQK0103",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/22/1963",
+      "canary": "ZQK0103",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "73",
+      "canary": "ZQK0103",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-23-0103",
+      "canary": "ZQK0103",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0103",
+      "canary": "ZQK0103",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0103@example.invalid",
+      "canary": "ZQK0103",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0103",
+      "canary": "ZQK0103",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0103XYZ9",
+      "canary": "ZQK0103",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000103",
+      "canary": "ZQK0103",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "104 Canary-ZQK0103 Lane, Testville, TX 77000",
+      "canary": "ZQK0103",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "4/16/2026"
+  }
+}

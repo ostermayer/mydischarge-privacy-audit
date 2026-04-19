@@ -1,0 +1,76 @@
+{
+  "doc_id": "00095",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0095",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Oduya-ZQK0095",
+      "canary": "ZQK0095",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/17/1955",
+      "canary": "ZQK0095",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "65",
+      "canary": "ZQK0095",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-15-0095",
+      "canary": "ZQK0095",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0095",
+      "canary": "ZQK0095",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0095@example.invalid",
+      "canary": "ZQK0095",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0095",
+      "canary": "ZQK0095",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0095XYZ9",
+      "canary": "ZQK0095",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000095",
+      "canary": "ZQK0095",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "96 Canary-ZQK0095 Lane, Testville, TX 77000",
+      "canary": "ZQK0095",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "10/1/2026"
+  }
+}

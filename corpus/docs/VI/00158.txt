@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Memorial Hermann Texas Medical Center
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Tariq Vranjevic-ZQK0158
+Ngày sinh: 11/03/1948   Tuổi: 88
+Số an sinh xã hội: 900-78-0158
+Di động bệnh nhân: 555-010-0158
+Email bệnh nhân: canary-zqk0158@example.invalid
+Địa chỉ bệnh nhân: 159 Canary-ZQK0158 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0158
+Số thẻ bảo hiểm: INSZQK0158XYZ9
+
+Bác sĩ: Dr. Luber
+Chẩn đoán: viral gastroenteritis
+Thuốc: Uống metoprolol 25 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 10/22/2026 với bác sĩ của bạn.

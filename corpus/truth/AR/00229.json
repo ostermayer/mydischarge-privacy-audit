@@ -1,0 +1,76 @@
+{
+  "doc_id": "00229",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0229",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Oduya-ZQK0229",
+      "canary": "ZQK0229",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/03/1949",
+      "canary": "ZQK0229",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "79",
+      "canary": "ZQK0229",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-59-0229",
+      "canary": "ZQK0229",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0229",
+      "canary": "ZQK0229",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0229@example.invalid",
+      "canary": "ZQK0229",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0229",
+      "canary": "ZQK0229",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0229XYZ9",
+      "canary": "ZQK0229",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000229",
+      "canary": "ZQK0229",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "230 Canary-ZQK0229 Lane, Testville, TX 77000",
+      "canary": "ZQK0229",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "2/11/2026"
+  }
+}

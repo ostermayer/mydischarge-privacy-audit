@@ -1,0 +1,76 @@
+{
+  "doc_id": "00114",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0114",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Tchaikovsky-ZQK0114",
+      "canary": "ZQK0114",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/21/1974",
+      "canary": "ZQK0114",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "84",
+      "canary": "ZQK0114",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-34-0114",
+      "canary": "ZQK0114",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0114",
+      "canary": "ZQK0114",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0114@example.invalid",
+      "canary": "ZQK0114",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0114",
+      "canary": "ZQK0114",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0114XYZ9",
+      "canary": "ZQK0114",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000114",
+      "canary": "ZQK0114",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "115 Canary-ZQK0114 Lane, Testville, TX 77000",
+      "canary": "ZQK0114",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "1/19/2026"
+  }
+}

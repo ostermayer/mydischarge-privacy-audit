@@ -1,0 +1,17 @@
+응급실 퇴원 안내
+병원: Bayshore Medical Center
+병원 전화: 713-500-7878
+
+환자명: Ximena Hvidberg-ZQK0192
+생년월일: 08/16/1982   나이: 82
+주민번호: 900-22-0192
+환자 휴대폰: 555-010-0192
+환자 이메일: canary-zqk0192@example.invalid
+환자 주소: 193 Canary-ZQK0192 Lane, Testville, TX 77000
+등록번호: MRNZQK0192
+보험번호: INSZQK0192XYZ9
+
+담당의: Dr. Luber
+진단: acute otitis media
+약물: ondansetron 4 mg 처방대로 복용하세요.
+진료 예약: 6/28/2026에 의사 선생님과 진료 예약이 있습니다.

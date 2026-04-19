@@ -1,0 +1,76 @@
+{
+  "doc_id": "00376",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0376",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Papadimitriou-ZQK0376",
+      "canary": "ZQK0376",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/24/1956",
+      "canary": "ZQK0376",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "66",
+      "canary": "ZQK0376",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-26-0376",
+      "canary": "ZQK0376",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0376",
+      "canary": "ZQK0376",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0376@example.invalid",
+      "canary": "ZQK0376",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0376",
+      "canary": "ZQK0376",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0376XYZ9",
+      "canary": "ZQK0376",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000376",
+      "canary": "ZQK0376",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "377 Canary-ZQK0376 Lane, Testville, TX 77000",
+      "canary": "ZQK0376",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "3/1/2026"
+  }
+}

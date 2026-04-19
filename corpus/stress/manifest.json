@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-04-14T17:14:21.176Z",
+  "description": "Adversarial stress corpus — realistic messiness to probe redaction limits",
+  "categories": {
+    "ocr": 10,
+    "narrative": 10,
+    "typos": 10,
+    "multiline": 10,
+    "duplicated": 10,
+    "unlabeled": 10
+  },
+  "total": 60
+}

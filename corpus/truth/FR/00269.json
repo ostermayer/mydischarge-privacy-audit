@@ -1,0 +1,76 @@
+{
+  "doc_id": "00269",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0269",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Quetzalcoatl-ZQK0269",
+      "canary": "ZQK0269",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/15/1989",
+      "canary": "ZQK0269",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "79",
+      "canary": "ZQK0269",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-99-0269",
+      "canary": "ZQK0269",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0269",
+      "canary": "ZQK0269",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0269@example.invalid",
+      "canary": "ZQK0269",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0269",
+      "canary": "ZQK0269",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0269XYZ9",
+      "canary": "ZQK0269",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000269",
+      "canary": "ZQK0269",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "270 Canary-ZQK0269 Lane, Testville, TX 77000",
+      "canary": "ZQK0269",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "9/18/2026"
+  }
+}

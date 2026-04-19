@@ -1,0 +1,76 @@
+{
+  "doc_id": "00165",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0165",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Chakrabarti-ZQK0165",
+      "canary": "ZQK0165",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/05/1955",
+      "canary": "ZQK0165",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "55",
+      "canary": "ZQK0165",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-85-0165",
+      "canary": "ZQK0165",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0165",
+      "canary": "ZQK0165",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0165@example.invalid",
+      "canary": "ZQK0165",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0165",
+      "canary": "ZQK0165",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0165XYZ9",
+      "canary": "ZQK0165",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000165",
+      "canary": "ZQK0165",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "166 Canary-ZQK0165 Lane, Testville, TX 77000",
+      "canary": "ZQK0165",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "1/12/2026"
+  }
+}

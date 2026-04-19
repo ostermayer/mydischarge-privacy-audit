@@ -1,0 +1,15 @@
+DISCHARGE SUMMARY
+PATIENT  NAME: Marcus Thornton-ZQK1028
+DATE  OF  BIRTH: 03/14/1962
+HOME ADDRESS: 14 Canary-ZQK1028 Ct, Testville, TX 77000
+CELL PHONE: 555-020-1028
+SSN: 900-44-1028
+MRN: MRNZQK1028
+Insurance: INSZQK1028XYZ
+Acct: 90001028
+Email: canary-zqk1028@example.invalid
+
+Age: 63 y
+Attending: Dr. Lee
+Dx: viral pharyngitis
+Rx: supportive care

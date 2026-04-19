@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Ben Taub General Hospital (call 713-500-7878 for questions)
+Name: Beatriz Vranjevic-ZQK0056
+Date of Birth: 10/03/1986
+Age: 66 years
+Home Address: 57 Canary-ZQK0056 Lane, Testville, TX 77000
+Cell: 555-010-0056
+Email: canary-zqk0056@example.invalid
+Medical Record Number: MRNZQK0056
+Member ID: INSZQK0056XYZ9
+Primary provider: Dr. Power
+Diagnosis: community-acquired pneumonia
+Your doctor prescribed metoprolol 25 mg.
+Follow up on 5/2/2026.

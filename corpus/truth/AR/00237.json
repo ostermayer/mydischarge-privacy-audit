@@ -1,0 +1,76 @@
+{
+  "doc_id": "00237",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0237",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Hvidberg-ZQK0237",
+      "canary": "ZQK0237",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/05/1957",
+      "canary": "ZQK0237",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "87",
+      "canary": "ZQK0237",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-67-0237",
+      "canary": "ZQK0237",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0237",
+      "canary": "ZQK0237",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0237@example.invalid",
+      "canary": "ZQK0237",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0237",
+      "canary": "ZQK0237",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0237XYZ9",
+      "canary": "ZQK0237",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000237",
+      "canary": "ZQK0237",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "238 Canary-ZQK0237 Lane, Testville, TX 77000",
+      "canary": "ZQK0237",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "1/22/2026"
+  }
+}

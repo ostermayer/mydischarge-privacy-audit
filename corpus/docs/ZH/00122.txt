@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Harris Health East Clinic
+医院电话: 713-500-7878
+
+患者姓名: Saoirse Vranjevic-ZQK0122
+出生日期: 12/10/1982   年龄: 52
+社会安全号: 900-42-0122
+患者手机: 555-010-0122
+患者邮箱: canary-zqk0122@example.invalid
+患者地址: 123 Canary-ZQK0122 Lane, Testville, TX 77000
+病历号: MRNZQK0122
+保险号: INSZQK0122XYZ9
+账号: 90000122
+
+主治医师: Dr. Nguyen
+诊断: musculoskeletal strain
+药物: 按医嘱服用 ondansetron 4 mg。
+复诊: 请于 4/22/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

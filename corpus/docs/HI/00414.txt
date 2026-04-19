@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Lyndon B Johnson Hospital
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Aleksandr Papadimitriou-ZQK0414
+जन्म तिथि: 05/18/1994   आयु: 64
+सामाजिक सुरक्षा संख्या: 900-64-0414
+रोगी मोबाइल: 555-010-0414
+रोगी ईमेल: canary-zqk0414@example.invalid
+रोगी का पता: 415 Canary-ZQK0414 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0414
+बीमा संख्या: INSZQK0414XYZ9
+
+डॉक्टर: Dr. Fischer
+निदान: musculoskeletal strain
+दवा: ibuprofen 400 mg निर्देशानुसार लें।
+अनुवर्ती: 10/19/2026 को अपने डॉक्टर के पास जाएँ।

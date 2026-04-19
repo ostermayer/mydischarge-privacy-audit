@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Ben Taub General Hospital
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Dashiell Mogensen-ZQK0319
+Data de Nascimento: 07/22/1969   Idade: 89
+CPF: 900-59-0319
+Celular do paciente: 555-010-0319
+Email do paciente: canary-zqk0319@example.invalid
+Endereço do Paciente: 320 Canary-ZQK0319 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0319
+Número do Seguro: INSZQK0319XYZ9
+
+Médico: Dr. Ostermayer
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome albuterol inhaler conforme prescrito.
+Retorno: Consulta em 3/1/2026 com seu médico.

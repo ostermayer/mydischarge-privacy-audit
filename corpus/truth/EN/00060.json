@@ -1,0 +1,76 @@
+{
+  "doc_id": "00060",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0060",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Ashworth-ZQK0060",
+      "canary": "ZQK0060",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/15/1990",
+      "canary": "ZQK0060",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0060",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-70-0060",
+      "canary": "ZQK0060",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0060",
+      "canary": "ZQK0060",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0060@example.invalid",
+      "canary": "ZQK0060",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0060",
+      "canary": "ZQK0060",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0060XYZ9",
+      "canary": "ZQK0060",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000060",
+      "canary": "ZQK0060",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "61 Canary-ZQK0060 Lane, Testville, TX 77000",
+      "canary": "ZQK0060",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "4/8/2026"
+  }
+}

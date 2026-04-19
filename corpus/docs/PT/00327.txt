@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Harris Health East Clinic
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Ingrid Bergström-ZQK0327
+Data de Nascimento: 12/11/1977   Idade: 57
+CPF: 900-67-0327
+Celular do paciente: 555-010-0327
+Email do paciente: canary-zqk0327@example.invalid
+Endereço do Paciente: 328 Canary-ZQK0327 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0327
+Número do Seguro: INSZQK0327XYZ9
+
+Médico: Dr. Power
+Diagnóstico: musculoskeletal strain
+Medicamento: Tome albuterol inhaler conforme prescrito.
+Retorno: Consulta em 7/12/2026 com seu médico.

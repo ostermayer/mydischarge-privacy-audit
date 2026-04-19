@@ -1,0 +1,76 @@
+{
+  "doc_id": "00074",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0074",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Oduya-ZQK0074",
+      "canary": "ZQK0074",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/25/1934",
+      "canary": "ZQK0074",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "84",
+      "canary": "ZQK0074",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-84-0074",
+      "canary": "ZQK0074",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0074",
+      "canary": "ZQK0074",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0074@example.invalid",
+      "canary": "ZQK0074",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0074",
+      "canary": "ZQK0074",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0074XYZ9",
+      "canary": "ZQK0074",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000074",
+      "canary": "ZQK0074",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "75 Canary-ZQK0074 Lane, Testville, TX 77000",
+      "canary": "ZQK0074",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "5/2/2026"
+  }
+}

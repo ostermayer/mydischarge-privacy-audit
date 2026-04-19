@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Ben Taub General Hospital
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Bartholomew Vranjevic-ZQK0306
+Data de Nascimento: 11/21/1956   Idade: 76
+CPF: 900-46-0306
+Celular do paciente: 555-010-0306
+Email do paciente: canary-zqk0306@example.invalid
+Endereço do Paciente: 307 Canary-ZQK0306 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0306
+Número do Seguro: INSZQK0306XYZ9
+
+Médico: Dr. Ostermayer
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome metoprolol 25 mg conforme prescrito.
+Retorno: Consulta em 5/14/2026 com seu médico.

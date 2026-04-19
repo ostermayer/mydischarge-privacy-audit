@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Ben Taub General Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Bartholomew Mogensen-ZQK0179
+Ngày sinh: 09/13/1969   Tuổi: 69
+Số an sinh xã hội: 900-99-0179
+Di động bệnh nhân: 555-010-0179
+Email bệnh nhân: canary-zqk0179@example.invalid
+Địa chỉ bệnh nhân: 180 Canary-ZQK0179 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0179
+Số thẻ bảo hiểm: INSZQK0179XYZ9
+
+Bác sĩ: Dr. Luber
+Chẩn đoán: viral gastroenteritis
+Thuốc: Uống amoxicillin 500 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 6/16/2026 với bác sĩ của bạn.

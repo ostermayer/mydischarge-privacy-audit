@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: UT Physicians Clinic
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Yumiko Quetzalcoatl-ZQK0425
+تاریخ تولد: 03/07/1935   سن: 75
+شماره تأمین اجتماعی: 900-75-0425
+موبایل بیمار: 555-010-0425
+ایمیل بیمار: canary-zqk0425@example.invalid
+آدرس بیمار: 426 Canary-ZQK0425 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0425
+شماره بیمه: INSZQK0425XYZ9
+
+پزشک: Dr. Power
+تشخیص: uncomplicated cystitis
+دارو: ibuprofen 400 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 1/21/2026 با پزشک خود.

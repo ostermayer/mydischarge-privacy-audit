@@ -1,0 +1,76 @@
+{
+  "doc_id": "00240",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0240",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Mogensen-ZQK0240",
+      "canary": "ZQK0240",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/02/1960",
+      "canary": "ZQK0240",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "50",
+      "canary": "ZQK0240",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-70-0240",
+      "canary": "ZQK0240",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0240",
+      "canary": "ZQK0240",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0240@example.invalid",
+      "canary": "ZQK0240",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0240",
+      "canary": "ZQK0240",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0240XYZ9",
+      "canary": "ZQK0240",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000240",
+      "canary": "ZQK0240",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "241 Canary-ZQK0240 Lane, Testville, TX 77000",
+      "canary": "ZQK0240",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "11/14/2026"
+  }
+}

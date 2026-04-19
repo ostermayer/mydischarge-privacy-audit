@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Ben Taub General Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Kwame Chakrabarti-ZQK0262
+Date de Naissance: 11/26/1982   Âge: 72
+Numéro de Sécurité Sociale: 900-92-0262
+Portable patient: 555-010-0262
+Email patient: canary-zqk0262@example.invalid
+Adresse du Patient: 263 Canary-ZQK0262 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0262
+Numéro d'Assurance: INSZQK0262XYZ9
+
+Médecin: Dr. Ostermayer
+Diagnostic: acute otitis media
+Médicament: Prenez amoxicillin 500 mg selon prescription.
+Rendez-vous: 1/21/2026 avec votre médecin.

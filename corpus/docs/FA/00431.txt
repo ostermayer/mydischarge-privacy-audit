@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Ben Taub General Hospital
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Kwame Vranjevic-ZQK0431
+تاریخ تولد: 11/18/1941   سن: 81
+شماره تأمین اجتماعی: 900-81-0431
+موبایل بیمار: 555-010-0431
+ایمیل بیمار: canary-zqk0431@example.invalid
+آدرس بیمار: 432 Canary-ZQK0431 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0431
+شماره بیمه: INSZQK0431XYZ9
+
+پزشک: Dr. Power
+تشخیص: viral gastroenteritis
+دارو: albuterol inhaler را طبق دستور مصرف کنید.
+پیگیری: نوبت 12/24/2026 با پزشک خود.

@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Harris Health East Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Ximena Quetzalcoatl-ZQK0096
+Fecha de Nacimiento: 11/10/1956    Edad: 66
+Número de Seguro Social: 900-16-0096
+Celular del paciente: 555-010-0096
+Correo del paciente: canary-zqk0096@example.invalid
+Dirección del Paciente: 97 Canary-ZQK0096 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0096
+Número de Seguro: INSZQK0096XYZ9
+Cuenta: 90000096
+
+Médico: Dr. Power
+Diagnóstico: acute otitis media
+Medicamento: Tome acetaminophen 650 mg según indicación.
+Seguimiento: Cita el 3/13/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

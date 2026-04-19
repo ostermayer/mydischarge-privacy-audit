@@ -1,0 +1,15 @@
+DISCHARGE INSTRUCTI0NS
+Faci1ity:Memoria1 Hermann TMC
+Hospita1 Phone:713-500-7878
+
+Patient Name:Marcus Thornton-ZQK1002
+D0B:03/14/1962   Age:63
+SSN:900-44-1002
+Patient Phone:555-020-1002
+Patient Emai1:canary-zqk1002@examp1e.inva1id
+Patient Address:14 Canary-ZQK1002 Ct, Testvi11e, TX 77000
+MRN:MRNZQK1002
+Insurance ID:INSZQK1002XYZ
+Account:90001002
+
+Fo11ow up in 1 week.

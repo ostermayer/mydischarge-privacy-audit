@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Lyndon B Johnson Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Ingrid Vranjevic-ZQK0331
+Dat Nesans: 06/17/1981   Laj: 61
+SSN: 900-71-0331
+Telefòn pasyan: 555-010-0331
+Email pasyan: canary-zqk0331@example.invalid
+Adrès Pasyan: 332 Canary-ZQK0331 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0331
+Nimewo Asirans: INSZQK0331XYZ9
+
+Doktè: Dr. Nguyen
+Dyagnostik: uncomplicated cystitis
+Medikaman: Pran ibuprofen 400 mg jan yo preskri a.
+Swivi: Randevou 6/1/2026 ak doktè ou.

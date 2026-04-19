@@ -1,0 +1,76 @@
+{
+  "doc_id": "00427",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0427",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Vranjevic-ZQK0427",
+      "canary": "ZQK0427",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/14/1937",
+      "canary": "ZQK0427",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "77",
+      "canary": "ZQK0427",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-77-0427",
+      "canary": "ZQK0427",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0427",
+      "canary": "ZQK0427",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0427@example.invalid",
+      "canary": "ZQK0427",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0427",
+      "canary": "ZQK0427",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0427XYZ9",
+      "canary": "ZQK0427",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000427",
+      "canary": "ZQK0427",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "428 Canary-ZQK0427 Lane, Testville, TX 77000",
+      "canary": "ZQK0427",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "albuterol inhaler",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "12/17/2026"
+  }
+}

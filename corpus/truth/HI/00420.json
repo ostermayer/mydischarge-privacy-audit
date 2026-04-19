@@ -1,0 +1,76 @@
+{
+  "doc_id": "00420",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0420",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Papadimitriou-ZQK0420",
+      "canary": "ZQK0420",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/08/1930",
+      "canary": "ZQK0420",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0420",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-70-0420",
+      "canary": "ZQK0420",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0420",
+      "canary": "ZQK0420",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0420@example.invalid",
+      "canary": "ZQK0420",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0420",
+      "canary": "ZQK0420",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0420XYZ9",
+      "canary": "ZQK0420",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000420",
+      "canary": "ZQK0420",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "421 Canary-ZQK0420 Lane, Testville, TX 77000",
+      "canary": "ZQK0420",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "2/12/2026"
+  }
+}

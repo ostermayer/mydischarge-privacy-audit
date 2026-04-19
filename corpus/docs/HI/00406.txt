@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Harris Health East Clinic
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Priyanka Quetzalcoatl-ZQK0406
+जन्म तिथि: 06/24/1986   आयु: 56
+सामाजिक सुरक्षा संख्या: 900-56-0406
+रोगी मोबाइल: 555-010-0406
+रोगी ईमेल: canary-zqk0406@example.invalid
+रोगी का पता: 407 Canary-ZQK0406 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0406
+बीमा संख्या: INSZQK0406XYZ9
+
+डॉक्टर: Dr. Patel
+निदान: community-acquired pneumonia
+दवा: acetaminophen 650 mg निर्देशानुसार लें।
+अनुवर्ती: 2/24/2026 को अपने डॉक्टर के पास जाएँ।

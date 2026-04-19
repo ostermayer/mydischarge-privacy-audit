@@ -1,0 +1,76 @@
+{
+  "doc_id": "00386",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0386",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Mogensen-ZQK0386",
+      "canary": "ZQK0386",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/22/1966",
+      "canary": "ZQK0386",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "76",
+      "canary": "ZQK0386",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-36-0386",
+      "canary": "ZQK0386",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0386",
+      "canary": "ZQK0386",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0386@example.invalid",
+      "canary": "ZQK0386",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0386",
+      "canary": "ZQK0386",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0386XYZ9",
+      "canary": "ZQK0386",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000386",
+      "canary": "ZQK0386",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "387 Canary-ZQK0386 Lane, Testville, TX 77000",
+      "canary": "ZQK0386",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "1/21/2026"
+  }
+}

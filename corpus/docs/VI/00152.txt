@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Bayshore Medical Center
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Priyanka Papadimitriou-ZQK0152
+Ngày sinh: 03/21/1942   Tuổi: 82
+Số an sinh xã hội: 900-72-0152
+Di động bệnh nhân: 555-010-0152
+Email bệnh nhân: canary-zqk0152@example.invalid
+Địa chỉ bệnh nhân: 153 Canary-ZQK0152 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0152
+Số thẻ bảo hiểm: INSZQK0152XYZ9
+
+Bác sĩ: Dr. Fischer
+Chẩn đoán: musculoskeletal strain
+Thuốc: Uống metoprolol 25 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 1/5/2026 với bác sĩ của bạn.

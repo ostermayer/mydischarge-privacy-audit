@@ -1,0 +1,76 @@
+{
+  "doc_id": "00115",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0115",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Chakrabarti-ZQK0115",
+      "canary": "ZQK0115",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/28/1975",
+      "canary": "ZQK0115",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "85",
+      "canary": "ZQK0115",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-35-0115",
+      "canary": "ZQK0115",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0115",
+      "canary": "ZQK0115",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0115@example.invalid",
+      "canary": "ZQK0115",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0115",
+      "canary": "ZQK0115",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0115XYZ9",
+      "canary": "ZQK0115",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000115",
+      "canary": "ZQK0115",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "116 Canary-ZQK0115 Lane, Testville, TX 77000",
+      "canary": "ZQK0115",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/12/2026"
+  }
+}

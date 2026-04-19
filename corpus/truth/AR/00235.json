@@ -1,0 +1,76 @@
+{
+  "doc_id": "00235",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0235",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Hvidberg-ZQK0235",
+      "canary": "ZQK0235",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/20/1955",
+      "canary": "ZQK0235",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "85",
+      "canary": "ZQK0235",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-65-0235",
+      "canary": "ZQK0235",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0235",
+      "canary": "ZQK0235",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0235@example.invalid",
+      "canary": "ZQK0235",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0235",
+      "canary": "ZQK0235",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0235XYZ9",
+      "canary": "ZQK0235",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000235",
+      "canary": "ZQK0235",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "236 Canary-ZQK0235 Lane, Testville, TX 77000",
+      "canary": "ZQK0235",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "7/24/2026"
+  }
+}

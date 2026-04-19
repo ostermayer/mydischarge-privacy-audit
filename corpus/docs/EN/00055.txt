@@ -1,0 +1,19 @@
+EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+Harris Health East Clinic
+Hospital Phone: 713-500-7878
+
+Patient Name: Ximena Vranjevic-ZQK0055
+DOB: 11/07/1985    Age: 65
+SSN: 900-65-0055
+Patient Phone: 555-010-0055
+Patient Email: canary-zqk0055@example.invalid
+Patient Address: 56 Canary-ZQK0055 Lane, Testville, TX 77000
+MRN: MRNZQK0055
+Insurance ID: INSZQK0055XYZ9
+Account #: 90000055
+
+Attending: Dr. Nguyen
+Diagnosis: acute otitis media
+Medication: Take ondansetron 4 mg as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 8/18/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.

@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Lyndon B Johnson Hospital
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Ximena Bergström-ZQK0405
+जन्म तिथि: 05/06/1985   आयु: 55
+सामाजिक सुरक्षा संख्या: 900-55-0405
+रोगी मोबाइल: 555-010-0405
+रोगी ईमेल: canary-zqk0405@example.invalid
+रोगी का पता: 406 Canary-ZQK0405 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0405
+बीमा संख्या: INSZQK0405XYZ9
+
+डॉक्टर: Dr. Rodriguez
+निदान: uncomplicated cystitis
+दवा: albuterol inhaler निर्देशानुसार लें।
+अनुवर्ती: 3/2/2026 को अपने डॉक्टर के पास जाएँ।

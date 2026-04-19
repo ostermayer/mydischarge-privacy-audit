@@ -1,0 +1,17 @@
+救急科退院指示
+病院: Memorial Hermann Texas Medical Center
+病院電話: 713-500-7878
+
+患者氏名: Bartholomew Chakrabarti-ZQK0391
+生年月日: 10/07/1971   年齢: 81
+社会保障番号: 900-41-0391
+患者携帯: 555-010-0391
+患者メール: canary-zqk0391@example.invalid
+患者住所: 392 Canary-ZQK0391 Lane, Testville, TX 77000
+患者番号: MRNZQK0391
+保険証番号: INSZQK0391XYZ9
+
+担当医: Dr. Ostermayer
+診断: viral gastroenteritis
+薬: 処方通り acetaminophen 650 mg を服用してください。
+受診予約: 7/16/2026 に主治医を受診してください。

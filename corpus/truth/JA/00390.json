@@ -1,0 +1,76 @@
+{
+  "doc_id": "00390",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0390",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Ashworth-ZQK0390",
+      "canary": "ZQK0390",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/01/1970",
+      "canary": "ZQK0390",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "80",
+      "canary": "ZQK0390",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-40-0390",
+      "canary": "ZQK0390",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0390",
+      "canary": "ZQK0390",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0390@example.invalid",
+      "canary": "ZQK0390",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0390",
+      "canary": "ZQK0390",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0390XYZ9",
+      "canary": "ZQK0390",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000390",
+      "canary": "ZQK0390",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "391 Canary-ZQK0390 Lane, Testville, TX 77000",
+      "canary": "ZQK0390",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/24/2026"
+  }
+}

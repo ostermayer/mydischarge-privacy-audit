@@ -1,0 +1,17 @@
+응급실 퇴원 안내
+병원: Harris Health East Clinic
+병원 전화: 713-500-7878
+
+환자명: Octavio Chakrabarti-ZQK0194
+생년월일: 08/15/1984   나이: 84
+주민번호: 900-24-0194
+환자 휴대폰: 555-010-0194
+환자 이메일: canary-zqk0194@example.invalid
+환자 주소: 195 Canary-ZQK0194 Lane, Testville, TX 77000
+등록번호: MRNZQK0194
+보험번호: INSZQK0194XYZ9
+
+담당의: Dr. Nguyen
+진단: viral gastroenteritis
+약물: acetaminophen 650 mg 처방대로 복용하세요.
+진료 예약: 2/22/2026에 의사 선생님과 진료 예약이 있습니다.

@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: UT Physicians Clinic
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Ingrid Vranjevic-ZQK0260
+Date de Naissance: 09/03/1980   Âge: 70
+Numéro de Sécurité Sociale: 900-90-0260
+Portable patient: 555-010-0260
+Email patient: canary-zqk0260@example.invalid
+Adresse du Patient: 261 Canary-ZQK0260 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0260
+Numéro d'Assurance: INSZQK0260XYZ9
+
+Médecin: Dr. Nguyen
+Diagnostic: acute bronchitis
+Médicament: Prenez albuterol inhaler selon prescription.
+Rendez-vous: 4/6/2026 avec votre médecin.

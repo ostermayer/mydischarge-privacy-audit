@@ -1,0 +1,76 @@
+{
+  "doc_id": "00311",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0311",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Vranjevic-ZQK0311",
+      "canary": "ZQK0311",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/24/1961",
+      "canary": "ZQK0311",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "81",
+      "canary": "ZQK0311",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-51-0311",
+      "canary": "ZQK0311",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0311",
+      "canary": "ZQK0311",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0311@example.invalid",
+      "canary": "ZQK0311",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0311",
+      "canary": "ZQK0311",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0311XYZ9",
+      "canary": "ZQK0311",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000311",
+      "canary": "ZQK0311",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "312 Canary-ZQK0311 Lane, Testville, TX 77000",
+      "canary": "ZQK0311",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "12/22/2026"
+  }
+}

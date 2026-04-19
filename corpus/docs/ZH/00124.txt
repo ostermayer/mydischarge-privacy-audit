@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: UT Physicians Clinic
+医院电话: 713-500-7878
+
+患者姓名: Aleksandr Vranjevic-ZQK0124
+出生日期: 09/07/1984   年龄: 54
+社会安全号: 900-44-0124
+患者手机: 555-010-0124
+患者邮箱: canary-zqk0124@example.invalid
+患者地址: 125 Canary-ZQK0124 Lane, Testville, TX 77000
+病历号: MRNZQK0124
+保险号: INSZQK0124XYZ9
+账号: 90000124
+
+主治医师: Dr. Nguyen
+诊断: acute bronchitis
+药物: 按医嘱服用 acetaminophen 650 mg。
+复诊: 请于 10/3/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

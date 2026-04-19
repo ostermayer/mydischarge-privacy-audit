@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+UT Physicians Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Yumiko Tchaikovsky-ZQK0119
+Fecha de Nacimiento: 09/09/1979    Edad: 89
+Número de Seguro Social: 900-39-0119
+Celular del paciente: 555-010-0119
+Correo del paciente: canary-zqk0119@example.invalid
+Dirección del Paciente: 120 Canary-ZQK0119 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0119
+Número de Seguro: INSZQK0119XYZ9
+Cuenta: 90000119
+
+Médico: Dr. Fischer
+Diagnóstico: musculoskeletal strain
+Medicamento: Tome amoxicillin 500 mg según indicación.
+Seguimiento: Cita el 12/5/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

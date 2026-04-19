@@ -1,0 +1,76 @@
+{
+  "doc_id": "00369",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0369",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Mogensen-ZQK0369",
+      "canary": "ZQK0369",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/12/1949",
+      "canary": "ZQK0369",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "59",
+      "canary": "ZQK0369",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-19-0369",
+      "canary": "ZQK0369",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0369",
+      "canary": "ZQK0369",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0369@example.invalid",
+      "canary": "ZQK0369",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0369",
+      "canary": "ZQK0369",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0369XYZ9",
+      "canary": "ZQK0369",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000369",
+      "canary": "ZQK0369",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "370 Canary-ZQK0369 Lane, Testville, TX 77000",
+      "canary": "ZQK0369",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "11/10/2026"
+  }
+}

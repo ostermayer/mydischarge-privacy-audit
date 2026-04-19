@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Ben Taub General Hospital
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Octavio Papadimitriou-ZQK0403
+जन्म तिथि: 04/19/1983   आयु: 53
+सामाजिक सुरक्षा संख्या: 900-53-0403
+रोगी मोबाइल: 555-010-0403
+रोगी ईमेल: canary-zqk0403@example.invalid
+रोगी का पता: 404 Canary-ZQK0403 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0403
+बीमा संख्या: INSZQK0403XYZ9
+
+डॉक्टर: Dr. Ostermayer
+निदान: uncomplicated cystitis
+दवा: amoxicillin 500 mg निर्देशानुसार लें।
+अनुवर्ती: 10/20/2026 को अपने डॉक्टर के पास जाएँ।

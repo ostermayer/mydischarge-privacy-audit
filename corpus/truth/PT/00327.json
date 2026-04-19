@@ -1,0 +1,76 @@
+{
+  "doc_id": "00327",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0327",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Bergström-ZQK0327",
+      "canary": "ZQK0327",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/11/1977",
+      "canary": "ZQK0327",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0327",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-67-0327",
+      "canary": "ZQK0327",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0327",
+      "canary": "ZQK0327",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0327@example.invalid",
+      "canary": "ZQK0327",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0327",
+      "canary": "ZQK0327",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0327XYZ9",
+      "canary": "ZQK0327",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000327",
+      "canary": "ZQK0327",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "328 Canary-ZQK0327 Lane, Testville, TX 77000",
+      "canary": "ZQK0327",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "albuterol inhaler",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "7/12/2026"
+  }
+}

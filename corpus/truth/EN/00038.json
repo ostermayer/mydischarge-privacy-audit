@@ -1,0 +1,76 @@
+{
+  "doc_id": "00038",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0038",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Mogensen-ZQK0038",
+      "canary": "ZQK0038",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/20/1968",
+      "canary": "ZQK0038",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "88",
+      "canary": "ZQK0038",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-48-0038",
+      "canary": "ZQK0038",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0038",
+      "canary": "ZQK0038",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0038@example.invalid",
+      "canary": "ZQK0038",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0038",
+      "canary": "ZQK0038",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0038XYZ9",
+      "canary": "ZQK0038",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000038",
+      "canary": "ZQK0038",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "39 Canary-ZQK0038 Lane, Testville, TX 77000",
+      "canary": "ZQK0038",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "1/9/2026"
+  }
+}

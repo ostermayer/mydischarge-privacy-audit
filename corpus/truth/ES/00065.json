@@ -1,0 +1,76 @@
+{
+  "doc_id": "00065",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0065",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Chakrabarti-ZQK0065",
+      "canary": "ZQK0065",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/10/1995",
+      "canary": "ZQK0065",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0065",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-75-0065",
+      "canary": "ZQK0065",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0065",
+      "canary": "ZQK0065",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0065@example.invalid",
+      "canary": "ZQK0065",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0065",
+      "canary": "ZQK0065",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0065XYZ9",
+      "canary": "ZQK0065",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000065",
+      "canary": "ZQK0065",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "66 Canary-ZQK0065 Lane, Testville, TX 77000",
+      "canary": "ZQK0065",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "albuterol inhaler",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "7/8/2026"
+  }
+}

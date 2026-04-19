@@ -1,0 +1,27 @@
+After Visit Summary
+
+Patient Name:
+Marcus Thornton-ZQK1037
+
+Date of Birth:
+03/14/1962
+
+Home Address:
+14 Canary-ZQK1037 Ct
+Testville, TX 77000
+
+Contact:
+Cell: 555-020-1037
+Email: canary-zqk1037@example.invalid
+
+Medical Record Number:    MRNZQK1037
+Insurance Member ID:       INSZQK1037XYZ
+SSN:                       900-44-1037
+Account #:                 90001037
+
+Age:
+63
+
+Attending physician: Dr. Carlos Ruiz
+Diagnosis: urinary tract infection
+Medication: nitrofurantoin 100 mg twice daily for 5 days.

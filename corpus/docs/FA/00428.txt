@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Memorial Hermann Texas Medical Center
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Octavio Hvidberg-ZQK0428
+تاریخ تولد: 09/18/1938   سن: 78
+شماره تأمین اجتماعی: 900-78-0428
+موبایل بیمار: 555-010-0428
+ایمیل بیمار: canary-zqk0428@example.invalid
+آدرس بیمار: 429 Canary-ZQK0428 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0428
+شماره بیمه: INSZQK0428XYZ9
+
+پزشک: Dr. Ostermayer
+تشخیص: musculoskeletal strain
+دارو: ondansetron 4 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 12/12/2026 با پزشک خود.

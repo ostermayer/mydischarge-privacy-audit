@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Harris Health East Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Saoirse Papadimitriou-ZQK0092
+Fecha de Nacimiento: 11/08/1952    Edad: 62
+Número de Seguro Social: 900-12-0092
+Celular del paciente: 555-010-0092
+Correo del paciente: canary-zqk0092@example.invalid
+Dirección del Paciente: 93 Canary-ZQK0092 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0092
+Número de Seguro: INSZQK0092XYZ9
+Cuenta: 90000092
+
+Médico: Dr. Luber
+Diagnóstico: acute bronchitis
+Medicamento: Tome amoxicillin 500 mg según indicación.
+Seguimiento: Cita el 2/11/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

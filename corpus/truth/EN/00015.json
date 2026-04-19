@@ -1,0 +1,76 @@
+{
+  "doc_id": "00015",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0015",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Hvidberg-ZQK0015",
+      "canary": "ZQK0015",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/11/1945",
+      "canary": "ZQK0015",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "65",
+      "canary": "ZQK0015",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-25-0015",
+      "canary": "ZQK0015",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0015",
+      "canary": "ZQK0015",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0015@example.invalid",
+      "canary": "ZQK0015",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0015",
+      "canary": "ZQK0015",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0015XYZ9",
+      "canary": "ZQK0015",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000015",
+      "canary": "ZQK0015",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "16 Canary-ZQK0015 Lane, Testville, TX 77000",
+      "canary": "ZQK0015",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "4/5/2026"
+  }
+}

@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Lyndon B Johnson Hospital (call 713-500-7878 for questions)
+Name: Dashiell Tchaikovsky-ZQK0014
+Date of Birth: 06/01/1944
+Age: 64 years
+Home Address: 15 Canary-ZQK0014 Lane, Testville, TX 77000
+Cell: 555-010-0014
+Email: canary-zqk0014@example.invalid
+Medical Record Number: MRNZQK0014
+Member ID: INSZQK0014XYZ9
+Primary provider: Dr. Luber
+Diagnosis: viral gastroenteritis
+Your doctor prescribed amoxicillin 500 mg.
+Follow up on 3/8/2026.

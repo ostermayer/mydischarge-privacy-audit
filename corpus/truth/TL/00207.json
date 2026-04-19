@@ -1,0 +1,76 @@
+{
+  "doc_id": "00207",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0207",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Vranjevic-ZQK0207",
+      "canary": "ZQK0207",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/02/1997",
+      "canary": "ZQK0207",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0207",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-37-0207",
+      "canary": "ZQK0207",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0207",
+      "canary": "ZQK0207",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0207@example.invalid",
+      "canary": "ZQK0207",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0207",
+      "canary": "ZQK0207",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0207XYZ9",
+      "canary": "ZQK0207",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000207",
+      "canary": "ZQK0207",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "208 Canary-ZQK0207 Lane, Testville, TX 77000",
+      "canary": "ZQK0207",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "11/11/2026"
+  }
+}

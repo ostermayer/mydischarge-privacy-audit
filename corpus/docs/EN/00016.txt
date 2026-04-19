@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Memorial Hermann Texas Medical Center (call 713-500-7878 for questions)
+Name: Ingrid Chakrabarti-ZQK0016
+Date of Birth: 08/06/1946
+Age: 66 years
+Home Address: 17 Canary-ZQK0016 Lane, Testville, TX 77000
+Cell: 555-010-0016
+Email: canary-zqk0016@example.invalid
+Medical Record Number: MRNZQK0016
+Member ID: INSZQK0016XYZ9
+Primary provider: Dr. Fischer
+Diagnosis: acute otitis media
+Your doctor prescribed metoprolol 25 mg.
+Follow up on 6/3/2026.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00126",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0126",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Quetzalcoatl-ZQK0126",
+      "canary": "ZQK0126",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/12/1986",
+      "canary": "ZQK0126",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "56",
+      "canary": "ZQK0126",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-46-0126",
+      "canary": "ZQK0126",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0126",
+      "canary": "ZQK0126",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0126@example.invalid",
+      "canary": "ZQK0126",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0126",
+      "canary": "ZQK0126",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0126XYZ9",
+      "canary": "ZQK0126",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000126",
+      "canary": "ZQK0126",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "127 Canary-ZQK0126 Lane, Testville, TX 77000",
+      "canary": "ZQK0126",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "2/1/2026"
+  }
+}

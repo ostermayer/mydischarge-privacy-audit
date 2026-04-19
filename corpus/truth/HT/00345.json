@@ -1,0 +1,76 @@
+{
+  "doc_id": "00345",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0345",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Oduya-ZQK0345",
+      "canary": "ZQK0345",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/17/1995",
+      "canary": "ZQK0345",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0345",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-85-0345",
+      "canary": "ZQK0345",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0345",
+      "canary": "ZQK0345",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0345@example.invalid",
+      "canary": "ZQK0345",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0345",
+      "canary": "ZQK0345",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0345XYZ9",
+      "canary": "ZQK0345",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000345",
+      "canary": "ZQK0345",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "346 Canary-ZQK0345 Lane, Testville, TX 77000",
+      "canary": "ZQK0345",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "5/6/2026"
+  }
+}

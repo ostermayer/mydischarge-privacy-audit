@@ -1,0 +1,76 @@
+{
+  "doc_id": "00063",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0063",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Oduya-ZQK0063",
+      "canary": "ZQK0063",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/19/1993",
+      "canary": "ZQK0063",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "73",
+      "canary": "ZQK0063",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-73-0063",
+      "canary": "ZQK0063",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0063",
+      "canary": "ZQK0063",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0063@example.invalid",
+      "canary": "ZQK0063",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0063",
+      "canary": "ZQK0063",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0063XYZ9",
+      "canary": "ZQK0063",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000063",
+      "canary": "ZQK0063",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "64 Canary-ZQK0063 Lane, Testville, TX 77000",
+      "canary": "ZQK0063",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "7/21/2026"
+  }
+}

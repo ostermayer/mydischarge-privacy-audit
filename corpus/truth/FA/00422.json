@@ -1,0 +1,76 @@
+{
+  "doc_id": "00422",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0422",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Tchaikovsky-ZQK0422",
+      "canary": "ZQK0422",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/15/1932",
+      "canary": "ZQK0422",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "72",
+      "canary": "ZQK0422",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-72-0422",
+      "canary": "ZQK0422",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0422",
+      "canary": "ZQK0422",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0422@example.invalid",
+      "canary": "ZQK0422",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0422",
+      "canary": "ZQK0422",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0422XYZ9",
+      "canary": "ZQK0422",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000422",
+      "canary": "ZQK0422",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "423 Canary-ZQK0422 Lane, Testville, TX 77000",
+      "canary": "ZQK0422",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "7/19/2026"
+  }
+}

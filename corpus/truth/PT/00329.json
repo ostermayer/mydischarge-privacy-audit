@@ -1,0 +1,76 @@
+{
+  "doc_id": "00329",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0329",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Oduya-ZQK0329",
+      "canary": "ZQK0329",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/12/1979",
+      "canary": "ZQK0329",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "59",
+      "canary": "ZQK0329",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-69-0329",
+      "canary": "ZQK0329",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0329",
+      "canary": "ZQK0329",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0329@example.invalid",
+      "canary": "ZQK0329",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0329",
+      "canary": "ZQK0329",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0329XYZ9",
+      "canary": "ZQK0329",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000329",
+      "canary": "ZQK0329",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "330 Canary-ZQK0329 Lane, Testville, TX 77000",
+      "canary": "ZQK0329",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "10/26/2026"
+  }
+}

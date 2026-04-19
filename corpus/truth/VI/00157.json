@@ -1,0 +1,76 @@
+{
+  "doc_id": "00157",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0157",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Hvidberg-ZQK0157",
+      "canary": "ZQK0157",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/27/1947",
+      "canary": "ZQK0157",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "87",
+      "canary": "ZQK0157",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-77-0157",
+      "canary": "ZQK0157",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0157",
+      "canary": "ZQK0157",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0157@example.invalid",
+      "canary": "ZQK0157",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0157",
+      "canary": "ZQK0157",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0157XYZ9",
+      "canary": "ZQK0157",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000157",
+      "canary": "ZQK0157",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "158 Canary-ZQK0157 Lane, Testville, TX 77000",
+      "canary": "ZQK0157",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "11/15/2026"
+  }
+}

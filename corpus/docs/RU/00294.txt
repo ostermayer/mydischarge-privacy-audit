@@ -1,0 +1,17 @@
+ИНСТРУКЦИИ ПРИ ВЫПИСКЕ - ОТДЕЛЕНИЕ НЕОТЛОЖНОЙ ПОМОЩИ
+Больница: Memorial Hermann Texas Medical Center
+Телефон больницы: 713-500-7878
+
+ФИО пациента: Ingrid Chakrabarti-ZQK0294
+Дата рождения: 07/12/1944   Возраст: 64
+СНИЛС: 900-34-0294
+Мобильный пациента: 555-010-0294
+Email пациента: canary-zqk0294@example.invalid
+Адрес пациента: 295 Canary-ZQK0294 Lane, Testville, TX 77000
+Номер карты: MRNZQK0294
+Номер страховки: INSZQK0294XYZ9
+
+Врач: Dr. Luber
+Диагноз: community-acquired pneumonia
+Лекарство: Принимайте acetaminophen 650 mg по назначению.
+Запись на приём: 5/24/2026 к вашему врачу.

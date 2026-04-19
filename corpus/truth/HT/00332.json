@@ -1,0 +1,76 @@
+{
+  "doc_id": "00332",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0332",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Ashworth-ZQK0332",
+      "canary": "ZQK0332",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/11/1982",
+      "canary": "ZQK0332",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "62",
+      "canary": "ZQK0332",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-72-0332",
+      "canary": "ZQK0332",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0332",
+      "canary": "ZQK0332",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0332@example.invalid",
+      "canary": "ZQK0332",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0332",
+      "canary": "ZQK0332",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0332XYZ9",
+      "canary": "ZQK0332",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000332",
+      "canary": "ZQK0332",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "333 Canary-ZQK0332 Lane, Testville, TX 77000",
+      "canary": "ZQK0332",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "2/6/2026"
+  }
+}

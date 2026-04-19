@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Memorial Hermann Texas Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Beatriz Mogensen-ZQK0380
+Geburtsdatum: 05/24/1960   Alter: 70
+Sozialversicherungsnummer: 900-30-0380
+Handy Patient: 555-010-0380
+Email Patient: canary-zqk0380@example.invalid
+Patientenadresse: 381 Canary-ZQK0380 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0380
+Versicherungsnummer: INSZQK0380XYZ9
+
+Arzt: Dr. Patel
+Diagnose: acute otitis media
+Medikament: Nehmen Sie ondansetron 4 mg wie verordnet.
+Termin: 8/17/2026 bei Ihrem Arzt.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00185",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0185",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Vranjevic-ZQK0185",
+      "canary": "ZQK0185",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/19/1975",
+      "canary": "ZQK0185",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0185",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-15-0185",
+      "canary": "ZQK0185",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0185",
+      "canary": "ZQK0185",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0185@example.invalid",
+      "canary": "ZQK0185",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0185",
+      "canary": "ZQK0185",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0185XYZ9",
+      "canary": "ZQK0185",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000185",
+      "canary": "ZQK0185",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "186 Canary-ZQK0185 Lane, Testville, TX 77000",
+      "canary": "ZQK0185",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "10/8/2026"
+  }
+}

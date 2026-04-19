@@ -1,0 +1,76 @@
+{
+  "doc_id": "00391",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0391",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Chakrabarti-ZQK0391",
+      "canary": "ZQK0391",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/07/1971",
+      "canary": "ZQK0391",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "81",
+      "canary": "ZQK0391",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-41-0391",
+      "canary": "ZQK0391",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0391",
+      "canary": "ZQK0391",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0391@example.invalid",
+      "canary": "ZQK0391",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0391",
+      "canary": "ZQK0391",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0391XYZ9",
+      "canary": "ZQK0391",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000391",
+      "canary": "ZQK0391",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "392 Canary-ZQK0391 Lane, Testville, TX 77000",
+      "canary": "ZQK0391",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "7/16/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00262",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0262",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Chakrabarti-ZQK0262",
+      "canary": "ZQK0262",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/26/1982",
+      "canary": "ZQK0262",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "72",
+      "canary": "ZQK0262",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-92-0262",
+      "canary": "ZQK0262",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0262",
+      "canary": "ZQK0262",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0262@example.invalid",
+      "canary": "ZQK0262",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0262",
+      "canary": "ZQK0262",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0262XYZ9",
+      "canary": "ZQK0262",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000262",
+      "canary": "ZQK0262",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "263 Canary-ZQK0262 Lane, Testville, TX 77000",
+      "canary": "ZQK0262",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "1/21/2026"
+  }
+}

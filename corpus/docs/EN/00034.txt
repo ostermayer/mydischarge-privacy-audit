@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Bayshore Medical Center (call 713-500-7878 for questions)
+Name: Ingrid Mogensen-ZQK0034
+Date of Birth: 08/10/1964
+Age: 84 years
+Home Address: 35 Canary-ZQK0034 Lane, Testville, TX 77000
+Cell: 555-010-0034
+Email: canary-zqk0034@example.invalid
+Medical Record Number: MRNZQK0034
+Member ID: INSZQK0034XYZ9
+Primary provider: Dr. Patel
+Diagnosis: musculoskeletal strain
+Your doctor prescribed ondansetron 4 mg.
+Follow up on 6/3/2026.

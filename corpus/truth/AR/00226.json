@@ -1,0 +1,76 @@
+{
+  "doc_id": "00226",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0226",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Chakrabarti-ZQK0226",
+      "canary": "ZQK0226",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/03/1946",
+      "canary": "ZQK0226",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "76",
+      "canary": "ZQK0226",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-56-0226",
+      "canary": "ZQK0226",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0226",
+      "canary": "ZQK0226",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0226@example.invalid",
+      "canary": "ZQK0226",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0226",
+      "canary": "ZQK0226",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0226XYZ9",
+      "canary": "ZQK0226",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000226",
+      "canary": "ZQK0226",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "227 Canary-ZQK0226 Lane, Testville, TX 77000",
+      "canary": "ZQK0226",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "11/19/2026"
+  }
+}

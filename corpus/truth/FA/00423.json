@@ -1,0 +1,76 @@
+{
+  "doc_id": "00423",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0423",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Bergström-ZQK0423",
+      "canary": "ZQK0423",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/12/1933",
+      "canary": "ZQK0423",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "73",
+      "canary": "ZQK0423",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-73-0423",
+      "canary": "ZQK0423",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0423",
+      "canary": "ZQK0423",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0423@example.invalid",
+      "canary": "ZQK0423",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0423",
+      "canary": "ZQK0423",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0423XYZ9",
+      "canary": "ZQK0423",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000423",
+      "canary": "ZQK0423",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "424 Canary-ZQK0423 Lane, Testville, TX 77000",
+      "canary": "ZQK0423",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "7/20/2026"
+  }
+}

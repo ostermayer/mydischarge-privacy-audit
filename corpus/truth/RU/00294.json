@@ -1,0 +1,76 @@
+{
+  "doc_id": "00294",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0294",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Chakrabarti-ZQK0294",
+      "canary": "ZQK0294",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/12/1944",
+      "canary": "ZQK0294",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "64",
+      "canary": "ZQK0294",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-34-0294",
+      "canary": "ZQK0294",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0294",
+      "canary": "ZQK0294",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0294@example.invalid",
+      "canary": "ZQK0294",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0294",
+      "canary": "ZQK0294",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0294XYZ9",
+      "canary": "ZQK0294",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000294",
+      "canary": "ZQK0294",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "295 Canary-ZQK0294 Lane, Testville, TX 77000",
+      "canary": "ZQK0294",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/24/2026"
+  }
+}

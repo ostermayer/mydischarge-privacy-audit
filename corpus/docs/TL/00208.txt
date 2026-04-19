@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Lyndon B Johnson Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Ximena Hvidberg-ZQK0208
+Petsa ng Kapanganakan: 06/27/1998   Edad: 58
+SSN: 900-38-0208
+Telepono ng pasyente: 555-010-0208
+Email: canary-zqk0208@example.invalid
+Tirahan: 209 Canary-ZQK0208 Lane, Testville, TX 77000
+MRN: MRNZQK0208
+Insurance ID: INSZQK0208XYZ9
+
+Doktor: Dr. Ostermayer
+Diagnosis: acute bronchitis
+Gamot: Inumin ang ondansetron 4 mg ayon sa reseta.
+Follow-up: 5/26/2026 kasama ang inyong doktor.

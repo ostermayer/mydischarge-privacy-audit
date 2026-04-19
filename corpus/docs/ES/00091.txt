@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Ben Taub General Hospital
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Priyanka Mogensen-ZQK0091
+Fecha de Nacimiento: 10/10/1951    Edad: 61
+Número de Seguro Social: 900-11-0091
+Celular del paciente: 555-010-0091
+Correo del paciente: canary-zqk0091@example.invalid
+Dirección del Paciente: 92 Canary-ZQK0091 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0091
+Número de Seguro: INSZQK0091XYZ9
+Cuenta: 90000091
+
+Médico: Dr. Rodriguez
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome ibuprofen 400 mg según indicación.
+Seguimiento: Cita el 8/18/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00068",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0068",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Tchaikovsky-ZQK0068",
+      "canary": "ZQK0068",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/05/1998",
+      "canary": "ZQK0068",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "78",
+      "canary": "ZQK0068",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-78-0068",
+      "canary": "ZQK0068",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0068",
+      "canary": "ZQK0068",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0068@example.invalid",
+      "canary": "ZQK0068",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0068",
+      "canary": "ZQK0068",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0068XYZ9",
+      "canary": "ZQK0068",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000068",
+      "canary": "ZQK0068",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "69 Canary-ZQK0068 Lane, Testville, TX 77000",
+      "canary": "ZQK0068",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "5/18/2026"
+  }
+}

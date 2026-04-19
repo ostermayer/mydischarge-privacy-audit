@@ -1,0 +1,17 @@
+응급실 퇴원 안내
+병원: Harris Health East Clinic
+병원 전화: 713-500-7878
+
+환자명: Kwame Vranjevic-ZQK0187
+생년월일: 02/14/1977   나이: 77
+주민번호: 900-17-0187
+환자 휴대폰: 555-010-0187
+환자 이메일: canary-zqk0187@example.invalid
+환자 주소: 188 Canary-ZQK0187 Lane, Testville, TX 77000
+등록번호: MRNZQK0187
+보험번호: INSZQK0187XYZ9
+
+담당의: Dr. Ostermayer
+진단: community-acquired pneumonia
+약물: ibuprofen 400 mg 처방대로 복용하세요.
+진료 예약: 12/26/2026에 의사 선생님과 진료 예약이 있습니다.

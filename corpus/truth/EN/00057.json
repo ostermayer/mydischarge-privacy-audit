@@ -1,0 +1,76 @@
+{
+  "doc_id": "00057",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0057",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Oduya-ZQK0057",
+      "canary": "ZQK0057",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/16/1987",
+      "canary": "ZQK0057",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "67",
+      "canary": "ZQK0057",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-67-0057",
+      "canary": "ZQK0057",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0057",
+      "canary": "ZQK0057",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0057@example.invalid",
+      "canary": "ZQK0057",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0057",
+      "canary": "ZQK0057",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0057XYZ9",
+      "canary": "ZQK0057",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000057",
+      "canary": "ZQK0057",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "58 Canary-ZQK0057 Lane, Testville, TX 77000",
+      "canary": "ZQK0057",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "9/14/2026"
+  }
+}

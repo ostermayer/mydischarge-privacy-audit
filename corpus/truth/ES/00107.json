@@ -1,0 +1,76 @@
+{
+  "doc_id": "00107",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0107",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Oduya-ZQK0107",
+      "canary": "ZQK0107",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/27/1967",
+      "canary": "ZQK0107",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "77",
+      "canary": "ZQK0107",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-27-0107",
+      "canary": "ZQK0107",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0107",
+      "canary": "ZQK0107",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0107@example.invalid",
+      "canary": "ZQK0107",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0107",
+      "canary": "ZQK0107",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0107XYZ9",
+      "canary": "ZQK0107",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000107",
+      "canary": "ZQK0107",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "108 Canary-ZQK0107 Lane, Testville, TX 77000",
+      "canary": "ZQK0107",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "12/1/2026"
+  }
+}

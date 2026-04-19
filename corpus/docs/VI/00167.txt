@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Ben Taub General Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Dashiell Tchaikovsky-ZQK0167
+Ngày sinh: 01/05/1957   Tuổi: 57
+Số an sinh xã hội: 900-87-0167
+Di động bệnh nhân: 555-010-0167
+Email bệnh nhân: canary-zqk0167@example.invalid
+Địa chỉ bệnh nhân: 168 Canary-ZQK0167 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0167
+Số thẻ bảo hiểm: INSZQK0167XYZ9
+
+Bác sĩ: Dr. Luber
+Chẩn đoán: viral gastroenteritis
+Thuốc: Uống amoxicillin 500 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 3/2/2026 với bác sĩ của bạn.

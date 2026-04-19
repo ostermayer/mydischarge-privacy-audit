@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Ben Taub General Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Aleksandr Chakrabarti-ZQK0276
+Date de Naissance: 03/24/1996   Âge: 86
+Numéro de Sécurité Sociale: 900-16-0276
+Portable patient: 555-010-0276
+Email patient: canary-zqk0276@example.invalid
+Adresse du Patient: 277 Canary-ZQK0276 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0276
+Numéro d'Assurance: INSZQK0276XYZ9
+
+Médecin: Dr. Ostermayer
+Diagnostic: viral gastroenteritis
+Médicament: Prenez ibuprofen 400 mg selon prescription.
+Rendez-vous: 8/23/2026 avec votre médecin.

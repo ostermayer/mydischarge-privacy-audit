@@ -1,0 +1,76 @@
+{
+  "doc_id": "00216",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0216",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Papadimitriou-ZQK0216",
+      "canary": "ZQK0216",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/11/1936",
+      "canary": "ZQK0216",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "66",
+      "canary": "ZQK0216",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-46-0216",
+      "canary": "ZQK0216",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0216",
+      "canary": "ZQK0216",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0216@example.invalid",
+      "canary": "ZQK0216",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0216",
+      "canary": "ZQK0216",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0216XYZ9",
+      "canary": "ZQK0216",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000216",
+      "canary": "ZQK0216",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "217 Canary-ZQK0216 Lane, Testville, TX 77000",
+      "canary": "ZQK0216",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "1/12/2026"
+  }
+}

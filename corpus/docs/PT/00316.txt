@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Lyndon B Johnson Hospital
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Beatriz Quetzalcoatl-ZQK0316
+Data de Nascimento: 10/27/1966   Idade: 86
+CPF: 900-56-0316
+Celular do paciente: 555-010-0316
+Email do paciente: canary-zqk0316@example.invalid
+Endereço do Paciente: 317 Canary-ZQK0316 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0316
+Número do Seguro: INSZQK0316XYZ9
+
+Médico: Dr. Rodriguez
+Diagnóstico: acute bronchitis
+Medicamento: Tome albuterol inhaler conforme prescrito.
+Retorno: Consulta em 4/15/2026 com seu médico.

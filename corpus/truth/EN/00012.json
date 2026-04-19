@@ -1,0 +1,76 @@
+{
+  "doc_id": "00012",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0012",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Tchaikovsky-ZQK0012",
+      "canary": "ZQK0012",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/17/1942",
+      "canary": "ZQK0012",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "62",
+      "canary": "ZQK0012",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-22-0012",
+      "canary": "ZQK0012",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0012",
+      "canary": "ZQK0012",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0012@example.invalid",
+      "canary": "ZQK0012",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0012",
+      "canary": "ZQK0012",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0012XYZ9",
+      "canary": "ZQK0012",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000012",
+      "canary": "ZQK0012",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "13 Canary-ZQK0012 Lane, Testville, TX 77000",
+      "canary": "ZQK0012",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "10/2/2026"
+  }
+}

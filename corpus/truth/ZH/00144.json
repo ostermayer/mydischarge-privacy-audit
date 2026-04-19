@@ -1,0 +1,76 @@
+{
+  "doc_id": "00144",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0144",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Chakrabarti-ZQK0144",
+      "canary": "ZQK0144",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/13/1934",
+      "canary": "ZQK0144",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "74",
+      "canary": "ZQK0144",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-64-0144",
+      "canary": "ZQK0144",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0144",
+      "canary": "ZQK0144",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0144@example.invalid",
+      "canary": "ZQK0144",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0144",
+      "canary": "ZQK0144",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0144XYZ9",
+      "canary": "ZQK0144",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000144",
+      "canary": "ZQK0144",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "145 Canary-ZQK0144 Lane, Testville, TX 77000",
+      "canary": "ZQK0144",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "1/23/2026"
+  }
+}

@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: UT Physicians Clinic (call 713-500-7878 for questions)
+Name: Aleksandr Chakrabarti-ZQK0054
+Date of Birth: 01/18/1984
+Age: 64 years
+Home Address: 55 Canary-ZQK0054 Lane, Testville, TX 77000
+Cell: 555-010-0054
+Email: canary-zqk0054@example.invalid
+Medical Record Number: MRNZQK0054
+Member ID: INSZQK0054XYZ9
+Primary provider: Dr. Power
+Diagnosis: viral gastroenteritis
+Your doctor prescribed ibuprofen 400 mg.
+Follow up on 10/19/2026.

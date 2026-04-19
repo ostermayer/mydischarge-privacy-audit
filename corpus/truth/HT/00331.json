@@ -1,0 +1,76 @@
+{
+  "doc_id": "00331",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0331",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Vranjevic-ZQK0331",
+      "canary": "ZQK0331",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/17/1981",
+      "canary": "ZQK0331",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "61",
+      "canary": "ZQK0331",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-71-0331",
+      "canary": "ZQK0331",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0331",
+      "canary": "ZQK0331",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0331@example.invalid",
+      "canary": "ZQK0331",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0331",
+      "canary": "ZQK0331",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0331XYZ9",
+      "canary": "ZQK0331",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000331",
+      "canary": "ZQK0331",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "332 Canary-ZQK0331 Lane, Testville, TX 77000",
+      "canary": "ZQK0331",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "6/1/2026"
+  }
+}

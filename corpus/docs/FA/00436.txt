@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Memorial Hermann Texas Medical Center
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Dashiell Ashworth-ZQK0436
+تاریخ تولد: 09/10/1946   سن: 86
+شماره تأمین اجتماعی: 900-86-0436
+موبایل بیمار: 555-010-0436
+ایمیل بیمار: canary-zqk0436@example.invalid
+آدرس بیمار: 437 Canary-ZQK0436 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0436
+شماره بیمه: INSZQK0436XYZ9
+
+پزشک: Dr. Nguyen
+تشخیص: viral gastroenteritis
+دارو: ondansetron 4 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 5/21/2026 با پزشک خود.

@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Lyndon B Johnson Hospital (call 713-500-7878 for questions)
+Name: Ingrid Papadimitriou-ZQK0042
+Date of Birth: 08/22/1972
+Age: 52 years
+Home Address: 43 Canary-ZQK0042 Lane, Testville, TX 77000
+Cell: 555-010-0042
+Email: canary-zqk0042@example.invalid
+Medical Record Number: MRNZQK0042
+Member ID: INSZQK0042XYZ9
+Primary provider: Dr. Patel
+Diagnosis: uncomplicated cystitis
+Your doctor prescribed acetaminophen 650 mg.
+Follow up on 11/6/2026.

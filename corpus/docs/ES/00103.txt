@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+UT Physicians Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Aleksandr Quetzalcoatl-ZQK0103
+Fecha de Nacimiento: 01/22/1963    Edad: 73
+Número de Seguro Social: 900-23-0103
+Celular del paciente: 555-010-0103
+Correo del paciente: canary-zqk0103@example.invalid
+Dirección del Paciente: 104 Canary-ZQK0103 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0103
+Número de Seguro: INSZQK0103XYZ9
+Cuenta: 90000103
+
+Médico: Dr. Nguyen
+Diagnóstico: acute bronchitis
+Medicamento: Tome metoprolol 25 mg según indicación.
+Seguimiento: Cita el 4/16/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

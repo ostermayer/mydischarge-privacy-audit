@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Bayshore Medical Center
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Kwame Chakrabarti-ZQK0156
+Ngày sinh: 12/24/1946   Tuổi: 86
+Số an sinh xã hội: 900-76-0156
+Di động bệnh nhân: 555-010-0156
+Email bệnh nhân: canary-zqk0156@example.invalid
+Địa chỉ bệnh nhân: 157 Canary-ZQK0156 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0156
+Số thẻ bảo hiểm: INSZQK0156XYZ9
+
+Bác sĩ: Dr. Nguyen
+Chẩn đoán: uncomplicated cystitis
+Thuốc: Uống acetaminophen 650 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 11/8/2026 với bác sĩ của bạn.

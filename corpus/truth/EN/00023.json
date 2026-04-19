@@ -1,0 +1,76 @@
+{
+  "doc_id": "00023",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0023",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Quetzalcoatl-ZQK0023",
+      "canary": "ZQK0023",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/24/1953",
+      "canary": "ZQK0023",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "73",
+      "canary": "ZQK0023",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-33-0023",
+      "canary": "ZQK0023",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0023",
+      "canary": "ZQK0023",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0023@example.invalid",
+      "canary": "ZQK0023",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0023",
+      "canary": "ZQK0023",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0023XYZ9",
+      "canary": "ZQK0023",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000023",
+      "canary": "ZQK0023",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "24 Canary-ZQK0023 Lane, Testville, TX 77000",
+      "canary": "ZQK0023",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "12/4/2026"
+  }
+}

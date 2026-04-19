@@ -1,0 +1,76 @@
+{
+  "doc_id": "00181",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0181",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Papadimitriou-ZQK0181",
+      "canary": "ZQK0181",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/27/1971",
+      "canary": "ZQK0181",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "71",
+      "canary": "ZQK0181",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-11-0181",
+      "canary": "ZQK0181",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0181",
+      "canary": "ZQK0181",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0181@example.invalid",
+      "canary": "ZQK0181",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0181",
+      "canary": "ZQK0181",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0181XYZ9",
+      "canary": "ZQK0181",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000181",
+      "canary": "ZQK0181",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "182 Canary-ZQK0181 Lane, Testville, TX 77000",
+      "canary": "ZQK0181",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "7/6/2026"
+  }
+}

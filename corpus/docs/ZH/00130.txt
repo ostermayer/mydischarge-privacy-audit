@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Lyndon B Johnson Hospital
+医院电话: 713-500-7878
+
+患者姓名: Ximena Mogensen-ZQK0130
+出生日期: 10/04/1990   年龄: 60
+社会安全号: 900-50-0130
+患者手机: 555-010-0130
+患者邮箱: canary-zqk0130@example.invalid
+患者地址: 131 Canary-ZQK0130 Lane, Testville, TX 77000
+病历号: MRNZQK0130
+保险号: INSZQK0130XYZ9
+账号: 90000130
+
+主治医师: Dr. Patel
+诊断: acute bronchitis
+药物: 按医嘱服用 ibuprofen 400 mg。
+复诊: 请于 1/4/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

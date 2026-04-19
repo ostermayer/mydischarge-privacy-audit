@@ -1,0 +1,17 @@
+응급실 퇴원 안내
+병원: Bayshore Medical Center
+병원 전화: 713-500-7878
+
+환자명: Aleksandr Mogensen-ZQK0182
+생년월일: 12/14/1972   나이: 72
+주민번호: 900-12-0182
+환자 휴대폰: 555-010-0182
+환자 이메일: canary-zqk0182@example.invalid
+환자 주소: 183 Canary-ZQK0182 Lane, Testville, TX 77000
+등록번호: MRNZQK0182
+보험번호: INSZQK0182XYZ9
+
+담당의: Dr. Power
+진단: musculoskeletal strain
+약물: albuterol inhaler 처방대로 복용하세요.
+진료 예약: 10/14/2026에 의사 선생님과 진료 예약이 있습니다.

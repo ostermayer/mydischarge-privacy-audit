@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: UT Physicians Clinic
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Tariq Oduya-ZQK0265
+Date de Naissance: 08/09/1985   Âge: 75
+Numéro de Sécurité Sociale: 900-95-0265
+Portable patient: 555-010-0265
+Email patient: canary-zqk0265@example.invalid
+Adresse du Patient: 266 Canary-ZQK0265 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0265
+Numéro d'Assurance: INSZQK0265XYZ9
+
+Médecin: Dr. Ostermayer
+Diagnostic: community-acquired pneumonia
+Médicament: Prenez albuterol inhaler selon prescription.
+Rendez-vous: 9/1/2026 avec votre médecin.

@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Memorial Hermann Texas Medical Center (call 713-500-7878 for questions)
+Name: Dashiell Quetzalcoatl-ZQK0004
+Date of Birth: 03/23/1934
+Age: 54 years
+Home Address: 5 Canary-ZQK0004 Lane, Testville, TX 77000
+Cell: 555-010-0004
+Email: canary-zqk0004@example.invalid
+Medical Record Number: MRNZQK0004
+Member ID: INSZQK0004XYZ9
+Primary provider: Dr. Rodriguez
+Diagnosis: acute bronchitis
+Your doctor prescribed acetaminophen 650 mg.
+Follow up on 2/11/2026.

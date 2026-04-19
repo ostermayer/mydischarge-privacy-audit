@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Bayshore Medical Center (call 713-500-7878 for questions)
+Name: Aleksandr Ashworth-ZQK0060
+Date of Birth: 04/15/1990
+Age: 70 years
+Home Address: 61 Canary-ZQK0060 Lane, Testville, TX 77000
+Cell: 555-010-0060
+Email: canary-zqk0060@example.invalid
+Medical Record Number: MRNZQK0060
+Member ID: INSZQK0060XYZ9
+Primary provider: Dr. Nguyen
+Diagnosis: acute otitis media
+Your doctor prescribed albuterol inhaler.
+Follow up on 4/8/2026.

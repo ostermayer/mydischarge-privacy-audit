@@ -1,0 +1,76 @@
+{
+  "doc_id": "00049",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0049",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Mogensen-ZQK0049",
+      "canary": "ZQK0049",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/23/1979",
+      "canary": "ZQK0049",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "59",
+      "canary": "ZQK0049",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-59-0049",
+      "canary": "ZQK0049",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0049",
+      "canary": "ZQK0049",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0049@example.invalid",
+      "canary": "ZQK0049",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0049",
+      "canary": "ZQK0049",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0049XYZ9",
+      "canary": "ZQK0049",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000049",
+      "canary": "ZQK0049",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "50 Canary-ZQK0049 Lane, Testville, TX 77000",
+      "canary": "ZQK0049",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "7/3/2026"
+  }
+}

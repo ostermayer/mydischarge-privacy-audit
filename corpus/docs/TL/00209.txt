@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Harris Health East Clinic
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Beatriz Ashworth-ZQK0209
+Petsa ng Kapanganakan: 09/27/1999   Edad: 59
+SSN: 900-39-0209
+Telepono ng pasyente: 555-010-0209
+Email: canary-zqk0209@example.invalid
+Tirahan: 210 Canary-ZQK0209 Lane, Testville, TX 77000
+MRN: MRNZQK0209
+Insurance ID: INSZQK0209XYZ9
+
+Doktor: Dr. Fischer
+Diagnosis: acute otitis media
+Gamot: Inumin ang amoxicillin 500 mg ayon sa reseta.
+Follow-up: 1/17/2026 kasama ang inyong doktor.

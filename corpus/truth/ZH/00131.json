@@ -1,0 +1,76 @@
+{
+  "doc_id": "00131",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0131",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Hvidberg-ZQK0131",
+      "canary": "ZQK0131",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/26/1991",
+      "canary": "ZQK0131",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "61",
+      "canary": "ZQK0131",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-51-0131",
+      "canary": "ZQK0131",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0131",
+      "canary": "ZQK0131",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0131@example.invalid",
+      "canary": "ZQK0131",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0131",
+      "canary": "ZQK0131",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0131XYZ9",
+      "canary": "ZQK0131",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000131",
+      "canary": "ZQK0131",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "132 Canary-ZQK0131 Lane, Testville, TX 77000",
+      "canary": "ZQK0131",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/16/2026"
+  }
+}

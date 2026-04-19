@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Lyndon B Johnson Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Yumiko Oduya-ZQK0279
+Date de Naissance: 07/09/1999   Âge: 89
+Numéro de Sécurité Sociale: 900-19-0279
+Portable patient: 555-010-0279
+Email patient: canary-zqk0279@example.invalid
+Adresse du Patient: 280 Canary-ZQK0279 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0279
+Numéro d'Assurance: INSZQK0279XYZ9
+
+Médecin: Dr. Patel
+Diagnostic: musculoskeletal strain
+Médicament: Prenez acetaminophen 650 mg selon prescription.
+Rendez-vous: 12/18/2026 avec votre médecin.

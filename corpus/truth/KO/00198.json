@@ -1,0 +1,76 @@
+{
+  "doc_id": "00198",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0198",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Mogensen-ZQK0198",
+      "canary": "ZQK0198",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/15/1988",
+      "canary": "ZQK0198",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "88",
+      "canary": "ZQK0198",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-28-0198",
+      "canary": "ZQK0198",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0198",
+      "canary": "ZQK0198",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0198@example.invalid",
+      "canary": "ZQK0198",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0198",
+      "canary": "ZQK0198",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0198XYZ9",
+      "canary": "ZQK0198",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000198",
+      "canary": "ZQK0198",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "199 Canary-ZQK0198 Lane, Testville, TX 77000",
+      "canary": "ZQK0198",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "10/2/2026"
+  }
+}

@@ -1,0 +1,17 @@
+救急科退院指示
+病院: Lyndon B Johnson Hospital
+病院電話: 713-500-7878
+
+患者氏名: Saoirse Quetzalcoatl-ZQK0398
+生年月日: 09/02/1978   年齢: 88
+社会保障番号: 900-48-0398
+患者携帯: 555-010-0398
+患者メール: canary-zqk0398@example.invalid
+患者住所: 399 Canary-ZQK0398 Lane, Testville, TX 77000
+患者番号: MRNZQK0398
+保険証番号: INSZQK0398XYZ9
+
+担当医: Dr. Fischer
+診断: acute bronchitis
+薬: 処方通り metoprolol 25 mg を服用してください。
+受診予約: 4/3/2026 に主治医を受診してください。

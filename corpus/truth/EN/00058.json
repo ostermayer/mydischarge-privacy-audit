@@ -1,0 +1,76 @@
+{
+  "doc_id": "00058",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0058",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Oduya-ZQK0058",
+      "canary": "ZQK0058",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/07/1988",
+      "canary": "ZQK0058",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0058",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-68-0058",
+      "canary": "ZQK0058",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0058",
+      "canary": "ZQK0058",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0058@example.invalid",
+      "canary": "ZQK0058",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0058",
+      "canary": "ZQK0058",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0058XYZ9",
+      "canary": "ZQK0058",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000058",
+      "canary": "ZQK0058",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "59 Canary-ZQK0058 Lane, Testville, TX 77000",
+      "canary": "ZQK0058",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "albuterol inhaler",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "9/23/2026"
+  }
+}

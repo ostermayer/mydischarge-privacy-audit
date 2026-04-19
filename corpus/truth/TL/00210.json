@@ -1,0 +1,76 @@
+{
+  "doc_id": "00210",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0210",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Bergström-ZQK0210",
+      "canary": "ZQK0210",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/11/1930",
+      "canary": "ZQK0210",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "60",
+      "canary": "ZQK0210",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-40-0210",
+      "canary": "ZQK0210",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0210",
+      "canary": "ZQK0210",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0210@example.invalid",
+      "canary": "ZQK0210",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0210",
+      "canary": "ZQK0210",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0210XYZ9",
+      "canary": "ZQK0210",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000210",
+      "canary": "ZQK0210",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "211 Canary-ZQK0210 Lane, Testville, TX 77000",
+      "canary": "ZQK0210",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "2/17/2026"
+  }
+}

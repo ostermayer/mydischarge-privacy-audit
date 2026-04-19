@@ -1,0 +1,67 @@
+{
+  "doc_id": "typos-007",
+  "category": "typos",
+  "canary_token": "ZQK1028",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Marcus Thornton-ZQK1028",
+      "canary": "ZQK1028",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/14/1962",
+      "canary": "ZQK1028",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "63",
+      "canary": "ZQK1028",
+      "required": true
+    },
+    {
+      "class": "ssn",
+      "literal": "900-44-1028",
+      "canary": "ZQK1028",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-020-1028",
+      "canary": "ZQK1028",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk1028@example.invalid",
+      "canary": "ZQK1028",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK1028",
+      "canary": "ZQK1028",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK1028XYZ",
+      "canary": "ZQK1028",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90001028",
+      "canary": "ZQK1028",
+      "required": true
+    },
+    {
+      "class": "address",
+      "literal": "14 Canary-ZQK1028 Ct, Testville, TX 77000",
+      "canary": "ZQK1028",
+      "required": true
+    }
+  ]
+}

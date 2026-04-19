@@ -1,0 +1,76 @@
+{
+  "doc_id": "00160",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0160",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Vranjevic-ZQK0160",
+      "canary": "ZQK0160",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/14/1950",
+      "canary": "ZQK0160",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "50",
+      "canary": "ZQK0160",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-80-0160",
+      "canary": "ZQK0160",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0160",
+      "canary": "ZQK0160",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0160@example.invalid",
+      "canary": "ZQK0160",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0160",
+      "canary": "ZQK0160",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0160XYZ9",
+      "canary": "ZQK0160",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000160",
+      "canary": "ZQK0160",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "161 Canary-ZQK0160 Lane, Testville, TX 77000",
+      "canary": "ZQK0160",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "2/1/2026"
+  }
+}

@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: UT Physicians Clinic
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Bartholomew Oduya-ZQK0421
+تاریخ تولد: 03/24/1931   سن: 71
+شماره تأمین اجتماعی: 900-71-0421
+موبایل بیمار: 555-010-0421
+ایمیل بیمار: canary-zqk0421@example.invalid
+آدرس بیمار: 422 Canary-ZQK0421 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0421
+شماره بیمه: INSZQK0421XYZ9
+
+پزشک: Dr. Fischer
+تشخیص: musculoskeletal strain
+دارو: ondansetron 4 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 9/26/2026 با پزشک خود.

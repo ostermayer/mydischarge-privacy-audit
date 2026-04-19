@@ -1,0 +1,25 @@
+{
+  "doc_id": "duplicated-007",
+  "category": "duplicated",
+  "canary_token": "ZQK1048",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Marcus Thornton-ZQK1048",
+      "canary": "ZQK1048",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/14/1962",
+      "canary": "ZQK1048",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK1048",
+      "canary": "ZQK1048",
+      "required": true
+    }
+  ]
+}

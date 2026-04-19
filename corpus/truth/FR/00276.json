@@ -1,0 +1,76 @@
+{
+  "doc_id": "00276",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0276",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Chakrabarti-ZQK0276",
+      "canary": "ZQK0276",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/24/1996",
+      "canary": "ZQK0276",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "86",
+      "canary": "ZQK0276",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-16-0276",
+      "canary": "ZQK0276",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0276",
+      "canary": "ZQK0276",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0276@example.invalid",
+      "canary": "ZQK0276",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0276",
+      "canary": "ZQK0276",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0276XYZ9",
+      "canary": "ZQK0276",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000276",
+      "canary": "ZQK0276",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "277 Canary-ZQK0276 Lane, Testville, TX 77000",
+      "canary": "ZQK0276",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "8/23/2026"
+  }
+}

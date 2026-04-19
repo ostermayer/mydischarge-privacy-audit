@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Lyndon B Johnson Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Kwame Quetzalcoatl-ZQK0211
+Petsa ng Kapanganakan: 06/03/1931   Edad: 61
+SSN: 900-41-0211
+Telepono ng pasyente: 555-010-0211
+Email: canary-zqk0211@example.invalid
+Tirahan: 212 Canary-ZQK0211 Lane, Testville, TX 77000
+MRN: MRNZQK0211
+Insurance ID: INSZQK0211XYZ9
+
+Doktor: Dr. Fischer
+Diagnosis: musculoskeletal strain
+Gamot: Inumin ang acetaminophen 650 mg ayon sa reseta.
+Follow-up: 12/28/2026 kasama ang inyong doktor.

@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Bayshore Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Ximena Papadimitriou-ZQK0100
+Fecha de Nacimiento: 08/21/1960    Edad: 70
+Número de Seguro Social: 900-20-0100
+Celular del paciente: 555-010-0100
+Correo del paciente: canary-zqk0100@example.invalid
+Dirección del Paciente: 101 Canary-ZQK0100 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0100
+Número de Seguro: INSZQK0100XYZ9
+Cuenta: 90000100
+
+Médico: Dr. Patel
+Diagnóstico: acute otitis media
+Medicamento: Tome ibuprofen 400 mg según indicación.
+Seguimiento: Cita el 4/25/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

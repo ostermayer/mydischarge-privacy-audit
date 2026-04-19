@@ -1,0 +1,76 @@
+{
+  "doc_id": "00064",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0064",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Ashworth-ZQK0064",
+      "canary": "ZQK0064",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/27/1994",
+      "canary": "ZQK0064",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "74",
+      "canary": "ZQK0064",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-74-0064",
+      "canary": "ZQK0064",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0064",
+      "canary": "ZQK0064",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0064@example.invalid",
+      "canary": "ZQK0064",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0064",
+      "canary": "ZQK0064",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0064XYZ9",
+      "canary": "ZQK0064",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000064",
+      "canary": "ZQK0064",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "65 Canary-ZQK0064 Lane, Testville, TX 77000",
+      "canary": "ZQK0064",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "9/5/2026"
+  }
+}

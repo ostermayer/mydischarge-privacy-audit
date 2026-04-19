@@ -1,0 +1,76 @@
+{
+  "doc_id": "00377",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0377",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Ashworth-ZQK0377",
+      "canary": "ZQK0377",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/13/1957",
+      "canary": "ZQK0377",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "67",
+      "canary": "ZQK0377",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-27-0377",
+      "canary": "ZQK0377",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0377",
+      "canary": "ZQK0377",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0377@example.invalid",
+      "canary": "ZQK0377",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0377",
+      "canary": "ZQK0377",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0377XYZ9",
+      "canary": "ZQK0377",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000377",
+      "canary": "ZQK0377",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "378 Canary-ZQK0377 Lane, Testville, TX 77000",
+      "canary": "ZQK0377",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "11/28/2026"
+  }
+}

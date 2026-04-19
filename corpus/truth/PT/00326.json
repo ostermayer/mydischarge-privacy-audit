@@ -1,0 +1,76 @@
+{
+  "doc_id": "00326",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0326",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Tchaikovsky-ZQK0326",
+      "canary": "ZQK0326",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/13/1976",
+      "canary": "ZQK0326",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "56",
+      "canary": "ZQK0326",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-66-0326",
+      "canary": "ZQK0326",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0326",
+      "canary": "ZQK0326",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0326@example.invalid",
+      "canary": "ZQK0326",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0326",
+      "canary": "ZQK0326",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0326XYZ9",
+      "canary": "ZQK0326",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000326",
+      "canary": "ZQK0326",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "327 Canary-ZQK0326 Lane, Testville, TX 77000",
+      "canary": "ZQK0326",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "4/11/2026"
+  }
+}

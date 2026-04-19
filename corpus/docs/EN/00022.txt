@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Memorial Hermann Texas Medical Center (call 713-500-7878 for questions)
+Name: Ingrid Tchaikovsky-ZQK0022
+Date of Birth: 04/21/1952
+Age: 72 years
+Home Address: 23 Canary-ZQK0022 Lane, Testville, TX 77000
+Cell: 555-010-0022
+Email: canary-zqk0022@example.invalid
+Medical Record Number: MRNZQK0022
+Member ID: INSZQK0022XYZ9
+Primary provider: Dr. Nguyen
+Diagnosis: uncomplicated cystitis
+Your doctor prescribed albuterol inhaler.
+Follow up on 6/23/2026.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00187",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0187",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Vranjevic-ZQK0187",
+      "canary": "ZQK0187",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/14/1977",
+      "canary": "ZQK0187",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "77",
+      "canary": "ZQK0187",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-17-0187",
+      "canary": "ZQK0187",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0187",
+      "canary": "ZQK0187",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0187@example.invalid",
+      "canary": "ZQK0187",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0187",
+      "canary": "ZQK0187",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0187XYZ9",
+      "canary": "ZQK0187",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000187",
+      "canary": "ZQK0187",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "188 Canary-ZQK0187 Lane, Testville, TX 77000",
+      "canary": "ZQK0187",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "12/26/2026"
+  }
+}

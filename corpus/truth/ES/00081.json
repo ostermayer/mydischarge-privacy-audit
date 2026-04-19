@@ -1,0 +1,76 @@
+{
+  "doc_id": "00081",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0081",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Papadimitriou-ZQK0081",
+      "canary": "ZQK0081",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/12/1941",
+      "canary": "ZQK0081",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0081",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-91-0081",
+      "canary": "ZQK0081",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0081",
+      "canary": "ZQK0081",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0081@example.invalid",
+      "canary": "ZQK0081",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0081",
+      "canary": "ZQK0081",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0081XYZ9",
+      "canary": "ZQK0081",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000081",
+      "canary": "ZQK0081",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "82 Canary-ZQK0081 Lane, Testville, TX 77000",
+      "canary": "ZQK0081",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "12/11/2026"
+  }
+}

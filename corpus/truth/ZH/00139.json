@@ -1,0 +1,76 @@
+{
+  "doc_id": "00139",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0139",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Chakrabarti-ZQK0139",
+      "canary": "ZQK0139",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/03/1999",
+      "canary": "ZQK0139",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "69",
+      "canary": "ZQK0139",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-59-0139",
+      "canary": "ZQK0139",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0139",
+      "canary": "ZQK0139",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0139@example.invalid",
+      "canary": "ZQK0139",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0139",
+      "canary": "ZQK0139",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0139XYZ9",
+      "canary": "ZQK0139",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000139",
+      "canary": "ZQK0139",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "140 Canary-ZQK0139 Lane, Testville, TX 77000",
+      "canary": "ZQK0139",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "3/3/2026"
+  }
+}

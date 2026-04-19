@@ -1,0 +1,76 @@
+{
+  "doc_id": "00117",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0117",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Oduya-ZQK0117",
+      "canary": "ZQK0117",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/27/1977",
+      "canary": "ZQK0117",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "87",
+      "canary": "ZQK0117",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-37-0117",
+      "canary": "ZQK0117",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0117",
+      "canary": "ZQK0117",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0117@example.invalid",
+      "canary": "ZQK0117",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0117",
+      "canary": "ZQK0117",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0117XYZ9",
+      "canary": "ZQK0117",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000117",
+      "canary": "ZQK0117",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "118 Canary-ZQK0117 Lane, Testville, TX 77000",
+      "canary": "ZQK0117",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "10/27/2026"
+  }
+}

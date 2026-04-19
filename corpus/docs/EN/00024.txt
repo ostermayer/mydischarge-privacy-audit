@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Memorial Hermann Texas Medical Center (call 713-500-7878 for questions)
+Name: Priyanka Bergström-ZQK0024
+Date of Birth: 02/11/1954
+Age: 74 years
+Home Address: 25 Canary-ZQK0024 Lane, Testville, TX 77000
+Cell: 555-010-0024
+Email: canary-zqk0024@example.invalid
+Medical Record Number: MRNZQK0024
+Member ID: INSZQK0024XYZ9
+Primary provider: Dr. Ostermayer
+Diagnosis: musculoskeletal strain
+Your doctor prescribed ibuprofen 400 mg.
+Follow up on 2/5/2026.

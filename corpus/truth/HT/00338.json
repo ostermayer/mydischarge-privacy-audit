@@ -1,0 +1,76 @@
+{
+  "doc_id": "00338",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0338",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Tchaikovsky-ZQK0338",
+      "canary": "ZQK0338",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/23/1988",
+      "canary": "ZQK0338",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0338",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-78-0338",
+      "canary": "ZQK0338",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0338",
+      "canary": "ZQK0338",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0338@example.invalid",
+      "canary": "ZQK0338",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0338",
+      "canary": "ZQK0338",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0338XYZ9",
+      "canary": "ZQK0338",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000338",
+      "canary": "ZQK0338",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "339 Canary-ZQK0338 Lane, Testville, TX 77000",
+      "canary": "ZQK0338",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "1/21/2026"
+  }
+}

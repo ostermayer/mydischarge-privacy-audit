@@ -1,0 +1,76 @@
+{
+  "doc_id": "00254",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0254",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Chakrabarti-ZQK0254",
+      "canary": "ZQK0254",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/17/1974",
+      "canary": "ZQK0254",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "64",
+      "canary": "ZQK0254",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-84-0254",
+      "canary": "ZQK0254",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0254",
+      "canary": "ZQK0254",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0254@example.invalid",
+      "canary": "ZQK0254",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0254",
+      "canary": "ZQK0254",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0254XYZ9",
+      "canary": "ZQK0254",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000254",
+      "canary": "ZQK0254",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "255 Canary-ZQK0254 Lane, Testville, TX 77000",
+      "canary": "ZQK0254",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "9/4/2026"
+  }
+}

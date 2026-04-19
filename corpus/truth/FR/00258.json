@@ -1,0 +1,76 @@
+{
+  "doc_id": "00258",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0258",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Ashworth-ZQK0258",
+      "canary": "ZQK0258",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/10/1978",
+      "canary": "ZQK0258",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0258",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-88-0258",
+      "canary": "ZQK0258",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0258",
+      "canary": "ZQK0258",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0258@example.invalid",
+      "canary": "ZQK0258",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0258",
+      "canary": "ZQK0258",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0258XYZ9",
+      "canary": "ZQK0258",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000258",
+      "canary": "ZQK0258",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "259 Canary-ZQK0258 Lane, Testville, TX 77000",
+      "canary": "ZQK0258",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "4/7/2026"
+  }
+}

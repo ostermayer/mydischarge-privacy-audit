@@ -1,0 +1,17 @@
+تعليمات الخروج من قسم الطوارئ
+المستشفى: Memorial Hermann Texas Medical Center
+هاتف المستشفى: 713-500-7878
+
+اسم المريض: Beatriz Ashworth-ZQK0224
+تاريخ الميلاد: 03/08/1944    العمر: 74
+رقم الضمان الاجتماعي: 900-54-0224
+جوال المريض: 555-010-0224
+البريد الإلكتروني للمريض: canary-zqk0224@example.invalid
+عنوان المريض: 225 Canary-ZQK0224 Lane, Testville, TX 77000
+رقم الملف الطبي: MRNZQK0224
+رقم التأمين: INSZQK0224XYZ9
+
+الطبيب: Dr. Luber
+التشخيص: community-acquired pneumonia
+الدواء: خذ metoprolol 25 mg حسب التعليمات.
+المتابعة: موعد 9/2/2026 مع طبيبك.

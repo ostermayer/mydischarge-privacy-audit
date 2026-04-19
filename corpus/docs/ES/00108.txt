@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Harris Health East Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Saoirse Oduya-ZQK0108
+Fecha de Nacimiento: 01/25/1968    Edad: 78
+Número de Seguro Social: 900-28-0108
+Celular del paciente: 555-010-0108
+Correo del paciente: canary-zqk0108@example.invalid
+Dirección del Paciente: 109 Canary-ZQK0108 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0108
+Número de Seguro: INSZQK0108XYZ9
+Cuenta: 90000108
+
+Médico: Dr. Rodriguez
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome ondansetron 4 mg según indicación.
+Seguimiento: Cita el 10/25/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

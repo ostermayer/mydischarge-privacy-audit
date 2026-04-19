@@ -1,0 +1,76 @@
+{
+  "doc_id": "00325",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0325",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Tchaikovsky-ZQK0325",
+      "canary": "ZQK0325",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/09/1975",
+      "canary": "ZQK0325",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "55",
+      "canary": "ZQK0325",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-65-0325",
+      "canary": "ZQK0325",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0325",
+      "canary": "ZQK0325",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0325@example.invalid",
+      "canary": "ZQK0325",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0325",
+      "canary": "ZQK0325",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0325XYZ9",
+      "canary": "ZQK0325",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000325",
+      "canary": "ZQK0325",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "326 Canary-ZQK0325 Lane, Testville, TX 77000",
+      "canary": "ZQK0325",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "4/12/2026"
+  }
+}

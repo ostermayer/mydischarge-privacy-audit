@@ -1,0 +1,76 @@
+{
+  "doc_id": "00145",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0145",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Tchaikovsky-ZQK0145",
+      "canary": "ZQK0145",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/06/1935",
+      "canary": "ZQK0145",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0145",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-65-0145",
+      "canary": "ZQK0145",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0145",
+      "canary": "ZQK0145",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0145@example.invalid",
+      "canary": "ZQK0145",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0145",
+      "canary": "ZQK0145",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0145XYZ9",
+      "canary": "ZQK0145",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000145",
+      "canary": "ZQK0145",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "146 Canary-ZQK0145 Lane, Testville, TX 77000",
+      "canary": "ZQK0145",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "12/3/2026"
+  }
+}

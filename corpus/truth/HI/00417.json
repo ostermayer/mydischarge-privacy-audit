@@ -1,0 +1,76 @@
+{
+  "doc_id": "00417",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0417",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Papadimitriou-ZQK0417",
+      "canary": "ZQK0417",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/13/1997",
+      "canary": "ZQK0417",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "67",
+      "canary": "ZQK0417",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-67-0417",
+      "canary": "ZQK0417",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0417",
+      "canary": "ZQK0417",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0417@example.invalid",
+      "canary": "ZQK0417",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0417",
+      "canary": "ZQK0417",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0417XYZ9",
+      "canary": "ZQK0417",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000417",
+      "canary": "ZQK0417",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "418 Canary-ZQK0417 Lane, Testville, TX 77000",
+      "canary": "ZQK0417",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "10/2/2026"
+  }
+}

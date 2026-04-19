@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Memorial Hermann Texas Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Yumiko Ashworth-ZQK0377
+Geburtsdatum: 10/13/1957   Alter: 67
+Sozialversicherungsnummer: 900-27-0377
+Handy Patient: 555-010-0377
+Email Patient: canary-zqk0377@example.invalid
+Patientenadresse: 378 Canary-ZQK0377 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0377
+Versicherungsnummer: INSZQK0377XYZ9
+
+Arzt: Dr. Patel
+Diagnose: acute otitis media
+Medikament: Nehmen Sie metoprolol 25 mg wie verordnet.
+Termin: 11/28/2026 bei Ihrem Arzt.

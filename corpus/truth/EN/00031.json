@@ -1,0 +1,76 @@
+{
+  "doc_id": "00031",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0031",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Tchaikovsky-ZQK0031",
+      "canary": "ZQK0031",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/28/1961",
+      "canary": "ZQK0031",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "81",
+      "canary": "ZQK0031",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-41-0031",
+      "canary": "ZQK0031",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0031",
+      "canary": "ZQK0031",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0031@example.invalid",
+      "canary": "ZQK0031",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0031",
+      "canary": "ZQK0031",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0031XYZ9",
+      "canary": "ZQK0031",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000031",
+      "canary": "ZQK0031",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "32 Canary-ZQK0031 Lane, Testville, TX 77000",
+      "canary": "ZQK0031",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "11/14/2026"
+  }
+}

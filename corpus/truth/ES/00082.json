@@ -1,0 +1,76 @@
+{
+  "doc_id": "00082",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0082",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Hvidberg-ZQK0082",
+      "canary": "ZQK0082",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/03/1942",
+      "canary": "ZQK0082",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "52",
+      "canary": "ZQK0082",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-92-0082",
+      "canary": "ZQK0082",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0082",
+      "canary": "ZQK0082",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0082@example.invalid",
+      "canary": "ZQK0082",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0082",
+      "canary": "ZQK0082",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0082XYZ9",
+      "canary": "ZQK0082",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000082",
+      "canary": "ZQK0082",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "83 Canary-ZQK0082 Lane, Testville, TX 77000",
+      "canary": "ZQK0082",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "6/20/2026"
+  }
+}

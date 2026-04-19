@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Memorial Hermann Texas Medical Center
+医院电话: 713-500-7878
+
+患者姓名: Saoirse Hvidberg-ZQK0147
+出生日期: 06/06/1937   年龄: 77
+社会安全号: 900-67-0147
+患者手机: 555-010-0147
+患者邮箱: canary-zqk0147@example.invalid
+患者地址: 148 Canary-ZQK0147 Lane, Testville, TX 77000
+病历号: MRNZQK0147
+保险号: INSZQK0147XYZ9
+账号: 90000147
+
+主治医师: Dr. Nguyen
+诊断: uncomplicated cystitis
+药物: 按医嘱服用 acetaminophen 650 mg。
+复诊: 请于 3/17/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

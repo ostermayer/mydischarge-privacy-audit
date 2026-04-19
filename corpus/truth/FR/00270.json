@@ -1,0 +1,76 @@
+{
+  "doc_id": "00270",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0270",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Papadimitriou-ZQK0270",
+      "canary": "ZQK0270",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/10/1990",
+      "canary": "ZQK0270",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "80",
+      "canary": "ZQK0270",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-10-0270",
+      "canary": "ZQK0270",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0270",
+      "canary": "ZQK0270",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0270@example.invalid",
+      "canary": "ZQK0270",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0270",
+      "canary": "ZQK0270",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0270XYZ9",
+      "canary": "ZQK0270",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000270",
+      "canary": "ZQK0270",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "271 Canary-ZQK0270 Lane, Testville, TX 77000",
+      "canary": "ZQK0270",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "10/14/2026"
+  }
+}

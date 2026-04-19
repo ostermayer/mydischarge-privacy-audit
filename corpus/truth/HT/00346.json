@@ -1,0 +1,76 @@
+{
+  "doc_id": "00346",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0346",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Papadimitriou-ZQK0346",
+      "canary": "ZQK0346",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/23/1996",
+      "canary": "ZQK0346",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "76",
+      "canary": "ZQK0346",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-86-0346",
+      "canary": "ZQK0346",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0346",
+      "canary": "ZQK0346",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0346@example.invalid",
+      "canary": "ZQK0346",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0346",
+      "canary": "ZQK0346",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0346XYZ9",
+      "canary": "ZQK0346",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000346",
+      "canary": "ZQK0346",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "347 Canary-ZQK0346 Lane, Testville, TX 77000",
+      "canary": "ZQK0346",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "7/14/2026"
+  }
+}

@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Bayshore Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Beatriz Vranjevic-ZQK0304
+Data de Nascimento: 05/27/1954   Idade: 74
+CPF: 900-44-0304
+Celular do paciente: 555-010-0304
+Email do paciente: canary-zqk0304@example.invalid
+Endereço do Paciente: 305 Canary-ZQK0304 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0304
+Número do Seguro: INSZQK0304XYZ9
+
+Médico: Dr. Power
+Diagnóstico: viral gastroenteritis
+Medicamento: Tome metoprolol 25 mg conforme prescrito.
+Retorno: Consulta em 9/24/2026 com seu médico.

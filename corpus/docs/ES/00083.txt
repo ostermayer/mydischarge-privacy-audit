@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Ben Taub General Hospital
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Dashiell Bergström-ZQK0083
+Fecha de Nacimiento: 06/17/1943    Edad: 53
+Número de Seguro Social: 900-93-0083
+Celular del paciente: 555-010-0083
+Correo del paciente: canary-zqk0083@example.invalid
+Dirección del Paciente: 84 Canary-ZQK0083 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0083
+Número de Seguro: INSZQK0083XYZ9
+Cuenta: 90000083
+
+Médico: Dr. Luber
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome acetaminophen 650 mg según indicación.
+Seguimiento: Cita el 3/16/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

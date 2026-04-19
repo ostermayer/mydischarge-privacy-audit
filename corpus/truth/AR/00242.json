@@ -1,0 +1,76 @@
+{
+  "doc_id": "00242",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0242",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Chakrabarti-ZQK0242",
+      "canary": "ZQK0242",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/07/1962",
+      "canary": "ZQK0242",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "52",
+      "canary": "ZQK0242",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-72-0242",
+      "canary": "ZQK0242",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0242",
+      "canary": "ZQK0242",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0242@example.invalid",
+      "canary": "ZQK0242",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0242",
+      "canary": "ZQK0242",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0242XYZ9",
+      "canary": "ZQK0242",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000242",
+      "canary": "ZQK0242",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "243 Canary-ZQK0242 Lane, Testville, TX 77000",
+      "canary": "ZQK0242",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "7/27/2026"
+  }
+}

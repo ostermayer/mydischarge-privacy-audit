@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Memorial Hermann Texas Medical Center
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Ximena Chakrabarti-ZQK0205
+Petsa ng Kapanganakan: 12/26/1995   Edad: 55
+SSN: 900-35-0205
+Telepono ng pasyente: 555-010-0205
+Email: canary-zqk0205@example.invalid
+Tirahan: 206 Canary-ZQK0205 Lane, Testville, TX 77000
+MRN: MRNZQK0205
+Insurance ID: INSZQK0205XYZ9
+
+Doktor: Dr. Power
+Diagnosis: acute bronchitis
+Gamot: Inumin ang ondansetron 4 mg ayon sa reseta.
+Follow-up: 8/28/2026 kasama ang inyong doktor.

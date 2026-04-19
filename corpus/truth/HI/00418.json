@@ -1,0 +1,76 @@
+{
+  "doc_id": "00418",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0418",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Bergström-ZQK0418",
+      "canary": "ZQK0418",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/25/1998",
+      "canary": "ZQK0418",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0418",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-68-0418",
+      "canary": "ZQK0418",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0418",
+      "canary": "ZQK0418",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0418@example.invalid",
+      "canary": "ZQK0418",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0418",
+      "canary": "ZQK0418",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0418XYZ9",
+      "canary": "ZQK0418",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000418",
+      "canary": "ZQK0418",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "419 Canary-ZQK0418 Lane, Testville, TX 77000",
+      "canary": "ZQK0418",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "9/15/2026"
+  }
+}

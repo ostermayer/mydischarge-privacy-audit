@@ -1,0 +1,76 @@
+{
+  "doc_id": "00098",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0098",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Bergström-ZQK0098",
+      "canary": "ZQK0098",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/09/1958",
+      "canary": "ZQK0098",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0098",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-18-0098",
+      "canary": "ZQK0098",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0098",
+      "canary": "ZQK0098",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0098@example.invalid",
+      "canary": "ZQK0098",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0098",
+      "canary": "ZQK0098",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0098XYZ9",
+      "canary": "ZQK0098",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000098",
+      "canary": "ZQK0098",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "99 Canary-ZQK0098 Lane, Testville, TX 77000",
+      "canary": "ZQK0098",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "3/4/2026"
+  }
+}

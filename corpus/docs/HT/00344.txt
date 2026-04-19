@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Lyndon B Johnson Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Yumiko Chakrabarti-ZQK0344
+Dat Nesans: 01/19/1994   Laj: 74
+SSN: 900-84-0344
+Telefòn pasyan: 555-010-0344
+Email pasyan: canary-zqk0344@example.invalid
+Adrès Pasyan: 345 Canary-ZQK0344 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0344
+Nimewo Asirans: INSZQK0344XYZ9
+
+Doktè: Dr. Luber
+Dyagnostik: uncomplicated cystitis
+Medikaman: Pran metoprolol 25 mg jan yo preskri a.
+Swivi: Randevou 8/3/2026 ak doktè ou.

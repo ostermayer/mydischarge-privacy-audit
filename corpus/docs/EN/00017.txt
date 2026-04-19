@@ -1,0 +1,19 @@
+EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+Ben Taub General Hospital
+Hospital Phone: 713-500-7878
+
+Patient Name: Tariq Mogensen-ZQK0017
+DOB: 02/27/1947    Age: 67
+SSN: 900-27-0017
+Patient Phone: 555-010-0017
+Patient Email: canary-zqk0017@example.invalid
+Patient Address: 18 Canary-ZQK0017 Lane, Testville, TX 77000
+MRN: MRNZQK0017
+Insurance ID: INSZQK0017XYZ9
+Account #: 90000017
+
+Attending: Dr. Nguyen
+Diagnosis: uncomplicated cystitis
+Medication: Take amoxicillin 500 mg as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 4/23/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.

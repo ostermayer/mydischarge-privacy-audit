@@ -1,0 +1,76 @@
+{
+  "doc_id": "00183",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0183",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Ashworth-ZQK0183",
+      "canary": "ZQK0183",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/25/1973",
+      "canary": "ZQK0183",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "73",
+      "canary": "ZQK0183",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-13-0183",
+      "canary": "ZQK0183",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0183",
+      "canary": "ZQK0183",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0183@example.invalid",
+      "canary": "ZQK0183",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0183",
+      "canary": "ZQK0183",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0183XYZ9",
+      "canary": "ZQK0183",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000183",
+      "canary": "ZQK0183",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "184 Canary-ZQK0183 Lane, Testville, TX 77000",
+      "canary": "ZQK0183",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "4/16/2026"
+  }
+}

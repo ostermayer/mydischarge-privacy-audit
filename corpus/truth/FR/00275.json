@@ -1,0 +1,76 @@
+{
+  "doc_id": "00275",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0275",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Tchaikovsky-ZQK0275",
+      "canary": "ZQK0275",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/04/1995",
+      "canary": "ZQK0275",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "85",
+      "canary": "ZQK0275",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-15-0275",
+      "canary": "ZQK0275",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0275",
+      "canary": "ZQK0275",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0275@example.invalid",
+      "canary": "ZQK0275",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0275",
+      "canary": "ZQK0275",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0275XYZ9",
+      "canary": "ZQK0275",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000275",
+      "canary": "ZQK0275",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "276 Canary-ZQK0275 Lane, Testville, TX 77000",
+      "canary": "ZQK0275",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/16/2026"
+  }
+}

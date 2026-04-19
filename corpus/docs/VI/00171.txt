@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Lyndon B Johnson Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Kwame Bergström-ZQK0171
+Ngày sinh: 03/13/1961   Tuổi: 61
+Số an sinh xã hội: 900-91-0171
+Di động bệnh nhân: 555-010-0171
+Email bệnh nhân: canary-zqk0171@example.invalid
+Địa chỉ bệnh nhân: 172 Canary-ZQK0171 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0171
+Số thẻ bảo hiểm: INSZQK0171XYZ9
+
+Bác sĩ: Dr. Ostermayer
+Chẩn đoán: acute bronchitis
+Thuốc: Uống ondansetron 4 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 7/17/2026 với bác sĩ của bạn.

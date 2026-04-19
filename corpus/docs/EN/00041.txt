@@ -1,0 +1,19 @@
+EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+Memorial Hermann Texas Medical Center
+Hospital Phone: 713-500-7878
+
+Patient Name: Ingrid Quetzalcoatl-ZQK0041
+DOB: 04/10/1971    Age: 51
+SSN: 900-51-0041
+Patient Phone: 555-010-0041
+Patient Email: canary-zqk0041@example.invalid
+Patient Address: 42 Canary-ZQK0041 Lane, Testville, TX 77000
+MRN: MRNZQK0041
+Insurance ID: INSZQK0041XYZ9
+Account #: 90000041
+
+Attending: Dr. Nguyen
+Diagnosis: community-acquired pneumonia
+Medication: Take albuterol inhaler as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 5/8/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.

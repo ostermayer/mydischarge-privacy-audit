@@ -1,0 +1,76 @@
+{
+  "doc_id": "00400",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0400",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Tchaikovsky-ZQK0400",
+      "canary": "ZQK0400",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/04/1980",
+      "canary": "ZQK0400",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "50",
+      "canary": "ZQK0400",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-50-0400",
+      "canary": "ZQK0400",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0400",
+      "canary": "ZQK0400",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0400@example.invalid",
+      "canary": "ZQK0400",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0400",
+      "canary": "ZQK0400",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0400XYZ9",
+      "canary": "ZQK0400",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000400",
+      "canary": "ZQK0400",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "401 Canary-ZQK0400 Lane, Testville, TX 77000",
+      "canary": "ZQK0400",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "3/12/2026"
+  }
+}

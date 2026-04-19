@@ -1,0 +1,76 @@
+{
+  "doc_id": "00008",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0008",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Vranjevic-ZQK0008",
+      "canary": "ZQK0008",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/18/1938",
+      "canary": "ZQK0008",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "58",
+      "canary": "ZQK0008",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-18-0008",
+      "canary": "ZQK0008",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0008",
+      "canary": "ZQK0008",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0008@example.invalid",
+      "canary": "ZQK0008",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0008",
+      "canary": "ZQK0008",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0008XYZ9",
+      "canary": "ZQK0008",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000008",
+      "canary": "ZQK0008",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "9 Canary-ZQK0008 Lane, Testville, TX 77000",
+      "canary": "ZQK0008",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "9/10/2026"
+  }
+}

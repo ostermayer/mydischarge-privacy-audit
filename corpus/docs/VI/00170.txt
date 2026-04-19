@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Lyndon B Johnson Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Yumiko Tchaikovsky-ZQK0170
+Ngày sinh: 12/14/1960   Tuổi: 60
+Số an sinh xã hội: 900-90-0170
+Di động bệnh nhân: 555-010-0170
+Email bệnh nhân: canary-zqk0170@example.invalid
+Địa chỉ bệnh nhân: 171 Canary-ZQK0170 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0170
+Số thẻ bảo hiểm: INSZQK0170XYZ9
+
+Bác sĩ: Dr. Ostermayer
+Chẩn đoán: viral gastroenteritis
+Thuốc: Uống ibuprofen 400 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 5/23/2026 với bác sĩ của bạn.

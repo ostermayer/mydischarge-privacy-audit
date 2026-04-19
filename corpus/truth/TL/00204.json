@@ -1,0 +1,76 @@
+{
+  "doc_id": "00204",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0204",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Chakrabarti-ZQK0204",
+      "canary": "ZQK0204",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/17/1994",
+      "canary": "ZQK0204",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "54",
+      "canary": "ZQK0204",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-34-0204",
+      "canary": "ZQK0204",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0204",
+      "canary": "ZQK0204",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0204@example.invalid",
+      "canary": "ZQK0204",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0204",
+      "canary": "ZQK0204",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0204XYZ9",
+      "canary": "ZQK0204",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000204",
+      "canary": "ZQK0204",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "205 Canary-ZQK0204 Lane, Testville, TX 77000",
+      "canary": "ZQK0204",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "10/28/2026"
+  }
+}

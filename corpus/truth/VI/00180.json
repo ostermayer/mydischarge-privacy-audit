@@ -1,0 +1,76 @@
+{
+  "doc_id": "00180",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0180",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Ashworth-ZQK0180",
+      "canary": "ZQK0180",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/16/1970",
+      "canary": "ZQK0180",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0180",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-10-0180",
+      "canary": "ZQK0180",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0180",
+      "canary": "ZQK0180",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0180@example.invalid",
+      "canary": "ZQK0180",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0180",
+      "canary": "ZQK0180",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0180XYZ9",
+      "canary": "ZQK0180",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000180",
+      "canary": "ZQK0180",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "181 Canary-ZQK0180 Lane, Testville, TX 77000",
+      "canary": "ZQK0180",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "7/17/2026"
+  }
+}

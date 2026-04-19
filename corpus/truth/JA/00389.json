@@ -1,0 +1,76 @@
+{
+  "doc_id": "00389",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0389",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Bergström-ZQK0389",
+      "canary": "ZQK0389",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/24/1969",
+      "canary": "ZQK0389",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "79",
+      "canary": "ZQK0389",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-39-0389",
+      "canary": "ZQK0389",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0389",
+      "canary": "ZQK0389",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0389@example.invalid",
+      "canary": "ZQK0389",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0389",
+      "canary": "ZQK0389",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0389XYZ9",
+      "canary": "ZQK0389",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000389",
+      "canary": "ZQK0389",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "390 Canary-ZQK0389 Lane, Testville, TX 77000",
+      "canary": "ZQK0389",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/15/2026"
+  }
+}

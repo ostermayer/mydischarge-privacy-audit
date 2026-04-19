@@ -1,0 +1,76 @@
+{
+  "doc_id": "00295",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0295",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Papadimitriou-ZQK0295",
+      "canary": "ZQK0295",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/18/1945",
+      "canary": "ZQK0295",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "65",
+      "canary": "ZQK0295",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-35-0295",
+      "canary": "ZQK0295",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0295",
+      "canary": "ZQK0295",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0295@example.invalid",
+      "canary": "ZQK0295",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0295",
+      "canary": "ZQK0295",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0295XYZ9",
+      "canary": "ZQK0295",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000295",
+      "canary": "ZQK0295",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "296 Canary-ZQK0295 Lane, Testville, TX 77000",
+      "canary": "ZQK0295",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "3/24/2026"
+  }
+}

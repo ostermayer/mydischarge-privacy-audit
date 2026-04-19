@@ -1,0 +1,76 @@
+{
+  "doc_id": "00263",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0263",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Chakrabarti-ZQK0263",
+      "canary": "ZQK0263",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/13/1983",
+      "canary": "ZQK0263",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "73",
+      "canary": "ZQK0263",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-93-0263",
+      "canary": "ZQK0263",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0263",
+      "canary": "ZQK0263",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0263@example.invalid",
+      "canary": "ZQK0263",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0263",
+      "canary": "ZQK0263",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0263XYZ9",
+      "canary": "ZQK0263",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000263",
+      "canary": "ZQK0263",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "264 Canary-ZQK0263 Lane, Testville, TX 77000",
+      "canary": "ZQK0263",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "1/20/2026"
+  }
+}

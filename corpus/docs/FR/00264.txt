@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Lyndon B Johnson Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Beatriz Tchaikovsky-ZQK0264
+Date de Naissance: 02/23/1984   Âge: 74
+Numéro de Sécurité Sociale: 900-94-0264
+Portable patient: 555-010-0264
+Email patient: canary-zqk0264@example.invalid
+Adresse du Patient: 265 Canary-ZQK0264 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0264
+Numéro d'Assurance: INSZQK0264XYZ9
+
+Médecin: Dr. Rodriguez
+Diagnostic: acute bronchitis
+Médicament: Prenez ondansetron 4 mg selon prescription.
+Rendez-vous: 6/17/2026 avec votre médecin.

@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Ben Taub General Hospital (call 713-500-7878 for questions)
+Name: Ximena Tchaikovsky-ZQK0012
+Date of Birth: 12/17/1942
+Age: 62 years
+Home Address: 13 Canary-ZQK0012 Lane, Testville, TX 77000
+Cell: 555-010-0012
+Email: canary-zqk0012@example.invalid
+Medical Record Number: MRNZQK0012
+Member ID: INSZQK0012XYZ9
+Primary provider: Dr. Fischer
+Diagnosis: musculoskeletal strain
+Your doctor prescribed metoprolol 25 mg.
+Follow up on 10/2/2026.

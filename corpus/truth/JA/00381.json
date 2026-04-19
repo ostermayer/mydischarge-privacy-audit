@@ -1,0 +1,76 @@
+{
+  "doc_id": "00381",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0381",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Ashworth-ZQK0381",
+      "canary": "ZQK0381",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/21/1961",
+      "canary": "ZQK0381",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "71",
+      "canary": "ZQK0381",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-31-0381",
+      "canary": "ZQK0381",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0381",
+      "canary": "ZQK0381",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0381@example.invalid",
+      "canary": "ZQK0381",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0381",
+      "canary": "ZQK0381",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0381XYZ9",
+      "canary": "ZQK0381",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000381",
+      "canary": "ZQK0381",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "382 Canary-ZQK0381 Lane, Testville, TX 77000",
+      "canary": "ZQK0381",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/10/2026"
+  }
+}

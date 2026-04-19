@@ -1,0 +1,76 @@
+{
+  "doc_id": "00003",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0003",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Hvidberg-ZQK0003",
+      "canary": "ZQK0003",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/03/1933",
+      "canary": "ZQK0003",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "53",
+      "canary": "ZQK0003",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-13-0003",
+      "canary": "ZQK0003",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0003",
+      "canary": "ZQK0003",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0003@example.invalid",
+      "canary": "ZQK0003",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0003",
+      "canary": "ZQK0003",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0003XYZ9",
+      "canary": "ZQK0003",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000003",
+      "canary": "ZQK0003",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "4 Canary-ZQK0003 Lane, Testville, TX 77000",
+      "canary": "ZQK0003",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "10/27/2026"
+  }
+}

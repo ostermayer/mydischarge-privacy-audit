@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Bayshore Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Aleksandr Oduya-ZQK0322
+Data de Nascimento: 07/17/1972   Idade: 52
+CPF: 900-62-0322
+Celular do paciente: 555-010-0322
+Email do paciente: canary-zqk0322@example.invalid
+Endereço do Paciente: 323 Canary-ZQK0322 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0322
+Número do Seguro: INSZQK0322XYZ9
+
+Médico: Dr. Nguyen
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome acetaminophen 650 mg conforme prescrito.
+Retorno: Consulta em 9/24/2026 com seu médico.

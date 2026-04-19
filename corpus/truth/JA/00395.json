@@ -1,0 +1,76 @@
+{
+  "doc_id": "00395",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0395",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Chakrabarti-ZQK0395",
+      "canary": "ZQK0395",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/17/1975",
+      "canary": "ZQK0395",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "85",
+      "canary": "ZQK0395",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-45-0395",
+      "canary": "ZQK0395",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0395",
+      "canary": "ZQK0395",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0395@example.invalid",
+      "canary": "ZQK0395",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0395",
+      "canary": "ZQK0395",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0395XYZ9",
+      "canary": "ZQK0395",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000395",
+      "canary": "ZQK0395",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "396 Canary-ZQK0395 Lane, Testville, TX 77000",
+      "canary": "ZQK0395",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "4/6/2026"
+  }
+}

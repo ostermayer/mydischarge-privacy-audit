@@ -1,0 +1,76 @@
+{
+  "doc_id": "00301",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0301",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Bergström-ZQK0301",
+      "canary": "ZQK0301",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/01/1951",
+      "canary": "ZQK0301",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "71",
+      "canary": "ZQK0301",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-41-0301",
+      "canary": "ZQK0301",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0301",
+      "canary": "ZQK0301",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0301@example.invalid",
+      "canary": "ZQK0301",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0301",
+      "canary": "ZQK0301",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0301XYZ9",
+      "canary": "ZQK0301",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000301",
+      "canary": "ZQK0301",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "302 Canary-ZQK0301 Lane, Testville, TX 77000",
+      "canary": "ZQK0301",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "8/1/2026"
+  }
+}

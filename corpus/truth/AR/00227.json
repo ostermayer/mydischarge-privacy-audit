@@ -1,0 +1,76 @@
+{
+  "doc_id": "00227",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0227",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Vranjevic-ZQK0227",
+      "canary": "ZQK0227",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/12/1947",
+      "canary": "ZQK0227",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "77",
+      "canary": "ZQK0227",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-57-0227",
+      "canary": "ZQK0227",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0227",
+      "canary": "ZQK0227",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0227@example.invalid",
+      "canary": "ZQK0227",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0227",
+      "canary": "ZQK0227",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0227XYZ9",
+      "canary": "ZQK0227",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000227",
+      "canary": "ZQK0227",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "228 Canary-ZQK0227 Lane, Testville, TX 77000",
+      "canary": "ZQK0227",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "3/16/2026"
+  }
+}

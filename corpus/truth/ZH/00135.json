@@ -1,0 +1,76 @@
+{
+  "doc_id": "00135",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0135",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Chakrabarti-ZQK0135",
+      "canary": "ZQK0135",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/24/1995",
+      "canary": "ZQK0135",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "65",
+      "canary": "ZQK0135",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-55-0135",
+      "canary": "ZQK0135",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0135",
+      "canary": "ZQK0135",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0135@example.invalid",
+      "canary": "ZQK0135",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0135",
+      "canary": "ZQK0135",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0135XYZ9",
+      "canary": "ZQK0135",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000135",
+      "canary": "ZQK0135",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "136 Canary-ZQK0135 Lane, Testville, TX 77000",
+      "canary": "ZQK0135",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "8/4/2026"
+  }
+}

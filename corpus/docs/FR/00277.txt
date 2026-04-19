@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Memorial Hermann Texas Medical Center
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Tariq Ashworth-ZQK0277
+Date de Naissance: 09/11/1997   Âge: 87
+Numéro de Sécurité Sociale: 900-17-0277
+Portable patient: 555-010-0277
+Email patient: canary-zqk0277@example.invalid
+Adresse du Patient: 278 Canary-ZQK0277 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0277
+Numéro d'Assurance: INSZQK0277XYZ9
+
+Médecin: Dr. Nguyen
+Diagnostic: musculoskeletal strain
+Médicament: Prenez acetaminophen 650 mg selon prescription.
+Rendez-vous: 7/14/2026 avec votre médecin.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00302",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0302",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Mogensen-ZQK0302",
+      "canary": "ZQK0302",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/24/1952",
+      "canary": "ZQK0302",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "72",
+      "canary": "ZQK0302",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-42-0302",
+      "canary": "ZQK0302",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0302",
+      "canary": "ZQK0302",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0302@example.invalid",
+      "canary": "ZQK0302",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0302",
+      "canary": "ZQK0302",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0302XYZ9",
+      "canary": "ZQK0302",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000302",
+      "canary": "ZQK0302",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "303 Canary-ZQK0302 Lane, Testville, TX 77000",
+      "canary": "ZQK0302",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "1/20/2026"
+  }
+}

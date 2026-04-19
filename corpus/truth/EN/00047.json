@@ -1,0 +1,76 @@
+{
+  "doc_id": "00047",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0047",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Chakrabarti-ZQK0047",
+      "canary": "ZQK0047",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/22/1977",
+      "canary": "ZQK0047",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0047",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-57-0047",
+      "canary": "ZQK0047",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0047",
+      "canary": "ZQK0047",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0047@example.invalid",
+      "canary": "ZQK0047",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0047",
+      "canary": "ZQK0047",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0047XYZ9",
+      "canary": "ZQK0047",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000047",
+      "canary": "ZQK0047",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "48 Canary-ZQK0047 Lane, Testville, TX 77000",
+      "canary": "ZQK0047",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "6/1/2026"
+  }
+}

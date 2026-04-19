@@ -1,0 +1,76 @@
+{
+  "doc_id": "00384",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0384",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Mogensen-ZQK0384",
+      "canary": "ZQK0384",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/24/1964",
+      "canary": "ZQK0384",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "74",
+      "canary": "ZQK0384",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-34-0384",
+      "canary": "ZQK0384",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0384",
+      "canary": "ZQK0384",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0384@example.invalid",
+      "canary": "ZQK0384",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0384",
+      "canary": "ZQK0384",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0384XYZ9",
+      "canary": "ZQK0384",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000384",
+      "canary": "ZQK0384",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "385 Canary-ZQK0384 Lane, Testville, TX 77000",
+      "canary": "ZQK0384",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "10/22/2026"
+  }
+}

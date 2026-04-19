@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Harris Health East Clinic
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Dashiell Oduya-ZQK0313
+Data de Nascimento: 01/18/1963   Idade: 83
+CPF: 900-53-0313
+Celular do paciente: 555-010-0313
+Email do paciente: canary-zqk0313@example.invalid
+Endereço do Paciente: 314 Canary-ZQK0313 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0313
+Número do Seguro: INSZQK0313XYZ9
+
+Médico: Dr. Fischer
+Diagnóstico: musculoskeletal strain
+Medicamento: Tome acetaminophen 650 mg conforme prescrito.
+Retorno: Consulta em 2/19/2026 com seu médico.

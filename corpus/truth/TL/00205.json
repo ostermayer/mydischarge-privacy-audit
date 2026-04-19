@@ -1,0 +1,76 @@
+{
+  "doc_id": "00205",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0205",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Chakrabarti-ZQK0205",
+      "canary": "ZQK0205",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/26/1995",
+      "canary": "ZQK0205",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "55",
+      "canary": "ZQK0205",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-35-0205",
+      "canary": "ZQK0205",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0205",
+      "canary": "ZQK0205",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0205@example.invalid",
+      "canary": "ZQK0205",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0205",
+      "canary": "ZQK0205",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0205XYZ9",
+      "canary": "ZQK0205",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000205",
+      "canary": "ZQK0205",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "206 Canary-ZQK0205 Lane, Testville, TX 77000",
+      "canary": "ZQK0205",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "8/28/2026"
+  }
+}

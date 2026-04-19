@@ -1,0 +1,76 @@
+{
+  "doc_id": "00256",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0256",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Tchaikovsky-ZQK0256",
+      "canary": "ZQK0256",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/24/1976",
+      "canary": "ZQK0256",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "66",
+      "canary": "ZQK0256",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-86-0256",
+      "canary": "ZQK0256",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0256",
+      "canary": "ZQK0256",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0256@example.invalid",
+      "canary": "ZQK0256",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0256",
+      "canary": "ZQK0256",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0256XYZ9",
+      "canary": "ZQK0256",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000256",
+      "canary": "ZQK0256",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "257 Canary-ZQK0256 Lane, Testville, TX 77000",
+      "canary": "ZQK0256",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "11/25/2026"
+  }
+}

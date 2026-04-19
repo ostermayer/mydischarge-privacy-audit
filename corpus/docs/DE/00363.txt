@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Bayshore Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Dashiell Vranjevic-ZQK0363
+Geburtsdatum: 05/13/1943   Alter: 53
+Sozialversicherungsnummer: 900-13-0363
+Handy Patient: 555-010-0363
+Email Patient: canary-zqk0363@example.invalid
+Patientenadresse: 364 Canary-ZQK0363 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0363
+Versicherungsnummer: INSZQK0363XYZ9
+
+Arzt: Dr. Power
+Diagnose: acute otitis media
+Medikament: Nehmen Sie acetaminophen 650 mg wie verordnet.
+Termin: 12/13/2026 bei Ihrem Arzt.

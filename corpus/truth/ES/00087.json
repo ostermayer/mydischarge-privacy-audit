@@ -1,0 +1,76 @@
+{
+  "doc_id": "00087",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0087",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Papadimitriou-ZQK0087",
+      "canary": "ZQK0087",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/03/1947",
+      "canary": "ZQK0087",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0087",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-97-0087",
+      "canary": "ZQK0087",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0087",
+      "canary": "ZQK0087",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0087@example.invalid",
+      "canary": "ZQK0087",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0087",
+      "canary": "ZQK0087",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0087XYZ9",
+      "canary": "ZQK0087",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000087",
+      "canary": "ZQK0087",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "88 Canary-ZQK0087 Lane, Testville, TX 77000",
+      "canary": "ZQK0087",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/12/2026"
+  }
+}

@@ -1,0 +1,2662 @@
+{
+  "docs": [
+    {
+      "doc_id": "00001",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0001"
+    },
+    {
+      "doc_id": "00002",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0002"
+    },
+    {
+      "doc_id": "00003",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0003"
+    },
+    {
+      "doc_id": "00004",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0004"
+    },
+    {
+      "doc_id": "00005",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0005"
+    },
+    {
+      "doc_id": "00006",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0006"
+    },
+    {
+      "doc_id": "00007",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0007"
+    },
+    {
+      "doc_id": "00008",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0008"
+    },
+    {
+      "doc_id": "00009",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0009"
+    },
+    {
+      "doc_id": "00010",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0010"
+    },
+    {
+      "doc_id": "00011",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0011"
+    },
+    {
+      "doc_id": "00012",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0012"
+    },
+    {
+      "doc_id": "00013",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0013"
+    },
+    {
+      "doc_id": "00014",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0014"
+    },
+    {
+      "doc_id": "00015",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0015"
+    },
+    {
+      "doc_id": "00016",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0016"
+    },
+    {
+      "doc_id": "00017",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0017"
+    },
+    {
+      "doc_id": "00018",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0018"
+    },
+    {
+      "doc_id": "00019",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0019"
+    },
+    {
+      "doc_id": "00020",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0020"
+    },
+    {
+      "doc_id": "00021",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0021"
+    },
+    {
+      "doc_id": "00022",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0022"
+    },
+    {
+      "doc_id": "00023",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0023"
+    },
+    {
+      "doc_id": "00024",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0024"
+    },
+    {
+      "doc_id": "00025",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0025"
+    },
+    {
+      "doc_id": "00026",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0026"
+    },
+    {
+      "doc_id": "00027",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0027"
+    },
+    {
+      "doc_id": "00028",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0028"
+    },
+    {
+      "doc_id": "00029",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0029"
+    },
+    {
+      "doc_id": "00030",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0030"
+    },
+    {
+      "doc_id": "00031",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0031"
+    },
+    {
+      "doc_id": "00032",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0032"
+    },
+    {
+      "doc_id": "00033",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0033"
+    },
+    {
+      "doc_id": "00034",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0034"
+    },
+    {
+      "doc_id": "00035",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0035"
+    },
+    {
+      "doc_id": "00036",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0036"
+    },
+    {
+      "doc_id": "00037",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0037"
+    },
+    {
+      "doc_id": "00038",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0038"
+    },
+    {
+      "doc_id": "00039",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0039"
+    },
+    {
+      "doc_id": "00040",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0040"
+    },
+    {
+      "doc_id": "00041",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0041"
+    },
+    {
+      "doc_id": "00042",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0042"
+    },
+    {
+      "doc_id": "00043",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0043"
+    },
+    {
+      "doc_id": "00044",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0044"
+    },
+    {
+      "doc_id": "00045",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0045"
+    },
+    {
+      "doc_id": "00046",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0046"
+    },
+    {
+      "doc_id": "00047",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0047"
+    },
+    {
+      "doc_id": "00048",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0048"
+    },
+    {
+      "doc_id": "00049",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0049"
+    },
+    {
+      "doc_id": "00050",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0050"
+    },
+    {
+      "doc_id": "00051",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0051"
+    },
+    {
+      "doc_id": "00052",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0052"
+    },
+    {
+      "doc_id": "00053",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0053"
+    },
+    {
+      "doc_id": "00054",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0054"
+    },
+    {
+      "doc_id": "00055",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0055"
+    },
+    {
+      "doc_id": "00056",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0056"
+    },
+    {
+      "doc_id": "00057",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0057"
+    },
+    {
+      "doc_id": "00058",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0058"
+    },
+    {
+      "doc_id": "00059",
+      "lang": "EN",
+      "template_index": 0,
+      "canary": "ZQK0059"
+    },
+    {
+      "doc_id": "00060",
+      "lang": "EN",
+      "template_index": 1,
+      "canary": "ZQK0060"
+    },
+    {
+      "doc_id": "00061",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0061"
+    },
+    {
+      "doc_id": "00062",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0062"
+    },
+    {
+      "doc_id": "00063",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0063"
+    },
+    {
+      "doc_id": "00064",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0064"
+    },
+    {
+      "doc_id": "00065",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0065"
+    },
+    {
+      "doc_id": "00066",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0066"
+    },
+    {
+      "doc_id": "00067",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0067"
+    },
+    {
+      "doc_id": "00068",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0068"
+    },
+    {
+      "doc_id": "00069",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0069"
+    },
+    {
+      "doc_id": "00070",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0070"
+    },
+    {
+      "doc_id": "00071",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0071"
+    },
+    {
+      "doc_id": "00072",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0072"
+    },
+    {
+      "doc_id": "00073",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0073"
+    },
+    {
+      "doc_id": "00074",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0074"
+    },
+    {
+      "doc_id": "00075",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0075"
+    },
+    {
+      "doc_id": "00076",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0076"
+    },
+    {
+      "doc_id": "00077",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0077"
+    },
+    {
+      "doc_id": "00078",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0078"
+    },
+    {
+      "doc_id": "00079",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0079"
+    },
+    {
+      "doc_id": "00080",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0080"
+    },
+    {
+      "doc_id": "00081",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0081"
+    },
+    {
+      "doc_id": "00082",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0082"
+    },
+    {
+      "doc_id": "00083",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0083"
+    },
+    {
+      "doc_id": "00084",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0084"
+    },
+    {
+      "doc_id": "00085",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0085"
+    },
+    {
+      "doc_id": "00086",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0086"
+    },
+    {
+      "doc_id": "00087",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0087"
+    },
+    {
+      "doc_id": "00088",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0088"
+    },
+    {
+      "doc_id": "00089",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0089"
+    },
+    {
+      "doc_id": "00090",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0090"
+    },
+    {
+      "doc_id": "00091",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0091"
+    },
+    {
+      "doc_id": "00092",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0092"
+    },
+    {
+      "doc_id": "00093",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0093"
+    },
+    {
+      "doc_id": "00094",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0094"
+    },
+    {
+      "doc_id": "00095",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0095"
+    },
+    {
+      "doc_id": "00096",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0096"
+    },
+    {
+      "doc_id": "00097",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0097"
+    },
+    {
+      "doc_id": "00098",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0098"
+    },
+    {
+      "doc_id": "00099",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0099"
+    },
+    {
+      "doc_id": "00100",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0100"
+    },
+    {
+      "doc_id": "00101",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0101"
+    },
+    {
+      "doc_id": "00102",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0102"
+    },
+    {
+      "doc_id": "00103",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0103"
+    },
+    {
+      "doc_id": "00104",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0104"
+    },
+    {
+      "doc_id": "00105",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0105"
+    },
+    {
+      "doc_id": "00106",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0106"
+    },
+    {
+      "doc_id": "00107",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0107"
+    },
+    {
+      "doc_id": "00108",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0108"
+    },
+    {
+      "doc_id": "00109",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0109"
+    },
+    {
+      "doc_id": "00110",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0110"
+    },
+    {
+      "doc_id": "00111",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0111"
+    },
+    {
+      "doc_id": "00112",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0112"
+    },
+    {
+      "doc_id": "00113",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0113"
+    },
+    {
+      "doc_id": "00114",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0114"
+    },
+    {
+      "doc_id": "00115",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0115"
+    },
+    {
+      "doc_id": "00116",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0116"
+    },
+    {
+      "doc_id": "00117",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0117"
+    },
+    {
+      "doc_id": "00118",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0118"
+    },
+    {
+      "doc_id": "00119",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0119"
+    },
+    {
+      "doc_id": "00120",
+      "lang": "ES",
+      "template_index": 0,
+      "canary": "ZQK0120"
+    },
+    {
+      "doc_id": "00121",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0121"
+    },
+    {
+      "doc_id": "00122",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0122"
+    },
+    {
+      "doc_id": "00123",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0123"
+    },
+    {
+      "doc_id": "00124",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0124"
+    },
+    {
+      "doc_id": "00125",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0125"
+    },
+    {
+      "doc_id": "00126",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0126"
+    },
+    {
+      "doc_id": "00127",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0127"
+    },
+    {
+      "doc_id": "00128",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0128"
+    },
+    {
+      "doc_id": "00129",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0129"
+    },
+    {
+      "doc_id": "00130",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0130"
+    },
+    {
+      "doc_id": "00131",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0131"
+    },
+    {
+      "doc_id": "00132",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0132"
+    },
+    {
+      "doc_id": "00133",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0133"
+    },
+    {
+      "doc_id": "00134",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0134"
+    },
+    {
+      "doc_id": "00135",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0135"
+    },
+    {
+      "doc_id": "00136",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0136"
+    },
+    {
+      "doc_id": "00137",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0137"
+    },
+    {
+      "doc_id": "00138",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0138"
+    },
+    {
+      "doc_id": "00139",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0139"
+    },
+    {
+      "doc_id": "00140",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0140"
+    },
+    {
+      "doc_id": "00141",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0141"
+    },
+    {
+      "doc_id": "00142",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0142"
+    },
+    {
+      "doc_id": "00143",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0143"
+    },
+    {
+      "doc_id": "00144",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0144"
+    },
+    {
+      "doc_id": "00145",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0145"
+    },
+    {
+      "doc_id": "00146",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0146"
+    },
+    {
+      "doc_id": "00147",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0147"
+    },
+    {
+      "doc_id": "00148",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0148"
+    },
+    {
+      "doc_id": "00149",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0149"
+    },
+    {
+      "doc_id": "00150",
+      "lang": "ZH",
+      "template_index": 0,
+      "canary": "ZQK0150"
+    },
+    {
+      "doc_id": "00151",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0151"
+    },
+    {
+      "doc_id": "00152",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0152"
+    },
+    {
+      "doc_id": "00153",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0153"
+    },
+    {
+      "doc_id": "00154",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0154"
+    },
+    {
+      "doc_id": "00155",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0155"
+    },
+    {
+      "doc_id": "00156",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0156"
+    },
+    {
+      "doc_id": "00157",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0157"
+    },
+    {
+      "doc_id": "00158",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0158"
+    },
+    {
+      "doc_id": "00159",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0159"
+    },
+    {
+      "doc_id": "00160",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0160"
+    },
+    {
+      "doc_id": "00161",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0161"
+    },
+    {
+      "doc_id": "00162",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0162"
+    },
+    {
+      "doc_id": "00163",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0163"
+    },
+    {
+      "doc_id": "00164",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0164"
+    },
+    {
+      "doc_id": "00165",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0165"
+    },
+    {
+      "doc_id": "00166",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0166"
+    },
+    {
+      "doc_id": "00167",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0167"
+    },
+    {
+      "doc_id": "00168",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0168"
+    },
+    {
+      "doc_id": "00169",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0169"
+    },
+    {
+      "doc_id": "00170",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0170"
+    },
+    {
+      "doc_id": "00171",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0171"
+    },
+    {
+      "doc_id": "00172",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0172"
+    },
+    {
+      "doc_id": "00173",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0173"
+    },
+    {
+      "doc_id": "00174",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0174"
+    },
+    {
+      "doc_id": "00175",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0175"
+    },
+    {
+      "doc_id": "00176",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0176"
+    },
+    {
+      "doc_id": "00177",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0177"
+    },
+    {
+      "doc_id": "00178",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0178"
+    },
+    {
+      "doc_id": "00179",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0179"
+    },
+    {
+      "doc_id": "00180",
+      "lang": "VI",
+      "template_index": 0,
+      "canary": "ZQK0180"
+    },
+    {
+      "doc_id": "00181",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0181"
+    },
+    {
+      "doc_id": "00182",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0182"
+    },
+    {
+      "doc_id": "00183",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0183"
+    },
+    {
+      "doc_id": "00184",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0184"
+    },
+    {
+      "doc_id": "00185",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0185"
+    },
+    {
+      "doc_id": "00186",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0186"
+    },
+    {
+      "doc_id": "00187",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0187"
+    },
+    {
+      "doc_id": "00188",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0188"
+    },
+    {
+      "doc_id": "00189",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0189"
+    },
+    {
+      "doc_id": "00190",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0190"
+    },
+    {
+      "doc_id": "00191",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0191"
+    },
+    {
+      "doc_id": "00192",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0192"
+    },
+    {
+      "doc_id": "00193",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0193"
+    },
+    {
+      "doc_id": "00194",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0194"
+    },
+    {
+      "doc_id": "00195",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0195"
+    },
+    {
+      "doc_id": "00196",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0196"
+    },
+    {
+      "doc_id": "00197",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0197"
+    },
+    {
+      "doc_id": "00198",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0198"
+    },
+    {
+      "doc_id": "00199",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0199"
+    },
+    {
+      "doc_id": "00200",
+      "lang": "KO",
+      "template_index": 0,
+      "canary": "ZQK0200"
+    },
+    {
+      "doc_id": "00201",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0201"
+    },
+    {
+      "doc_id": "00202",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0202"
+    },
+    {
+      "doc_id": "00203",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0203"
+    },
+    {
+      "doc_id": "00204",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0204"
+    },
+    {
+      "doc_id": "00205",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0205"
+    },
+    {
+      "doc_id": "00206",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0206"
+    },
+    {
+      "doc_id": "00207",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0207"
+    },
+    {
+      "doc_id": "00208",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0208"
+    },
+    {
+      "doc_id": "00209",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0209"
+    },
+    {
+      "doc_id": "00210",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0210"
+    },
+    {
+      "doc_id": "00211",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0211"
+    },
+    {
+      "doc_id": "00212",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0212"
+    },
+    {
+      "doc_id": "00213",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0213"
+    },
+    {
+      "doc_id": "00214",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0214"
+    },
+    {
+      "doc_id": "00215",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0215"
+    },
+    {
+      "doc_id": "00216",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0216"
+    },
+    {
+      "doc_id": "00217",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0217"
+    },
+    {
+      "doc_id": "00218",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0218"
+    },
+    {
+      "doc_id": "00219",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0219"
+    },
+    {
+      "doc_id": "00220",
+      "lang": "TL",
+      "template_index": 0,
+      "canary": "ZQK0220"
+    },
+    {
+      "doc_id": "00221",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0221"
+    },
+    {
+      "doc_id": "00222",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0222"
+    },
+    {
+      "doc_id": "00223",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0223"
+    },
+    {
+      "doc_id": "00224",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0224"
+    },
+    {
+      "doc_id": "00225",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0225"
+    },
+    {
+      "doc_id": "00226",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0226"
+    },
+    {
+      "doc_id": "00227",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0227"
+    },
+    {
+      "doc_id": "00228",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0228"
+    },
+    {
+      "doc_id": "00229",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0229"
+    },
+    {
+      "doc_id": "00230",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0230"
+    },
+    {
+      "doc_id": "00231",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0231"
+    },
+    {
+      "doc_id": "00232",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0232"
+    },
+    {
+      "doc_id": "00233",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0233"
+    },
+    {
+      "doc_id": "00234",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0234"
+    },
+    {
+      "doc_id": "00235",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0235"
+    },
+    {
+      "doc_id": "00236",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0236"
+    },
+    {
+      "doc_id": "00237",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0237"
+    },
+    {
+      "doc_id": "00238",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0238"
+    },
+    {
+      "doc_id": "00239",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0239"
+    },
+    {
+      "doc_id": "00240",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0240"
+    },
+    {
+      "doc_id": "00241",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0241"
+    },
+    {
+      "doc_id": "00242",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0242"
+    },
+    {
+      "doc_id": "00243",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0243"
+    },
+    {
+      "doc_id": "00244",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0244"
+    },
+    {
+      "doc_id": "00245",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0245"
+    },
+    {
+      "doc_id": "00246",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0246"
+    },
+    {
+      "doc_id": "00247",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0247"
+    },
+    {
+      "doc_id": "00248",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0248"
+    },
+    {
+      "doc_id": "00249",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0249"
+    },
+    {
+      "doc_id": "00250",
+      "lang": "AR",
+      "template_index": 0,
+      "canary": "ZQK0250"
+    },
+    {
+      "doc_id": "00251",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0251"
+    },
+    {
+      "doc_id": "00252",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0252"
+    },
+    {
+      "doc_id": "00253",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0253"
+    },
+    {
+      "doc_id": "00254",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0254"
+    },
+    {
+      "doc_id": "00255",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0255"
+    },
+    {
+      "doc_id": "00256",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0256"
+    },
+    {
+      "doc_id": "00257",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0257"
+    },
+    {
+      "doc_id": "00258",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0258"
+    },
+    {
+      "doc_id": "00259",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0259"
+    },
+    {
+      "doc_id": "00260",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0260"
+    },
+    {
+      "doc_id": "00261",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0261"
+    },
+    {
+      "doc_id": "00262",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0262"
+    },
+    {
+      "doc_id": "00263",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0263"
+    },
+    {
+      "doc_id": "00264",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0264"
+    },
+    {
+      "doc_id": "00265",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0265"
+    },
+    {
+      "doc_id": "00266",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0266"
+    },
+    {
+      "doc_id": "00267",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0267"
+    },
+    {
+      "doc_id": "00268",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0268"
+    },
+    {
+      "doc_id": "00269",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0269"
+    },
+    {
+      "doc_id": "00270",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0270"
+    },
+    {
+      "doc_id": "00271",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0271"
+    },
+    {
+      "doc_id": "00272",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0272"
+    },
+    {
+      "doc_id": "00273",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0273"
+    },
+    {
+      "doc_id": "00274",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0274"
+    },
+    {
+      "doc_id": "00275",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0275"
+    },
+    {
+      "doc_id": "00276",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0276"
+    },
+    {
+      "doc_id": "00277",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0277"
+    },
+    {
+      "doc_id": "00278",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0278"
+    },
+    {
+      "doc_id": "00279",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0279"
+    },
+    {
+      "doc_id": "00280",
+      "lang": "FR",
+      "template_index": 0,
+      "canary": "ZQK0280"
+    },
+    {
+      "doc_id": "00281",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0281"
+    },
+    {
+      "doc_id": "00282",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0282"
+    },
+    {
+      "doc_id": "00283",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0283"
+    },
+    {
+      "doc_id": "00284",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0284"
+    },
+    {
+      "doc_id": "00285",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0285"
+    },
+    {
+      "doc_id": "00286",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0286"
+    },
+    {
+      "doc_id": "00287",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0287"
+    },
+    {
+      "doc_id": "00288",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0288"
+    },
+    {
+      "doc_id": "00289",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0289"
+    },
+    {
+      "doc_id": "00290",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0290"
+    },
+    {
+      "doc_id": "00291",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0291"
+    },
+    {
+      "doc_id": "00292",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0292"
+    },
+    {
+      "doc_id": "00293",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0293"
+    },
+    {
+      "doc_id": "00294",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0294"
+    },
+    {
+      "doc_id": "00295",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0295"
+    },
+    {
+      "doc_id": "00296",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0296"
+    },
+    {
+      "doc_id": "00297",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0297"
+    },
+    {
+      "doc_id": "00298",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0298"
+    },
+    {
+      "doc_id": "00299",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0299"
+    },
+    {
+      "doc_id": "00300",
+      "lang": "RU",
+      "template_index": 0,
+      "canary": "ZQK0300"
+    },
+    {
+      "doc_id": "00301",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0301"
+    },
+    {
+      "doc_id": "00302",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0302"
+    },
+    {
+      "doc_id": "00303",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0303"
+    },
+    {
+      "doc_id": "00304",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0304"
+    },
+    {
+      "doc_id": "00305",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0305"
+    },
+    {
+      "doc_id": "00306",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0306"
+    },
+    {
+      "doc_id": "00307",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0307"
+    },
+    {
+      "doc_id": "00308",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0308"
+    },
+    {
+      "doc_id": "00309",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0309"
+    },
+    {
+      "doc_id": "00310",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0310"
+    },
+    {
+      "doc_id": "00311",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0311"
+    },
+    {
+      "doc_id": "00312",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0312"
+    },
+    {
+      "doc_id": "00313",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0313"
+    },
+    {
+      "doc_id": "00314",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0314"
+    },
+    {
+      "doc_id": "00315",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0315"
+    },
+    {
+      "doc_id": "00316",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0316"
+    },
+    {
+      "doc_id": "00317",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0317"
+    },
+    {
+      "doc_id": "00318",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0318"
+    },
+    {
+      "doc_id": "00319",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0319"
+    },
+    {
+      "doc_id": "00320",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0320"
+    },
+    {
+      "doc_id": "00321",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0321"
+    },
+    {
+      "doc_id": "00322",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0322"
+    },
+    {
+      "doc_id": "00323",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0323"
+    },
+    {
+      "doc_id": "00324",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0324"
+    },
+    {
+      "doc_id": "00325",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0325"
+    },
+    {
+      "doc_id": "00326",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0326"
+    },
+    {
+      "doc_id": "00327",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0327"
+    },
+    {
+      "doc_id": "00328",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0328"
+    },
+    {
+      "doc_id": "00329",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0329"
+    },
+    {
+      "doc_id": "00330",
+      "lang": "PT",
+      "template_index": 0,
+      "canary": "ZQK0330"
+    },
+    {
+      "doc_id": "00331",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0331"
+    },
+    {
+      "doc_id": "00332",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0332"
+    },
+    {
+      "doc_id": "00333",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0333"
+    },
+    {
+      "doc_id": "00334",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0334"
+    },
+    {
+      "doc_id": "00335",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0335"
+    },
+    {
+      "doc_id": "00336",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0336"
+    },
+    {
+      "doc_id": "00337",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0337"
+    },
+    {
+      "doc_id": "00338",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0338"
+    },
+    {
+      "doc_id": "00339",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0339"
+    },
+    {
+      "doc_id": "00340",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0340"
+    },
+    {
+      "doc_id": "00341",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0341"
+    },
+    {
+      "doc_id": "00342",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0342"
+    },
+    {
+      "doc_id": "00343",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0343"
+    },
+    {
+      "doc_id": "00344",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0344"
+    },
+    {
+      "doc_id": "00345",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0345"
+    },
+    {
+      "doc_id": "00346",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0346"
+    },
+    {
+      "doc_id": "00347",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0347"
+    },
+    {
+      "doc_id": "00348",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0348"
+    },
+    {
+      "doc_id": "00349",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0349"
+    },
+    {
+      "doc_id": "00350",
+      "lang": "HT",
+      "template_index": 0,
+      "canary": "ZQK0350"
+    },
+    {
+      "doc_id": "00351",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0351"
+    },
+    {
+      "doc_id": "00352",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0352"
+    },
+    {
+      "doc_id": "00353",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0353"
+    },
+    {
+      "doc_id": "00354",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0354"
+    },
+    {
+      "doc_id": "00355",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0355"
+    },
+    {
+      "doc_id": "00356",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0356"
+    },
+    {
+      "doc_id": "00357",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0357"
+    },
+    {
+      "doc_id": "00358",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0358"
+    },
+    {
+      "doc_id": "00359",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0359"
+    },
+    {
+      "doc_id": "00360",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0360"
+    },
+    {
+      "doc_id": "00361",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0361"
+    },
+    {
+      "doc_id": "00362",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0362"
+    },
+    {
+      "doc_id": "00363",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0363"
+    },
+    {
+      "doc_id": "00364",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0364"
+    },
+    {
+      "doc_id": "00365",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0365"
+    },
+    {
+      "doc_id": "00366",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0366"
+    },
+    {
+      "doc_id": "00367",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0367"
+    },
+    {
+      "doc_id": "00368",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0368"
+    },
+    {
+      "doc_id": "00369",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0369"
+    },
+    {
+      "doc_id": "00370",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0370"
+    },
+    {
+      "doc_id": "00371",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0371"
+    },
+    {
+      "doc_id": "00372",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0372"
+    },
+    {
+      "doc_id": "00373",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0373"
+    },
+    {
+      "doc_id": "00374",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0374"
+    },
+    {
+      "doc_id": "00375",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0375"
+    },
+    {
+      "doc_id": "00376",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0376"
+    },
+    {
+      "doc_id": "00377",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0377"
+    },
+    {
+      "doc_id": "00378",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0378"
+    },
+    {
+      "doc_id": "00379",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0379"
+    },
+    {
+      "doc_id": "00380",
+      "lang": "DE",
+      "template_index": 0,
+      "canary": "ZQK0380"
+    },
+    {
+      "doc_id": "00381",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0381"
+    },
+    {
+      "doc_id": "00382",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0382"
+    },
+    {
+      "doc_id": "00383",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0383"
+    },
+    {
+      "doc_id": "00384",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0384"
+    },
+    {
+      "doc_id": "00385",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0385"
+    },
+    {
+      "doc_id": "00386",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0386"
+    },
+    {
+      "doc_id": "00387",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0387"
+    },
+    {
+      "doc_id": "00388",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0388"
+    },
+    {
+      "doc_id": "00389",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0389"
+    },
+    {
+      "doc_id": "00390",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0390"
+    },
+    {
+      "doc_id": "00391",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0391"
+    },
+    {
+      "doc_id": "00392",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0392"
+    },
+    {
+      "doc_id": "00393",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0393"
+    },
+    {
+      "doc_id": "00394",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0394"
+    },
+    {
+      "doc_id": "00395",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0395"
+    },
+    {
+      "doc_id": "00396",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0396"
+    },
+    {
+      "doc_id": "00397",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0397"
+    },
+    {
+      "doc_id": "00398",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0398"
+    },
+    {
+      "doc_id": "00399",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0399"
+    },
+    {
+      "doc_id": "00400",
+      "lang": "JA",
+      "template_index": 0,
+      "canary": "ZQK0400"
+    },
+    {
+      "doc_id": "00401",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0401"
+    },
+    {
+      "doc_id": "00402",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0402"
+    },
+    {
+      "doc_id": "00403",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0403"
+    },
+    {
+      "doc_id": "00404",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0404"
+    },
+    {
+      "doc_id": "00405",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0405"
+    },
+    {
+      "doc_id": "00406",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0406"
+    },
+    {
+      "doc_id": "00407",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0407"
+    },
+    {
+      "doc_id": "00408",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0408"
+    },
+    {
+      "doc_id": "00409",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0409"
+    },
+    {
+      "doc_id": "00410",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0410"
+    },
+    {
+      "doc_id": "00411",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0411"
+    },
+    {
+      "doc_id": "00412",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0412"
+    },
+    {
+      "doc_id": "00413",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0413"
+    },
+    {
+      "doc_id": "00414",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0414"
+    },
+    {
+      "doc_id": "00415",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0415"
+    },
+    {
+      "doc_id": "00416",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0416"
+    },
+    {
+      "doc_id": "00417",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0417"
+    },
+    {
+      "doc_id": "00418",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0418"
+    },
+    {
+      "doc_id": "00419",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0419"
+    },
+    {
+      "doc_id": "00420",
+      "lang": "HI",
+      "template_index": 0,
+      "canary": "ZQK0420"
+    },
+    {
+      "doc_id": "00421",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0421"
+    },
+    {
+      "doc_id": "00422",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0422"
+    },
+    {
+      "doc_id": "00423",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0423"
+    },
+    {
+      "doc_id": "00424",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0424"
+    },
+    {
+      "doc_id": "00425",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0425"
+    },
+    {
+      "doc_id": "00426",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0426"
+    },
+    {
+      "doc_id": "00427",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0427"
+    },
+    {
+      "doc_id": "00428",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0428"
+    },
+    {
+      "doc_id": "00429",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0429"
+    },
+    {
+      "doc_id": "00430",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0430"
+    },
+    {
+      "doc_id": "00431",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0431"
+    },
+    {
+      "doc_id": "00432",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0432"
+    },
+    {
+      "doc_id": "00433",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0433"
+    },
+    {
+      "doc_id": "00434",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0434"
+    },
+    {
+      "doc_id": "00435",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0435"
+    },
+    {
+      "doc_id": "00436",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0436"
+    },
+    {
+      "doc_id": "00437",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0437"
+    },
+    {
+      "doc_id": "00438",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0438"
+    },
+    {
+      "doc_id": "00439",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0439"
+    },
+    {
+      "doc_id": "00440",
+      "lang": "FA",
+      "template_index": 0,
+      "canary": "ZQK0440"
+    }
+  ],
+  "totals": {
+    "EN": 60,
+    "ES": 60,
+    "ZH": 30,
+    "VI": 30,
+    "KO": 20,
+    "TL": 20,
+    "AR": 30,
+    "FR": 30,
+    "RU": 20,
+    "PT": 30,
+    "HT": 20,
+    "DE": 30,
+    "JA": 20,
+    "HI": 20,
+    "FA": 20
+  },
+  "created": "2026-04-14T17:13:04.011Z"
+}

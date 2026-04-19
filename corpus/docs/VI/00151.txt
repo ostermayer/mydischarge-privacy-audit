@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Memorial Hermann Texas Medical Center
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Bartholomew Mogensen-ZQK0151
+Ngày sinh: 07/22/1941   Tuổi: 81
+Số an sinh xã hội: 900-71-0151
+Di động bệnh nhân: 555-010-0151
+Email bệnh nhân: canary-zqk0151@example.invalid
+Địa chỉ bệnh nhân: 152 Canary-ZQK0151 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0151
+Số thẻ bảo hiểm: INSZQK0151XYZ9
+
+Bác sĩ: Dr. Luber
+Chẩn đoán: viral gastroenteritis
+Thuốc: Uống metoprolol 25 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 9/20/2026 với bác sĩ của bạn.

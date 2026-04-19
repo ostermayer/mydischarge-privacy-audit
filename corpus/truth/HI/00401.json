@@ -1,0 +1,76 @@
+{
+  "doc_id": "00401",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0401",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Bergström-ZQK0401",
+      "canary": "ZQK0401",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/23/1981",
+      "canary": "ZQK0401",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0401",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-51-0401",
+      "canary": "ZQK0401",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0401",
+      "canary": "ZQK0401",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0401@example.invalid",
+      "canary": "ZQK0401",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0401",
+      "canary": "ZQK0401",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0401XYZ9",
+      "canary": "ZQK0401",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000401",
+      "canary": "ZQK0401",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "402 Canary-ZQK0401 Lane, Testville, TX 77000",
+      "canary": "ZQK0401",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "1/1/2026"
+  }
+}

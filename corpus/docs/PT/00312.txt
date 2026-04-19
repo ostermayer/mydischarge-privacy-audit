@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Ben Taub General Hospital
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Kwame Vranjevic-ZQK0312
+Data de Nascimento: 03/12/1962   Idade: 82
+CPF: 900-52-0312
+Celular do paciente: 555-010-0312
+Email do paciente: canary-zqk0312@example.invalid
+Endereço do Paciente: 313 Canary-ZQK0312 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0312
+Número do Seguro: INSZQK0312XYZ9
+
+Médico: Dr. Ostermayer
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome acetaminophen 650 mg conforme prescrito.
+Retorno: Consulta em 11/13/2026 com seu médico.

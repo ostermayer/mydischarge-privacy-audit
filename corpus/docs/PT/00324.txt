@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Bayshore Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Ximena Hvidberg-ZQK0324
+Data de Nascimento: 03/03/1974   Idade: 54
+CPF: 900-64-0324
+Celular do paciente: 555-010-0324
+Email do paciente: canary-zqk0324@example.invalid
+Endereço do Paciente: 325 Canary-ZQK0324 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0324
+Número do Seguro: INSZQK0324XYZ9
+
+Médico: Dr. Rodriguez
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome acetaminophen 650 mg conforme prescrito.
+Retorno: Consulta em 5/14/2026 com seu médico.

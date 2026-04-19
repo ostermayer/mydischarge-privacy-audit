@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Harris Health East Clinic
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Aleksandr Quetzalcoatl-ZQK0426
+تاریخ تولد: 03/06/1936   سن: 76
+شماره تأمین اجتماعی: 900-76-0426
+موبایل بیمار: 555-010-0426
+ایمیل بیمار: canary-zqk0426@example.invalid
+آدرس بیمار: 427 Canary-ZQK0426 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0426
+شماره بیمه: INSZQK0426XYZ9
+
+پزشک: Dr. Patel
+تشخیص: acute otitis media
+دارو: ondansetron 4 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 5/1/2026 با پزشک خود.

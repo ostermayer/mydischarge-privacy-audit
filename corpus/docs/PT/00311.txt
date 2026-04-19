@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Memorial Hermann Texas Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Kwame Vranjevic-ZQK0311
+Data de Nascimento: 02/24/1961   Idade: 81
+CPF: 900-51-0311
+Celular do paciente: 555-010-0311
+Email do paciente: canary-zqk0311@example.invalid
+Endereço do Paciente: 312 Canary-ZQK0311 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0311
+Número do Seguro: INSZQK0311XYZ9
+
+Médico: Dr. Ostermayer
+Diagnóstico: acute otitis media
+Medicamento: Tome acetaminophen 650 mg conforme prescrito.
+Retorno: Consulta em 12/22/2026 com seu médico.

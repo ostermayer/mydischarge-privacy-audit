@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Harris Health East Clinic
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Priyanka Papadimitriou-ZQK0413
+जन्म तिथि: 01/09/1993   आयु: 63
+सामाजिक सुरक्षा संख्या: 900-63-0413
+रोगी मोबाइल: 555-010-0413
+रोगी ईमेल: canary-zqk0413@example.invalid
+रोगी का पता: 414 Canary-ZQK0413 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0413
+बीमा संख्या: INSZQK0413XYZ9
+
+डॉक्टर: Dr. Nguyen
+निदान: viral gastroenteritis
+दवा: ondansetron 4 mg निर्देशानुसार लें।
+अनुवर्ती: 1/4/2026 को अपने डॉक्टर के पास जाएँ।

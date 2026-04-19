@@ -1,0 +1,76 @@
+{
+  "doc_id": "00261",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0261",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Chakrabarti-ZQK0261",
+      "canary": "ZQK0261",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/27/1981",
+      "canary": "ZQK0261",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "71",
+      "canary": "ZQK0261",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-91-0261",
+      "canary": "ZQK0261",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0261",
+      "canary": "ZQK0261",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0261@example.invalid",
+      "canary": "ZQK0261",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0261",
+      "canary": "ZQK0261",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0261XYZ9",
+      "canary": "ZQK0261",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000261",
+      "canary": "ZQK0261",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "262 Canary-ZQK0261 Lane, Testville, TX 77000",
+      "canary": "ZQK0261",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "1/3/2026"
+  }
+}

@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Bayshore Medical Center
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Beatriz Chakrabarti-ZQK0204
+Petsa ng Kapanganakan: 04/17/1994   Edad: 54
+SSN: 900-34-0204
+Telepono ng pasyente: 555-010-0204
+Email: canary-zqk0204@example.invalid
+Tirahan: 205 Canary-ZQK0204 Lane, Testville, TX 77000
+MRN: MRNZQK0204
+Insurance ID: INSZQK0204XYZ9
+
+Doktor: Dr. Ostermayer
+Diagnosis: viral gastroenteritis
+Gamot: Inumin ang albuterol inhaler ayon sa reseta.
+Follow-up: 10/28/2026 kasama ang inyong doktor.

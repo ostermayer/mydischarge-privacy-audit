@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Ben Taub General Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Dashiell Vranjevic-ZQK0203
+Petsa ng Kapanganakan: 02/22/1993   Edad: 53
+SSN: 900-33-0203
+Telepono ng pasyente: 555-010-0203
+Email: canary-zqk0203@example.invalid
+Tirahan: 204 Canary-ZQK0203 Lane, Testville, TX 77000
+MRN: MRNZQK0203
+Insurance ID: INSZQK0203XYZ9
+
+Doktor: Dr. Luber
+Diagnosis: community-acquired pneumonia
+Gamot: Inumin ang albuterol inhaler ayon sa reseta.
+Follow-up: 6/26/2026 kasama ang inyong doktor.

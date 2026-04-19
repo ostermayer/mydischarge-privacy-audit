@@ -1,0 +1,76 @@
+{
+  "doc_id": "00292",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0292",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Ashworth-ZQK0292",
+      "canary": "ZQK0292",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/01/1942",
+      "canary": "ZQK0292",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "62",
+      "canary": "ZQK0292",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-32-0292",
+      "canary": "ZQK0292",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0292",
+      "canary": "ZQK0292",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0292@example.invalid",
+      "canary": "ZQK0292",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0292",
+      "canary": "ZQK0292",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0292XYZ9",
+      "canary": "ZQK0292",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000292",
+      "canary": "ZQK0292",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "293 Canary-ZQK0292 Lane, Testville, TX 77000",
+      "canary": "ZQK0292",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "10/23/2026"
+  }
+}

@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Memorial Hermann Texas Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Tariq Tchaikovsky-ZQK0084
+Fecha de Nacimiento: 08/19/1944    Edad: 54
+Número de Seguro Social: 900-94-0084
+Celular del paciente: 555-010-0084
+Correo del paciente: canary-zqk0084@example.invalid
+Dirección del Paciente: 85 Canary-ZQK0084 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0084
+Número de Seguro: INSZQK0084XYZ9
+Cuenta: 90000084
+
+Médico: Dr. Patel
+Diagnóstico: musculoskeletal strain
+Medicamento: Tome metoprolol 25 mg según indicación.
+Seguimiento: Cita el 3/27/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

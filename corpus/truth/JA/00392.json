@@ -1,0 +1,76 @@
+{
+  "doc_id": "00392",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0392",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Papadimitriou-ZQK0392",
+      "canary": "ZQK0392",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/11/1972",
+      "canary": "ZQK0392",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "82",
+      "canary": "ZQK0392",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-42-0392",
+      "canary": "ZQK0392",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0392",
+      "canary": "ZQK0392",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0392@example.invalid",
+      "canary": "ZQK0392",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0392",
+      "canary": "ZQK0392",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0392XYZ9",
+      "canary": "ZQK0392",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000392",
+      "canary": "ZQK0392",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "393 Canary-ZQK0392 Lane, Testville, TX 77000",
+      "canary": "ZQK0392",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "3/7/2026"
+  }
+}

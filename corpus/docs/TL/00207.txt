@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Ben Taub General Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Yumiko Vranjevic-ZQK0207
+Petsa ng Kapanganakan: 07/02/1997   Edad: 57
+SSN: 900-37-0207
+Telepono ng pasyente: 555-010-0207
+Email: canary-zqk0207@example.invalid
+Tirahan: 208 Canary-ZQK0207 Lane, Testville, TX 77000
+MRN: MRNZQK0207
+Insurance ID: INSZQK0207XYZ9
+
+Doktor: Dr. Luber
+Diagnosis: community-acquired pneumonia
+Gamot: Inumin ang ondansetron 4 mg ayon sa reseta.
+Follow-up: 11/11/2026 kasama ang inyong doktor.

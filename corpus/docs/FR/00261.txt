@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Lyndon B Johnson Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Bartholomew Chakrabarti-ZQK0261
+Date de Naissance: 05/27/1981   Âge: 71
+Numéro de Sécurité Sociale: 900-91-0261
+Portable patient: 555-010-0261
+Email patient: canary-zqk0261@example.invalid
+Adresse du Patient: 262 Canary-ZQK0261 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0261
+Numéro d'Assurance: INSZQK0261XYZ9
+
+Médecin: Dr. Rodriguez
+Diagnostic: community-acquired pneumonia
+Médicament: Prenez ibuprofen 400 mg selon prescription.
+Rendez-vous: 1/3/2026 avec votre médecin.

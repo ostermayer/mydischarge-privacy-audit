@@ -1,0 +1,19 @@
+EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+UT Physicians Clinic
+Hospital Phone: 713-500-7878
+
+Patient Name: Aleksandr Mogensen-ZQK0033
+DOB: 09/16/1963    Age: 83
+SSN: 900-43-0033
+Patient Phone: 555-010-0033
+Patient Email: canary-zqk0033@example.invalid
+Patient Address: 34 Canary-ZQK0033 Lane, Testville, TX 77000
+MRN: MRNZQK0033
+Insurance ID: INSZQK0033XYZ9
+Account #: 90000033
+
+Attending: Dr. Ostermayer
+Diagnosis: community-acquired pneumonia
+Medication: Take albuterol inhaler as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 10/13/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.

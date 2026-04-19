@@ -1,0 +1,76 @@
+{
+  "doc_id": "00351",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0351",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Hvidberg-ZQK0351",
+      "canary": "ZQK0351",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/08/1931",
+      "canary": "ZQK0351",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "81",
+      "canary": "ZQK0351",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-91-0351",
+      "canary": "ZQK0351",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0351",
+      "canary": "ZQK0351",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0351@example.invalid",
+      "canary": "ZQK0351",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0351",
+      "canary": "ZQK0351",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0351XYZ9",
+      "canary": "ZQK0351",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000351",
+      "canary": "ZQK0351",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "352 Canary-ZQK0351 Lane, Testville, TX 77000",
+      "canary": "ZQK0351",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "4/15/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00342",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0342",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Papadimitriou-ZQK0342",
+      "canary": "ZQK0342",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/02/1992",
+      "canary": "ZQK0342",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "72",
+      "canary": "ZQK0342",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-82-0342",
+      "canary": "ZQK0342",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0342",
+      "canary": "ZQK0342",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0342@example.invalid",
+      "canary": "ZQK0342",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0342",
+      "canary": "ZQK0342",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0342XYZ9",
+      "canary": "ZQK0342",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000342",
+      "canary": "ZQK0342",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "343 Canary-ZQK0342 Lane, Testville, TX 77000",
+      "canary": "ZQK0342",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "5/11/2026"
+  }
+}

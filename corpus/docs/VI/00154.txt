@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Lyndon B Johnson Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Aleksandr Oduya-ZQK0154
+Ngày sinh: 01/16/1944   Tuổi: 84
+Số an sinh xã hội: 900-74-0154
+Di động bệnh nhân: 555-010-0154
+Email bệnh nhân: canary-zqk0154@example.invalid
+Địa chỉ bệnh nhân: 155 Canary-ZQK0154 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0154
+Số thẻ bảo hiểm: INSZQK0154XYZ9
+
+Bác sĩ: Dr. Rodriguez
+Chẩn đoán: community-acquired pneumonia
+Thuốc: Uống metoprolol 25 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 4/16/2026 với bác sĩ của bạn.

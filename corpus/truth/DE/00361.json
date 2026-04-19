@@ -1,0 +1,76 @@
+{
+  "doc_id": "00361",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0361",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Mogensen-ZQK0361",
+      "canary": "ZQK0361",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/01/1941",
+      "canary": "ZQK0361",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0361",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-11-0361",
+      "canary": "ZQK0361",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0361",
+      "canary": "ZQK0361",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0361@example.invalid",
+      "canary": "ZQK0361",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0361",
+      "canary": "ZQK0361",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0361XYZ9",
+      "canary": "ZQK0361",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000361",
+      "canary": "ZQK0361",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "362 Canary-ZQK0361 Lane, Testville, TX 77000",
+      "canary": "ZQK0361",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "10/20/2026"
+  }
+}

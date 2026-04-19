@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Harris Health East Clinic (call 713-500-7878 for questions)
+Name: Ingrid Oduya-ZQK0058
+Date of Birth: 06/07/1988
+Age: 68 years
+Home Address: 59 Canary-ZQK0058 Lane, Testville, TX 77000
+Cell: 555-010-0058
+Email: canary-zqk0058@example.invalid
+Medical Record Number: MRNZQK0058
+Member ID: INSZQK0058XYZ9
+Primary provider: Dr. Power
+Diagnosis: viral gastroenteritis
+Your doctor prescribed albuterol inhaler.
+Follow up on 9/23/2026.

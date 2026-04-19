@@ -1,0 +1,76 @@
+{
+  "doc_id": "00372",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0372",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Tchaikovsky-ZQK0372",
+      "canary": "ZQK0372",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/24/1952",
+      "canary": "ZQK0372",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "62",
+      "canary": "ZQK0372",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-22-0372",
+      "canary": "ZQK0372",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0372",
+      "canary": "ZQK0372",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0372@example.invalid",
+      "canary": "ZQK0372",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0372",
+      "canary": "ZQK0372",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0372XYZ9",
+      "canary": "ZQK0372",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000372",
+      "canary": "ZQK0372",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "373 Canary-ZQK0372 Lane, Testville, TX 77000",
+      "canary": "ZQK0372",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "2/6/2026"
+  }
+}

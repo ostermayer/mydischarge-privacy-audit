@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: UT Physicians Clinic
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Dashiell Quetzalcoatl-ZQK0358
+Geburtsdatum: 12/09/1938   Alter: 88
+Sozialversicherungsnummer: 900-98-0358
+Handy Patient: 555-010-0358
+Email Patient: canary-zqk0358@example.invalid
+Patientenadresse: 359 Canary-ZQK0358 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0358
+Versicherungsnummer: INSZQK0358XYZ9
+
+Arzt: Dr. Power
+Diagnose: uncomplicated cystitis
+Medikament: Nehmen Sie ondansetron 4 mg wie verordnet.
+Termin: 2/21/2026 bei Ihrem Arzt.

@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Memorial Hermann Texas Medical Center
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Ingrid Quetzalcoatl-ZQK0439
+تاریخ تولد: 07/22/1949   سن: 89
+شماره تأمین اجتماعی: 900-89-0439
+موبایل بیمار: 555-010-0439
+ایمیل بیمار: canary-zqk0439@example.invalid
+آدرس بیمار: 440 Canary-ZQK0439 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0439
+شماره بیمه: INSZQK0439XYZ9
+
+پزشک: Dr. Ostermayer
+تشخیص: viral gastroenteritis
+دارو: metoprolol 25 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 4/8/2026 با پزشک خود.

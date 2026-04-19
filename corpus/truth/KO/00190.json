@@ -1,0 +1,76 @@
+{
+  "doc_id": "00190",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0190",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Papadimitriou-ZQK0190",
+      "canary": "ZQK0190",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/16/1980",
+      "canary": "ZQK0190",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "80",
+      "canary": "ZQK0190",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-20-0190",
+      "canary": "ZQK0190",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0190",
+      "canary": "ZQK0190",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0190@example.invalid",
+      "canary": "ZQK0190",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0190",
+      "canary": "ZQK0190",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0190XYZ9",
+      "canary": "ZQK0190",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000190",
+      "canary": "ZQK0190",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "191 Canary-ZQK0190 Lane, Testville, TX 77000",
+      "canary": "ZQK0190",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "11/12/2026"
+  }
+}

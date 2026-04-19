@@ -1,0 +1,76 @@
+{
+  "doc_id": "00328",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0328",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Papadimitriou-ZQK0328",
+      "canary": "ZQK0328",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/20/1978",
+      "canary": "ZQK0328",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "58",
+      "canary": "ZQK0328",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-68-0328",
+      "canary": "ZQK0328",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0328",
+      "canary": "ZQK0328",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0328@example.invalid",
+      "canary": "ZQK0328",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0328",
+      "canary": "ZQK0328",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0328XYZ9",
+      "canary": "ZQK0328",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000328",
+      "canary": "ZQK0328",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "329 Canary-ZQK0328 Lane, Testville, TX 77000",
+      "canary": "ZQK0328",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "4/16/2026"
+  }
+}

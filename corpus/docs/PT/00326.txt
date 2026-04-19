@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: UT Physicians Clinic
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Saoirse Tchaikovsky-ZQK0326
+Data de Nascimento: 12/13/1976   Idade: 56
+CPF: 900-66-0326
+Celular do paciente: 555-010-0326
+Email do paciente: canary-zqk0326@example.invalid
+Endereço do Paciente: 327 Canary-ZQK0326 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0326
+Número do Seguro: INSZQK0326XYZ9
+
+Médico: Dr. Ostermayer
+Diagnóstico: acute otitis media
+Medicamento: Tome amoxicillin 500 mg conforme prescrito.
+Retorno: Consulta em 4/11/2026 com seu médico.

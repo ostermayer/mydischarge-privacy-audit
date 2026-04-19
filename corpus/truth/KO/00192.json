@@ -1,0 +1,76 @@
+{
+  "doc_id": "00192",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0192",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Hvidberg-ZQK0192",
+      "canary": "ZQK0192",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/16/1982",
+      "canary": "ZQK0192",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "82",
+      "canary": "ZQK0192",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-22-0192",
+      "canary": "ZQK0192",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0192",
+      "canary": "ZQK0192",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0192@example.invalid",
+      "canary": "ZQK0192",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0192",
+      "canary": "ZQK0192",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0192XYZ9",
+      "canary": "ZQK0192",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000192",
+      "canary": "ZQK0192",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "193 Canary-ZQK0192 Lane, Testville, TX 77000",
+      "canary": "ZQK0192",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "6/28/2026"
+  }
+}

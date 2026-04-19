@@ -1,0 +1,76 @@
+{
+  "doc_id": "00090",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0090",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Mogensen-ZQK0090",
+      "canary": "ZQK0090",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/12/1950",
+      "canary": "ZQK0090",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "60",
+      "canary": "ZQK0090",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-10-0090",
+      "canary": "ZQK0090",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0090",
+      "canary": "ZQK0090",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0090@example.invalid",
+      "canary": "ZQK0090",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0090",
+      "canary": "ZQK0090",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0090XYZ9",
+      "canary": "ZQK0090",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000090",
+      "canary": "ZQK0090",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "91 Canary-ZQK0090 Lane, Testville, TX 77000",
+      "canary": "ZQK0090",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "4/4/2026"
+  }
+}

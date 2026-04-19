@@ -1,0 +1,17 @@
+救急科退院指示
+病院: UT Physicians Clinic
+病院電話: 713-500-7878
+
+患者氏名: Beatriz Tchaikovsky-ZQK0400
+生年月日: 08/04/1980   年齢: 50
+社会保障番号: 900-50-0400
+患者携帯: 555-010-0400
+患者メール: canary-zqk0400@example.invalid
+患者住所: 401 Canary-ZQK0400 Lane, Testville, TX 77000
+患者番号: MRNZQK0400
+保険証番号: INSZQK0400XYZ9
+
+担当医: Dr. Patel
+診断: community-acquired pneumonia
+薬: 処方通り metoprolol 25 mg を服用してください。
+受診予約: 3/12/2026 に主治医を受診してください。

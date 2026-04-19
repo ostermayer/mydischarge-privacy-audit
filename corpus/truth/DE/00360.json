@@ -1,0 +1,76 @@
+{
+  "doc_id": "00360",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0360",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Quetzalcoatl-ZQK0360",
+      "canary": "ZQK0360",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/13/1940",
+      "canary": "ZQK0360",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "50",
+      "canary": "ZQK0360",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-10-0360",
+      "canary": "ZQK0360",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0360",
+      "canary": "ZQK0360",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0360@example.invalid",
+      "canary": "ZQK0360",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0360",
+      "canary": "ZQK0360",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0360XYZ9",
+      "canary": "ZQK0360",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000360",
+      "canary": "ZQK0360",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "361 Canary-ZQK0360 Lane, Testville, TX 77000",
+      "canary": "ZQK0360",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "3/12/2026"
+  }
+}

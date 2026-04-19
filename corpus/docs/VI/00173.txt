@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Harris Health East Clinic
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Aleksandr Tchaikovsky-ZQK0173
+Ngày sinh: 04/20/1963   Tuổi: 63
+Số an sinh xã hội: 900-93-0173
+Di động bệnh nhân: 555-010-0173
+Email bệnh nhân: canary-zqk0173@example.invalid
+Địa chỉ bệnh nhân: 174 Canary-ZQK0173 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0173
+Số thẻ bảo hiểm: INSZQK0173XYZ9
+
+Bác sĩ: Dr. Ostermayer
+Chẩn đoán: acute otitis media
+Thuốc: Uống metoprolol 25 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 1/22/2026 với bác sĩ của bạn.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00409",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0409",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Ashworth-ZQK0409",
+      "canary": "ZQK0409",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/09/1989",
+      "canary": "ZQK0409",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "59",
+      "canary": "ZQK0409",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-59-0409",
+      "canary": "ZQK0409",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0409",
+      "canary": "ZQK0409",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0409@example.invalid",
+      "canary": "ZQK0409",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0409",
+      "canary": "ZQK0409",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0409XYZ9",
+      "canary": "ZQK0409",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000409",
+      "canary": "ZQK0409",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "410 Canary-ZQK0409 Lane, Testville, TX 77000",
+      "canary": "ZQK0409",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "8/20/2026"
+  }
+}

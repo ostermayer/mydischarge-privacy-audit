@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Bayshore Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Octavio Tchaikovsky-ZQK0325
+Data de Nascimento: 05/09/1975   Idade: 55
+CPF: 900-65-0325
+Celular do paciente: 555-010-0325
+Email do paciente: canary-zqk0325@example.invalid
+Endereço do Paciente: 326 Canary-ZQK0325 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0325
+Número do Seguro: INSZQK0325XYZ9
+
+Médico: Dr. Rodriguez
+Diagnóstico: acute bronchitis
+Medicamento: Tome albuterol inhaler conforme prescrito.
+Retorno: Consulta em 4/12/2026 com seu médico.

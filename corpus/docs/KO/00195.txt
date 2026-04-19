@@ -1,0 +1,17 @@
+응급실 퇴원 안내
+병원: UT Physicians Clinic
+병원 전화: 713-500-7878
+
+환자명: Aleksandr Vranjevic-ZQK0195
+생년월일: 08/09/1985   나이: 85
+주민번호: 900-25-0195
+환자 휴대폰: 555-010-0195
+환자 이메일: canary-zqk0195@example.invalid
+환자 주소: 196 Canary-ZQK0195 Lane, Testville, TX 77000
+등록번호: MRNZQK0195
+보험번호: INSZQK0195XYZ9
+
+담당의: Dr. Rodriguez
+진단: acute otitis media
+약물: metoprolol 25 mg 처방대로 복용하세요.
+진료 예약: 7/5/2026에 의사 선생님과 진료 예약이 있습니다.

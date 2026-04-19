@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Lyndon B Johnson Hospital
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Priyanka Vranjevic-ZQK0402
+जन्म तिथि: 10/05/1982   आयु: 52
+सामाजिक सुरक्षा संख्या: 900-52-0402
+रोगी मोबाइल: 555-010-0402
+रोगी ईमेल: canary-zqk0402@example.invalid
+रोगी का पता: 403 Canary-ZQK0402 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0402
+बीमा संख्या: INSZQK0402XYZ9
+
+डॉक्टर: Dr. Fischer
+निदान: musculoskeletal strain
+दवा: ibuprofen 400 mg निर्देशानुसार लें।
+अनुवर्ती: 9/15/2026 को अपने डॉक्टर के पास जाएँ।

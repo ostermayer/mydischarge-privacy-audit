@@ -1,0 +1,76 @@
+{
+  "doc_id": "00286",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0286",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Oduya-ZQK0286",
+      "canary": "ZQK0286",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/18/1936",
+      "canary": "ZQK0286",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "56",
+      "canary": "ZQK0286",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-26-0286",
+      "canary": "ZQK0286",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0286",
+      "canary": "ZQK0286",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0286@example.invalid",
+      "canary": "ZQK0286",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0286",
+      "canary": "ZQK0286",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0286XYZ9",
+      "canary": "ZQK0286",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000286",
+      "canary": "ZQK0286",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "287 Canary-ZQK0286 Lane, Testville, TX 77000",
+      "canary": "ZQK0286",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "12/10/2026"
+  }
+}

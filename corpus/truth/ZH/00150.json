@@ -1,0 +1,76 @@
+{
+  "doc_id": "00150",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0150",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Chakrabarti-ZQK0150",
+      "canary": "ZQK0150",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/19/1940",
+      "canary": "ZQK0150",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "80",
+      "canary": "ZQK0150",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-70-0150",
+      "canary": "ZQK0150",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0150",
+      "canary": "ZQK0150",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0150@example.invalid",
+      "canary": "ZQK0150",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0150",
+      "canary": "ZQK0150",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0150XYZ9",
+      "canary": "ZQK0150",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000150",
+      "canary": "ZQK0150",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "151 Canary-ZQK0150 Lane, Testville, TX 77000",
+      "canary": "ZQK0150",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "2/18/2026"
+  }
+}

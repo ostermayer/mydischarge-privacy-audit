@@ -1,0 +1,17 @@
+救急科退院指示
+病院: Lyndon B Johnson Hospital
+病院電話: 713-500-7878
+
+患者氏名: Kwame Mogensen-ZQK0384
+生年月日: 04/24/1964   年齢: 74
+社会保障番号: 900-34-0384
+患者携帯: 555-010-0384
+患者メール: canary-zqk0384@example.invalid
+患者住所: 385 Canary-ZQK0384 Lane, Testville, TX 77000
+患者番号: MRNZQK0384
+保険証番号: INSZQK0384XYZ9
+
+担当医: Dr. Fischer
+診断: uncomplicated cystitis
+薬: 処方通り acetaminophen 650 mg を服用してください。
+受診予約: 10/22/2026 に主治医を受診してください。

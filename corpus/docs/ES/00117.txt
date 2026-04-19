@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Ben Taub General Hospital
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Priyanka Oduya-ZQK0117
+Fecha de Nacimiento: 12/27/1977    Edad: 87
+Número de Seguro Social: 900-37-0117
+Celular del paciente: 555-010-0117
+Correo del paciente: canary-zqk0117@example.invalid
+Dirección del Paciente: 118 Canary-ZQK0117 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0117
+Número de Seguro: INSZQK0117XYZ9
+Cuenta: 90000117
+
+Médico: Dr. Rodriguez
+Diagnóstico: viral gastroenteritis
+Medicamento: Tome amoxicillin 500 mg según indicación.
+Seguimiento: Cita el 10/27/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

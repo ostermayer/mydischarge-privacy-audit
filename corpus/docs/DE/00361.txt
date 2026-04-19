@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Memorial Hermann Texas Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Bartholomew Mogensen-ZQK0361
+Geburtsdatum: 02/01/1941   Alter: 51
+Sozialversicherungsnummer: 900-11-0361
+Handy Patient: 555-010-0361
+Email Patient: canary-zqk0361@example.invalid
+Patientenadresse: 362 Canary-ZQK0361 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0361
+Versicherungsnummer: INSZQK0361XYZ9
+
+Arzt: Dr. Rodriguez
+Diagnose: musculoskeletal strain
+Medikament: Nehmen Sie amoxicillin 500 mg wie verordnet.
+Termin: 10/20/2026 bei Ihrem Arzt.

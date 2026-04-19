@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Harris Health East Clinic
+医院电话: 713-500-7878
+
+患者姓名: Kwame Mogensen-ZQK0134
+出生日期: 04/26/1994   年龄: 64
+社会安全号: 900-54-0134
+患者手机: 555-010-0134
+患者邮箱: canary-zqk0134@example.invalid
+患者地址: 135 Canary-ZQK0134 Lane, Testville, TX 77000
+病历号: MRNZQK0134
+保险号: INSZQK0134XYZ9
+账号: 90000134
+
+主治医师: Dr. Patel
+诊断: acute otitis media
+药物: 按医嘱服用 albuterol inhaler。
+复诊: 请于 12/12/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

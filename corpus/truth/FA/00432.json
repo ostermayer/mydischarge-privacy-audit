@@ -1,0 +1,76 @@
+{
+  "doc_id": "00432",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0432",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Ashworth-ZQK0432",
+      "canary": "ZQK0432",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/06/1942",
+      "canary": "ZQK0432",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "82",
+      "canary": "ZQK0432",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-82-0432",
+      "canary": "ZQK0432",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0432",
+      "canary": "ZQK0432",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0432@example.invalid",
+      "canary": "ZQK0432",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0432",
+      "canary": "ZQK0432",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0432XYZ9",
+      "canary": "ZQK0432",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000432",
+      "canary": "ZQK0432",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "433 Canary-ZQK0432 Lane, Testville, TX 77000",
+      "canary": "ZQK0432",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "albuterol inhaler",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "12/6/2026"
+  }
+}

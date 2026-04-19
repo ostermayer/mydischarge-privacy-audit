@@ -1,0 +1,76 @@
+{
+  "doc_id": "00162",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0162",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Chakrabarti-ZQK0162",
+      "canary": "ZQK0162",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/03/1952",
+      "canary": "ZQK0162",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "52",
+      "canary": "ZQK0162",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-82-0162",
+      "canary": "ZQK0162",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0162",
+      "canary": "ZQK0162",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0162@example.invalid",
+      "canary": "ZQK0162",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0162",
+      "canary": "ZQK0162",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0162XYZ9",
+      "canary": "ZQK0162",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000162",
+      "canary": "ZQK0162",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "163 Canary-ZQK0162 Lane, Testville, TX 77000",
+      "canary": "ZQK0162",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "6/21/2026"
+  }
+}

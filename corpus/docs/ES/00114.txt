@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Harris Health East Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Priyanka Tchaikovsky-ZQK0114
+Fecha de Nacimiento: 10/21/1974    Edad: 84
+Número de Seguro Social: 900-34-0114
+Celular del paciente: 555-010-0114
+Correo del paciente: canary-zqk0114@example.invalid
+Dirección del Paciente: 115 Canary-ZQK0114 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0114
+Número de Seguro: INSZQK0114XYZ9
+Cuenta: 90000114
+
+Médico: Dr. Nguyen
+Diagnóstico: viral gastroenteritis
+Medicamento: Tome acetaminophen 650 mg según indicación.
+Seguimiento: Cita el 1/19/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

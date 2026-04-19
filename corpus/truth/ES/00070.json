@@ -1,0 +1,76 @@
+{
+  "doc_id": "00070",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0070",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Mogensen-ZQK0070",
+      "canary": "ZQK0070",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/01/1930",
+      "canary": "ZQK0070",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "80",
+      "canary": "ZQK0070",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-80-0070",
+      "canary": "ZQK0070",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0070",
+      "canary": "ZQK0070",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0070@example.invalid",
+      "canary": "ZQK0070",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0070",
+      "canary": "ZQK0070",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0070XYZ9",
+      "canary": "ZQK0070",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000070",
+      "canary": "ZQK0070",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "71 Canary-ZQK0070 Lane, Testville, TX 77000",
+      "canary": "ZQK0070",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "5/22/2026"
+  }
+}

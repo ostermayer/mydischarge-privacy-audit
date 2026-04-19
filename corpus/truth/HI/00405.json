@@ -1,0 +1,76 @@
+{
+  "doc_id": "00405",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0405",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Bergström-ZQK0405",
+      "canary": "ZQK0405",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/06/1985",
+      "canary": "ZQK0405",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "55",
+      "canary": "ZQK0405",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-55-0405",
+      "canary": "ZQK0405",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0405",
+      "canary": "ZQK0405",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0405@example.invalid",
+      "canary": "ZQK0405",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0405",
+      "canary": "ZQK0405",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0405XYZ9",
+      "canary": "ZQK0405",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000405",
+      "canary": "ZQK0405",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "406 Canary-ZQK0405 Lane, Testville, TX 77000",
+      "canary": "ZQK0405",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "albuterol inhaler",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "3/2/2026"
+  }
+}

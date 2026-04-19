@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Memorial Hermann Texas Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Dashiell Vranjevic-ZQK0309
+Data de Nascimento: 03/25/1959   Idade: 79
+CPF: 900-49-0309
+Celular do paciente: 555-010-0309
+Email do paciente: canary-zqk0309@example.invalid
+Endereço do Paciente: 310 Canary-ZQK0309 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0309
+Número do Seguro: INSZQK0309XYZ9
+
+Médico: Dr. Ostermayer
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome amoxicillin 500 mg conforme prescrito.
+Retorno: Consulta em 9/23/2026 com seu médico.

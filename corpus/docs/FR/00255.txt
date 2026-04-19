@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Harris Health East Clinic
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Octavio Chakrabarti-ZQK0255
+Date de Naissance: 03/10/1975   Âge: 65
+Numéro de Sécurité Sociale: 900-85-0255
+Portable patient: 555-010-0255
+Email patient: canary-zqk0255@example.invalid
+Adresse du Patient: 256 Canary-ZQK0255 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0255
+Numéro d'Assurance: INSZQK0255XYZ9
+
+Médecin: Dr. Ostermayer
+Diagnostic: acute bronchitis
+Médicament: Prenez amoxicillin 500 mg selon prescription.
+Rendez-vous: 11/2/2026 avec votre médecin.

@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Lyndon B Johnson Hospital
+医院电话: 713-500-7878
+
+患者姓名: Bartholomew Vranjevic-ZQK0136
+出生日期: 09/09/1996   年龄: 66
+社会安全号: 900-56-0136
+患者手机: 555-010-0136
+患者邮箱: canary-zqk0136@example.invalid
+患者地址: 137 Canary-ZQK0136 Lane, Testville, TX 77000
+病历号: MRNZQK0136
+保险号: INSZQK0136XYZ9
+账号: 90000136
+
+主治医师: Dr. Rodriguez
+诊断: acute bronchitis
+药物: 按医嘱服用 acetaminophen 650 mg。
+复诊: 请于 11/20/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

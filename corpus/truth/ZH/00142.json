@@ -1,0 +1,76 @@
+{
+  "doc_id": "00142",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0142",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Hvidberg-ZQK0142",
+      "canary": "ZQK0142",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/08/1932",
+      "canary": "ZQK0142",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "72",
+      "canary": "ZQK0142",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-62-0142",
+      "canary": "ZQK0142",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0142",
+      "canary": "ZQK0142",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0142@example.invalid",
+      "canary": "ZQK0142",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0142",
+      "canary": "ZQK0142",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0142XYZ9",
+      "canary": "ZQK0142",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000142",
+      "canary": "ZQK0142",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "143 Canary-ZQK0142 Lane, Testville, TX 77000",
+      "canary": "ZQK0142",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "1/22/2026"
+  }
+}

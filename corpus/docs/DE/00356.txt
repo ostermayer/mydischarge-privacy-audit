@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Bayshore Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Octavio Vranjevic-ZQK0356
+Geburtsdatum: 01/10/1936   Alter: 86
+Sozialversicherungsnummer: 900-96-0356
+Handy Patient: 555-010-0356
+Email Patient: canary-zqk0356@example.invalid
+Patientenadresse: 357 Canary-ZQK0356 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0356
+Versicherungsnummer: INSZQK0356XYZ9
+
+Arzt: Dr. Luber
+Diagnose: acute bronchitis
+Medikament: Nehmen Sie albuterol inhaler wie verordnet.
+Termin: 6/10/2026 bei Ihrem Arzt.

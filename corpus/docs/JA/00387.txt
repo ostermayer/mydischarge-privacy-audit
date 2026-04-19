@@ -1,0 +1,17 @@
+救急科退院指示
+病院: Bayshore Medical Center
+病院電話: 713-500-7878
+
+患者氏名: Yumiko Quetzalcoatl-ZQK0387
+生年月日: 11/18/1967   年齢: 77
+社会保障番号: 900-37-0387
+患者携帯: 555-010-0387
+患者メール: canary-zqk0387@example.invalid
+患者住所: 388 Canary-ZQK0387 Lane, Testville, TX 77000
+患者番号: MRNZQK0387
+保険証番号: INSZQK0387XYZ9
+
+担当医: Dr. Nguyen
+診断: viral gastroenteritis
+薬: 処方通り metoprolol 25 mg を服用してください。
+受診予約: 8/15/2026 に主治医を受診してください。

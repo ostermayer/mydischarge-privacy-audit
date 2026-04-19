@@ -1,0 +1,76 @@
+{
+  "doc_id": "00228",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0228",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Hvidberg-ZQK0228",
+      "canary": "ZQK0228",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/01/1948",
+      "canary": "ZQK0228",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "78",
+      "canary": "ZQK0228",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-58-0228",
+      "canary": "ZQK0228",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0228",
+      "canary": "ZQK0228",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0228@example.invalid",
+      "canary": "ZQK0228",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0228",
+      "canary": "ZQK0228",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0228XYZ9",
+      "canary": "ZQK0228",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000228",
+      "canary": "ZQK0228",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "229 Canary-ZQK0228 Lane, Testville, TX 77000",
+      "canary": "ZQK0228",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "albuterol inhaler",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "2/17/2026"
+  }
+}

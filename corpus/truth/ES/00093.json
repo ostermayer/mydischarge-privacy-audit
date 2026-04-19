@@ -1,0 +1,76 @@
+{
+  "doc_id": "00093",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0093",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Vranjevic-ZQK0093",
+      "canary": "ZQK0093",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/20/1953",
+      "canary": "ZQK0093",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "63",
+      "canary": "ZQK0093",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-13-0093",
+      "canary": "ZQK0093",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0093",
+      "canary": "ZQK0093",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0093@example.invalid",
+      "canary": "ZQK0093",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0093",
+      "canary": "ZQK0093",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0093XYZ9",
+      "canary": "ZQK0093",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000093",
+      "canary": "ZQK0093",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "94 Canary-ZQK0093 Lane, Testville, TX 77000",
+      "canary": "ZQK0093",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "3/15/2026"
+  }
+}

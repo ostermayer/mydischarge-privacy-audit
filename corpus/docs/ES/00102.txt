@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Memorial Hermann Texas Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Tariq Chakrabarti-ZQK0102
+Fecha de Nacimiento: 04/14/1962    Edad: 72
+Número de Seguro Social: 900-22-0102
+Celular del paciente: 555-010-0102
+Correo del paciente: canary-zqk0102@example.invalid
+Dirección del Paciente: 103 Canary-ZQK0102 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0102
+Número de Seguro: INSZQK0102XYZ9
+Cuenta: 90000102
+
+Médico: Dr. Luber
+Diagnóstico: acute otitis media
+Medicamento: Tome acetaminophen 650 mg según indicación.
+Seguimiento: Cita el 2/27/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

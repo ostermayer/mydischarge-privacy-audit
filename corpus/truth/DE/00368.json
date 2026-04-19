@@ -1,0 +1,76 @@
+{
+  "doc_id": "00368",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0368",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Ashworth-ZQK0368",
+      "canary": "ZQK0368",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/26/1948",
+      "canary": "ZQK0368",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "58",
+      "canary": "ZQK0368",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-18-0368",
+      "canary": "ZQK0368",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0368",
+      "canary": "ZQK0368",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0368@example.invalid",
+      "canary": "ZQK0368",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0368",
+      "canary": "ZQK0368",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0368XYZ9",
+      "canary": "ZQK0368",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000368",
+      "canary": "ZQK0368",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "369 Canary-ZQK0368 Lane, Testville, TX 77000",
+      "canary": "ZQK0368",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "7/9/2026"
+  }
+}

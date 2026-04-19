@@ -1,0 +1,17 @@
+救急科退院指示
+病院: Ben Taub General Hospital
+病院電話: 713-500-7878
+
+患者氏名: Beatriz Ashworth-ZQK0383
+生年月日: 03/16/1963   年齢: 73
+社会保障番号: 900-33-0383
+患者携帯: 555-010-0383
+患者メール: canary-zqk0383@example.invalid
+患者住所: 384 Canary-ZQK0383 Lane, Testville, TX 77000
+患者番号: MRNZQK0383
+保険証番号: INSZQK0383XYZ9
+
+担当医: Dr. Fischer
+診断: uncomplicated cystitis
+薬: 処方通り amoxicillin 500 mg を服用してください。
+受診予約: 3/26/2026 に主治医を受診してください。

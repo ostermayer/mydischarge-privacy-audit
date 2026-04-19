@@ -1,0 +1,76 @@
+{
+  "doc_id": "00091",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0091",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Mogensen-ZQK0091",
+      "canary": "ZQK0091",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/10/1951",
+      "canary": "ZQK0091",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "61",
+      "canary": "ZQK0091",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-11-0091",
+      "canary": "ZQK0091",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0091",
+      "canary": "ZQK0091",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0091@example.invalid",
+      "canary": "ZQK0091",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0091",
+      "canary": "ZQK0091",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0091XYZ9",
+      "canary": "ZQK0091",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000091",
+      "canary": "ZQK0091",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "92 Canary-ZQK0091 Lane, Testville, TX 77000",
+      "canary": "ZQK0091",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "8/18/2026"
+  }
+}

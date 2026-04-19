@@ -1,0 +1,76 @@
+{
+  "doc_id": "00186",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0186",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Bergström-ZQK0186",
+      "canary": "ZQK0186",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/27/1976",
+      "canary": "ZQK0186",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "76",
+      "canary": "ZQK0186",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-16-0186",
+      "canary": "ZQK0186",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0186",
+      "canary": "ZQK0186",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0186@example.invalid",
+      "canary": "ZQK0186",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0186",
+      "canary": "ZQK0186",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0186XYZ9",
+      "canary": "ZQK0186",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000186",
+      "canary": "ZQK0186",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "187 Canary-ZQK0186 Lane, Testville, TX 77000",
+      "canary": "ZQK0186",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "9/17/2026"
+  }
+}

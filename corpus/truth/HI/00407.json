@@ -1,0 +1,76 @@
+{
+  "doc_id": "00407",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0407",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Chakrabarti-ZQK0407",
+      "canary": "ZQK0407",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/03/1987",
+      "canary": "ZQK0407",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0407",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-57-0407",
+      "canary": "ZQK0407",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0407",
+      "canary": "ZQK0407",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0407@example.invalid",
+      "canary": "ZQK0407",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0407",
+      "canary": "ZQK0407",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0407XYZ9",
+      "canary": "ZQK0407",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000407",
+      "canary": "ZQK0407",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "408 Canary-ZQK0407 Lane, Testville, TX 77000",
+      "canary": "ZQK0407",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "2/11/2026"
+  }
+}

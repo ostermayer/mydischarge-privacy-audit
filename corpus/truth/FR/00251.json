@@ -1,0 +1,76 @@
+{
+  "doc_id": "00251",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0251",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Bergström-ZQK0251",
+      "canary": "ZQK0251",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/27/1971",
+      "canary": "ZQK0251",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "61",
+      "canary": "ZQK0251",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-81-0251",
+      "canary": "ZQK0251",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0251",
+      "canary": "ZQK0251",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0251@example.invalid",
+      "canary": "ZQK0251",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0251",
+      "canary": "ZQK0251",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0251XYZ9",
+      "canary": "ZQK0251",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000251",
+      "canary": "ZQK0251",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "252 Canary-ZQK0251 Lane, Testville, TX 77000",
+      "canary": "ZQK0251",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "1/13/2026"
+  }
+}

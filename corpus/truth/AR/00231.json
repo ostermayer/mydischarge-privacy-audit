@@ -1,0 +1,76 @@
+{
+  "doc_id": "00231",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0231",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Ashworth-ZQK0231",
+      "canary": "ZQK0231",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/01/1951",
+      "canary": "ZQK0231",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "81",
+      "canary": "ZQK0231",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-61-0231",
+      "canary": "ZQK0231",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0231",
+      "canary": "ZQK0231",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0231@example.invalid",
+      "canary": "ZQK0231",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0231",
+      "canary": "ZQK0231",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0231XYZ9",
+      "canary": "ZQK0231",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000231",
+      "canary": "ZQK0231",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "232 Canary-ZQK0231 Lane, Testville, TX 77000",
+      "canary": "ZQK0231",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "4/7/2026"
+  }
+}

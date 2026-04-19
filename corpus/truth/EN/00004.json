@@ -1,0 +1,76 @@
+{
+  "doc_id": "00004",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0004",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Quetzalcoatl-ZQK0004",
+      "canary": "ZQK0004",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/23/1934",
+      "canary": "ZQK0004",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "54",
+      "canary": "ZQK0004",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-14-0004",
+      "canary": "ZQK0004",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0004",
+      "canary": "ZQK0004",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0004@example.invalid",
+      "canary": "ZQK0004",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0004",
+      "canary": "ZQK0004",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0004XYZ9",
+      "canary": "ZQK0004",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000004",
+      "canary": "ZQK0004",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "5 Canary-ZQK0004 Lane, Testville, TX 77000",
+      "canary": "ZQK0004",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "2/11/2026"
+  }
+}

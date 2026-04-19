@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Lyndon B Johnson Hospital (call 713-500-7878 for questions)
+Name: Ingrid Mogensen-ZQK0028
+Date of Birth: 09/13/1958
+Age: 78 years
+Home Address: 29 Canary-ZQK0028 Lane, Testville, TX 77000
+Cell: 555-010-0028
+Email: canary-zqk0028@example.invalid
+Medical Record Number: MRNZQK0028
+Member ID: INSZQK0028XYZ9
+Primary provider: Dr. Luber
+Diagnosis: viral gastroenteritis
+Your doctor prescribed ibuprofen 400 mg.
+Follow up on 2/18/2026.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00355",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0355",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Mogensen-ZQK0355",
+      "canary": "ZQK0355",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/08/1935",
+      "canary": "ZQK0355",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "85",
+      "canary": "ZQK0355",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-95-0355",
+      "canary": "ZQK0355",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0355",
+      "canary": "ZQK0355",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0355@example.invalid",
+      "canary": "ZQK0355",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0355",
+      "canary": "ZQK0355",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0355XYZ9",
+      "canary": "ZQK0355",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000355",
+      "canary": "ZQK0355",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "356 Canary-ZQK0355 Lane, Testville, TX 77000",
+      "canary": "ZQK0355",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "11/18/2026"
+  }
+}

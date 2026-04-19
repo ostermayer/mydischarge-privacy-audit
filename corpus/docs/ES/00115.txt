@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+UT Physicians Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Saoirse Chakrabarti-ZQK0115
+Fecha de Nacimiento: 07/28/1975    Edad: 85
+Número de Seguro Social: 900-35-0115
+Celular del paciente: 555-010-0115
+Correo del paciente: canary-zqk0115@example.invalid
+Dirección del Paciente: 116 Canary-ZQK0115 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0115
+Número de Seguro: INSZQK0115XYZ9
+Cuenta: 90000115
+
+Médico: Dr. Power
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome albuterol inhaler según indicación.
+Seguimiento: Cita el 4/12/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

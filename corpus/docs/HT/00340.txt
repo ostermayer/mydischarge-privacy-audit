@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Harris Health East Clinic
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Beatriz Quetzalcoatl-ZQK0340
+Dat Nesans: 05/04/1990   Laj: 70
+SSN: 900-80-0340
+Telefòn pasyan: 555-010-0340
+Email pasyan: canary-zqk0340@example.invalid
+Adrès Pasyan: 341 Canary-ZQK0340 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0340
+Nimewo Asirans: INSZQK0340XYZ9
+
+Doktè: Dr. Nguyen
+Dyagnostik: community-acquired pneumonia
+Medikaman: Pran albuterol inhaler jan yo preskri a.
+Swivi: Randevou 9/7/2026 ak doktè ou.

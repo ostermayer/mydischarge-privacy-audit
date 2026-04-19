@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Memorial Hermann Texas Medical Center
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Kwame Bergström-ZQK0418
+जन्म तिथि: 09/25/1998   आयु: 68
+सामाजिक सुरक्षा संख्या: 900-68-0418
+रोगी मोबाइल: 555-010-0418
+रोगी ईमेल: canary-zqk0418@example.invalid
+रोगी का पता: 419 Canary-ZQK0418 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0418
+बीमा संख्या: INSZQK0418XYZ9
+
+डॉक्टर: Dr. Nguyen
+निदान: uncomplicated cystitis
+दवा: amoxicillin 500 mg निर्देशानुसार लें।
+अनुवर्ती: 9/15/2026 को अपने डॉक्टर के पास जाएँ।

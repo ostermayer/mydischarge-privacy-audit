@@ -1,0 +1,5 @@
+stage,canary_leaks,canary_leak_rate,phi_literal_leaks,phi_literal_leak_rate,docs_any_leak
+raw_input,440,1.0000,4050,0.9205,440
+after_client_redaction,0,0.0000,0,0.0000,0
+after_server_sanitize,0,0.0000,0,0.0000,0
+sent_to_groq,0,0.0000,0,0.0000,0

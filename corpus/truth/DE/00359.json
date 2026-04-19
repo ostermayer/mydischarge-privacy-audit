@@ -1,0 +1,76 @@
+{
+  "doc_id": "00359",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0359",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Quetzalcoatl-ZQK0359",
+      "canary": "ZQK0359",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/14/1939",
+      "canary": "ZQK0359",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "89",
+      "canary": "ZQK0359",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-99-0359",
+      "canary": "ZQK0359",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0359",
+      "canary": "ZQK0359",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0359@example.invalid",
+      "canary": "ZQK0359",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0359",
+      "canary": "ZQK0359",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0359XYZ9",
+      "canary": "ZQK0359",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000359",
+      "canary": "ZQK0359",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "360 Canary-ZQK0359 Lane, Testville, TX 77000",
+      "canary": "ZQK0359",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "9/2/2026"
+  }
+}

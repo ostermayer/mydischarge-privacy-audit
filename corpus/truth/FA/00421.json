@@ -1,0 +1,76 @@
+{
+  "doc_id": "00421",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0421",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Oduya-ZQK0421",
+      "canary": "ZQK0421",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/24/1931",
+      "canary": "ZQK0421",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "71",
+      "canary": "ZQK0421",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-71-0421",
+      "canary": "ZQK0421",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0421",
+      "canary": "ZQK0421",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0421@example.invalid",
+      "canary": "ZQK0421",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0421",
+      "canary": "ZQK0421",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0421XYZ9",
+      "canary": "ZQK0421",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000421",
+      "canary": "ZQK0421",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "422 Canary-ZQK0421 Lane, Testville, TX 77000",
+      "canary": "ZQK0421",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "9/26/2026"
+  }
+}

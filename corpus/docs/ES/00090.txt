@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Ben Taub General Hospital
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Octavio Mogensen-ZQK0090
+Fecha de Nacimiento: 01/12/1950    Edad: 60
+Número de Seguro Social: 900-10-0090
+Celular del paciente: 555-010-0090
+Correo del paciente: canary-zqk0090@example.invalid
+Dirección del Paciente: 91 Canary-ZQK0090 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0090
+Número de Seguro: INSZQK0090XYZ9
+Cuenta: 90000090
+
+Médico: Dr. Nguyen
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome metoprolol 25 mg según indicación.
+Seguimiento: Cita el 4/4/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

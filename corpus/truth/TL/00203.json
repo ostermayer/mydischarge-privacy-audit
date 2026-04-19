@@ -1,0 +1,76 @@
+{
+  "doc_id": "00203",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0203",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Vranjevic-ZQK0203",
+      "canary": "ZQK0203",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/22/1993",
+      "canary": "ZQK0203",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "53",
+      "canary": "ZQK0203",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-33-0203",
+      "canary": "ZQK0203",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0203",
+      "canary": "ZQK0203",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0203@example.invalid",
+      "canary": "ZQK0203",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0203",
+      "canary": "ZQK0203",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0203XYZ9",
+      "canary": "ZQK0203",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000203",
+      "canary": "ZQK0203",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "204 Canary-ZQK0203 Lane, Testville, TX 77000",
+      "canary": "ZQK0203",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "6/26/2026"
+  }
+}

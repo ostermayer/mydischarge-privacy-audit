@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Ben Taub General Hospital
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Aleksandr Mogensen-ZQK0085
+Fecha de Nacimiento: 02/21/1945    Edad: 55
+Número de Seguro Social: 900-95-0085
+Celular del paciente: 555-010-0085
+Correo del paciente: canary-zqk0085@example.invalid
+Dirección del Paciente: 86 Canary-ZQK0085 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0085
+Número de Seguro: INSZQK0085XYZ9
+Cuenta: 90000085
+
+Médico: Dr. Luber
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome metoprolol 25 mg según indicación.
+Seguimiento: Cita el 3/23/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

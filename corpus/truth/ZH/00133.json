@@ -1,0 +1,76 @@
+{
+  "doc_id": "00133",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0133",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Tchaikovsky-ZQK0133",
+      "canary": "ZQK0133",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/19/1993",
+      "canary": "ZQK0133",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "63",
+      "canary": "ZQK0133",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-53-0133",
+      "canary": "ZQK0133",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0133",
+      "canary": "ZQK0133",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0133@example.invalid",
+      "canary": "ZQK0133",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0133",
+      "canary": "ZQK0133",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0133XYZ9",
+      "canary": "ZQK0133",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000133",
+      "canary": "ZQK0133",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "134 Canary-ZQK0133 Lane, Testville, TX 77000",
+      "canary": "ZQK0133",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "2/25/2026"
+  }
+}

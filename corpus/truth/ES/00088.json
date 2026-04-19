@@ -1,0 +1,76 @@
+{
+  "doc_id": "00088",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0088",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Chakrabarti-ZQK0088",
+      "canary": "ZQK0088",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/25/1948",
+      "canary": "ZQK0088",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "58",
+      "canary": "ZQK0088",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-98-0088",
+      "canary": "ZQK0088",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0088",
+      "canary": "ZQK0088",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0088@example.invalid",
+      "canary": "ZQK0088",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0088",
+      "canary": "ZQK0088",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0088XYZ9",
+      "canary": "ZQK0088",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000088",
+      "canary": "ZQK0088",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "89 Canary-ZQK0088 Lane, Testville, TX 77000",
+      "canary": "ZQK0088",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "4/26/2026"
+  }
+}

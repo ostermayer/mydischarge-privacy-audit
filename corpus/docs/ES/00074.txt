@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Bayshore Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Ximena Oduya-ZQK0074
+Fecha de Nacimiento: 11/25/1934    Edad: 84
+Número de Seguro Social: 900-84-0074
+Celular del paciente: 555-010-0074
+Correo del paciente: canary-zqk0074@example.invalid
+Dirección del Paciente: 75 Canary-ZQK0074 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0074
+Número de Seguro: INSZQK0074XYZ9
+Cuenta: 90000074
+
+Médico: Dr. Luber
+Diagnóstico: acute bronchitis
+Medicamento: Tome ondansetron 4 mg según indicación.
+Seguimiento: Cita el 5/2/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

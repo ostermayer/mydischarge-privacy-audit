@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Lyndon B Johnson Hospital
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Ximena Oduya-ZQK0072
+Fecha de Nacimiento: 11/04/1932    Edad: 82
+Número de Seguro Social: 900-82-0072
+Celular del paciente: 555-010-0072
+Correo del paciente: canary-zqk0072@example.invalid
+Dirección del Paciente: 73 Canary-ZQK0072 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0072
+Número de Seguro: INSZQK0072XYZ9
+Cuenta: 90000072
+
+Médico: Dr. Luber
+Diagnóstico: musculoskeletal strain
+Medicamento: Tome ibuprofen 400 mg según indicación.
+Seguimiento: Cita el 12/6/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

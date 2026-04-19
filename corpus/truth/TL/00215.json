@@ -1,0 +1,76 @@
+{
+  "doc_id": "00215",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0215",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Tchaikovsky-ZQK0215",
+      "canary": "ZQK0215",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/27/1935",
+      "canary": "ZQK0215",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "65",
+      "canary": "ZQK0215",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-45-0215",
+      "canary": "ZQK0215",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0215",
+      "canary": "ZQK0215",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0215@example.invalid",
+      "canary": "ZQK0215",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0215",
+      "canary": "ZQK0215",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0215XYZ9",
+      "canary": "ZQK0215",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000215",
+      "canary": "ZQK0215",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "216 Canary-ZQK0215 Lane, Testville, TX 77000",
+      "canary": "ZQK0215",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "4/26/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00388",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0388",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Mogensen-ZQK0388",
+      "canary": "ZQK0388",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/02/1968",
+      "canary": "ZQK0388",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "78",
+      "canary": "ZQK0388",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-38-0388",
+      "canary": "ZQK0388",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0388",
+      "canary": "ZQK0388",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0388@example.invalid",
+      "canary": "ZQK0388",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0388",
+      "canary": "ZQK0388",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0388XYZ9",
+      "canary": "ZQK0388",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000388",
+      "canary": "ZQK0388",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "389 Canary-ZQK0388 Lane, Testville, TX 77000",
+      "canary": "ZQK0388",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "6/12/2026"
+  }
+}

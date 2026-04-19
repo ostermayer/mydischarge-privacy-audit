@@ -1,0 +1,76 @@
+{
+  "doc_id": "00352",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0352",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Bergström-ZQK0352",
+      "canary": "ZQK0352",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/28/1932",
+      "canary": "ZQK0352",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "82",
+      "canary": "ZQK0352",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-92-0352",
+      "canary": "ZQK0352",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0352",
+      "canary": "ZQK0352",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0352@example.invalid",
+      "canary": "ZQK0352",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0352",
+      "canary": "ZQK0352",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0352XYZ9",
+      "canary": "ZQK0352",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000352",
+      "canary": "ZQK0352",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "353 Canary-ZQK0352 Lane, Testville, TX 77000",
+      "canary": "ZQK0352",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "9/16/2026"
+  }
+}

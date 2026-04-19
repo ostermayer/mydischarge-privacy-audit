@@ -1,0 +1,16 @@
+{
+  "name": "mydischarge-privacy-validation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Empirical privacy validation test suite for the MyDischarge app.",
+  "scripts": {
+    "generate": "node generate_corpus.js",
+    "eval": "node eval_redaction.js",
+    "egress": "node eval_egress.js",
+    "all": "npm run generate && npm run eval && npm run egress && node summarize.js"
+  },
+  "dependencies": {
+    "seedrandom": "^3.0.5"
+  }
+}

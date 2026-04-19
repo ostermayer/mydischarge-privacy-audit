@@ -1,0 +1,76 @@
+{
+  "doc_id": "00143",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0143",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Quetzalcoatl-ZQK0143",
+      "canary": "ZQK0143",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/24/1933",
+      "canary": "ZQK0143",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "73",
+      "canary": "ZQK0143",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-63-0143",
+      "canary": "ZQK0143",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0143",
+      "canary": "ZQK0143",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0143@example.invalid",
+      "canary": "ZQK0143",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0143",
+      "canary": "ZQK0143",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0143XYZ9",
+      "canary": "ZQK0143",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000143",
+      "canary": "ZQK0143",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "144 Canary-ZQK0143 Lane, Testville, TX 77000",
+      "canary": "ZQK0143",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "11/21/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00287",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0287",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Bergström-ZQK0287",
+      "canary": "ZQK0287",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/07/1937",
+      "canary": "ZQK0287",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0287",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-27-0287",
+      "canary": "ZQK0287",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0287",
+      "canary": "ZQK0287",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0287@example.invalid",
+      "canary": "ZQK0287",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0287",
+      "canary": "ZQK0287",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0287XYZ9",
+      "canary": "ZQK0287",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000287",
+      "canary": "ZQK0287",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "288 Canary-ZQK0287 Lane, Testville, TX 77000",
+      "canary": "ZQK0287",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "3/21/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00073",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0073",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Mogensen-ZQK0073",
+      "canary": "ZQK0073",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/10/1933",
+      "canary": "ZQK0073",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "83",
+      "canary": "ZQK0073",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-83-0073",
+      "canary": "ZQK0073",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0073",
+      "canary": "ZQK0073",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0073@example.invalid",
+      "canary": "ZQK0073",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0073",
+      "canary": "ZQK0073",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0073XYZ9",
+      "canary": "ZQK0073",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000073",
+      "canary": "ZQK0073",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "74 Canary-ZQK0073 Lane, Testville, TX 77000",
+      "canary": "ZQK0073",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "10/28/2026"
+  }
+}

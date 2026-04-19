@@ -1,0 +1,76 @@
+{
+  "doc_id": "00005",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0005",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Oduya-ZQK0005",
+      "canary": "ZQK0005",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/13/1935",
+      "canary": "ZQK0005",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "55",
+      "canary": "ZQK0005",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-15-0005",
+      "canary": "ZQK0005",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0005",
+      "canary": "ZQK0005",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0005@example.invalid",
+      "canary": "ZQK0005",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0005",
+      "canary": "ZQK0005",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0005XYZ9",
+      "canary": "ZQK0005",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000005",
+      "canary": "ZQK0005",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "6 Canary-ZQK0005 Lane, Testville, TX 77000",
+      "canary": "ZQK0005",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "10/18/2026"
+  }
+}

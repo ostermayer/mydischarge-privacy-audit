@@ -1,0 +1,76 @@
+{
+  "doc_id": "00148",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0148",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Oduya-ZQK0148",
+      "canary": "ZQK0148",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/09/1938",
+      "canary": "ZQK0148",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "78",
+      "canary": "ZQK0148",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-68-0148",
+      "canary": "ZQK0148",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0148",
+      "canary": "ZQK0148",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0148@example.invalid",
+      "canary": "ZQK0148",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0148",
+      "canary": "ZQK0148",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0148XYZ9",
+      "canary": "ZQK0148",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000148",
+      "canary": "ZQK0148",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "149 Canary-ZQK0148 Lane, Testville, TX 77000",
+      "canary": "ZQK0148",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "9/9/2026"
+  }
+}

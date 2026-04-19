@@ -1,0 +1,76 @@
+{
+  "doc_id": "00201",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0201",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Papadimitriou-ZQK0201",
+      "canary": "ZQK0201",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/05/1991",
+      "canary": "ZQK0201",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0201",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-31-0201",
+      "canary": "ZQK0201",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0201",
+      "canary": "ZQK0201",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0201@example.invalid",
+      "canary": "ZQK0201",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0201",
+      "canary": "ZQK0201",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0201XYZ9",
+      "canary": "ZQK0201",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000201",
+      "canary": "ZQK0201",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "202 Canary-ZQK0201 Lane, Testville, TX 77000",
+      "canary": "ZQK0201",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "12/3/2026"
+  }
+}

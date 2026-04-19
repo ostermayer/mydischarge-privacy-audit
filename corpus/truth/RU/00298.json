@@ -1,0 +1,76 @@
+{
+  "doc_id": "00298",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0298",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Bergström-ZQK0298",
+      "canary": "ZQK0298",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/15/1948",
+      "canary": "ZQK0298",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0298",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-38-0298",
+      "canary": "ZQK0298",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0298",
+      "canary": "ZQK0298",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0298@example.invalid",
+      "canary": "ZQK0298",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0298",
+      "canary": "ZQK0298",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0298XYZ9",
+      "canary": "ZQK0298",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000298",
+      "canary": "ZQK0298",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "299 Canary-ZQK0298 Lane, Testville, TX 77000",
+      "canary": "ZQK0298",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "5/10/2026"
+  }
+}

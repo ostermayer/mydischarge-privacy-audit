@@ -1,0 +1,76 @@
+{
+  "doc_id": "00322",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0322",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Oduya-ZQK0322",
+      "canary": "ZQK0322",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/17/1972",
+      "canary": "ZQK0322",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "52",
+      "canary": "ZQK0322",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-62-0322",
+      "canary": "ZQK0322",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0322",
+      "canary": "ZQK0322",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0322@example.invalid",
+      "canary": "ZQK0322",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0322",
+      "canary": "ZQK0322",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0322XYZ9",
+      "canary": "ZQK0322",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000322",
+      "canary": "ZQK0322",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "323 Canary-ZQK0322 Lane, Testville, TX 77000",
+      "canary": "ZQK0322",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "9/24/2026"
+  }
+}

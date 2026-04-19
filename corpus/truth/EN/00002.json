@@ -1,0 +1,76 @@
+{
+  "doc_id": "00002",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0002",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Papadimitriou-ZQK0002",
+      "canary": "ZQK0002",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/28/1932",
+      "canary": "ZQK0002",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "52",
+      "canary": "ZQK0002",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-12-0002",
+      "canary": "ZQK0002",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0002",
+      "canary": "ZQK0002",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0002@example.invalid",
+      "canary": "ZQK0002",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0002",
+      "canary": "ZQK0002",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0002XYZ9",
+      "canary": "ZQK0002",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000002",
+      "canary": "ZQK0002",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "3 Canary-ZQK0002 Lane, Testville, TX 77000",
+      "canary": "ZQK0002",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "7/7/2026"
+  }
+}

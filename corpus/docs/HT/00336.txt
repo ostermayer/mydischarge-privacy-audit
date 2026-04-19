@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Ben Taub General Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Yumiko Hvidberg-ZQK0336
+Dat Nesans: 06/23/1986   Laj: 66
+SSN: 900-76-0336
+Telefòn pasyan: 555-010-0336
+Email pasyan: canary-zqk0336@example.invalid
+Adrès Pasyan: 337 Canary-ZQK0336 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0336
+Nimewo Asirans: INSZQK0336XYZ9
+
+Doktè: Dr. Rodriguez
+Dyagnostik: community-acquired pneumonia
+Medikaman: Pran albuterol inhaler jan yo preskri a.
+Swivi: Randevou 4/27/2026 ak doktè ou.

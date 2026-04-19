@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: UT Physicians Clinic
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Yumiko Papadimitriou-ZQK0364
+Geburtsdatum: 03/28/1944   Alter: 54
+Sozialversicherungsnummer: 900-14-0364
+Handy Patient: 555-010-0364
+Email Patient: canary-zqk0364@example.invalid
+Patientenadresse: 365 Canary-ZQK0364 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0364
+Versicherungsnummer: INSZQK0364XYZ9
+
+Arzt: Dr. Luber
+Diagnose: acute otitis media
+Medikament: Nehmen Sie ondansetron 4 mg wie verordnet.
+Termin: 4/5/2026 bei Ihrem Arzt.

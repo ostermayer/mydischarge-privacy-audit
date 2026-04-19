@@ -1,0 +1,76 @@
+{
+  "doc_id": "00230",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0230",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Quetzalcoatl-ZQK0230",
+      "canary": "ZQK0230",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/06/1950",
+      "canary": "ZQK0230",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "80",
+      "canary": "ZQK0230",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-60-0230",
+      "canary": "ZQK0230",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0230",
+      "canary": "ZQK0230",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0230@example.invalid",
+      "canary": "ZQK0230",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0230",
+      "canary": "ZQK0230",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0230XYZ9",
+      "canary": "ZQK0230",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000230",
+      "canary": "ZQK0230",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "231 Canary-ZQK0230 Lane, Testville, TX 77000",
+      "canary": "ZQK0230",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "1/27/2026"
+  }
+}

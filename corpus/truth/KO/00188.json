@@ -1,0 +1,76 @@
+{
+  "doc_id": "00188",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0188",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Mogensen-ZQK0188",
+      "canary": "ZQK0188",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/04/1978",
+      "canary": "ZQK0188",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "78",
+      "canary": "ZQK0188",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-18-0188",
+      "canary": "ZQK0188",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0188",
+      "canary": "ZQK0188",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0188@example.invalid",
+      "canary": "ZQK0188",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0188",
+      "canary": "ZQK0188",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0188XYZ9",
+      "canary": "ZQK0188",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000188",
+      "canary": "ZQK0188",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "189 Canary-ZQK0188 Lane, Testville, TX 77000",
+      "canary": "ZQK0188",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "4/14/2026"
+  }
+}

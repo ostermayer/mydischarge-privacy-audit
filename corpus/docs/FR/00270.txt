@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Ben Taub General Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Priyanka Papadimitriou-ZQK0270
+Date de Naissance: 06/10/1990   Âge: 80
+Numéro de Sécurité Sociale: 900-10-0270
+Portable patient: 555-010-0270
+Email patient: canary-zqk0270@example.invalid
+Adresse du Patient: 271 Canary-ZQK0270 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0270
+Numéro d'Assurance: INSZQK0270XYZ9
+
+Médecin: Dr. Fischer
+Diagnostic: acute otitis media
+Médicament: Prenez acetaminophen 650 mg selon prescription.
+Rendez-vous: 10/14/2026 avec votre médecin.

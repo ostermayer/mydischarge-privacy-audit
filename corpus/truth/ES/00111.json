@@ -1,0 +1,76 @@
+{
+  "doc_id": "00111",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0111",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Ashworth-ZQK0111",
+      "canary": "ZQK0111",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/07/1971",
+      "canary": "ZQK0111",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "81",
+      "canary": "ZQK0111",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-31-0111",
+      "canary": "ZQK0111",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0111",
+      "canary": "ZQK0111",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0111@example.invalid",
+      "canary": "ZQK0111",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0111",
+      "canary": "ZQK0111",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0111XYZ9",
+      "canary": "ZQK0111",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000111",
+      "canary": "ZQK0111",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "112 Canary-ZQK0111 Lane, Testville, TX 77000",
+      "canary": "ZQK0111",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "1/17/2026"
+  }
+}

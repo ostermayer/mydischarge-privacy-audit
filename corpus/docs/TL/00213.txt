@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Memorial Hermann Texas Medical Center
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Priyanka Papadimitriou-ZQK0213
+Petsa ng Kapanganakan: 01/06/1933   Edad: 63
+SSN: 900-43-0213
+Telepono ng pasyente: 555-010-0213
+Email: canary-zqk0213@example.invalid
+Tirahan: 214 Canary-ZQK0213 Lane, Testville, TX 77000
+MRN: MRNZQK0213
+Insurance ID: INSZQK0213XYZ9
+
+Doktor: Dr. Fischer
+Diagnosis: community-acquired pneumonia
+Gamot: Inumin ang albuterol inhaler ayon sa reseta.
+Follow-up: 5/25/2026 kasama ang inyong doktor.

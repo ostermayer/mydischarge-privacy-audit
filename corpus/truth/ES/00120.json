@@ -1,0 +1,76 @@
+{
+  "doc_id": "00120",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0120",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Papadimitriou-ZQK0120",
+      "canary": "ZQK0120",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/14/1980",
+      "canary": "ZQK0120",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "50",
+      "canary": "ZQK0120",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-40-0120",
+      "canary": "ZQK0120",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0120",
+      "canary": "ZQK0120",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0120@example.invalid",
+      "canary": "ZQK0120",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0120",
+      "canary": "ZQK0120",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0120XYZ9",
+      "canary": "ZQK0120",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000120",
+      "canary": "ZQK0120",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "121 Canary-ZQK0120 Lane, Testville, TX 77000",
+      "canary": "ZQK0120",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "7/1/2026"
+  }
+}

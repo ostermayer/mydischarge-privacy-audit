@@ -1,0 +1,17 @@
+救急科退院指示
+病院: Memorial Hermann Texas Medical Center
+病院電話: 713-500-7878
+
+患者氏名: Octavio Chakrabarti-ZQK0399
+生年月日: 07/04/1979   年齢: 89
+社会保障番号: 900-49-0399
+患者携帯: 555-010-0399
+患者メール: canary-zqk0399@example.invalid
+患者住所: 400 Canary-ZQK0399 Lane, Testville, TX 77000
+患者番号: MRNZQK0399
+保険証番号: INSZQK0399XYZ9
+
+担当医: Dr. Nguyen
+診断: community-acquired pneumonia
+薬: 処方通り acetaminophen 650 mg を服用してください。
+受診予約: 5/6/2026 に主治医を受診してください。

@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Memorial Hermann Texas Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Octavio Oduya-ZQK0307
+Data de Nascimento: 07/17/1957   Idade: 77
+CPF: 900-47-0307
+Celular do paciente: 555-010-0307
+Email do paciente: canary-zqk0307@example.invalid
+Endereço do Paciente: 308 Canary-ZQK0307 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0307
+Número do Seguro: INSZQK0307XYZ9
+
+Médico: Dr. Nguyen
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome ondansetron 4 mg conforme prescrito.
+Retorno: Consulta em 8/20/2026 com seu médico.

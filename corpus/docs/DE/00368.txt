@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: UT Physicians Clinic
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Kwame Ashworth-ZQK0368
+Geburtsdatum: 12/26/1948   Alter: 58
+Sozialversicherungsnummer: 900-18-0368
+Handy Patient: 555-010-0368
+Email Patient: canary-zqk0368@example.invalid
+Patientenadresse: 369 Canary-ZQK0368 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0368
+Versicherungsnummer: INSZQK0368XYZ9
+
+Arzt: Dr. Luber
+Diagnose: acute bronchitis
+Medikament: Nehmen Sie ibuprofen 400 mg wie verordnet.
+Termin: 7/9/2026 bei Ihrem Arzt.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00212",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0212",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Bergström-ZQK0212",
+      "canary": "ZQK0212",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/04/1932",
+      "canary": "ZQK0212",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "62",
+      "canary": "ZQK0212",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-42-0212",
+      "canary": "ZQK0212",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0212",
+      "canary": "ZQK0212",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0212@example.invalid",
+      "canary": "ZQK0212",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0212",
+      "canary": "ZQK0212",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0212XYZ9",
+      "canary": "ZQK0212",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000212",
+      "canary": "ZQK0212",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "213 Canary-ZQK0212 Lane, Testville, TX 77000",
+      "canary": "ZQK0212",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "6/27/2026"
+  }
+}

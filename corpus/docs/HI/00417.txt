@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Memorial Hermann Texas Medical Center
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Kwame Papadimitriou-ZQK0417
+जन्म तिथि: 06/13/1997   आयु: 67
+सामाजिक सुरक्षा संख्या: 900-67-0417
+रोगी मोबाइल: 555-010-0417
+रोगी ईमेल: canary-zqk0417@example.invalid
+रोगी का पता: 418 Canary-ZQK0417 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0417
+बीमा संख्या: INSZQK0417XYZ9
+
+डॉक्टर: Dr. Nguyen
+निदान: musculoskeletal strain
+दवा: metoprolol 25 mg निर्देशानुसार लें।
+अनुवर्ती: 10/2/2026 को अपने डॉक्टर के पास जाएँ।

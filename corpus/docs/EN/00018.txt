@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Bayshore Medical Center (call 713-500-7878 for questions)
+Name: Priyanka Oduya-ZQK0018
+Date of Birth: 12/25/1948
+Age: 68 years
+Home Address: 19 Canary-ZQK0018 Lane, Testville, TX 77000
+Cell: 555-010-0018
+Email: canary-zqk0018@example.invalid
+Medical Record Number: MRNZQK0018
+Member ID: INSZQK0018XYZ9
+Primary provider: Dr. Luber
+Diagnosis: community-acquired pneumonia
+Your doctor prescribed metoprolol 25 mg.
+Follow up on 4/22/2026.

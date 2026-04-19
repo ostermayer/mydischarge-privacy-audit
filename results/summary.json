@@ -1,0 +1,226 @@
+{
+  "generated_at": "2026-04-14T18:17:37.206Z",
+  "corpus": {
+    "total_docs": 440,
+    "total_phi": 4400,
+    "languages": [
+      "EN",
+      "ES",
+      "ZH",
+      "VI",
+      "KO",
+      "TL",
+      "AR",
+      "FR",
+      "RU",
+      "PT",
+      "HT",
+      "DE",
+      "JA",
+      "HI",
+      "FA"
+    ]
+  },
+  "redaction": {
+    "overall_recall": 1,
+    "overall_n": 4400,
+    "overall_removed": 4400,
+    "overall_leaked": 0,
+    "by_class": {
+      "name": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "dob": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "age": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "ssn": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "phone": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "email": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "mrn": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "insurance": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "account": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "address": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      }
+    },
+    "by_language": {
+      "EN": {
+        "tp": 600,
+        "fn": 0,
+        "recall": 1
+      },
+      "ES": {
+        "tp": 600,
+        "fn": 0,
+        "recall": 1
+      },
+      "ZH": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "VI": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "KO": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "TL": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "AR": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "FR": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "RU": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "PT": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "HT": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "DE": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "JA": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "HI": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "FA": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      }
+    },
+    "provider_keep_rate": {
+      "hospital_name": 0.9090909090909091,
+      "doctor_name": 1,
+      "medication": 0.8227272727272728,
+      "diagnosis": 1,
+      "appointment_date": 0.9318181818181818,
+      "hospital_phone": 0.9090909090909091
+    },
+    "doc_canary_leaks": 0,
+    "latency_ms": {
+      "n": 440,
+      "min": 0.08,
+      "median": 0.161291,
+      "p95": 0.232416,
+      "max": 3.802916,
+      "mean": 0.17998871136363626
+    }
+  },
+  "egress_pipeline": {
+    "stages": {
+      "raw_input": {
+        "canary_leaks": 440,
+        "canary_leak_rate": 1,
+        "phi_literal_leaks": 4050,
+        "phi_literal_leak_rate": 0.9204545454545454,
+        "docs_any_leak": 440,
+        "docs_any_leak_rate": 1
+      },
+      "after_client_redaction": {
+        "canary_leaks": 0,
+        "canary_leak_rate": 0,
+        "phi_literal_leaks": 0,
+        "phi_literal_leak_rate": 0,
+        "docs_any_leak": 0,
+        "docs_any_leak_rate": 0
+      },
+      "after_server_sanitize": {
+        "canary_leaks": 0,
+        "canary_leak_rate": 0,
+        "phi_literal_leaks": 0,
+        "phi_literal_leak_rate": 0,
+        "docs_any_leak": 0,
+        "docs_any_leak_rate": 0
+      },
+      "sent_to_groq": {
+        "canary_leaks": 0,
+        "canary_leak_rate": 0,
+        "phi_literal_leaks": 0,
+        "phi_literal_leak_rate": 0,
+        "docs_any_leak": 0,
+        "docs_any_leak_rate": 0
+      }
+    },
+    "headline": "No PHI reached the LLM across all 440 synthetic discharge documents.",
+    "groq_input_leaks": 0,
+    "groq_input_phi_literal_leaks": 0,
+    "groq_input_docs_any_leak": 0
+  }
+}

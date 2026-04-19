@@ -1,0 +1,76 @@
+{
+  "doc_id": "00199",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0199",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Bergström-ZQK0199",
+      "canary": "ZQK0199",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/01/1989",
+      "canary": "ZQK0199",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "89",
+      "canary": "ZQK0199",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-29-0199",
+      "canary": "ZQK0199",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0199",
+      "canary": "ZQK0199",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0199@example.invalid",
+      "canary": "ZQK0199",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0199",
+      "canary": "ZQK0199",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0199XYZ9",
+      "canary": "ZQK0199",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000199",
+      "canary": "ZQK0199",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "200 Canary-ZQK0199 Lane, Testville, TX 77000",
+      "canary": "ZQK0199",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "8/28/2026"
+  }
+}

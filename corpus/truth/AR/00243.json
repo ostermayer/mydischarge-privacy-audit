@@ -1,0 +1,76 @@
+{
+  "doc_id": "00243",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0243",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Ashworth-ZQK0243",
+      "canary": "ZQK0243",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/03/1963",
+      "canary": "ZQK0243",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "53",
+      "canary": "ZQK0243",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-73-0243",
+      "canary": "ZQK0243",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0243",
+      "canary": "ZQK0243",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0243@example.invalid",
+      "canary": "ZQK0243",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0243",
+      "canary": "ZQK0243",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0243XYZ9",
+      "canary": "ZQK0243",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000243",
+      "canary": "ZQK0243",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "244 Canary-ZQK0243 Lane, Testville, TX 77000",
+      "canary": "ZQK0243",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "8/18/2026"
+  }
+}

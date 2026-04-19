@@ -1,0 +1,76 @@
+{
+  "doc_id": "00094",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0094",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Hvidberg-ZQK0094",
+      "canary": "ZQK0094",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/25/1954",
+      "canary": "ZQK0094",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "64",
+      "canary": "ZQK0094",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-14-0094",
+      "canary": "ZQK0094",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0094",
+      "canary": "ZQK0094",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0094@example.invalid",
+      "canary": "ZQK0094",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0094",
+      "canary": "ZQK0094",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0094XYZ9",
+      "canary": "ZQK0094",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000094",
+      "canary": "ZQK0094",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "95 Canary-ZQK0094 Lane, Testville, TX 77000",
+      "canary": "ZQK0094",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "3/15/2026"
+  }
+}

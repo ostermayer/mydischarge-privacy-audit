@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Memorial Hermann Texas Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Yumiko Mogensen-ZQK0302
+Data de Nascimento: 10/24/1952   Idade: 72
+CPF: 900-42-0302
+Celular do paciente: 555-010-0302
+Email do paciente: canary-zqk0302@example.invalid
+Endereço do Paciente: 303 Canary-ZQK0302 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0302
+Número do Seguro: INSZQK0302XYZ9
+
+Médico: Dr. Patel
+Diagnóstico: acute bronchitis
+Medicamento: Tome albuterol inhaler conforme prescrito.
+Retorno: Consulta em 1/20/2026 com seu médico.

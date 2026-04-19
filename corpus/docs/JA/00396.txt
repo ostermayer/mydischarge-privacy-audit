@@ -1,0 +1,17 @@
+救急科退院指示
+病院: Bayshore Medical Center
+病院電話: 713-500-7878
+
+患者氏名: Priyanka Mogensen-ZQK0396
+生年月日: 11/23/1976   年齢: 86
+社会保障番号: 900-46-0396
+患者携帯: 555-010-0396
+患者メール: canary-zqk0396@example.invalid
+患者住所: 397 Canary-ZQK0396 Lane, Testville, TX 77000
+患者番号: MRNZQK0396
+保険証番号: INSZQK0396XYZ9
+
+担当医: Dr. Luber
+診断: acute bronchitis
+薬: 処方通り amoxicillin 500 mg を服用してください。
+受診予約: 5/20/2026 に主治医を受診してください。

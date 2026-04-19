@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Bayshore Medical Center (call 713-500-7878 for questions)
+Name: Bartholomew Chakrabarti-ZQK0010
+Date of Birth: 10/26/1940
+Age: 60 years
+Home Address: 11 Canary-ZQK0010 Lane, Testville, TX 77000
+Cell: 555-010-0010
+Email: canary-zqk0010@example.invalid
+Medical Record Number: MRNZQK0010
+Member ID: INSZQK0010XYZ9
+Primary provider: Dr. Nguyen
+Diagnosis: uncomplicated cystitis
+Your doctor prescribed ondansetron 4 mg.
+Follow up on 1/19/2026.

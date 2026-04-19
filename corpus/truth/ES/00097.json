@@ -1,0 +1,76 @@
+{
+  "doc_id": "00097",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0097",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Hvidberg-ZQK0097",
+      "canary": "ZQK0097",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/23/1957",
+      "canary": "ZQK0097",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "67",
+      "canary": "ZQK0097",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-17-0097",
+      "canary": "ZQK0097",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0097",
+      "canary": "ZQK0097",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0097@example.invalid",
+      "canary": "ZQK0097",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0097",
+      "canary": "ZQK0097",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0097XYZ9",
+      "canary": "ZQK0097",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000097",
+      "canary": "ZQK0097",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "98 Canary-ZQK0097 Lane, Testville, TX 77000",
+      "canary": "ZQK0097",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "1/11/2026"
+  }
+}

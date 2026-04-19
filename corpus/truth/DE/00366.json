@@ -1,0 +1,76 @@
+{
+  "doc_id": "00366",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0366",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Bergström-ZQK0366",
+      "canary": "ZQK0366",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/15/1946",
+      "canary": "ZQK0366",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "56",
+      "canary": "ZQK0366",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-16-0366",
+      "canary": "ZQK0366",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0366",
+      "canary": "ZQK0366",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0366@example.invalid",
+      "canary": "ZQK0366",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0366",
+      "canary": "ZQK0366",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0366XYZ9",
+      "canary": "ZQK0366",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000366",
+      "canary": "ZQK0366",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "367 Canary-ZQK0366 Lane, Testville, TX 77000",
+      "canary": "ZQK0366",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "11/15/2026"
+  }
+}

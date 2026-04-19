@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Lyndon B Johnson Hospital
+医院电话: 713-500-7878
+
+患者姓名: Aleksandr Tchaikovsky-ZQK0145
+出生日期: 05/06/1935   年龄: 75
+社会安全号: 900-65-0145
+患者手机: 555-010-0145
+患者邮箱: canary-zqk0145@example.invalid
+患者地址: 146 Canary-ZQK0145 Lane, Testville, TX 77000
+病历号: MRNZQK0145
+保险号: INSZQK0145XYZ9
+账号: 90000145
+
+主治医师: Dr. Fischer
+诊断: viral gastroenteritis
+药物: 按医嘱服用 albuterol inhaler。
+复诊: 请于 12/3/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

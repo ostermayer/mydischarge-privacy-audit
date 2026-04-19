@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Lyndon B Johnson Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Yumiko Oduya-ZQK0339
+Dat Nesans: 08/27/1989   Laj: 69
+SSN: 900-79-0339
+Telefòn pasyan: 555-010-0339
+Email pasyan: canary-zqk0339@example.invalid
+Adrès Pasyan: 340 Canary-ZQK0339 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0339
+Nimewo Asirans: INSZQK0339XYZ9
+
+Doktè: Dr. Nguyen
+Dyagnostik: uncomplicated cystitis
+Medikaman: Pran ibuprofen 400 mg jan yo preskri a.
+Swivi: Randevou 9/27/2026 ak doktè ou.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00161",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0161",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Tchaikovsky-ZQK0161",
+      "canary": "ZQK0161",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/26/1951",
+      "canary": "ZQK0161",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0161",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-81-0161",
+      "canary": "ZQK0161",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0161",
+      "canary": "ZQK0161",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0161@example.invalid",
+      "canary": "ZQK0161",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0161",
+      "canary": "ZQK0161",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0161XYZ9",
+      "canary": "ZQK0161",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000161",
+      "canary": "ZQK0161",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "162 Canary-ZQK0161 Lane, Testville, TX 77000",
+      "canary": "ZQK0161",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "2/21/2026"
+  }
+}

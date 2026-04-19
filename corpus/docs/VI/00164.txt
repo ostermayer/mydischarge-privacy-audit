@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Lyndon B Johnson Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Ximena Quetzalcoatl-ZQK0164
+Ngày sinh: 07/26/1954   Tuổi: 54
+Số an sinh xã hội: 900-84-0164
+Di động bệnh nhân: 555-010-0164
+Email bệnh nhân: canary-zqk0164@example.invalid
+Địa chỉ bệnh nhân: 165 Canary-ZQK0164 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0164
+Số thẻ bảo hiểm: INSZQK0164XYZ9
+
+Bác sĩ: Dr. Patel
+Chẩn đoán: acute otitis media
+Thuốc: Uống amoxicillin 500 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 4/7/2026 với bác sĩ của bạn.

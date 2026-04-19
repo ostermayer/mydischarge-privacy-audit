@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: UT Physicians Clinic (call 713-500-7878 for questions)
+Name: Tariq Mogensen-ZQK0032
+Date of Birth: 02/07/1962
+Age: 82 years
+Home Address: 33 Canary-ZQK0032 Lane, Testville, TX 77000
+Cell: 555-010-0032
+Email: canary-zqk0032@example.invalid
+Medical Record Number: MRNZQK0032
+Member ID: INSZQK0032XYZ9
+Primary provider: Dr. Ostermayer
+Diagnosis: community-acquired pneumonia
+Your doctor prescribed albuterol inhaler.
+Follow up on 6/27/2026.

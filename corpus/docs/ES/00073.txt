@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+UT Physicians Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Saoirse Mogensen-ZQK0073
+Fecha de Nacimiento: 04/10/1933    Edad: 83
+Número de Seguro Social: 900-83-0073
+Celular del paciente: 555-010-0073
+Correo del paciente: canary-zqk0073@example.invalid
+Dirección del Paciente: 74 Canary-ZQK0073 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0073
+Número de Seguro: INSZQK0073XYZ9
+Cuenta: 90000073
+
+Médico: Dr. Nguyen
+Diagnóstico: musculoskeletal strain
+Medicamento: Tome albuterol inhaler según indicación.
+Seguimiento: Cita el 10/28/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

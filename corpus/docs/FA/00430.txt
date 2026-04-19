@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Ben Taub General Hospital
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Aleksandr Tchaikovsky-ZQK0430
+تاریخ تولد: 07/24/1940   سن: 80
+شماره تأمین اجتماعی: 900-80-0430
+موبایل بیمار: 555-010-0430
+ایمیل بیمار: canary-zqk0430@example.invalid
+آدرس بیمار: 431 Canary-ZQK0430 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0430
+شماره بیمه: INSZQK0430XYZ9
+
+پزشک: Dr. Luber
+تشخیص: acute otitis media
+دارو: ibuprofen 400 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 8/22/2026 با پزشک خود.

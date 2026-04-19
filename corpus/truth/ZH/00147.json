@@ -1,0 +1,76 @@
+{
+  "doc_id": "00147",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0147",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Hvidberg-ZQK0147",
+      "canary": "ZQK0147",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/06/1937",
+      "canary": "ZQK0147",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "77",
+      "canary": "ZQK0147",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-67-0147",
+      "canary": "ZQK0147",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0147",
+      "canary": "ZQK0147",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0147@example.invalid",
+      "canary": "ZQK0147",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0147",
+      "canary": "ZQK0147",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0147XYZ9",
+      "canary": "ZQK0147",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000147",
+      "canary": "ZQK0147",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "148 Canary-ZQK0147 Lane, Testville, TX 77000",
+      "canary": "ZQK0147",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "3/17/2026"
+  }
+}

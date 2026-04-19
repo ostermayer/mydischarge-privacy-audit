@@ -1,0 +1,76 @@
+{
+  "doc_id": "00182",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0182",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Mogensen-ZQK0182",
+      "canary": "ZQK0182",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/14/1972",
+      "canary": "ZQK0182",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "72",
+      "canary": "ZQK0182",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-12-0182",
+      "canary": "ZQK0182",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0182",
+      "canary": "ZQK0182",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0182@example.invalid",
+      "canary": "ZQK0182",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0182",
+      "canary": "ZQK0182",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0182XYZ9",
+      "canary": "ZQK0182",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000182",
+      "canary": "ZQK0182",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "183 Canary-ZQK0182 Lane, Testville, TX 77000",
+      "canary": "ZQK0182",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "albuterol inhaler",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "10/14/2026"
+  }
+}

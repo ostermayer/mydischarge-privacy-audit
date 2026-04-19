@@ -1,0 +1,76 @@
+{
+  "doc_id": "00108",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0108",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Oduya-ZQK0108",
+      "canary": "ZQK0108",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/25/1968",
+      "canary": "ZQK0108",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "78",
+      "canary": "ZQK0108",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-28-0108",
+      "canary": "ZQK0108",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0108",
+      "canary": "ZQK0108",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0108@example.invalid",
+      "canary": "ZQK0108",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0108",
+      "canary": "ZQK0108",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0108XYZ9",
+      "canary": "ZQK0108",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000108",
+      "canary": "ZQK0108",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "109 Canary-ZQK0108 Lane, Testville, TX 77000",
+      "canary": "ZQK0108",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "10/25/2026"
+  }
+}

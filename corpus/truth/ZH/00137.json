@@ -1,0 +1,76 @@
+{
+  "doc_id": "00137",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0137",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Hvidberg-ZQK0137",
+      "canary": "ZQK0137",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/16/1997",
+      "canary": "ZQK0137",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "67",
+      "canary": "ZQK0137",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-57-0137",
+      "canary": "ZQK0137",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0137",
+      "canary": "ZQK0137",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0137@example.invalid",
+      "canary": "ZQK0137",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0137",
+      "canary": "ZQK0137",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0137XYZ9",
+      "canary": "ZQK0137",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000137",
+      "canary": "ZQK0137",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "138 Canary-ZQK0137 Lane, Testville, TX 77000",
+      "canary": "ZQK0137",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "8/27/2026"
+  }
+}

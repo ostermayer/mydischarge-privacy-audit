@@ -1,0 +1,76 @@
+{
+  "doc_id": "00290",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0290",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Chakrabarti-ZQK0290",
+      "canary": "ZQK0290",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/03/1940",
+      "canary": "ZQK0290",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "60",
+      "canary": "ZQK0290",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-30-0290",
+      "canary": "ZQK0290",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0290",
+      "canary": "ZQK0290",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0290@example.invalid",
+      "canary": "ZQK0290",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0290",
+      "canary": "ZQK0290",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0290XYZ9",
+      "canary": "ZQK0290",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000290",
+      "canary": "ZQK0290",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "291 Canary-ZQK0290 Lane, Testville, TX 77000",
+      "canary": "ZQK0290",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "5/17/2026"
+  }
+}

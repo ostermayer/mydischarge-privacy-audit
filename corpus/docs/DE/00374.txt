@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Ben Taub General Hospital
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Kwame Oduya-ZQK0374
+Geburtsdatum: 12/14/1954   Alter: 64
+Sozialversicherungsnummer: 900-24-0374
+Handy Patient: 555-010-0374
+Email Patient: canary-zqk0374@example.invalid
+Patientenadresse: 375 Canary-ZQK0374 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0374
+Versicherungsnummer: INSZQK0374XYZ9
+
+Arzt: Dr. Luber
+Diagnose: community-acquired pneumonia
+Medikament: Nehmen Sie albuterol inhaler wie verordnet.
+Termin: 5/24/2026 bei Ihrem Arzt.

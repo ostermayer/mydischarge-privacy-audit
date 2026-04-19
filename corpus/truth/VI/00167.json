@@ -1,0 +1,76 @@
+{
+  "doc_id": "00167",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0167",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Tchaikovsky-ZQK0167",
+      "canary": "ZQK0167",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/05/1957",
+      "canary": "ZQK0167",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0167",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-87-0167",
+      "canary": "ZQK0167",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0167",
+      "canary": "ZQK0167",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0167@example.invalid",
+      "canary": "ZQK0167",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0167",
+      "canary": "ZQK0167",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0167XYZ9",
+      "canary": "ZQK0167",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000167",
+      "canary": "ZQK0167",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "168 Canary-ZQK0167 Lane, Testville, TX 77000",
+      "canary": "ZQK0167",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "3/2/2026"
+  }
+}

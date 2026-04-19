@@ -1,0 +1,76 @@
+{
+  "doc_id": "00168",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0168",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Mogensen-ZQK0168",
+      "canary": "ZQK0168",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/04/1958",
+      "canary": "ZQK0168",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "58",
+      "canary": "ZQK0168",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-88-0168",
+      "canary": "ZQK0168",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0168",
+      "canary": "ZQK0168",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0168@example.invalid",
+      "canary": "ZQK0168",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0168",
+      "canary": "ZQK0168",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0168XYZ9",
+      "canary": "ZQK0168",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000168",
+      "canary": "ZQK0168",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "169 Canary-ZQK0168 Lane, Testville, TX 77000",
+      "canary": "ZQK0168",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/28/2026"
+  }
+}

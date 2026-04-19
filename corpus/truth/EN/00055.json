@@ -1,0 +1,76 @@
+{
+  "doc_id": "00055",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0055",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Vranjevic-ZQK0055",
+      "canary": "ZQK0055",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/07/1985",
+      "canary": "ZQK0055",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "65",
+      "canary": "ZQK0055",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-65-0055",
+      "canary": "ZQK0055",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0055",
+      "canary": "ZQK0055",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0055@example.invalid",
+      "canary": "ZQK0055",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0055",
+      "canary": "ZQK0055",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0055XYZ9",
+      "canary": "ZQK0055",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000055",
+      "canary": "ZQK0055",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "56 Canary-ZQK0055 Lane, Testville, TX 77000",
+      "canary": "ZQK0055",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "8/18/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00267",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0267",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Oduya-ZQK0267",
+      "canary": "ZQK0267",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/15/1987",
+      "canary": "ZQK0267",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "77",
+      "canary": "ZQK0267",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-97-0267",
+      "canary": "ZQK0267",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0267",
+      "canary": "ZQK0267",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0267@example.invalid",
+      "canary": "ZQK0267",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0267",
+      "canary": "ZQK0267",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0267XYZ9",
+      "canary": "ZQK0267",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000267",
+      "canary": "ZQK0267",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "268 Canary-ZQK0267 Lane, Testville, TX 77000",
+      "canary": "ZQK0267",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "8/17/2026"
+  }
+}

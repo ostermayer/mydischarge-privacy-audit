@@ -1,0 +1,76 @@
+{
+  "doc_id": "00339",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0339",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Oduya-ZQK0339",
+      "canary": "ZQK0339",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/27/1989",
+      "canary": "ZQK0339",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "69",
+      "canary": "ZQK0339",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-79-0339",
+      "canary": "ZQK0339",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0339",
+      "canary": "ZQK0339",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0339@example.invalid",
+      "canary": "ZQK0339",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0339",
+      "canary": "ZQK0339",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0339XYZ9",
+      "canary": "ZQK0339",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000339",
+      "canary": "ZQK0339",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "340 Canary-ZQK0339 Lane, Testville, TX 77000",
+      "canary": "ZQK0339",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "9/27/2026"
+  }
+}

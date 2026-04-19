@@ -1,0 +1,76 @@
+{
+  "doc_id": "00018",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0018",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Oduya-ZQK0018",
+      "canary": "ZQK0018",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/25/1948",
+      "canary": "ZQK0018",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0018",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-28-0018",
+      "canary": "ZQK0018",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0018",
+      "canary": "ZQK0018",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0018@example.invalid",
+      "canary": "ZQK0018",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0018",
+      "canary": "ZQK0018",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0018XYZ9",
+      "canary": "ZQK0018",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000018",
+      "canary": "ZQK0018",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "19 Canary-ZQK0018 Lane, Testville, TX 77000",
+      "canary": "ZQK0018",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/22/2026"
+  }
+}

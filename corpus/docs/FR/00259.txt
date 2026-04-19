@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: UT Physicians Clinic
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Octavio Ashworth-ZQK0259
+Date de Naissance: 12/07/1979   Âge: 69
+Numéro de Sécurité Sociale: 900-89-0259
+Portable patient: 555-010-0259
+Email patient: canary-zqk0259@example.invalid
+Adresse du Patient: 260 Canary-ZQK0259 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0259
+Numéro d'Assurance: INSZQK0259XYZ9
+
+Médecin: Dr. Fischer
+Diagnostic: viral gastroenteritis
+Médicament: Prenez albuterol inhaler selon prescription.
+Rendez-vous: 11/4/2026 avec votre médecin.

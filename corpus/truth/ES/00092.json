@@ -1,0 +1,76 @@
+{
+  "doc_id": "00092",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0092",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Papadimitriou-ZQK0092",
+      "canary": "ZQK0092",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/08/1952",
+      "canary": "ZQK0092",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "62",
+      "canary": "ZQK0092",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-12-0092",
+      "canary": "ZQK0092",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0092",
+      "canary": "ZQK0092",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0092@example.invalid",
+      "canary": "ZQK0092",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0092",
+      "canary": "ZQK0092",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0092XYZ9",
+      "canary": "ZQK0092",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000092",
+      "canary": "ZQK0092",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "93 Canary-ZQK0092 Lane, Testville, TX 77000",
+      "canary": "ZQK0092",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "2/11/2026"
+  }
+}

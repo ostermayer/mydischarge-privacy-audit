@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Harris Health East Clinic
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Ximena Tchaikovsky-ZQK0422
+تاریخ تولد: 05/15/1932   سن: 72
+شماره تأمین اجتماعی: 900-72-0422
+موبایل بیمار: 555-010-0422
+ایمیل بیمار: canary-zqk0422@example.invalid
+آدرس بیمار: 423 Canary-ZQK0422 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0422
+شماره بیمه: INSZQK0422XYZ9
+
+پزشک: Dr. Nguyen
+تشخیص: uncomplicated cystitis
+دارو: acetaminophen 650 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 7/19/2026 با پزشک خود.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00430",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0430",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Tchaikovsky-ZQK0430",
+      "canary": "ZQK0430",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/24/1940",
+      "canary": "ZQK0430",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "80",
+      "canary": "ZQK0430",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-80-0430",
+      "canary": "ZQK0430",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0430",
+      "canary": "ZQK0430",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0430@example.invalid",
+      "canary": "ZQK0430",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0430",
+      "canary": "ZQK0430",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0430XYZ9",
+      "canary": "ZQK0430",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000430",
+      "canary": "ZQK0430",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "431 Canary-ZQK0430 Lane, Testville, TX 77000",
+      "canary": "ZQK0430",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "8/22/2026"
+  }
+}

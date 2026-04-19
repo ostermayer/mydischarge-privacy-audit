@@ -1,0 +1,76 @@
+{
+  "doc_id": "00416",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0416",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Tchaikovsky-ZQK0416",
+      "canary": "ZQK0416",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/18/1996",
+      "canary": "ZQK0416",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "66",
+      "canary": "ZQK0416",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-66-0416",
+      "canary": "ZQK0416",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0416",
+      "canary": "ZQK0416",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0416@example.invalid",
+      "canary": "ZQK0416",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0416",
+      "canary": "ZQK0416",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0416XYZ9",
+      "canary": "ZQK0416",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000416",
+      "canary": "ZQK0416",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "417 Canary-ZQK0416 Lane, Testville, TX 77000",
+      "canary": "ZQK0416",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "10/6/2026"
+  }
+}

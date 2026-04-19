@@ -1,0 +1,76 @@
+{
+  "doc_id": "00024",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0024",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Bergström-ZQK0024",
+      "canary": "ZQK0024",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/11/1954",
+      "canary": "ZQK0024",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "74",
+      "canary": "ZQK0024",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-34-0024",
+      "canary": "ZQK0024",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0024",
+      "canary": "ZQK0024",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0024@example.invalid",
+      "canary": "ZQK0024",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0024",
+      "canary": "ZQK0024",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0024XYZ9",
+      "canary": "ZQK0024",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000024",
+      "canary": "ZQK0024",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "25 Canary-ZQK0024 Lane, Testville, TX 77000",
+      "canary": "ZQK0024",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "2/5/2026"
+  }
+}

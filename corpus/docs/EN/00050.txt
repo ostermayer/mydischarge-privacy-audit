@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Ben Taub General Hospital (call 713-500-7878 for questions)
+Name: Kwame Tchaikovsky-ZQK0050
+Date of Birth: 06/19/1980
+Age: 60 years
+Home Address: 51 Canary-ZQK0050 Lane, Testville, TX 77000
+Cell: 555-010-0050
+Email: canary-zqk0050@example.invalid
+Medical Record Number: MRNZQK0050
+Member ID: INSZQK0050XYZ9
+Primary provider: Dr. Rodriguez
+Diagnosis: community-acquired pneumonia
+Your doctor prescribed ondansetron 4 mg.
+Follow up on 12/17/2026.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00175",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0175",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Mogensen-ZQK0175",
+      "canary": "ZQK0175",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/14/1965",
+      "canary": "ZQK0175",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "65",
+      "canary": "ZQK0175",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-95-0175",
+      "canary": "ZQK0175",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0175",
+      "canary": "ZQK0175",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0175@example.invalid",
+      "canary": "ZQK0175",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0175",
+      "canary": "ZQK0175",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0175XYZ9",
+      "canary": "ZQK0175",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000175",
+      "canary": "ZQK0175",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "176 Canary-ZQK0175 Lane, Testville, TX 77000",
+      "canary": "ZQK0175",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "8/17/2026"
+  }
+}

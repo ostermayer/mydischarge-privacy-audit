@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Memorial Hermann Texas Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Saoirse Papadimitriou-ZQK0087
+Fecha de Nacimiento: 04/03/1947    Edad: 57
+Número de Seguro Social: 900-97-0087
+Celular del paciente: 555-010-0087
+Correo del paciente: canary-zqk0087@example.invalid
+Dirección del Paciente: 88 Canary-ZQK0087 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0087
+Número de Seguro: INSZQK0087XYZ9
+Cuenta: 90000087
+
+Médico: Dr. Ostermayer
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome amoxicillin 500 mg según indicación.
+Seguimiento: Cita el 4/12/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

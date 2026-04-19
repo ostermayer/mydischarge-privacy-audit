@@ -1,0 +1,76 @@
+{
+  "doc_id": "00170",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0170",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Tchaikovsky-ZQK0170",
+      "canary": "ZQK0170",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/14/1960",
+      "canary": "ZQK0170",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "60",
+      "canary": "ZQK0170",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-90-0170",
+      "canary": "ZQK0170",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0170",
+      "canary": "ZQK0170",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0170@example.invalid",
+      "canary": "ZQK0170",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0170",
+      "canary": "ZQK0170",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0170XYZ9",
+      "canary": "ZQK0170",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000170",
+      "canary": "ZQK0170",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "171 Canary-ZQK0170 Lane, Testville, TX 77000",
+      "canary": "ZQK0170",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "5/23/2026"
+  }
+}

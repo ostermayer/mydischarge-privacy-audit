@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Bayshore Medical Center (call 713-500-7878 for questions)
+Name: Aleksandr Papadimitriou-ZQK0002
+Date of Birth: 12/28/1932
+Age: 52 years
+Home Address: 3 Canary-ZQK0002 Lane, Testville, TX 77000
+Cell: 555-010-0002
+Email: canary-zqk0002@example.invalid
+Medical Record Number: MRNZQK0002
+Member ID: INSZQK0002XYZ9
+Primary provider: Dr. Nguyen
+Diagnosis: musculoskeletal strain
+Your doctor prescribed amoxicillin 500 mg.
+Follow up on 7/7/2026.

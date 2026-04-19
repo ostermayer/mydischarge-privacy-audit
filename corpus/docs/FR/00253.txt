@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Bayshore Medical Center
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Beatriz Hvidberg-ZQK0253
+Date de Naissance: 07/03/1973   Âge: 63
+Numéro de Sécurité Sociale: 900-83-0253
+Portable patient: 555-010-0253
+Email patient: canary-zqk0253@example.invalid
+Adresse du Patient: 254 Canary-ZQK0253 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0253
+Numéro d'Assurance: INSZQK0253XYZ9
+
+Médecin: Dr. Ostermayer
+Diagnostic: musculoskeletal strain
+Médicament: Prenez ondansetron 4 mg selon prescription.
+Rendez-vous: 5/14/2026 avec votre médecin.

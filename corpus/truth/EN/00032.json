@@ -1,0 +1,76 @@
+{
+  "doc_id": "00032",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0032",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Mogensen-ZQK0032",
+      "canary": "ZQK0032",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/07/1962",
+      "canary": "ZQK0032",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "82",
+      "canary": "ZQK0032",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-42-0032",
+      "canary": "ZQK0032",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0032",
+      "canary": "ZQK0032",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0032@example.invalid",
+      "canary": "ZQK0032",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0032",
+      "canary": "ZQK0032",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0032XYZ9",
+      "canary": "ZQK0032",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000032",
+      "canary": "ZQK0032",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "33 Canary-ZQK0032 Lane, Testville, TX 77000",
+      "canary": "ZQK0032",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "6/27/2026"
+  }
+}

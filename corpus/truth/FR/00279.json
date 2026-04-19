@@ -1,0 +1,76 @@
+{
+  "doc_id": "00279",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0279",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Oduya-ZQK0279",
+      "canary": "ZQK0279",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/09/1999",
+      "canary": "ZQK0279",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "89",
+      "canary": "ZQK0279",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-19-0279",
+      "canary": "ZQK0279",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0279",
+      "canary": "ZQK0279",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0279@example.invalid",
+      "canary": "ZQK0279",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0279",
+      "canary": "ZQK0279",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0279XYZ9",
+      "canary": "ZQK0279",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000279",
+      "canary": "ZQK0279",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "280 Canary-ZQK0279 Lane, Testville, TX 77000",
+      "canary": "ZQK0279",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "12/18/2026"
+  }
+}

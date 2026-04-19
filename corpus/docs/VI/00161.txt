@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Harris Health East Clinic
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Tariq Tchaikovsky-ZQK0161
+Ngày sinh: 05/26/1951   Tuổi: 51
+Số an sinh xã hội: 900-81-0161
+Di động bệnh nhân: 555-010-0161
+Email bệnh nhân: canary-zqk0161@example.invalid
+Địa chỉ bệnh nhân: 162 Canary-ZQK0161 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0161
+Số thẻ bảo hiểm: INSZQK0161XYZ9
+
+Bác sĩ: Dr. Nguyen
+Chẩn đoán: community-acquired pneumonia
+Thuốc: Uống amoxicillin 500 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 2/21/2026 với bác sĩ của bạn.

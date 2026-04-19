@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: UT Physicians Clinic
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Yumiko Tchaikovsky-ZQK0215
+Petsa ng Kapanganakan: 02/27/1935   Edad: 65
+SSN: 900-45-0215
+Telepono ng pasyente: 555-010-0215
+Email: canary-zqk0215@example.invalid
+Tirahan: 216 Canary-ZQK0215 Lane, Testville, TX 77000
+MRN: MRNZQK0215
+Insurance ID: INSZQK0215XYZ9
+
+Doktor: Dr. Nguyen
+Diagnosis: uncomplicated cystitis
+Gamot: Inumin ang amoxicillin 500 mg ayon sa reseta.
+Follow-up: 4/26/2026 kasama ang inyong doktor.

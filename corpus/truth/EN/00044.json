@@ -1,0 +1,76 @@
+{
+  "doc_id": "00044",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0044",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Vranjevic-ZQK0044",
+      "canary": "ZQK0044",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/03/1974",
+      "canary": "ZQK0044",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "54",
+      "canary": "ZQK0044",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-54-0044",
+      "canary": "ZQK0044",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0044",
+      "canary": "ZQK0044",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0044@example.invalid",
+      "canary": "ZQK0044",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0044",
+      "canary": "ZQK0044",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0044XYZ9",
+      "canary": "ZQK0044",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000044",
+      "canary": "ZQK0044",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "45 Canary-ZQK0044 Lane, Testville, TX 77000",
+      "canary": "ZQK0044",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "2/2/2026"
+  }
+}

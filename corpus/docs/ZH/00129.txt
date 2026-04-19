@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Lyndon B Johnson Hospital
+医院电话: 713-500-7878
+
+患者姓名: Priyanka Chakrabarti-ZQK0129
+出生日期: 01/23/1989   年龄: 59
+社会安全号: 900-49-0129
+患者手机: 555-010-0129
+患者邮箱: canary-zqk0129@example.invalid
+患者地址: 130 Canary-ZQK0129 Lane, Testville, TX 77000
+病历号: MRNZQK0129
+保险号: INSZQK0129XYZ9
+账号: 90000129
+
+主治医师: Dr. Luber
+诊断: viral gastroenteritis
+药物: 按医嘱服用 ibuprofen 400 mg。
+复诊: 请于 1/23/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

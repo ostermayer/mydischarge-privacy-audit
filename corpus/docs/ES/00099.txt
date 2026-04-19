@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Memorial Hermann Texas Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Tariq Quetzalcoatl-ZQK0099
+Fecha de Nacimiento: 01/24/1959    Edad: 69
+Número de Seguro Social: 900-19-0099
+Celular del paciente: 555-010-0099
+Correo del paciente: canary-zqk0099@example.invalid
+Dirección del Paciente: 100 Canary-ZQK0099 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0099
+Número de Seguro: INSZQK0099XYZ9
+Cuenta: 90000099
+
+Médico: Dr. Power
+Diagnóstico: acute otitis media
+Medicamento: Tome acetaminophen 650 mg según indicación.
+Seguimiento: Cita el 7/17/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00284",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0284",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Hvidberg-ZQK0284",
+      "canary": "ZQK0284",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/26/1934",
+      "canary": "ZQK0284",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "54",
+      "canary": "ZQK0284",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-24-0284",
+      "canary": "ZQK0284",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0284",
+      "canary": "ZQK0284",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0284@example.invalid",
+      "canary": "ZQK0284",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0284",
+      "canary": "ZQK0284",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0284XYZ9",
+      "canary": "ZQK0284",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000284",
+      "canary": "ZQK0284",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "285 Canary-ZQK0284 Lane, Testville, TX 77000",
+      "canary": "ZQK0284",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "1/19/2026"
+  }
+}

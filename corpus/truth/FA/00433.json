@@ -1,0 +1,76 @@
+{
+  "doc_id": "00433",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0433",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Tchaikovsky-ZQK0433",
+      "canary": "ZQK0433",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/08/1943",
+      "canary": "ZQK0433",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "83",
+      "canary": "ZQK0433",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-83-0433",
+      "canary": "ZQK0433",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0433",
+      "canary": "ZQK0433",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0433@example.invalid",
+      "canary": "ZQK0433",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0433",
+      "canary": "ZQK0433",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0433XYZ9",
+      "canary": "ZQK0433",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000433",
+      "canary": "ZQK0433",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "434 Canary-ZQK0433 Lane, Testville, TX 77000",
+      "canary": "ZQK0433",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "12/26/2026"
+  }
+}

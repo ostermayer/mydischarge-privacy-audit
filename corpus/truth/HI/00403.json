@@ -1,0 +1,76 @@
+{
+  "doc_id": "00403",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0403",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Papadimitriou-ZQK0403",
+      "canary": "ZQK0403",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/19/1983",
+      "canary": "ZQK0403",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "53",
+      "canary": "ZQK0403",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-53-0403",
+      "canary": "ZQK0403",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0403",
+      "canary": "ZQK0403",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0403@example.invalid",
+      "canary": "ZQK0403",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0403",
+      "canary": "ZQK0403",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0403XYZ9",
+      "canary": "ZQK0403",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000403",
+      "canary": "ZQK0403",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "404 Canary-ZQK0403 Lane, Testville, TX 77000",
+      "canary": "ZQK0403",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "10/20/2026"
+  }
+}

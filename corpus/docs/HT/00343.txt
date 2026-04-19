@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Lyndon B Johnson Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Aleksandr Chakrabarti-ZQK0343
+Dat Nesans: 02/22/1993   Laj: 73
+SSN: 900-83-0343
+Telefòn pasyan: 555-010-0343
+Email pasyan: canary-zqk0343@example.invalid
+Adrès Pasyan: 344 Canary-ZQK0343 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0343
+Nimewo Asirans: INSZQK0343XYZ9
+
+Doktè: Dr. Fischer
+Dyagnostik: musculoskeletal strain
+Medikaman: Pran albuterol inhaler jan yo preskri a.
+Swivi: Randevou 7/28/2026 ak doktè ou.

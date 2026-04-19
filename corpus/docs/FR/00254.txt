@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: UT Physicians Clinic
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Aleksandr Chakrabarti-ZQK0254
+Date de Naissance: 07/17/1974   Âge: 64
+Numéro de Sécurité Sociale: 900-84-0254
+Portable patient: 555-010-0254
+Email patient: canary-zqk0254@example.invalid
+Adresse du Patient: 255 Canary-ZQK0254 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0254
+Numéro d'Assurance: INSZQK0254XYZ9
+
+Médecin: Dr. Fischer
+Diagnostic: viral gastroenteritis
+Médicament: Prenez metoprolol 25 mg selon prescription.
+Rendez-vous: 9/4/2026 avec votre médecin.

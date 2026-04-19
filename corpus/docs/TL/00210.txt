@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Ben Taub General Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Bartholomew Bergström-ZQK0210
+Petsa ng Kapanganakan: 02/11/1930   Edad: 60
+SSN: 900-40-0210
+Telepono ng pasyente: 555-010-0210
+Email: canary-zqk0210@example.invalid
+Tirahan: 211 Canary-ZQK0210 Lane, Testville, TX 77000
+MRN: MRNZQK0210
+Insurance ID: INSZQK0210XYZ9
+
+Doktor: Dr. Nguyen
+Diagnosis: musculoskeletal strain
+Gamot: Inumin ang amoxicillin 500 mg ayon sa reseta.
+Follow-up: 2/17/2026 kasama ang inyong doktor.

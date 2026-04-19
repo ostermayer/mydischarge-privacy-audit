@@ -1,0 +1,19 @@
+EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+Memorial Hermann Texas Medical Center
+Hospital Phone: 713-500-7878
+
+Patient Name: Dashiell Tchaikovsky-ZQK0031
+DOB: 06/28/1961    Age: 81
+SSN: 900-41-0031
+Patient Phone: 555-010-0031
+Patient Email: canary-zqk0031@example.invalid
+Patient Address: 32 Canary-ZQK0031 Lane, Testville, TX 77000
+MRN: MRNZQK0031
+Insurance ID: INSZQK0031XYZ9
+Account #: 90000031
+
+Attending: Dr. Nguyen
+Diagnosis: musculoskeletal strain
+Medication: Take ibuprofen 400 mg as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 11/14/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.

@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+UT Physicians Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Dashiell Tchaikovsky-ZQK0101
+Fecha de Nacimiento: 04/13/1961    Edad: 71
+Número de Seguro Social: 900-21-0101
+Celular del paciente: 555-010-0101
+Correo del paciente: canary-zqk0101@example.invalid
+Dirección del Paciente: 102 Canary-ZQK0101 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0101
+Número de Seguro: INSZQK0101XYZ9
+Cuenta: 90000101
+
+Médico: Dr. Fischer
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome albuterol inhaler según indicación.
+Seguimiento: Cita el 1/25/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

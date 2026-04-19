@@ -1,0 +1,76 @@
+{
+  "doc_id": "00278",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0278",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Bergström-ZQK0278",
+      "canary": "ZQK0278",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/27/1998",
+      "canary": "ZQK0278",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "88",
+      "canary": "ZQK0278",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-18-0278",
+      "canary": "ZQK0278",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0278",
+      "canary": "ZQK0278",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0278@example.invalid",
+      "canary": "ZQK0278",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0278",
+      "canary": "ZQK0278",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0278XYZ9",
+      "canary": "ZQK0278",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000278",
+      "canary": "ZQK0278",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "279 Canary-ZQK0278 Lane, Testville, TX 77000",
+      "canary": "ZQK0278",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "2/8/2026"
+  }
+}

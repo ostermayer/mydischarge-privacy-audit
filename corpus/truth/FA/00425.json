@@ -1,0 +1,76 @@
+{
+  "doc_id": "00425",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0425",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Quetzalcoatl-ZQK0425",
+      "canary": "ZQK0425",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/07/1935",
+      "canary": "ZQK0425",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0425",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-75-0425",
+      "canary": "ZQK0425",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0425",
+      "canary": "ZQK0425",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0425@example.invalid",
+      "canary": "ZQK0425",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0425",
+      "canary": "ZQK0425",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0425XYZ9",
+      "canary": "ZQK0425",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000425",
+      "canary": "ZQK0425",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "426 Canary-ZQK0425 Lane, Testville, TX 77000",
+      "canary": "ZQK0425",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "1/21/2026"
+  }
+}

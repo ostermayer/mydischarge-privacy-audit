@@ -1,0 +1,76 @@
+{
+  "doc_id": "00191",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0191",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Papadimitriou-ZQK0191",
+      "canary": "ZQK0191",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/01/1981",
+      "canary": "ZQK0191",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "81",
+      "canary": "ZQK0191",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-21-0191",
+      "canary": "ZQK0191",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0191",
+      "canary": "ZQK0191",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0191@example.invalid",
+      "canary": "ZQK0191",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0191",
+      "canary": "ZQK0191",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0191XYZ9",
+      "canary": "ZQK0191",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000191",
+      "canary": "ZQK0191",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "192 Canary-ZQK0191 Lane, Testville, TX 77000",
+      "canary": "ZQK0191",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "albuterol inhaler",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "2/24/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00321",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0321",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Vranjevic-ZQK0321",
+      "canary": "ZQK0321",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/21/1971",
+      "canary": "ZQK0321",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0321",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-61-0321",
+      "canary": "ZQK0321",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0321",
+      "canary": "ZQK0321",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0321@example.invalid",
+      "canary": "ZQK0321",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0321",
+      "canary": "ZQK0321",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0321XYZ9",
+      "canary": "ZQK0321",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000321",
+      "canary": "ZQK0321",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "322 Canary-ZQK0321 Lane, Testville, TX 77000",
+      "canary": "ZQK0321",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "3/20/2026"
+  }
+}

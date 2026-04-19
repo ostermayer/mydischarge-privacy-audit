@@ -1,0 +1,76 @@
+{
+  "doc_id": "00313",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0313",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Oduya-ZQK0313",
+      "canary": "ZQK0313",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/18/1963",
+      "canary": "ZQK0313",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "83",
+      "canary": "ZQK0313",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-53-0313",
+      "canary": "ZQK0313",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0313",
+      "canary": "ZQK0313",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0313@example.invalid",
+      "canary": "ZQK0313",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0313",
+      "canary": "ZQK0313",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0313XYZ9",
+      "canary": "ZQK0313",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000313",
+      "canary": "ZQK0313",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "314 Canary-ZQK0313 Lane, Testville, TX 77000",
+      "canary": "ZQK0313",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "2/19/2026"
+  }
+}

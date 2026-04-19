@@ -1,0 +1,76 @@
+{
+  "doc_id": "00300",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0300",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Bergström-ZQK0300",
+      "canary": "ZQK0300",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/02/1950",
+      "canary": "ZQK0300",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0300",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-40-0300",
+      "canary": "ZQK0300",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0300",
+      "canary": "ZQK0300",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0300@example.invalid",
+      "canary": "ZQK0300",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0300",
+      "canary": "ZQK0300",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0300XYZ9",
+      "canary": "ZQK0300",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000300",
+      "canary": "ZQK0300",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "301 Canary-ZQK0300 Lane, Testville, TX 77000",
+      "canary": "ZQK0300",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "4/23/2026"
+  }
+}

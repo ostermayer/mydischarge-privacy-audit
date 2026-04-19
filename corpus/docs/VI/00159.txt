@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Harris Health East Clinic
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Ximena Mogensen-ZQK0159
+Ngày sinh: 05/08/1949   Tuổi: 89
+Số an sinh xã hội: 900-79-0159
+Di động bệnh nhân: 555-010-0159
+Email bệnh nhân: canary-zqk0159@example.invalid
+Địa chỉ bệnh nhân: 160 Canary-ZQK0159 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0159
+Số thẻ bảo hiểm: INSZQK0159XYZ9
+
+Bác sĩ: Dr. Ostermayer
+Chẩn đoán: uncomplicated cystitis
+Thuốc: Uống ondansetron 4 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 9/27/2026 với bác sĩ của bạn.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00438",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0438",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Bergström-ZQK0438",
+      "canary": "ZQK0438",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/25/1948",
+      "canary": "ZQK0438",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "88",
+      "canary": "ZQK0438",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-88-0438",
+      "canary": "ZQK0438",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0438",
+      "canary": "ZQK0438",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0438@example.invalid",
+      "canary": "ZQK0438",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0438",
+      "canary": "ZQK0438",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0438XYZ9",
+      "canary": "ZQK0438",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000438",
+      "canary": "ZQK0438",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "439 Canary-ZQK0438 Lane, Testville, TX 77000",
+      "canary": "ZQK0438",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "8/8/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00296",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0296",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Mogensen-ZQK0296",
+      "canary": "ZQK0296",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/09/1946",
+      "canary": "ZQK0296",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "66",
+      "canary": "ZQK0296",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-36-0296",
+      "canary": "ZQK0296",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0296",
+      "canary": "ZQK0296",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0296@example.invalid",
+      "canary": "ZQK0296",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0296",
+      "canary": "ZQK0296",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0296XYZ9",
+      "canary": "ZQK0296",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000296",
+      "canary": "ZQK0296",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "297 Canary-ZQK0296 Lane, Testville, TX 77000",
+      "canary": "ZQK0296",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "3/28/2026"
+  }
+}

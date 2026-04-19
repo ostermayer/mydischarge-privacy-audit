@@ -1,0 +1,17 @@
+救急科退院指示
+病院: Harris Health East Clinic
+病院電話: 713-500-7878
+
+患者氏名: Beatriz Mogensen-ZQK0388
+生年月日: 08/02/1968   年齢: 78
+社会保障番号: 900-38-0388
+患者携帯: 555-010-0388
+患者メール: canary-zqk0388@example.invalid
+患者住所: 389 Canary-ZQK0388 Lane, Testville, TX 77000
+患者番号: MRNZQK0388
+保険証番号: INSZQK0388XYZ9
+
+担当医: Dr. Luber
+診断: viral gastroenteritis
+薬: 処方通り ondansetron 4 mg を服用してください。
+受診予約: 6/12/2026 に主治医を受診してください。

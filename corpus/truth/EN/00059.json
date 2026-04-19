@@ -1,0 +1,76 @@
+{
+  "doc_id": "00059",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0059",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Mogensen-ZQK0059",
+      "canary": "ZQK0059",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/18/1989",
+      "canary": "ZQK0059",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "69",
+      "canary": "ZQK0059",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-69-0059",
+      "canary": "ZQK0059",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0059",
+      "canary": "ZQK0059",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0059@example.invalid",
+      "canary": "ZQK0059",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0059",
+      "canary": "ZQK0059",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0059XYZ9",
+      "canary": "ZQK0059",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000059",
+      "canary": "ZQK0059",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "60 Canary-ZQK0059 Lane, Testville, TX 77000",
+      "canary": "ZQK0059",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "9/25/2026"
+  }
+}

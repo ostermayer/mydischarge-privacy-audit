@@ -1,0 +1,76 @@
+{
+  "doc_id": "00213",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0213",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Papadimitriou-ZQK0213",
+      "canary": "ZQK0213",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/06/1933",
+      "canary": "ZQK0213",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "63",
+      "canary": "ZQK0213",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-43-0213",
+      "canary": "ZQK0213",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0213",
+      "canary": "ZQK0213",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0213@example.invalid",
+      "canary": "ZQK0213",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0213",
+      "canary": "ZQK0213",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0213XYZ9",
+      "canary": "ZQK0213",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000213",
+      "canary": "ZQK0213",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "214 Canary-ZQK0213 Lane, Testville, TX 77000",
+      "canary": "ZQK0213",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/25/2026"
+  }
+}

@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: UT Physicians Clinic
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Ingrid Tchaikovsky-ZQK0424
+تاریخ تولد: 02/20/1934   سن: 74
+شماره تأمین اجتماعی: 900-74-0424
+موبایل بیمار: 555-010-0424
+ایمیل بیمار: canary-zqk0424@example.invalid
+آدرس بیمار: 425 Canary-ZQK0424 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0424
+شماره بیمه: INSZQK0424XYZ9
+
+پزشک: Dr. Luber
+تشخیص: viral gastroenteritis
+دارو: amoxicillin 500 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 11/16/2026 با پزشک خود.

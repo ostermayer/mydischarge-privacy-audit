@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Lyndon B Johnson Hospital (call 713-500-7878 for questions)
+Name: Aleksandr Tchaikovsky-ZQK0036
+Date of Birth: 01/02/1966
+Age: 86 years
+Home Address: 37 Canary-ZQK0036 Lane, Testville, TX 77000
+Cell: 555-010-0036
+Email: canary-zqk0036@example.invalid
+Medical Record Number: MRNZQK0036
+Member ID: INSZQK0036XYZ9
+Primary provider: Dr. Rodriguez
+Diagnosis: acute otitis media
+Your doctor prescribed acetaminophen 650 mg.
+Follow up on 10/24/2026.

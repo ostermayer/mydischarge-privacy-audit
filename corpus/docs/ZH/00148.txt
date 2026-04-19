@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Bayshore Medical Center
+医院电话: 713-500-7878
+
+患者姓名: Aleksandr Oduya-ZQK0148
+出生日期: 05/09/1938   年龄: 78
+社会安全号: 900-68-0148
+患者手机: 555-010-0148
+患者邮箱: canary-zqk0148@example.invalid
+患者地址: 149 Canary-ZQK0148 Lane, Testville, TX 77000
+病历号: MRNZQK0148
+保险号: INSZQK0148XYZ9
+账号: 90000148
+
+主治医师: Dr. Luber
+诊断: uncomplicated cystitis
+药物: 按医嘱服用 metoprolol 25 mg。
+复诊: 请于 9/9/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

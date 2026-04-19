@@ -1,0 +1,76 @@
+{
+  "doc_id": "00394",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0394",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Ashworth-ZQK0394",
+      "canary": "ZQK0394",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/08/1974",
+      "canary": "ZQK0394",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "84",
+      "canary": "ZQK0394",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-44-0394",
+      "canary": "ZQK0394",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0394",
+      "canary": "ZQK0394",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0394@example.invalid",
+      "canary": "ZQK0394",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0394",
+      "canary": "ZQK0394",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0394XYZ9",
+      "canary": "ZQK0394",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000394",
+      "canary": "ZQK0394",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "395 Canary-ZQK0394 Lane, Testville, TX 77000",
+      "canary": "ZQK0394",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "1/13/2026"
+  }
+}

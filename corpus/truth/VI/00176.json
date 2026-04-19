@@ -1,0 +1,76 @@
+{
+  "doc_id": "00176",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0176",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Ashworth-ZQK0176",
+      "canary": "ZQK0176",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/04/1966",
+      "canary": "ZQK0176",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "66",
+      "canary": "ZQK0176",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-96-0176",
+      "canary": "ZQK0176",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0176",
+      "canary": "ZQK0176",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0176@example.invalid",
+      "canary": "ZQK0176",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0176",
+      "canary": "ZQK0176",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0176XYZ9",
+      "canary": "ZQK0176",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000176",
+      "canary": "ZQK0176",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "177 Canary-ZQK0176 Lane, Testville, TX 77000",
+      "canary": "ZQK0176",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "1/28/2026"
+  }
+}

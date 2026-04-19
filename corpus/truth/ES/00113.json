@@ -1,0 +1,76 @@
+{
+  "doc_id": "00113",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0113",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Oduya-ZQK0113",
+      "canary": "ZQK0113",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/04/1973",
+      "canary": "ZQK0113",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "83",
+      "canary": "ZQK0113",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-33-0113",
+      "canary": "ZQK0113",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0113",
+      "canary": "ZQK0113",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0113@example.invalid",
+      "canary": "ZQK0113",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0113",
+      "canary": "ZQK0113",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0113XYZ9",
+      "canary": "ZQK0113",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000113",
+      "canary": "ZQK0113",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "114 Canary-ZQK0113 Lane, Testville, TX 77000",
+      "canary": "ZQK0113",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "10/24/2026"
+  }
+}

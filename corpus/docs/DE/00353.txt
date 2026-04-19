@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Ben Taub General Hospital
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Beatriz Mogensen-ZQK0353
+Geburtsdatum: 12/27/1933   Alter: 83
+Sozialversicherungsnummer: 900-93-0353
+Handy Patient: 555-010-0353
+Email Patient: canary-zqk0353@example.invalid
+Patientenadresse: 354 Canary-ZQK0353 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0353
+Versicherungsnummer: INSZQK0353XYZ9
+
+Arzt: Dr. Nguyen
+Diagnose: uncomplicated cystitis
+Medikament: Nehmen Sie amoxicillin 500 mg wie verordnet.
+Termin: 9/15/2026 bei Ihrem Arzt.

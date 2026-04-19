@@ -1,0 +1,76 @@
+{
+  "doc_id": "00069",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0069",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Ashworth-ZQK0069",
+      "canary": "ZQK0069",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/23/1999",
+      "canary": "ZQK0069",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "79",
+      "canary": "ZQK0069",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-79-0069",
+      "canary": "ZQK0069",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0069",
+      "canary": "ZQK0069",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0069@example.invalid",
+      "canary": "ZQK0069",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0069",
+      "canary": "ZQK0069",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0069XYZ9",
+      "canary": "ZQK0069",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000069",
+      "canary": "ZQK0069",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "70 Canary-ZQK0069 Lane, Testville, TX 77000",
+      "canary": "ZQK0069",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/26/2026"
+  }
+}

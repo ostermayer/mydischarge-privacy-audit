@@ -1,0 +1,76 @@
+{
+  "doc_id": "00029",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0029",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Bergström-ZQK0029",
+      "canary": "ZQK0029",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/07/1959",
+      "canary": "ZQK0029",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "79",
+      "canary": "ZQK0029",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-39-0029",
+      "canary": "ZQK0029",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0029",
+      "canary": "ZQK0029",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0029@example.invalid",
+      "canary": "ZQK0029",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0029",
+      "canary": "ZQK0029",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0029XYZ9",
+      "canary": "ZQK0029",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000029",
+      "canary": "ZQK0029",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "30 Canary-ZQK0029 Lane, Testville, TX 77000",
+      "canary": "ZQK0029",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "3/1/2026"
+  }
+}

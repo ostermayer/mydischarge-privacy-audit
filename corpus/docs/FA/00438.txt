@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Lyndon B Johnson Hospital
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Kwame Bergström-ZQK0438
+تاریخ تولد: 06/25/1948   سن: 88
+شماره تأمین اجتماعی: 900-88-0438
+موبایل بیمار: 555-010-0438
+ایمیل بیمار: canary-zqk0438@example.invalid
+آدرس بیمار: 439 Canary-ZQK0438 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0438
+شماره بیمه: INSZQK0438XYZ9
+
+پزشک: Dr. Nguyen
+تشخیص: viral gastroenteritis
+دارو: ondansetron 4 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 8/8/2026 با پزشک خود.

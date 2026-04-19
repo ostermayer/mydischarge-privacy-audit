@@ -1,0 +1,76 @@
+{
+  "doc_id": "00140",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0140",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Quetzalcoatl-ZQK0140",
+      "canary": "ZQK0140",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/08/1930",
+      "canary": "ZQK0140",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0140",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-60-0140",
+      "canary": "ZQK0140",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0140",
+      "canary": "ZQK0140",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0140@example.invalid",
+      "canary": "ZQK0140",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0140",
+      "canary": "ZQK0140",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0140XYZ9",
+      "canary": "ZQK0140",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000140",
+      "canary": "ZQK0140",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "141 Canary-ZQK0140 Lane, Testville, TX 77000",
+      "canary": "ZQK0140",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "8/9/2026"
+  }
+}

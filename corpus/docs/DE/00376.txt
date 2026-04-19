@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Bayshore Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Octavio Papadimitriou-ZQK0376
+Geburtsdatum: 07/24/1956   Alter: 66
+Sozialversicherungsnummer: 900-26-0376
+Handy Patient: 555-010-0376
+Email Patient: canary-zqk0376@example.invalid
+Patientenadresse: 377 Canary-ZQK0376 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0376
+Versicherungsnummer: INSZQK0376XYZ9
+
+Arzt: Dr. Nguyen
+Diagnose: community-acquired pneumonia
+Medikament: Nehmen Sie albuterol inhaler wie verordnet.
+Termin: 3/1/2026 bei Ihrem Arzt.

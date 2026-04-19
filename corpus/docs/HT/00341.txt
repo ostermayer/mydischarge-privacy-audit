@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Harris Health East Clinic
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Priyanka Mogensen-ZQK0341
+Dat Nesans: 07/01/1991   Laj: 71
+SSN: 900-81-0341
+Telefòn pasyan: 555-010-0341
+Email pasyan: canary-zqk0341@example.invalid
+Adrès Pasyan: 342 Canary-ZQK0341 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0341
+Nimewo Asirans: INSZQK0341XYZ9
+
+Doktè: Dr. Nguyen
+Dyagnostik: acute otitis media
+Medikaman: Pran ibuprofen 400 mg jan yo preskri a.
+Swivi: Randevou 1/19/2026 ak doktè ou.

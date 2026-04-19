@@ -1,0 +1,7690 @@
+{
+  "summary": {
+    "generated_at": "2026-04-14T17:28:53.827Z",
+    "corpus": {
+      "total_docs": 440,
+      "total_phi": 4400,
+      "languages": [
+        "EN",
+        "ES",
+        "ZH",
+        "VI",
+        "KO",
+        "TL",
+        "AR",
+        "FR",
+        "RU",
+        "PT",
+        "HT",
+        "DE",
+        "JA",
+        "HI",
+        "FA"
+      ]
+    },
+    "phi_recall_by_class": {
+      "name": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "dob": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "age": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "ssn": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "phone": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "email": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "mrn": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "insurance": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "account": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      },
+      "address": {
+        "n": 440,
+        "removed": 440,
+        "leaked": 0,
+        "recall": 1
+      }
+    },
+    "phi_recall_overall": {
+      "n": 4400,
+      "removed": 4400,
+      "leaked": 0,
+      "recall": 1
+    },
+    "phi_recall_by_lang": {
+      "EN": {
+        "tp": 600,
+        "fn": 0,
+        "recall": 1
+      },
+      "ES": {
+        "tp": 600,
+        "fn": 0,
+        "recall": 1
+      },
+      "ZH": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "VI": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "KO": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "TL": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "AR": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "FR": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "RU": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "PT": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "HT": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "DE": {
+        "tp": 300,
+        "fn": 0,
+        "recall": 1
+      },
+      "JA": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "HI": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      },
+      "FA": {
+        "tp": 200,
+        "fn": 0,
+        "recall": 1
+      }
+    },
+    "provider_info_keep_rate": {
+      "hospital_name": 0.9090909090909091,
+      "doctor_name": 1,
+      "medication": 0.8227272727272728,
+      "diagnosis": 1,
+      "appointment_date": 0.9318181818181818,
+      "hospital_phone": 0.9090909090909091
+    },
+    "latency_ms": {
+      "n": 440,
+      "min": 0.08,
+      "median": 0.161291,
+      "p95": 0.232416,
+      "max": 3.802916,
+      "mean": 0.17998871136363626
+    },
+    "doc_canary_leaks": 0,
+    "doc_canary_leak_rate": 0
+  },
+  "per_doc": [
+    {
+      "doc_id": "00001",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 3.802916,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00002",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.366875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00003",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.290625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00004",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.142542,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00005",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.242583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00006",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.121875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00007",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.206209,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00008",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.113292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00009",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.234292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00010",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.128541,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00011",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.206625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00012",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.12375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00013",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.204792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00014",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.125833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00015",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.185292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00016",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.106334,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00017",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.171834,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00018",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.103875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00019",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.184459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00020",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.092208,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00021",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.167292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00022",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.10575,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00023",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.177459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00024",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.105791,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00025",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.168041,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00026",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.103583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00027",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.182166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00028",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.098833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00029",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1535,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00030",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.08725,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00031",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.191542,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00032",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.23,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00033",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.164167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00034",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.08775,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00035",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00036",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.08025,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00037",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00038",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.08,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00039",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00040",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.084458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00041",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.142334,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00042",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147709,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00043",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.206875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00044",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.093125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00045",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.164083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00046",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.081125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00047",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00048",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.080583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00049",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.145667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00050",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.080458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00051",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00052",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.087,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00053",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.243041,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00054",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.09025,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00055",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.16325,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00056",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.086,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00057",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.167542,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00058",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.084084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00059",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.160541,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00060",
+      "lang": "EN",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.088,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Patient phone",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00061",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.170209,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00062",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.157542,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00063",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.14875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00064",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00065",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.14975,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00066",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00067",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00068",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00069",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00070",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.14775,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00071",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.155708,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00072",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00073",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.239709,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00074",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1435,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00075",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00076",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149041,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00077",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00078",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.145583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00079",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.14625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00080",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.14625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00081",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147416,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00082",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.161875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00083",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.145458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00084",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00085",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150708,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00086",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.142875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00087",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00088",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.145958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00089",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144416,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00090",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.143333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00091",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00092",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.312625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00093",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.145334,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00094",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00095",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00096",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00097",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.143875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00098",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.143167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00099",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00100",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00101",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00102",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149041,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00103",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00104",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.155209,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00105",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149208,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00106",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00107",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00108",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00109",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00110",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00111",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.155292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00112",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152291,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00113",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00114",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.157042,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00115",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.15675,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00116",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153208,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00117",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.161833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00118",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00119",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.154541,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00120",
+      "lang": "ES",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.156042,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Account #",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00121",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 2.726334,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00122",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.222292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00123",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.183167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00124",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.281792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00125",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.230833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00126",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.214417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00127",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.18875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00128",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.179708,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00129",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.171458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00130",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.175417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00131",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.180125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00132",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.167292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00133",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.165708,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00134",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.173,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00135",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.169,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00136",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.161291,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00137",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.15975,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00138",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.163208,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00139",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.160166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00140",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.164208,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00141",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.16025,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00142",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.158666,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00143",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.162625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00144",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.159417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00145",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1655,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00146",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.162334,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00147",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.160584,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00148",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1695,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00149",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.18225,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00150",
+      "lang": "ZH",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.165917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Account #"
+      ]
+    },
+    {
+      "doc_id": "00151",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.207958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00152",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.240084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00153",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.198875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00154",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.191083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00155",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.190125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00156",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.187917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00157",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.184042,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00158",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.184958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00159",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.208916,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00160",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.202833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00161",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.195,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00162",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.189625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00163",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.191167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00164",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.192541,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00165",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.186667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00166",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.192791,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00167",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.187125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00168",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.187334,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00169",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.182667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00170",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.182,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00171",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.18025,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00172",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.181,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00173",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.18575,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00174",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.18625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00175",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.180167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00176",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.178416,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00177",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.182166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00178",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.180583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00179",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.18375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00180",
+      "lang": "VI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.178625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00181",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.192625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00182",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.193666,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00183",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.165625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00184",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.162459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00185",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.164083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00186",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.162917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00187",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.166125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00188",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.163333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00189",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.168041,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00190",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.16325,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00191",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.161958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00192",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.158875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00193",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.163667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00194",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.17275,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00195",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.166583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00196",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.210166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00197",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.184459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00198",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.172416,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00199",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.167834,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00200",
+      "lang": "KO",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.167375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00201",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00202",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.116166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00203",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.108375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00204",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.110375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00205",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.105792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00206",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.261166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00207",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.10425,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00208",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.104291,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00209",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.101792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00210",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.102916,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00211",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.102083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00212",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.0995,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00213",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.105667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00214",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.101042,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00215",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.103083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00216",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.101875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00217",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.102417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00218",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.102875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00219",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.101208,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00220",
+      "lang": "TL",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.102791,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Email (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00221",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.179,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00222",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.160125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00223",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.170458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00224",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.156583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00225",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.15475,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00226",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153666,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00227",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151834,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00228",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00229",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153208,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00230",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.154792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00231",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00232",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.158,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00233",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.157417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00234",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153416,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00235",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00236",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1515,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00237",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153834,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00238",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00239",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153208,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00240",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.15425,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00241",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.154291,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00242",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00243",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.159709,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00244",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1535,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00245",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.279625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00246",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.155834,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00247",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152916,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00248",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.15225,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00249",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.158583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00250",
+      "lang": "AR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.155875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00251",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.187708,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00252",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.174,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00253",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.155084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00254",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.154625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00255",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.154166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00256",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.15375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00257",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00258",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00259",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00260",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.15475,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00261",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00262",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150542,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00263",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152708,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00264",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00265",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00266",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00267",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00268",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.155125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00269",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150916,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00270",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00271",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00272",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00273",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.15125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00274",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147916,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00275",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00276",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00277",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151042,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00278",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.14875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00279",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147709,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00280",
+      "lang": "FR",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.152625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00281",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.203792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00282",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.209542,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00283",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.178417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00284",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.399625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00285",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.221042,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00286",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.185666,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00287",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.193167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00288",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.177458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00289",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.173,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00290",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.176417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00291",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.174333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00292",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.172541,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00293",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.173792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00294",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.181292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00295",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.175,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00296",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.171625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00297",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.170625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00298",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.293125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00299",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.168875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00300",
+      "lang": "RU",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.170791,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00301",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1705,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00302",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.154209,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00303",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.154333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00304",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00305",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00306",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.14875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00307",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00308",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147041,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00309",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00310",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00311",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147041,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00312",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00313",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.145625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00314",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00315",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.166875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00316",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.155167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00317",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.153625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00318",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.14975,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00319",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149416,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00320",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00321",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00322",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.259,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00323",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148708,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00324",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00325",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00326",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00327",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.147458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00328",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148042,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00329",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146542,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00330",
+      "lang": "PT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00331",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.151292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00332",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.150958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00333",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.149083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00334",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148125,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00335",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00336",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00337",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.145958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00338",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.145917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00339",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.142292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00340",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.145875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00341",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1435,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00342",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00343",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.148041,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00344",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00345",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.143791,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00346",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146541,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00347",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00348",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00349",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.144375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00350",
+      "lang": "HT",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.146083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00351",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.210084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00352",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.207583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00353",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.173625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00354",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.169458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00355",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.171959,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00356",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.169084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00357",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.167458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00358",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.172667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00359",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.174541,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00360",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.171583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00361",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.3975,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00362",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.215292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00363",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.187667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00364",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.181458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00365",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.177459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00366",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.172792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00367",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.171459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00368",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.168542,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00369",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.172959,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00370",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.168375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00371",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.17375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00372",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.173459,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00373",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.17075,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00374",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.167417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00375",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.169333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00376",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.170833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00377",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.169792,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00378",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.172084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00379",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.168667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00380",
+      "lang": "DE",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.16725,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00381",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.232416,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00382",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.237875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00383",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.180292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00384",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.176167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00385",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.175333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00386",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.178042,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00387",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.186833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00388",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.174583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00389",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.179958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00390",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.177875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00391",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.178,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00392",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.17725,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00393",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.177583,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00394",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.174292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00395",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.174291,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00396",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.172958,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00397",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.178,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00398",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.6675,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00399",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.182167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00400",
+      "lang": "JA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.176708,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID"
+      ]
+    },
+    {
+      "doc_id": "00401",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.239167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00402",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.244833,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00403",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.189666,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00404",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.185167,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00405",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.184458,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00406",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.188083,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00407",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.18575,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00408",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.184,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00409",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.185791,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00410",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.18725,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00411",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.182875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00412",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.183375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00413",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.186209,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00414",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1865,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00415",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.193292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00416",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.187,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00417",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.1855,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00418",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.184917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00419",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.186417,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00420",
+      "lang": "HI",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.185041,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00421",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.23175,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00422",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.229333,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00423",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.207666,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00424",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.187084,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00425",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.162875,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00426",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.165375,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00427",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.203791,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00428",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.212959,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00429",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.217625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00430",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.212667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00431",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.165292,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00432",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.16225,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00433",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.164667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00434",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.164166,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00435",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.168625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00436",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.167625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00437",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.186667,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00438",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.189625,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00439",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.167708,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    },
+    {
+      "doc_id": "00440",
+      "lang": "FA",
+      "phi_total": 10,
+      "phi_redacted": 10,
+      "phi_leaked": 0,
+      "ms": 0.175917,
+      "pii_categories_reported": [
+        "Patient names",
+        "Date of birth",
+        "Age",
+        "SSN (1)",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
+      ]
+    }
+  ],
+  "failures": []
+}

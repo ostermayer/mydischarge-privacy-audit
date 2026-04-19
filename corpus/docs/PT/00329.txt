@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Memorial Hermann Texas Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Ingrid Oduya-ZQK0329
+Data de Nascimento: 10/12/1979   Idade: 59
+CPF: 900-69-0329
+Celular do paciente: 555-010-0329
+Email do paciente: canary-zqk0329@example.invalid
+Endereço do Paciente: 330 Canary-ZQK0329 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0329
+Número do Seguro: INSZQK0329XYZ9
+
+Médico: Dr. Nguyen
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome ondansetron 4 mg conforme prescrito.
+Retorno: Consulta em 10/26/2026 com seu médico.

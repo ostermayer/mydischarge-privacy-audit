@@ -1,0 +1,76 @@
+{
+  "doc_id": "00257",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0257",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Ashworth-ZQK0257",
+      "canary": "ZQK0257",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/17/1977",
+      "canary": "ZQK0257",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "67",
+      "canary": "ZQK0257",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-87-0257",
+      "canary": "ZQK0257",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0257",
+      "canary": "ZQK0257",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0257@example.invalid",
+      "canary": "ZQK0257",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0257",
+      "canary": "ZQK0257",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0257XYZ9",
+      "canary": "ZQK0257",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000257",
+      "canary": "ZQK0257",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "258 Canary-ZQK0257 Lane, Testville, TX 77000",
+      "canary": "ZQK0257",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/16/2026"
+  }
+}

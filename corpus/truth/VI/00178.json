@@ -1,0 +1,76 @@
+{
+  "doc_id": "00178",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0178",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Chakrabarti-ZQK0178",
+      "canary": "ZQK0178",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/24/1968",
+      "canary": "ZQK0178",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0178",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-98-0178",
+      "canary": "ZQK0178",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0178",
+      "canary": "ZQK0178",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0178@example.invalid",
+      "canary": "ZQK0178",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0178",
+      "canary": "ZQK0178",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0178XYZ9",
+      "canary": "ZQK0178",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000178",
+      "canary": "ZQK0178",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "179 Canary-ZQK0178 Lane, Testville, TX 77000",
+      "canary": "ZQK0178",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "9/20/2026"
+  }
+}

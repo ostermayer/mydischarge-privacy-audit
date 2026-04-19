@@ -1,0 +1,76 @@
+{
+  "doc_id": "00233",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0233",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Quetzalcoatl-ZQK0233",
+      "canary": "ZQK0233",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/02/1953",
+      "canary": "ZQK0233",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "83",
+      "canary": "ZQK0233",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-63-0233",
+      "canary": "ZQK0233",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0233",
+      "canary": "ZQK0233",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0233@example.invalid",
+      "canary": "ZQK0233",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0233",
+      "canary": "ZQK0233",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0233XYZ9",
+      "canary": "ZQK0233",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000233",
+      "canary": "ZQK0233",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "234 Canary-ZQK0233 Lane, Testville, TX 77000",
+      "canary": "ZQK0233",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "11/2/2026"
+  }
+}

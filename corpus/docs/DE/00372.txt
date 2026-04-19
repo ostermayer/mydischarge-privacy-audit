@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: UT Physicians Clinic
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Beatriz Tchaikovsky-ZQK0372
+Geburtsdatum: 11/24/1952   Alter: 62
+Sozialversicherungsnummer: 900-22-0372
+Handy Patient: 555-010-0372
+Email Patient: canary-zqk0372@example.invalid
+Patientenadresse: 373 Canary-ZQK0372 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0372
+Versicherungsnummer: INSZQK0372XYZ9
+
+Arzt: Dr. Nguyen
+Diagnose: uncomplicated cystitis
+Medikament: Nehmen Sie ibuprofen 400 mg wie verordnet.
+Termin: 2/6/2026 bei Ihrem Arzt.

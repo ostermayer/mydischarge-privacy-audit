@@ -1,0 +1,76 @@
+{
+  "doc_id": "00385",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0385",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Mogensen-ZQK0385",
+      "canary": "ZQK0385",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/24/1965",
+      "canary": "ZQK0385",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0385",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-35-0385",
+      "canary": "ZQK0385",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0385",
+      "canary": "ZQK0385",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0385@example.invalid",
+      "canary": "ZQK0385",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0385",
+      "canary": "ZQK0385",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0385XYZ9",
+      "canary": "ZQK0385",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000385",
+      "canary": "ZQK0385",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "386 Canary-ZQK0385 Lane, Testville, TX 77000",
+      "canary": "ZQK0385",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/20/2026"
+  }
+}

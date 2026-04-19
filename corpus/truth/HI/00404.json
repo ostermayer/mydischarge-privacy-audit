@@ -1,0 +1,76 @@
+{
+  "doc_id": "00404",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0404",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Vranjevic-ZQK0404",
+      "canary": "ZQK0404",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/20/1984",
+      "canary": "ZQK0404",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "54",
+      "canary": "ZQK0404",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-54-0404",
+      "canary": "ZQK0404",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0404",
+      "canary": "ZQK0404",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0404@example.invalid",
+      "canary": "ZQK0404",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0404",
+      "canary": "ZQK0404",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0404XYZ9",
+      "canary": "ZQK0404",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000404",
+      "canary": "ZQK0404",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "405 Canary-ZQK0404 Lane, Testville, TX 77000",
+      "canary": "ZQK0404",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "6/24/2026"
+  }
+}

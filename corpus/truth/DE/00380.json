@@ -1,0 +1,76 @@
+{
+  "doc_id": "00380",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0380",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Mogensen-ZQK0380",
+      "canary": "ZQK0380",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/24/1960",
+      "canary": "ZQK0380",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0380",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-30-0380",
+      "canary": "ZQK0380",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0380",
+      "canary": "ZQK0380",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0380@example.invalid",
+      "canary": "ZQK0380",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0380",
+      "canary": "ZQK0380",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0380XYZ9",
+      "canary": "ZQK0380",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000380",
+      "canary": "ZQK0380",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "381 Canary-ZQK0380 Lane, Testville, TX 77000",
+      "canary": "ZQK0380",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "8/17/2026"
+  }
+}

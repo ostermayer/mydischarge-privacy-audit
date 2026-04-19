@@ -1,0 +1,76 @@
+{
+  "doc_id": "00010",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0010",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Chakrabarti-ZQK0010",
+      "canary": "ZQK0010",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/26/1940",
+      "canary": "ZQK0010",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "60",
+      "canary": "ZQK0010",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-20-0010",
+      "canary": "ZQK0010",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0010",
+      "canary": "ZQK0010",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0010@example.invalid",
+      "canary": "ZQK0010",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0010",
+      "canary": "ZQK0010",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0010XYZ9",
+      "canary": "ZQK0010",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000010",
+      "canary": "ZQK0010",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "11 Canary-ZQK0010 Lane, Testville, TX 77000",
+      "canary": "ZQK0010",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "1/19/2026"
+  }
+}

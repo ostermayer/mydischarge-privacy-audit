@@ -1,0 +1,76 @@
+{
+  "doc_id": "00200",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0200",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Mogensen-ZQK0200",
+      "canary": "ZQK0200",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/22/1990",
+      "canary": "ZQK0200",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "50",
+      "canary": "ZQK0200",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-30-0200",
+      "canary": "ZQK0200",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0200",
+      "canary": "ZQK0200",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0200@example.invalid",
+      "canary": "ZQK0200",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0200",
+      "canary": "ZQK0200",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0200XYZ9",
+      "canary": "ZQK0200",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000200",
+      "canary": "ZQK0200",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "201 Canary-ZQK0200 Lane, Testville, TX 77000",
+      "canary": "ZQK0200",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "7/1/2026"
+  }
+}

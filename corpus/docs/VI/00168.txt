@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Ben Taub General Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Ximena Mogensen-ZQK0168
+Ngày sinh: 08/04/1958   Tuổi: 58
+Số an sinh xã hội: 900-88-0168
+Di động bệnh nhân: 555-010-0168
+Email bệnh nhân: canary-zqk0168@example.invalid
+Địa chỉ bệnh nhân: 169 Canary-ZQK0168 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0168
+Số thẻ bảo hiểm: INSZQK0168XYZ9
+
+Bác sĩ: Dr. Nguyen
+Chẩn đoán: community-acquired pneumonia
+Thuốc: Uống albuterol inhaler theo chỉ dẫn.
+Tái khám: Lịch hẹn 4/28/2026 với bác sĩ của bạn.

@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Memorial Hermann Texas Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Beatriz Chakrabarti-ZQK0315
+Data de Nascimento: 05/18/1965   Idade: 85
+CPF: 900-55-0315
+Celular do paciente: 555-010-0315
+Email do paciente: canary-zqk0315@example.invalid
+Endereço do Paciente: 316 Canary-ZQK0315 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0315
+Número do Seguro: INSZQK0315XYZ9
+
+Médico: Dr. Luber
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome metoprolol 25 mg conforme prescrito.
+Retorno: Consulta em 1/17/2026 com seu médico.

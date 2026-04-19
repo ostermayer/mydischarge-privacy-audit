@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Memorial Hermann Texas Medical Center
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Dashiell Oduya-ZQK0429
+تاریخ تولد: 07/21/1939   سن: 79
+شماره تأمین اجتماعی: 900-79-0429
+موبایل بیمار: 555-010-0429
+ایمیل بیمار: canary-zqk0429@example.invalid
+آدرس بیمار: 430 Canary-ZQK0429 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0429
+شماره بیمه: INSZQK0429XYZ9
+
+پزشک: Dr. Patel
+تشخیص: acute otitis media
+دارو: acetaminophen 650 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 2/14/2026 با پزشک خود.

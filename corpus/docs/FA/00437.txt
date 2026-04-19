@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Bayshore Medical Center
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Ingrid Vranjevic-ZQK0437
+تاریخ تولد: 01/12/1947   سن: 87
+شماره تأمین اجتماعی: 900-87-0437
+موبایل بیمار: 555-010-0437
+ایمیل بیمار: canary-zqk0437@example.invalid
+آدرس بیمار: 438 Canary-ZQK0437 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0437
+شماره بیمه: INSZQK0437XYZ9
+
+پزشک: Dr. Rodriguez
+تشخیص: viral gastroenteritis
+دارو: ibuprofen 400 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 7/9/2026 با پزشک خود.

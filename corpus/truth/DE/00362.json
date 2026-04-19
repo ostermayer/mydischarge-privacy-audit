@@ -1,0 +1,76 @@
+{
+  "doc_id": "00362",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0362",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Ashworth-ZQK0362",
+      "canary": "ZQK0362",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/20/1942",
+      "canary": "ZQK0362",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "52",
+      "canary": "ZQK0362",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-12-0362",
+      "canary": "ZQK0362",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0362",
+      "canary": "ZQK0362",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0362@example.invalid",
+      "canary": "ZQK0362",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0362",
+      "canary": "ZQK0362",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0362XYZ9",
+      "canary": "ZQK0362",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000362",
+      "canary": "ZQK0362",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "363 Canary-ZQK0362 Lane, Testville, TX 77000",
+      "canary": "ZQK0362",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/11/2026"
+  }
+}

@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Memorial Hermann Texas Medical Center
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Kwame Bergström-ZQK0206
+Petsa ng Kapanganakan: 02/08/1996   Edad: 56
+SSN: 900-36-0206
+Telepono ng pasyente: 555-010-0206
+Email: canary-zqk0206@example.invalid
+Tirahan: 207 Canary-ZQK0206 Lane, Testville, TX 77000
+MRN: MRNZQK0206
+Insurance ID: INSZQK0206XYZ9
+
+Doktor: Dr. Fischer
+Diagnosis: musculoskeletal strain
+Gamot: Inumin ang metoprolol 25 mg ayon sa reseta.
+Follow-up: 9/10/2026 kasama ang inyong doktor.

@@ -1,0 +1,19 @@
+EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+Lyndon B Johnson Hospital
+Hospital Phone: 713-500-7878
+
+Patient Name: Beatriz Vranjevic-ZQK0019
+DOB: 07/26/1949    Age: 69
+SSN: 900-29-0019
+Patient Phone: 555-010-0019
+Patient Email: canary-zqk0019@example.invalid
+Patient Address: 20 Canary-ZQK0019 Lane, Testville, TX 77000
+MRN: MRNZQK0019
+Insurance ID: INSZQK0019XYZ9
+Account #: 90000019
+
+Attending: Dr. Patel
+Diagnosis: musculoskeletal strain
+Medication: Take acetaminophen 650 mg as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 10/23/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.

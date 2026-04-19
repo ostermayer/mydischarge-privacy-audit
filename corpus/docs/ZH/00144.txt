@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Lyndon B Johnson Hospital
+医院电话: 713-500-7878
+
+患者姓名: Ximena Chakrabarti-ZQK0144
+出生日期: 08/13/1934   年龄: 74
+社会安全号: 900-64-0144
+患者手机: 555-010-0144
+患者邮箱: canary-zqk0144@example.invalid
+患者地址: 145 Canary-ZQK0144 Lane, Testville, TX 77000
+病历号: MRNZQK0144
+保险号: INSZQK0144XYZ9
+账号: 90000144
+
+主治医师: Dr. Luber
+诊断: viral gastroenteritis
+药物: 按医嘱服用 metoprolol 25 mg。
+复诊: 请于 1/23/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

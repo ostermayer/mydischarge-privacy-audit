@@ -1,0 +1,76 @@
+{
+  "doc_id": "00096",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0096",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Quetzalcoatl-ZQK0096",
+      "canary": "ZQK0096",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/10/1956",
+      "canary": "ZQK0096",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "66",
+      "canary": "ZQK0096",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-16-0096",
+      "canary": "ZQK0096",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0096",
+      "canary": "ZQK0096",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0096@example.invalid",
+      "canary": "ZQK0096",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0096",
+      "canary": "ZQK0096",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0096XYZ9",
+      "canary": "ZQK0096",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000096",
+      "canary": "ZQK0096",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "97 Canary-ZQK0096 Lane, Testville, TX 77000",
+      "canary": "ZQK0096",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "3/13/2026"
+  }
+}

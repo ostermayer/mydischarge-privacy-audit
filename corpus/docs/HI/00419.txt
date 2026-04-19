@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Bayshore Medical Center
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Beatriz Tchaikovsky-ZQK0419
+जन्म तिथि: 12/11/1999   आयु: 69
+सामाजिक सुरक्षा संख्या: 900-69-0419
+रोगी मोबाइल: 555-010-0419
+रोगी ईमेल: canary-zqk0419@example.invalid
+रोगी का पता: 420 Canary-ZQK0419 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0419
+बीमा संख्या: INSZQK0419XYZ9
+
+डॉक्टर: Dr. Ostermayer
+निदान: community-acquired pneumonia
+दवा: metoprolol 25 mg निर्देशानुसार लें।
+अनुवर्ती: 11/18/2026 को अपने डॉक्टर के पास जाएँ।

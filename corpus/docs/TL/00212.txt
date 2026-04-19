@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Lyndon B Johnson Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Yumiko Bergström-ZQK0212
+Petsa ng Kapanganakan: 10/04/1932   Edad: 62
+SSN: 900-42-0212
+Telepono ng pasyente: 555-010-0212
+Email: canary-zqk0212@example.invalid
+Tirahan: 213 Canary-ZQK0212 Lane, Testville, TX 77000
+MRN: MRNZQK0212
+Insurance ID: INSZQK0212XYZ9
+
+Doktor: Dr. Fischer
+Diagnosis: viral gastroenteritis
+Gamot: Inumin ang albuterol inhaler ayon sa reseta.
+Follow-up: 6/27/2026 kasama ang inyong doktor.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00371",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0371",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Tchaikovsky-ZQK0371",
+      "canary": "ZQK0371",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/01/1951",
+      "canary": "ZQK0371",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "61",
+      "canary": "ZQK0371",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-21-0371",
+      "canary": "ZQK0371",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0371",
+      "canary": "ZQK0371",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0371@example.invalid",
+      "canary": "ZQK0371",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0371",
+      "canary": "ZQK0371",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0371XYZ9",
+      "canary": "ZQK0371",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000371",
+      "canary": "ZQK0371",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "372 Canary-ZQK0371 Lane, Testville, TX 77000",
+      "canary": "ZQK0371",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "albuterol inhaler",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "10/16/2026"
+  }
+}

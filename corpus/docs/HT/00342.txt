@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Harris Health East Clinic
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Yumiko Papadimitriou-ZQK0342
+Dat Nesans: 05/02/1992   Laj: 72
+SSN: 900-82-0342
+Telefòn pasyan: 555-010-0342
+Email pasyan: canary-zqk0342@example.invalid
+Adrès Pasyan: 343 Canary-ZQK0342 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0342
+Nimewo Asirans: INSZQK0342XYZ9
+
+Doktè: Dr. Ostermayer
+Dyagnostik: uncomplicated cystitis
+Medikaman: Pran ibuprofen 400 mg jan yo preskri a.
+Swivi: Randevou 5/11/2026 ak doktè ou.

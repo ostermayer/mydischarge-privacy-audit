@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Bayshore Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Kwame Hvidberg-ZQK0317
+Data de Nascimento: 09/24/1967   Idade: 87
+CPF: 900-57-0317
+Celular do paciente: 555-010-0317
+Email do paciente: canary-zqk0317@example.invalid
+Endereço do Paciente: 318 Canary-ZQK0317 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0317
+Número do Seguro: INSZQK0317XYZ9
+
+Médico: Dr. Luber
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome acetaminophen 650 mg conforme prescrito.
+Retorno: Consulta em 7/5/2026 com seu médico.

@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: UT Physicians Clinic
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Aleksandr Papadimitriou-ZQK0174
+Ngày sinh: 05/05/1964   Tuổi: 64
+Số an sinh xã hội: 900-94-0174
+Di động bệnh nhân: 555-010-0174
+Email bệnh nhân: canary-zqk0174@example.invalid
+Địa chỉ bệnh nhân: 175 Canary-ZQK0174 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0174
+Số thẻ bảo hiểm: INSZQK0174XYZ9
+
+Bác sĩ: Dr. Rodriguez
+Chẩn đoán: acute bronchitis
+Thuốc: Uống amoxicillin 500 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 3/14/2026 với bác sĩ của bạn.

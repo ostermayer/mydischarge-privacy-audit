@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Memorial Hermann Texas Medical Center
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Saoirse Hvidberg-ZQK0435
+تاریخ تولد: 11/25/1945   سن: 85
+شماره تأمین اجتماعی: 900-85-0435
+موبایل بیمار: 555-010-0435
+ایمیل بیمار: canary-zqk0435@example.invalid
+آدرس بیمار: 436 Canary-ZQK0435 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0435
+شماره بیمه: INSZQK0435XYZ9
+
+پزشک: Dr. Patel
+تشخیص: viral gastroenteritis
+دارو: ibuprofen 400 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 2/6/2026 با پزشک خود.

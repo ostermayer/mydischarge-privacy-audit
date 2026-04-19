@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Lyndon B Johnson Hospital
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Dashiell Ashworth-ZQK0375
+Geburtsdatum: 03/26/1955   Alter: 65
+Sozialversicherungsnummer: 900-25-0375
+Handy Patient: 555-010-0375
+Email Patient: canary-zqk0375@example.invalid
+Patientenadresse: 376 Canary-ZQK0375 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0375
+Versicherungsnummer: INSZQK0375XYZ9
+
+Arzt: Dr. Luber
+Diagnose: uncomplicated cystitis
+Medikament: Nehmen Sie albuterol inhaler wie verordnet.
+Termin: 12/3/2026 bei Ihrem Arzt.

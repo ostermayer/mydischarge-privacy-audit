@@ -1,0 +1,76 @@
+{
+  "doc_id": "00319",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0319",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Mogensen-ZQK0319",
+      "canary": "ZQK0319",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/22/1969",
+      "canary": "ZQK0319",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "89",
+      "canary": "ZQK0319",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-59-0319",
+      "canary": "ZQK0319",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0319",
+      "canary": "ZQK0319",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0319@example.invalid",
+      "canary": "ZQK0319",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0319",
+      "canary": "ZQK0319",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0319XYZ9",
+      "canary": "ZQK0319",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000319",
+      "canary": "ZQK0319",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "320 Canary-ZQK0319 Lane, Testville, TX 77000",
+      "canary": "ZQK0319",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "3/1/2026"
+  }
+}

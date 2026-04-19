@@ -1,0 +1,76 @@
+{
+  "doc_id": "00194",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0194",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Chakrabarti-ZQK0194",
+      "canary": "ZQK0194",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/15/1984",
+      "canary": "ZQK0194",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "84",
+      "canary": "ZQK0194",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-24-0194",
+      "canary": "ZQK0194",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0194",
+      "canary": "ZQK0194",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0194@example.invalid",
+      "canary": "ZQK0194",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0194",
+      "canary": "ZQK0194",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0194XYZ9",
+      "canary": "ZQK0194",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000194",
+      "canary": "ZQK0194",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "195 Canary-ZQK0194 Lane, Testville, TX 77000",
+      "canary": "ZQK0194",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "2/22/2026"
+  }
+}

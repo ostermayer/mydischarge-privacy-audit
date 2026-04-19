@@ -1,0 +1,76 @@
+{
+  "doc_id": "00280",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0280",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Papadimitriou-ZQK0280",
+      "canary": "ZQK0280",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/10/1930",
+      "canary": "ZQK0280",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "50",
+      "canary": "ZQK0280",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-20-0280",
+      "canary": "ZQK0280",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0280",
+      "canary": "ZQK0280",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0280@example.invalid",
+      "canary": "ZQK0280",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0280",
+      "canary": "ZQK0280",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0280XYZ9",
+      "canary": "ZQK0280",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000280",
+      "canary": "ZQK0280",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "281 Canary-ZQK0280 Lane, Testville, TX 77000",
+      "canary": "ZQK0280",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "6/8/2026"
+  }
+}

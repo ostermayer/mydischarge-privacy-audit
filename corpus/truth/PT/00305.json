@@ -1,0 +1,76 @@
+{
+  "doc_id": "00305",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0305",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Oduya-ZQK0305",
+      "canary": "ZQK0305",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/17/1955",
+      "canary": "ZQK0305",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0305",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-45-0305",
+      "canary": "ZQK0305",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0305",
+      "canary": "ZQK0305",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0305@example.invalid",
+      "canary": "ZQK0305",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0305",
+      "canary": "ZQK0305",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0305XYZ9",
+      "canary": "ZQK0305",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000305",
+      "canary": "ZQK0305",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "306 Canary-ZQK0305 Lane, Testville, TX 77000",
+      "canary": "ZQK0305",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "10/8/2026"
+  }
+}

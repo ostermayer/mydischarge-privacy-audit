@@ -1,0 +1,76 @@
+{
+  "doc_id": "00034",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0034",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Mogensen-ZQK0034",
+      "canary": "ZQK0034",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/10/1964",
+      "canary": "ZQK0034",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "84",
+      "canary": "ZQK0034",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-44-0034",
+      "canary": "ZQK0034",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0034",
+      "canary": "ZQK0034",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0034@example.invalid",
+      "canary": "ZQK0034",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0034",
+      "canary": "ZQK0034",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0034XYZ9",
+      "canary": "ZQK0034",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000034",
+      "canary": "ZQK0034",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "35 Canary-ZQK0034 Lane, Testville, TX 77000",
+      "canary": "ZQK0034",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "6/3/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00378",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0378",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Oduya-ZQK0378",
+      "canary": "ZQK0378",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/21/1958",
+      "canary": "ZQK0378",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0378",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-28-0378",
+      "canary": "ZQK0378",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0378",
+      "canary": "ZQK0378",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0378@example.invalid",
+      "canary": "ZQK0378",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0378",
+      "canary": "ZQK0378",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0378XYZ9",
+      "canary": "ZQK0378",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000378",
+      "canary": "ZQK0378",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "379 Canary-ZQK0378 Lane, Testville, TX 77000",
+      "canary": "ZQK0378",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "1/14/2026"
+  }
+}

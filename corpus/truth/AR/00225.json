@@ -1,0 +1,76 @@
+{
+  "doc_id": "00225",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0225",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Papadimitriou-ZQK0225",
+      "canary": "ZQK0225",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/23/1945",
+      "canary": "ZQK0225",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0225",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-55-0225",
+      "canary": "ZQK0225",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0225",
+      "canary": "ZQK0225",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0225@example.invalid",
+      "canary": "ZQK0225",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0225",
+      "canary": "ZQK0225",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0225XYZ9",
+      "canary": "ZQK0225",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000225",
+      "canary": "ZQK0225",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "226 Canary-ZQK0225 Lane, Testville, TX 77000",
+      "canary": "ZQK0225",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "11/21/2026"
+  }
+}

@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Memorial Hermann Texas Medical Center
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Octavio Quetzalcoatl-ZQK0220
+Petsa ng Kapanganakan: 12/10/1940   Edad: 70
+SSN: 900-50-0220
+Telepono ng pasyente: 555-010-0220
+Email: canary-zqk0220@example.invalid
+Tirahan: 221 Canary-ZQK0220 Lane, Testville, TX 77000
+MRN: MRNZQK0220
+Insurance ID: INSZQK0220XYZ9
+
+Doktor: Dr. Rodriguez
+Diagnosis: musculoskeletal strain
+Gamot: Inumin ang ondansetron 4 mg ayon sa reseta.
+Follow-up: 8/28/2026 kasama ang inyong doktor.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00252",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0252",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Oduya-ZQK0252",
+      "canary": "ZQK0252",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/20/1972",
+      "canary": "ZQK0252",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "62",
+      "canary": "ZQK0252",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-82-0252",
+      "canary": "ZQK0252",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0252",
+      "canary": "ZQK0252",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0252@example.invalid",
+      "canary": "ZQK0252",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0252",
+      "canary": "ZQK0252",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0252XYZ9",
+      "canary": "ZQK0252",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000252",
+      "canary": "ZQK0252",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "253 Canary-ZQK0252 Lane, Testville, TX 77000",
+      "canary": "ZQK0252",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "9/12/2026"
+  }
+}

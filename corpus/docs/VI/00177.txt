@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Lyndon B Johnson Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Priyanka Vranjevic-ZQK0177
+Ngày sinh: 01/15/1967   Tuổi: 67
+Số an sinh xã hội: 900-97-0177
+Di động bệnh nhân: 555-010-0177
+Email bệnh nhân: canary-zqk0177@example.invalid
+Địa chỉ bệnh nhân: 178 Canary-ZQK0177 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0177
+Số thẻ bảo hiểm: INSZQK0177XYZ9
+
+Bác sĩ: Dr. Rodriguez
+Chẩn đoán: community-acquired pneumonia
+Thuốc: Uống acetaminophen 650 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 6/6/2026 với bác sĩ của bạn.

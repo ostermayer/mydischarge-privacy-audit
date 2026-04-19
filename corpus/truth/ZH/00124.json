@@ -1,0 +1,76 @@
+{
+  "doc_id": "00124",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0124",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Vranjevic-ZQK0124",
+      "canary": "ZQK0124",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/07/1984",
+      "canary": "ZQK0124",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "54",
+      "canary": "ZQK0124",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-44-0124",
+      "canary": "ZQK0124",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0124",
+      "canary": "ZQK0124",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0124@example.invalid",
+      "canary": "ZQK0124",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0124",
+      "canary": "ZQK0124",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0124XYZ9",
+      "canary": "ZQK0124",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000124",
+      "canary": "ZQK0124",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "125 Canary-ZQK0124 Lane, Testville, TX 77000",
+      "canary": "ZQK0124",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "10/3/2026"
+  }
+}

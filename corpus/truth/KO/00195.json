@@ -1,0 +1,76 @@
+{
+  "doc_id": "00195",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0195",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Vranjevic-ZQK0195",
+      "canary": "ZQK0195",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/09/1985",
+      "canary": "ZQK0195",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "85",
+      "canary": "ZQK0195",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-25-0195",
+      "canary": "ZQK0195",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0195",
+      "canary": "ZQK0195",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0195@example.invalid",
+      "canary": "ZQK0195",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0195",
+      "canary": "ZQK0195",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0195XYZ9",
+      "canary": "ZQK0195",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000195",
+      "canary": "ZQK0195",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "196 Canary-ZQK0195 Lane, Testville, TX 77000",
+      "canary": "ZQK0195",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "7/5/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00424",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0424",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Tchaikovsky-ZQK0424",
+      "canary": "ZQK0424",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/20/1934",
+      "canary": "ZQK0424",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "74",
+      "canary": "ZQK0424",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-74-0424",
+      "canary": "ZQK0424",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0424",
+      "canary": "ZQK0424",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0424@example.invalid",
+      "canary": "ZQK0424",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0424",
+      "canary": "ZQK0424",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0424XYZ9",
+      "canary": "ZQK0424",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000424",
+      "canary": "ZQK0424",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "425 Canary-ZQK0424 Lane, Testville, TX 77000",
+      "canary": "ZQK0424",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "11/16/2026"
+  }
+}

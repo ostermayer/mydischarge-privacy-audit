@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Ben Taub General Hospital
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Ximena Vranjevic-ZQK0427
+تاریخ تولد: 04/14/1937   سن: 77
+شماره تأمین اجتماعی: 900-77-0427
+موبایل بیمار: 555-010-0427
+ایمیل بیمار: canary-zqk0427@example.invalid
+آدرس بیمار: 428 Canary-ZQK0427 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0427
+شماره بیمه: INSZQK0427XYZ9
+
+پزشک: Dr. Power
+تشخیص: uncomplicated cystitis
+دارو: albuterol inhaler را طبق دستور مصرف کنید.
+پیگیری: نوبت 12/17/2026 با پزشک خود.

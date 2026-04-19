@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Ben Taub General Hospital
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Bartholomew Vranjevic-ZQK0077
+Fecha de Nacimiento: 02/07/1937    Edad: 87
+Número de Seguro Social: 900-87-0077
+Celular del paciente: 555-010-0077
+Correo del paciente: canary-zqk0077@example.invalid
+Dirección del Paciente: 78 Canary-ZQK0077 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0077
+Número de Seguro: INSZQK0077XYZ9
+Cuenta: 90000077
+
+Médico: Dr. Ostermayer
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome acetaminophen 650 mg según indicación.
+Seguimiento: Cita el 2/20/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

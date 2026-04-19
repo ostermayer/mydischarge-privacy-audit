@@ -1,0 +1,76 @@
+{
+  "doc_id": "00259",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0259",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Ashworth-ZQK0259",
+      "canary": "ZQK0259",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/07/1979",
+      "canary": "ZQK0259",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "69",
+      "canary": "ZQK0259",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-89-0259",
+      "canary": "ZQK0259",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0259",
+      "canary": "ZQK0259",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0259@example.invalid",
+      "canary": "ZQK0259",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0259",
+      "canary": "ZQK0259",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0259XYZ9",
+      "canary": "ZQK0259",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000259",
+      "canary": "ZQK0259",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "260 Canary-ZQK0259 Lane, Testville, TX 77000",
+      "canary": "ZQK0259",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "11/4/2026"
+  }
+}

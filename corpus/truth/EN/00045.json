@@ -1,0 +1,76 @@
+{
+  "doc_id": "00045",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0045",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Chakrabarti-ZQK0045",
+      "canary": "ZQK0045",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/21/1975",
+      "canary": "ZQK0045",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "55",
+      "canary": "ZQK0045",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-55-0045",
+      "canary": "ZQK0045",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0045",
+      "canary": "ZQK0045",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0045@example.invalid",
+      "canary": "ZQK0045",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0045",
+      "canary": "ZQK0045",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0045XYZ9",
+      "canary": "ZQK0045",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000045",
+      "canary": "ZQK0045",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "46 Canary-ZQK0045 Lane, Testville, TX 77000",
+      "canary": "ZQK0045",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "10/12/2026"
+  }
+}

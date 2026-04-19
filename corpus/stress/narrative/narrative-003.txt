@@ -1,0 +1,9 @@
+EMERGENCY DEPARTMENT NOTE
+Patient Marcus Thornton-ZQK1014 presented today complaining of sore throat.
+Date of birth 03/14/1962; the patient is 63 years old.
+His record number is MRNZQK1014 and his insurance plan ID is INSZQK1014XYZ.
+Reachable at 555-020-1014 or canary-zqk1014@example.invalid.
+Lives at 14 Canary-ZQK1014 Ct, Testville, TX 77000.
+Marcus Thornton-ZQK1014 was discharged home in stable condition.
+Social security on file ends in 1014 (full: 900-44-1014). Account 90001014.
+If Marcus has any questions, please call our clinic at 713-500-7878.

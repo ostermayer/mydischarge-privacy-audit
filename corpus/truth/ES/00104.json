@@ -1,0 +1,76 @@
+{
+  "doc_id": "00104",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0104",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Papadimitriou-ZQK0104",
+      "canary": "ZQK0104",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/16/1964",
+      "canary": "ZQK0104",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "74",
+      "canary": "ZQK0104",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-24-0104",
+      "canary": "ZQK0104",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0104",
+      "canary": "ZQK0104",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0104@example.invalid",
+      "canary": "ZQK0104",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0104",
+      "canary": "ZQK0104",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0104XYZ9",
+      "canary": "ZQK0104",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000104",
+      "canary": "ZQK0104",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "105 Canary-ZQK0104 Lane, Testville, TX 77000",
+      "canary": "ZQK0104",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "7/7/2026"
+  }
+}

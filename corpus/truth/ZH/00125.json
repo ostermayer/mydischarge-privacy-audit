@@ -1,0 +1,76 @@
+{
+  "doc_id": "00125",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0125",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Oduya-ZQK0125",
+      "canary": "ZQK0125",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/05/1985",
+      "canary": "ZQK0125",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "55",
+      "canary": "ZQK0125",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-45-0125",
+      "canary": "ZQK0125",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0125",
+      "canary": "ZQK0125",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0125@example.invalid",
+      "canary": "ZQK0125",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0125",
+      "canary": "ZQK0125",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0125XYZ9",
+      "canary": "ZQK0125",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000125",
+      "canary": "ZQK0125",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "126 Canary-ZQK0125 Lane, Testville, TX 77000",
+      "canary": "ZQK0125",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "7/6/2026"
+  }
+}

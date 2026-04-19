@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Memorial Hermann Texas Medical Center
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Priyanka Bergström-ZQK0401
+जन्म तिथि: 09/23/1981   आयु: 51
+सामाजिक सुरक्षा संख्या: 900-51-0401
+रोगी मोबाइल: 555-010-0401
+रोगी ईमेल: canary-zqk0401@example.invalid
+रोगी का पता: 402 Canary-ZQK0401 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0401
+बीमा संख्या: INSZQK0401XYZ9
+
+डॉक्टर: Dr. Nguyen
+निदान: acute bronchitis
+दवा: albuterol inhaler निर्देशानुसार लें।
+अनुवर्ती: 1/1/2026 को अपने डॉक्टर के पास जाएँ।

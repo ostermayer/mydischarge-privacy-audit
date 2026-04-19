@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Bayshore Medical Center
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Kwame Oduya-ZQK0252
+Date de Naissance: 06/20/1972   Âge: 62
+Numéro de Sécurité Sociale: 900-82-0252
+Portable patient: 555-010-0252
+Email patient: canary-zqk0252@example.invalid
+Adresse du Patient: 253 Canary-ZQK0252 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0252
+Numéro d'Assurance: INSZQK0252XYZ9
+
+Médecin: Dr. Power
+Diagnostic: musculoskeletal strain
+Médicament: Prenez metoprolol 25 mg selon prescription.
+Rendez-vous: 9/12/2026 avec votre médecin.

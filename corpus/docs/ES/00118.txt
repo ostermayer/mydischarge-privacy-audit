@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Bayshore Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Yumiko Mogensen-ZQK0118
+Fecha de Nacimiento: 05/03/1978    Edad: 88
+Número de Seguro Social: 900-38-0118
+Celular del paciente: 555-010-0118
+Correo del paciente: canary-zqk0118@example.invalid
+Dirección del Paciente: 119 Canary-ZQK0118 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0118
+Número de Seguro: INSZQK0118XYZ9
+Cuenta: 90000118
+
+Médico: Dr. Fischer
+Diagnóstico: musculoskeletal strain
+Medicamento: Tome ibuprofen 400 mg según indicación.
+Seguimiento: Cita el 1/17/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

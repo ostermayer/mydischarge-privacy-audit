@@ -1,0 +1,17 @@
+응급실 퇴원 안내
+병원: Bayshore Medical Center
+병원 전화: 713-500-7878
+
+환자명: Tariq Vranjevic-ZQK0184
+생년월일: 05/27/1974   나이: 74
+주민번호: 900-14-0184
+환자 휴대폰: 555-010-0184
+환자 이메일: canary-zqk0184@example.invalid
+환자 주소: 185 Canary-ZQK0184 Lane, Testville, TX 77000
+등록번호: MRNZQK0184
+보험번호: INSZQK0184XYZ9
+
+담당의: Dr. Nguyen
+진단: community-acquired pneumonia
+약물: ondansetron 4 mg 처방대로 복용하세요.
+진료 예약: 5/18/2026에 의사 선생님과 진료 예약이 있습니다.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00336",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0336",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Hvidberg-ZQK0336",
+      "canary": "ZQK0336",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/23/1986",
+      "canary": "ZQK0336",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "66",
+      "canary": "ZQK0336",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-76-0336",
+      "canary": "ZQK0336",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0336",
+      "canary": "ZQK0336",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0336@example.invalid",
+      "canary": "ZQK0336",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0336",
+      "canary": "ZQK0336",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0336XYZ9",
+      "canary": "ZQK0336",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000336",
+      "canary": "ZQK0336",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "337 Canary-ZQK0336 Lane, Testville, TX 77000",
+      "canary": "ZQK0336",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "4/27/2026"
+  }
+}

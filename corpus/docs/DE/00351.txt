@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Bayshore Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Saoirse Hvidberg-ZQK0351
+Geburtsdatum: 07/08/1931   Alter: 81
+Sozialversicherungsnummer: 900-91-0351
+Handy Patient: 555-010-0351
+Email Patient: canary-zqk0351@example.invalid
+Patientenadresse: 352 Canary-ZQK0351 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0351
+Versicherungsnummer: INSZQK0351XYZ9
+
+Arzt: Dr. Fischer
+Diagnose: acute otitis media
+Medikament: Nehmen Sie metoprolol 25 mg wie verordnet.
+Termin: 4/15/2026 bei Ihrem Arzt.

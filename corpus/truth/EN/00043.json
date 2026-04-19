@@ -1,0 +1,76 @@
+{
+  "doc_id": "00043",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0043",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Quetzalcoatl-ZQK0043",
+      "canary": "ZQK0043",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/04/1973",
+      "canary": "ZQK0043",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "53",
+      "canary": "ZQK0043",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-53-0043",
+      "canary": "ZQK0043",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0043",
+      "canary": "ZQK0043",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0043@example.invalid",
+      "canary": "ZQK0043",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0043",
+      "canary": "ZQK0043",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0043XYZ9",
+      "canary": "ZQK0043",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000043",
+      "canary": "ZQK0043",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "44 Canary-ZQK0043 Lane, Testville, TX 77000",
+      "canary": "ZQK0043",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "1/13/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00048",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0048",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Hvidberg-ZQK0048",
+      "canary": "ZQK0048",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/02/1978",
+      "canary": "ZQK0048",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "58",
+      "canary": "ZQK0048",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-58-0048",
+      "canary": "ZQK0048",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0048",
+      "canary": "ZQK0048",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0048@example.invalid",
+      "canary": "ZQK0048",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0048",
+      "canary": "ZQK0048",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0048XYZ9",
+      "canary": "ZQK0048",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000048",
+      "canary": "ZQK0048",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "49 Canary-ZQK0048 Lane, Testville, TX 77000",
+      "canary": "ZQK0048",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "7/24/2026"
+  }
+}

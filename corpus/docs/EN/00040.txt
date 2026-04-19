@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Ben Taub General Hospital (call 713-500-7878 for questions)
+Name: Saoirse Vranjevic-ZQK0040
+Date of Birth: 01/16/1970
+Age: 50 years
+Home Address: 41 Canary-ZQK0040 Lane, Testville, TX 77000
+Cell: 555-010-0040
+Email: canary-zqk0040@example.invalid
+Medical Record Number: MRNZQK0040
+Member ID: INSZQK0040XYZ9
+Primary provider: Dr. Ostermayer
+Diagnosis: musculoskeletal strain
+Your doctor prescribed amoxicillin 500 mg.
+Follow up on 4/13/2026.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00007",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0007",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Bergström-ZQK0007",
+      "canary": "ZQK0007",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/21/1937",
+      "canary": "ZQK0007",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0007",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-17-0007",
+      "canary": "ZQK0007",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0007",
+      "canary": "ZQK0007",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0007@example.invalid",
+      "canary": "ZQK0007",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0007",
+      "canary": "ZQK0007",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0007XYZ9",
+      "canary": "ZQK0007",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000007",
+      "canary": "ZQK0007",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "8 Canary-ZQK0007 Lane, Testville, TX 77000",
+      "canary": "ZQK0007",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "5/12/2026"
+  }
+}

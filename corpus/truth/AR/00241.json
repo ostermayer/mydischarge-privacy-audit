@@ -1,0 +1,76 @@
+{
+  "doc_id": "00241",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0241",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Bergström-ZQK0241",
+      "canary": "ZQK0241",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/02/1961",
+      "canary": "ZQK0241",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0241",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-71-0241",
+      "canary": "ZQK0241",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0241",
+      "canary": "ZQK0241",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0241@example.invalid",
+      "canary": "ZQK0241",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0241",
+      "canary": "ZQK0241",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0241XYZ9",
+      "canary": "ZQK0241",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000241",
+      "canary": "ZQK0241",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "242 Canary-ZQK0241 Lane, Testville, TX 77000",
+      "canary": "ZQK0241",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "8/12/2026"
+  }
+}

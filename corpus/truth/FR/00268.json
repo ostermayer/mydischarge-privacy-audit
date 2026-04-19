@@ -1,0 +1,76 @@
+{
+  "doc_id": "00268",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0268",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Quetzalcoatl-ZQK0268",
+      "canary": "ZQK0268",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/10/1988",
+      "canary": "ZQK0268",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "78",
+      "canary": "ZQK0268",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-98-0268",
+      "canary": "ZQK0268",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0268",
+      "canary": "ZQK0268",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0268@example.invalid",
+      "canary": "ZQK0268",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0268",
+      "canary": "ZQK0268",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0268XYZ9",
+      "canary": "ZQK0268",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000268",
+      "canary": "ZQK0268",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "269 Canary-ZQK0268 Lane, Testville, TX 77000",
+      "canary": "ZQK0268",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "10/27/2026"
+  }
+}

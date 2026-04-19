@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: UT Physicians Clinic
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Saoirse Tchaikovsky-ZQK0218
+Petsa ng Kapanganakan: 11/02/1938   Edad: 68
+SSN: 900-48-0218
+Telepono ng pasyente: 555-010-0218
+Email: canary-zqk0218@example.invalid
+Tirahan: 219 Canary-ZQK0218 Lane, Testville, TX 77000
+MRN: MRNZQK0218
+Insurance ID: INSZQK0218XYZ9
+
+Doktor: Dr. Ostermayer
+Diagnosis: musculoskeletal strain
+Gamot: Inumin ang ondansetron 4 mg ayon sa reseta.
+Follow-up: 7/19/2026 kasama ang inyong doktor.

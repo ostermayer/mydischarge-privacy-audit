@@ -1,0 +1,76 @@
+{
+  "doc_id": "00026",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0026",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Bergström-ZQK0026",
+      "canary": "ZQK0026",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/06/1956",
+      "canary": "ZQK0026",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "76",
+      "canary": "ZQK0026",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-36-0026",
+      "canary": "ZQK0026",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0026",
+      "canary": "ZQK0026",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0026@example.invalid",
+      "canary": "ZQK0026",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0026",
+      "canary": "ZQK0026",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0026XYZ9",
+      "canary": "ZQK0026",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000026",
+      "canary": "ZQK0026",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "27 Canary-ZQK0026 Lane, Testville, TX 77000",
+      "canary": "ZQK0026",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "5/2/2026"
+  }
+}

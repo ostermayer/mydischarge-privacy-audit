@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Lyndon B Johnson Hospital (call 713-500-7878 for questions)
+Name: Ingrid Oduya-ZQK0052
+Date of Birth: 03/08/1982
+Age: 62 years
+Home Address: 53 Canary-ZQK0052 Lane, Testville, TX 77000
+Cell: 555-010-0052
+Email: canary-zqk0052@example.invalid
+Medical Record Number: MRNZQK0052
+Member ID: INSZQK0052XYZ9
+Primary provider: Dr. Rodriguez
+Diagnosis: viral gastroenteritis
+Your doctor prescribed acetaminophen 650 mg.
+Follow up on 10/10/2026.

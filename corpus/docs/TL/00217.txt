@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Lyndon B Johnson Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Aleksandr Chakrabarti-ZQK0217
+Petsa ng Kapanganakan: 01/28/1937   Edad: 67
+SSN: 900-47-0217
+Telepono ng pasyente: 555-010-0217
+Email: canary-zqk0217@example.invalid
+Tirahan: 218 Canary-ZQK0217 Lane, Testville, TX 77000
+MRN: MRNZQK0217
+Insurance ID: INSZQK0217XYZ9
+
+Doktor: Dr. Fischer
+Diagnosis: musculoskeletal strain
+Gamot: Inumin ang albuterol inhaler ayon sa reseta.
+Follow-up: 6/24/2026 kasama ang inyong doktor.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00288",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0288",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Bergström-ZQK0288",
+      "canary": "ZQK0288",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/28/1938",
+      "canary": "ZQK0288",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "58",
+      "canary": "ZQK0288",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-28-0288",
+      "canary": "ZQK0288",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0288",
+      "canary": "ZQK0288",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0288@example.invalid",
+      "canary": "ZQK0288",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0288",
+      "canary": "ZQK0288",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0288XYZ9",
+      "canary": "ZQK0288",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000288",
+      "canary": "ZQK0288",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "289 Canary-ZQK0288 Lane, Testville, TX 77000",
+      "canary": "ZQK0288",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "11/19/2026"
+  }
+}

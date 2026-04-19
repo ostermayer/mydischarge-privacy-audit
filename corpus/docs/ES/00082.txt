@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+UT Physicians Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Octavio Hvidberg-ZQK0082
+Fecha de Nacimiento: 07/03/1942    Edad: 52
+Número de Seguro Social: 900-92-0082
+Celular del paciente: 555-010-0082
+Correo del paciente: canary-zqk0082@example.invalid
+Dirección del Paciente: 83 Canary-ZQK0082 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0082
+Número de Seguro: INSZQK0082XYZ9
+Cuenta: 90000082
+
+Médico: Dr. Fischer
+Diagnóstico: viral gastroenteritis
+Medicamento: Tome metoprolol 25 mg según indicación.
+Seguimiento: Cita el 6/20/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

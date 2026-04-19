@@ -1,0 +1,76 @@
+{
+  "doc_id": "00156",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0156",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Chakrabarti-ZQK0156",
+      "canary": "ZQK0156",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/24/1946",
+      "canary": "ZQK0156",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "86",
+      "canary": "ZQK0156",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-76-0156",
+      "canary": "ZQK0156",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0156",
+      "canary": "ZQK0156",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0156@example.invalid",
+      "canary": "ZQK0156",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0156",
+      "canary": "ZQK0156",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0156XYZ9",
+      "canary": "ZQK0156",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000156",
+      "canary": "ZQK0156",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "157 Canary-ZQK0156 Lane, Testville, TX 77000",
+      "canary": "ZQK0156",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "11/8/2026"
+  }
+}

@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Ben Taub General Hospital
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Dashiell Tchaikovsky-ZQK0433
+تاریخ تولد: 07/08/1943   سن: 83
+شماره تأمین اجتماعی: 900-83-0433
+موبایل بیمار: 555-010-0433
+ایمیل بیمار: canary-zqk0433@example.invalid
+آدرس بیمار: 434 Canary-ZQK0433 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0433
+شماره بیمه: INSZQK0433XYZ9
+
+پزشک: Dr. Rodriguez
+تشخیص: acute otitis media
+دارو: ondansetron 4 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 12/26/2026 با پزشک خود.

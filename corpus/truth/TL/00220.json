@@ -1,0 +1,76 @@
+{
+  "doc_id": "00220",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0220",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Quetzalcoatl-ZQK0220",
+      "canary": "ZQK0220",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/10/1940",
+      "canary": "ZQK0220",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0220",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-50-0220",
+      "canary": "ZQK0220",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0220",
+      "canary": "ZQK0220",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0220@example.invalid",
+      "canary": "ZQK0220",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0220",
+      "canary": "ZQK0220",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0220XYZ9",
+      "canary": "ZQK0220",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000220",
+      "canary": "ZQK0220",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "221 Canary-ZQK0220 Lane, Testville, TX 77000",
+      "canary": "ZQK0220",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "8/28/2026"
+  }
+}

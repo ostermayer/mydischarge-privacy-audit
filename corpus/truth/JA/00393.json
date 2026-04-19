@@ -1,0 +1,76 @@
+{
+  "doc_id": "00393",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0393",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Quetzalcoatl-ZQK0393",
+      "canary": "ZQK0393",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/18/1973",
+      "canary": "ZQK0393",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "83",
+      "canary": "ZQK0393",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-43-0393",
+      "canary": "ZQK0393",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0393",
+      "canary": "ZQK0393",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0393@example.invalid",
+      "canary": "ZQK0393",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0393",
+      "canary": "ZQK0393",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0393XYZ9",
+      "canary": "ZQK0393",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000393",
+      "canary": "ZQK0393",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "394 Canary-ZQK0393 Lane, Testville, TX 77000",
+      "canary": "ZQK0393",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "6/11/2026"
+  }
+}

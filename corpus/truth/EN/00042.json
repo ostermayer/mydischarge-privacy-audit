@@ -1,0 +1,76 @@
+{
+  "doc_id": "00042",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0042",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Papadimitriou-ZQK0042",
+      "canary": "ZQK0042",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/22/1972",
+      "canary": "ZQK0042",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "52",
+      "canary": "ZQK0042",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-52-0042",
+      "canary": "ZQK0042",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0042",
+      "canary": "ZQK0042",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0042@example.invalid",
+      "canary": "ZQK0042",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0042",
+      "canary": "ZQK0042",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0042XYZ9",
+      "canary": "ZQK0042",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000042",
+      "canary": "ZQK0042",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "43 Canary-ZQK0042 Lane, Testville, TX 77000",
+      "canary": "ZQK0042",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "11/6/2026"
+  }
+}

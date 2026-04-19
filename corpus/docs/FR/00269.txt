@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Lyndon B Johnson Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Yumiko Quetzalcoatl-ZQK0269
+Date de Naissance: 10/15/1989   Âge: 79
+Numéro de Sécurité Sociale: 900-99-0269
+Portable patient: 555-010-0269
+Email patient: canary-zqk0269@example.invalid
+Adresse du Patient: 270 Canary-ZQK0269 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0269
+Numéro d'Assurance: INSZQK0269XYZ9
+
+Médecin: Dr. Fischer
+Diagnostic: acute bronchitis
+Médicament: Prenez ondansetron 4 mg selon prescription.
+Rendez-vous: 9/18/2026 avec votre médecin.

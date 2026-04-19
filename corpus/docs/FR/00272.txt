@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Ben Taub General Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Beatriz Hvidberg-ZQK0272
+Date de Naissance: 06/14/1992   Âge: 82
+Numéro de Sécurité Sociale: 900-12-0272
+Portable patient: 555-010-0272
+Email patient: canary-zqk0272@example.invalid
+Adresse du Patient: 273 Canary-ZQK0272 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0272
+Numéro d'Assurance: INSZQK0272XYZ9
+
+Médecin: Dr. Fischer
+Diagnostic: acute bronchitis
+Médicament: Prenez amoxicillin 500 mg selon prescription.
+Rendez-vous: 5/21/2026 avec votre médecin.

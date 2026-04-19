@@ -1,0 +1,76 @@
+{
+  "doc_id": "00367",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0367",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Hvidberg-ZQK0367",
+      "canary": "ZQK0367",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/10/1947",
+      "canary": "ZQK0367",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0367",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-17-0367",
+      "canary": "ZQK0367",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0367",
+      "canary": "ZQK0367",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0367@example.invalid",
+      "canary": "ZQK0367",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0367",
+      "canary": "ZQK0367",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0367XYZ9",
+      "canary": "ZQK0367",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000367",
+      "canary": "ZQK0367",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "368 Canary-ZQK0367 Lane, Testville, TX 77000",
+      "canary": "ZQK0367",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "7/12/2026"
+  }
+}

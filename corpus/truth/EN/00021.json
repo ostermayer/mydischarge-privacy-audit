@@ -1,0 +1,76 @@
+{
+  "doc_id": "00021",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0021",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Oduya-ZQK0021",
+      "canary": "ZQK0021",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/02/1951",
+      "canary": "ZQK0021",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "71",
+      "canary": "ZQK0021",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-31-0021",
+      "canary": "ZQK0021",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0021",
+      "canary": "ZQK0021",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0021@example.invalid",
+      "canary": "ZQK0021",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0021",
+      "canary": "ZQK0021",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0021XYZ9",
+      "canary": "ZQK0021",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000021",
+      "canary": "ZQK0021",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "22 Canary-ZQK0021 Lane, Testville, TX 77000",
+      "canary": "ZQK0021",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "11/6/2026"
+  }
+}

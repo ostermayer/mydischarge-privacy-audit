@@ -1,0 +1,76 @@
+{
+  "doc_id": "00072",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0072",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Oduya-ZQK0072",
+      "canary": "ZQK0072",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/04/1932",
+      "canary": "ZQK0072",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "82",
+      "canary": "ZQK0072",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-82-0072",
+      "canary": "ZQK0072",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0072",
+      "canary": "ZQK0072",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0072@example.invalid",
+      "canary": "ZQK0072",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0072",
+      "canary": "ZQK0072",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0072XYZ9",
+      "canary": "ZQK0072",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000072",
+      "canary": "ZQK0072",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "73 Canary-ZQK0072 Lane, Testville, TX 77000",
+      "canary": "ZQK0072",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "12/6/2026"
+  }
+}

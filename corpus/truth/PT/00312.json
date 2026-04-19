@@ -1,0 +1,76 @@
+{
+  "doc_id": "00312",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0312",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Vranjevic-ZQK0312",
+      "canary": "ZQK0312",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/12/1962",
+      "canary": "ZQK0312",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "82",
+      "canary": "ZQK0312",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-52-0312",
+      "canary": "ZQK0312",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0312",
+      "canary": "ZQK0312",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0312@example.invalid",
+      "canary": "ZQK0312",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0312",
+      "canary": "ZQK0312",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0312XYZ9",
+      "canary": "ZQK0312",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000312",
+      "canary": "ZQK0312",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "313 Canary-ZQK0312 Lane, Testville, TX 77000",
+      "canary": "ZQK0312",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "11/13/2026"
+  }
+}

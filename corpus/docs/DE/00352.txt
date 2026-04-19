@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Bayshore Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Dashiell Bergström-ZQK0352
+Geburtsdatum: 10/28/1932   Alter: 82
+Sozialversicherungsnummer: 900-92-0352
+Handy Patient: 555-010-0352
+Email Patient: canary-zqk0352@example.invalid
+Patientenadresse: 353 Canary-ZQK0352 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0352
+Versicherungsnummer: INSZQK0352XYZ9
+
+Arzt: Dr. Nguyen
+Diagnose: musculoskeletal strain
+Medikament: Nehmen Sie acetaminophen 650 mg wie verordnet.
+Termin: 9/16/2026 bei Ihrem Arzt.

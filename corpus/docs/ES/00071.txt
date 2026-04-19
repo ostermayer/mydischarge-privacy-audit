@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Bayshore Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Bartholomew Hvidberg-ZQK0071
+Fecha de Nacimiento: 09/02/1931    Edad: 81
+Número de Seguro Social: 900-81-0071
+Celular del paciente: 555-010-0071
+Correo del paciente: canary-zqk0071@example.invalid
+Dirección del Paciente: 72 Canary-ZQK0071 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0071
+Número de Seguro: INSZQK0071XYZ9
+Cuenta: 90000071
+
+Médico: Dr. Fischer
+Diagnóstico: viral gastroenteritis
+Medicamento: Tome metoprolol 25 mg según indicación.
+Seguimiento: Cita el 6/2/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

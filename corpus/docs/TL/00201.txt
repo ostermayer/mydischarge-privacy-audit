@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Memorial Hermann Texas Medical Center
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Dashiell Papadimitriou-ZQK0201
+Petsa ng Kapanganakan: 07/05/1991   Edad: 51
+SSN: 900-31-0201
+Telepono ng pasyente: 555-010-0201
+Email: canary-zqk0201@example.invalid
+Tirahan: 202 Canary-ZQK0201 Lane, Testville, TX 77000
+MRN: MRNZQK0201
+Insurance ID: INSZQK0201XYZ9
+
+Doktor: Dr. Patel
+Diagnosis: musculoskeletal strain
+Gamot: Inumin ang acetaminophen 650 mg ayon sa reseta.
+Follow-up: 12/3/2026 kasama ang inyong doktor.

@@ -1,0 +1,17 @@
+응급실 퇴원 안내
+병원: UT Physicians Clinic
+병원 전화: 713-500-7878
+
+환자명: Ingrid Papadimitriou-ZQK0181
+생년월일: 03/27/1971   나이: 71
+주민번호: 900-11-0181
+환자 휴대폰: 555-010-0181
+환자 이메일: canary-zqk0181@example.invalid
+환자 주소: 182 Canary-ZQK0181 Lane, Testville, TX 77000
+등록번호: MRNZQK0181
+보험번호: INSZQK0181XYZ9
+
+담당의: Dr. Fischer
+진단: acute bronchitis
+약물: ibuprofen 400 mg 처방대로 복용하세요.
+진료 예약: 7/6/2026에 의사 선생님과 진료 예약이 있습니다.

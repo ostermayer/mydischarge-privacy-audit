@@ -1,0 +1,76 @@
+{
+  "doc_id": "00083",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0083",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Bergström-ZQK0083",
+      "canary": "ZQK0083",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/17/1943",
+      "canary": "ZQK0083",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "53",
+      "canary": "ZQK0083",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-93-0083",
+      "canary": "ZQK0083",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0083",
+      "canary": "ZQK0083",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0083@example.invalid",
+      "canary": "ZQK0083",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0083",
+      "canary": "ZQK0083",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0083XYZ9",
+      "canary": "ZQK0083",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000083",
+      "canary": "ZQK0083",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "84 Canary-ZQK0083 Lane, Testville, TX 77000",
+      "canary": "ZQK0083",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "3/16/2026"
+  }
+}

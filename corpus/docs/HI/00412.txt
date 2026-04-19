@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Ben Taub General Hospital
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Yumiko Bergström-ZQK0412
+जन्म तिथि: 03/17/1992   आयु: 62
+सामाजिक सुरक्षा संख्या: 900-62-0412
+रोगी मोबाइल: 555-010-0412
+रोगी ईमेल: canary-zqk0412@example.invalid
+रोगी का पता: 413 Canary-ZQK0412 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0412
+बीमा संख्या: INSZQK0412XYZ9
+
+डॉक्टर: Dr. Fischer
+निदान: uncomplicated cystitis
+दवा: albuterol inhaler निर्देशानुसार लें।
+अनुवर्ती: 7/15/2026 को अपने डॉक्टर के पास जाएँ।

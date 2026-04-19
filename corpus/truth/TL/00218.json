@@ -1,0 +1,76 @@
+{
+  "doc_id": "00218",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0218",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Tchaikovsky-ZQK0218",
+      "canary": "ZQK0218",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/02/1938",
+      "canary": "ZQK0218",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "68",
+      "canary": "ZQK0218",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-48-0218",
+      "canary": "ZQK0218",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0218",
+      "canary": "ZQK0218",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0218@example.invalid",
+      "canary": "ZQK0218",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0218",
+      "canary": "ZQK0218",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0218XYZ9",
+      "canary": "ZQK0218",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000218",
+      "canary": "ZQK0218",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "219 Canary-ZQK0218 Lane, Testville, TX 77000",
+      "canary": "ZQK0218",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "7/19/2026"
+  }
+}

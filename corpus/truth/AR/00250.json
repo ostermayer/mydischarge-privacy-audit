@@ -1,0 +1,76 @@
+{
+  "doc_id": "00250",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0250",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Ashworth-ZQK0250",
+      "canary": "ZQK0250",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/11/1970",
+      "canary": "ZQK0250",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "60",
+      "canary": "ZQK0250",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-80-0250",
+      "canary": "ZQK0250",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0250",
+      "canary": "ZQK0250",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0250@example.invalid",
+      "canary": "ZQK0250",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0250",
+      "canary": "ZQK0250",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0250XYZ9",
+      "canary": "ZQK0250",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000250",
+      "canary": "ZQK0250",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "251 Canary-ZQK0250 Lane, Testville, TX 77000",
+      "canary": "ZQK0250",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "3/17/2026"
+  }
+}

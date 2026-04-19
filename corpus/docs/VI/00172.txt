@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Lyndon B Johnson Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Beatriz Hvidberg-ZQK0172
+Ngày sinh: 04/12/1962   Tuổi: 62
+Số an sinh xã hội: 900-92-0172
+Di động bệnh nhân: 555-010-0172
+Email bệnh nhân: canary-zqk0172@example.invalid
+Địa chỉ bệnh nhân: 173 Canary-ZQK0172 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0172
+Số thẻ bảo hiểm: INSZQK0172XYZ9
+
+Bác sĩ: Dr. Patel
+Chẩn đoán: community-acquired pneumonia
+Thuốc: Uống amoxicillin 500 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 3/28/2026 với bác sĩ của bạn.

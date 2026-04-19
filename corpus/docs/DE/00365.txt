@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Harris Health East Clinic
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Dashiell Papadimitriou-ZQK0365
+Geburtsdatum: 10/17/1945   Alter: 55
+Sozialversicherungsnummer: 900-15-0365
+Handy Patient: 555-010-0365
+Email Patient: canary-zqk0365@example.invalid
+Patientenadresse: 366 Canary-ZQK0365 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0365
+Versicherungsnummer: INSZQK0365XYZ9
+
+Arzt: Dr. Ostermayer
+Diagnose: uncomplicated cystitis
+Medikament: Nehmen Sie ondansetron 4 mg wie verordnet.
+Termin: 5/5/2026 bei Ihrem Arzt.

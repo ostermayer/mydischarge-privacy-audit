@@ -1,0 +1,76 @@
+{
+  "doc_id": "00025",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0025",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Vranjevic-ZQK0025",
+      "canary": "ZQK0025",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/18/1955",
+      "canary": "ZQK0025",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0025",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-35-0025",
+      "canary": "ZQK0025",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0025",
+      "canary": "ZQK0025",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0025@example.invalid",
+      "canary": "ZQK0025",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0025",
+      "canary": "ZQK0025",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0025XYZ9",
+      "canary": "ZQK0025",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000025",
+      "canary": "ZQK0025",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "26 Canary-ZQK0025 Lane, Testville, TX 77000",
+      "canary": "ZQK0025",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "11/27/2026"
+  }
+}

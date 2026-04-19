@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Bayshore Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Beatriz Hvidberg-ZQK0367
+Geburtsdatum: 02/10/1947   Alter: 57
+Sozialversicherungsnummer: 900-17-0367
+Handy Patient: 555-010-0367
+Email Patient: canary-zqk0367@example.invalid
+Patientenadresse: 368 Canary-ZQK0367 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0367
+Versicherungsnummer: INSZQK0367XYZ9
+
+Arzt: Dr. Ostermayer
+Diagnose: community-acquired pneumonia
+Medikament: Nehmen Sie ondansetron 4 mg wie verordnet.
+Termin: 7/12/2026 bei Ihrem Arzt.

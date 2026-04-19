@@ -1,0 +1,76 @@
+{
+  "doc_id": "00119",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0119",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Yumiko Tchaikovsky-ZQK0119",
+      "canary": "ZQK0119",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/09/1979",
+      "canary": "ZQK0119",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "89",
+      "canary": "ZQK0119",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-39-0119",
+      "canary": "ZQK0119",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0119",
+      "canary": "ZQK0119",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0119@example.invalid",
+      "canary": "ZQK0119",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0119",
+      "canary": "ZQK0119",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0119XYZ9",
+      "canary": "ZQK0119",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000119",
+      "canary": "ZQK0119",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "120 Canary-ZQK0119 Lane, Testville, TX 77000",
+      "canary": "ZQK0119",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "12/5/2026"
+  }
+}

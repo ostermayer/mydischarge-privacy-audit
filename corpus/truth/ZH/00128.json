@@ -1,0 +1,76 @@
+{
+  "doc_id": "00128",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0128",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Hvidberg-ZQK0128",
+      "canary": "ZQK0128",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/11/1988",
+      "canary": "ZQK0128",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "58",
+      "canary": "ZQK0128",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-48-0128",
+      "canary": "ZQK0128",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0128",
+      "canary": "ZQK0128",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0128@example.invalid",
+      "canary": "ZQK0128",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0128",
+      "canary": "ZQK0128",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0128XYZ9",
+      "canary": "ZQK0128",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000128",
+      "canary": "ZQK0128",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "129 Canary-ZQK0128 Lane, Testville, TX 77000",
+      "canary": "ZQK0128",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "8/21/2026"
+  }
+}

@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: UT Physicians Clinic
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Yumiko Chakrabarti-ZQK0165
+Ngày sinh: 07/05/1955   Tuổi: 55
+Số an sinh xã hội: 900-85-0165
+Di động bệnh nhân: 555-010-0165
+Email bệnh nhân: canary-zqk0165@example.invalid
+Địa chỉ bệnh nhân: 166 Canary-ZQK0165 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0165
+Số thẻ bảo hiểm: INSZQK0165XYZ9
+
+Bác sĩ: Dr. Fischer
+Chẩn đoán: acute bronchitis
+Thuốc: Uống ondansetron 4 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 1/12/2026 với bác sĩ của bạn.

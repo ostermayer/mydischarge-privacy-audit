@@ -1,0 +1,76 @@
+{
+  "doc_id": "00052",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0052",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Oduya-ZQK0052",
+      "canary": "ZQK0052",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/08/1982",
+      "canary": "ZQK0052",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "62",
+      "canary": "ZQK0052",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-62-0052",
+      "canary": "ZQK0052",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0052",
+      "canary": "ZQK0052",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0052@example.invalid",
+      "canary": "ZQK0052",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0052",
+      "canary": "ZQK0052",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0052XYZ9",
+      "canary": "ZQK0052",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000052",
+      "canary": "ZQK0052",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "53 Canary-ZQK0052 Lane, Testville, TX 77000",
+      "canary": "ZQK0052",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "10/10/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00001",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0001",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Mogensen-ZQK0001",
+      "canary": "ZQK0001",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/02/1931",
+      "canary": "ZQK0001",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0001",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-11-0001",
+      "canary": "ZQK0001",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0001",
+      "canary": "ZQK0001",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0001@example.invalid",
+      "canary": "ZQK0001",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0001",
+      "canary": "ZQK0001",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0001XYZ9",
+      "canary": "ZQK0001",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000001",
+      "canary": "ZQK0001",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "2 Canary-ZQK0001 Lane, Testville, TX 77000",
+      "canary": "ZQK0001",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/24/2026"
+  }
+}

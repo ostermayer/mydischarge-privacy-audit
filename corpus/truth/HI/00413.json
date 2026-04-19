@@ -1,0 +1,76 @@
+{
+  "doc_id": "00413",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0413",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Papadimitriou-ZQK0413",
+      "canary": "ZQK0413",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/09/1993",
+      "canary": "ZQK0413",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "63",
+      "canary": "ZQK0413",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-63-0413",
+      "canary": "ZQK0413",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0413",
+      "canary": "ZQK0413",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0413@example.invalid",
+      "canary": "ZQK0413",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0413",
+      "canary": "ZQK0413",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0413XYZ9",
+      "canary": "ZQK0413",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000413",
+      "canary": "ZQK0413",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "414 Canary-ZQK0413 Lane, Testville, TX 77000",
+      "canary": "ZQK0413",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "1/4/2026"
+  }
+}

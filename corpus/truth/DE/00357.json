@@ -1,0 +1,76 @@
+{
+  "doc_id": "00357",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0357",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Ashworth-ZQK0357",
+      "canary": "ZQK0357",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/22/1937",
+      "canary": "ZQK0357",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "87",
+      "canary": "ZQK0357",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-97-0357",
+      "canary": "ZQK0357",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0357",
+      "canary": "ZQK0357",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0357@example.invalid",
+      "canary": "ZQK0357",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0357",
+      "canary": "ZQK0357",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0357XYZ9",
+      "canary": "ZQK0357",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000357",
+      "canary": "ZQK0357",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "358 Canary-ZQK0357 Lane, Testville, TX 77000",
+      "canary": "ZQK0357",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "11/27/2026"
+  }
+}

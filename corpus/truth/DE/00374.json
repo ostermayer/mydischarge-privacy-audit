@@ -1,0 +1,76 @@
+{
+  "doc_id": "00374",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0374",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Oduya-ZQK0374",
+      "canary": "ZQK0374",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/14/1954",
+      "canary": "ZQK0374",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "64",
+      "canary": "ZQK0374",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-24-0374",
+      "canary": "ZQK0374",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0374",
+      "canary": "ZQK0374",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0374@example.invalid",
+      "canary": "ZQK0374",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0374",
+      "canary": "ZQK0374",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0374XYZ9",
+      "canary": "ZQK0374",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000374",
+      "canary": "ZQK0374",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "375 Canary-ZQK0374 Lane, Testville, TX 77000",
+      "canary": "ZQK0374",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/24/2026"
+  }
+}

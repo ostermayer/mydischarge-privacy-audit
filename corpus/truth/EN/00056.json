@@ -1,0 +1,76 @@
+{
+  "doc_id": "00056",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0056",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Vranjevic-ZQK0056",
+      "canary": "ZQK0056",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/03/1986",
+      "canary": "ZQK0056",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "66",
+      "canary": "ZQK0056",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-66-0056",
+      "canary": "ZQK0056",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0056",
+      "canary": "ZQK0056",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0056@example.invalid",
+      "canary": "ZQK0056",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0056",
+      "canary": "ZQK0056",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0056XYZ9",
+      "canary": "ZQK0056",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000056",
+      "canary": "ZQK0056",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "57 Canary-ZQK0056 Lane, Testville, TX 77000",
+      "canary": "ZQK0056",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/2/2026"
+  }
+}

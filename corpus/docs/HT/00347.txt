@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Lyndon B Johnson Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Dashiell Bergström-ZQK0347
+Dat Nesans: 12/14/1997   Laj: 77
+SSN: 900-87-0347
+Telefòn pasyan: 555-010-0347
+Email pasyan: canary-zqk0347@example.invalid
+Adrès Pasyan: 348 Canary-ZQK0347 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0347
+Nimewo Asirans: INSZQK0347XYZ9
+
+Doktè: Dr. Rodriguez
+Dyagnostik: acute bronchitis
+Medikaman: Pran acetaminophen 650 mg jan yo preskri a.
+Swivi: Randevou 4/8/2026 ak doktè ou.

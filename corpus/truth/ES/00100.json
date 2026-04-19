@@ -1,0 +1,76 @@
+{
+  "doc_id": "00100",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0100",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Papadimitriou-ZQK0100",
+      "canary": "ZQK0100",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/21/1960",
+      "canary": "ZQK0100",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0100",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-20-0100",
+      "canary": "ZQK0100",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0100",
+      "canary": "ZQK0100",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0100@example.invalid",
+      "canary": "ZQK0100",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0100",
+      "canary": "ZQK0100",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0100XYZ9",
+      "canary": "ZQK0100",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000100",
+      "canary": "ZQK0100",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "101 Canary-ZQK0100 Lane, Testville, TX 77000",
+      "canary": "ZQK0100",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "4/25/2026"
+  }
+}

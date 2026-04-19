@@ -1,0 +1,76 @@
+{
+  "doc_id": "00224",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0224",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Ashworth-ZQK0224",
+      "canary": "ZQK0224",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/08/1944",
+      "canary": "ZQK0224",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "74",
+      "canary": "ZQK0224",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-54-0224",
+      "canary": "ZQK0224",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0224",
+      "canary": "ZQK0224",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0224@example.invalid",
+      "canary": "ZQK0224",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0224",
+      "canary": "ZQK0224",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0224XYZ9",
+      "canary": "ZQK0224",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000224",
+      "canary": "ZQK0224",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "225 Canary-ZQK0224 Lane, Testville, TX 77000",
+      "canary": "ZQK0224",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "9/2/2026"
+  }
+}

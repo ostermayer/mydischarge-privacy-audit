@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: UT Physicians Clinic
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Ingrid Vranjevic-ZQK0321
+Data de Nascimento: 08/21/1971   Idade: 51
+CPF: 900-61-0321
+Celular do paciente: 555-010-0321
+Email do paciente: canary-zqk0321@example.invalid
+Endereço do Paciente: 322 Canary-ZQK0321 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0321
+Número do Seguro: INSZQK0321XYZ9
+
+Médico: Dr. Power
+Diagnóstico: acute otitis media
+Medicamento: Tome acetaminophen 650 mg conforme prescrito.
+Retorno: Consulta em 3/20/2026 com seu médico.

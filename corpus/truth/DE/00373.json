@@ -1,0 +1,76 @@
+{
+  "doc_id": "00373",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0373",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Vranjevic-ZQK0373",
+      "canary": "ZQK0373",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/21/1953",
+      "canary": "ZQK0373",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "63",
+      "canary": "ZQK0373",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-23-0373",
+      "canary": "ZQK0373",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0373",
+      "canary": "ZQK0373",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0373@example.invalid",
+      "canary": "ZQK0373",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0373",
+      "canary": "ZQK0373",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0373XYZ9",
+      "canary": "ZQK0373",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000373",
+      "canary": "ZQK0373",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "374 Canary-ZQK0373 Lane, Testville, TX 77000",
+      "canary": "ZQK0373",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "12/24/2026"
+  }
+}

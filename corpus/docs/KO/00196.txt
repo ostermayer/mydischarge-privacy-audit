@@ -1,0 +1,17 @@
+응급실 퇴원 안내
+병원: Bayshore Medical Center
+병원 전화: 713-500-7878
+
+환자명: Kwame Oduya-ZQK0196
+생년월일: 11/12/1986   나이: 86
+주민번호: 900-26-0196
+환자 휴대폰: 555-010-0196
+환자 이메일: canary-zqk0196@example.invalid
+환자 주소: 197 Canary-ZQK0196 Lane, Testville, TX 77000
+등록번호: MRNZQK0196
+보험번호: INSZQK0196XYZ9
+
+담당의: Dr. Power
+진단: musculoskeletal strain
+약물: ibuprofen 400 mg 처방대로 복용하세요.
+진료 예약: 1/5/2026에 의사 선생님과 진료 예약이 있습니다.

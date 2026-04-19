@@ -1,0 +1,76 @@
+{
+  "doc_id": "00132",
+  "language": "ZH",
+  "template_index": 0,
+  "canary_token": "ZQK0132",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Bergström-ZQK0132",
+      "canary": "ZQK0132",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/25/1992",
+      "canary": "ZQK0132",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "62",
+      "canary": "ZQK0132",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-52-0132",
+      "canary": "ZQK0132",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0132",
+      "canary": "ZQK0132",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0132@example.invalid",
+      "canary": "ZQK0132",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0132",
+      "canary": "ZQK0132",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0132XYZ9",
+      "canary": "ZQK0132",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000132",
+      "canary": "ZQK0132",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "133 Canary-ZQK0132 Lane, Testville, TX 77000",
+      "canary": "ZQK0132",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "10/8/2026"
+  }
+}

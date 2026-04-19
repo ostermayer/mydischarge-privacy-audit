@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Bayshore Medical Center
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Bartholomew Chakrabarti-ZQK0263
+Date de Naissance: 05/13/1983   Âge: 73
+Numéro de Sécurité Sociale: 900-93-0263
+Portable patient: 555-010-0263
+Email patient: canary-zqk0263@example.invalid
+Adresse du Patient: 264 Canary-ZQK0263 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0263
+Numéro d'Assurance: INSZQK0263XYZ9
+
+Médecin: Dr. Rodriguez
+Diagnostic: musculoskeletal strain
+Médicament: Prenez ibuprofen 400 mg selon prescription.
+Rendez-vous: 1/20/2026 avec votre médecin.

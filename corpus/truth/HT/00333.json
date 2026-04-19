@@ -1,0 +1,76 @@
+{
+  "doc_id": "00333",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0333",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Tchaikovsky-ZQK0333",
+      "canary": "ZQK0333",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/18/1983",
+      "canary": "ZQK0333",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "63",
+      "canary": "ZQK0333",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-73-0333",
+      "canary": "ZQK0333",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0333",
+      "canary": "ZQK0333",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0333@example.invalid",
+      "canary": "ZQK0333",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0333",
+      "canary": "ZQK0333",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0333XYZ9",
+      "canary": "ZQK0333",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000333",
+      "canary": "ZQK0333",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "334 Canary-ZQK0333 Lane, Testville, TX 77000",
+      "canary": "ZQK0333",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "3/11/2026"
+  }
+}

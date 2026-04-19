@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Harris Health East Clinic (call 713-500-7878 for questions)
+Name: Ximena Vranjevic-ZQK0008
+Date of Birth: 10/18/1938
+Age: 58 years
+Home Address: 9 Canary-ZQK0008 Lane, Testville, TX 77000
+Cell: 555-010-0008
+Email: canary-zqk0008@example.invalid
+Medical Record Number: MRNZQK0008
+Member ID: INSZQK0008XYZ9
+Primary provider: Dr. Ostermayer
+Diagnosis: uncomplicated cystitis
+Your doctor prescribed ibuprofen 400 mg.
+Follow up on 9/10/2026.

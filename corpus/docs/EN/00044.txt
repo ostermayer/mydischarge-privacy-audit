@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Bayshore Medical Center (call 713-500-7878 for questions)
+Name: Saoirse Vranjevic-ZQK0044
+Date of Birth: 12/03/1974
+Age: 54 years
+Home Address: 45 Canary-ZQK0044 Lane, Testville, TX 77000
+Cell: 555-010-0044
+Email: canary-zqk0044@example.invalid
+Medical Record Number: MRNZQK0044
+Member ID: INSZQK0044XYZ9
+Primary provider: Dr. Power
+Diagnosis: viral gastroenteritis
+Your doctor prescribed amoxicillin 500 mg.
+Follow up on 2/2/2026.

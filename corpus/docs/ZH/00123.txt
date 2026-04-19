@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Lyndon B Johnson Hospital
+医院电话: 713-500-7878
+
+患者姓名: Saoirse Hvidberg-ZQK0123
+出生日期: 03/16/1983   年龄: 53
+社会安全号: 900-43-0123
+患者手机: 555-010-0123
+患者邮箱: canary-zqk0123@example.invalid
+患者地址: 124 Canary-ZQK0123 Lane, Testville, TX 77000
+病历号: MRNZQK0123
+保险号: INSZQK0123XYZ9
+账号: 90000123
+
+主治医师: Dr. Power
+诊断: community-acquired pneumonia
+药物: 按医嘱服用 albuterol inhaler。
+复诊: 请于 11/12/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

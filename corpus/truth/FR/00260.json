@@ -1,0 +1,76 @@
+{
+  "doc_id": "00260",
+  "language": "FR",
+  "template_index": 0,
+  "canary_token": "ZQK0260",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Vranjevic-ZQK0260",
+      "canary": "ZQK0260",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/03/1980",
+      "canary": "ZQK0260",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0260",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-90-0260",
+      "canary": "ZQK0260",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0260",
+      "canary": "ZQK0260",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0260@example.invalid",
+      "canary": "ZQK0260",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0260",
+      "canary": "ZQK0260",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0260XYZ9",
+      "canary": "ZQK0260",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000260",
+      "canary": "ZQK0260",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "261 Canary-ZQK0260 Lane, Testville, TX 77000",
+      "canary": "ZQK0260",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "4/6/2026"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00419",
+  "language": "HI",
+  "template_index": 0,
+  "canary_token": "ZQK0419",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Tchaikovsky-ZQK0419",
+      "canary": "ZQK0419",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/11/1999",
+      "canary": "ZQK0419",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "69",
+      "canary": "ZQK0419",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-69-0419",
+      "canary": "ZQK0419",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0419",
+      "canary": "ZQK0419",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0419@example.invalid",
+      "canary": "ZQK0419",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0419",
+      "canary": "ZQK0419",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0419XYZ9",
+      "canary": "ZQK0419",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000419",
+      "canary": "ZQK0419",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "420 Canary-ZQK0419 Lane, Testville, TX 77000",
+      "canary": "ZQK0419",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "11/18/2026"
+  }
+}

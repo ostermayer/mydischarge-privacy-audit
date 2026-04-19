@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: UT Physicians Clinic
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Kwame Mogensen-ZQK0175
+Ngày sinh: 07/14/1965   Tuổi: 65
+Số an sinh xã hội: 900-95-0175
+Di động bệnh nhân: 555-010-0175
+Email bệnh nhân: canary-zqk0175@example.invalid
+Địa chỉ bệnh nhân: 176 Canary-ZQK0175 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0175
+Số thẻ bảo hiểm: INSZQK0175XYZ9
+
+Bác sĩ: Dr. Fischer
+Chẩn đoán: community-acquired pneumonia
+Thuốc: Uống amoxicillin 500 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 8/17/2026 với bác sĩ của bạn.

@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Ben Taub General Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Octavio Mogensen-ZQK0214
+Petsa ng Kapanganakan: 05/13/1934   Edad: 64
+SSN: 900-44-0214
+Telepono ng pasyente: 555-010-0214
+Email: canary-zqk0214@example.invalid
+Tirahan: 215 Canary-ZQK0214 Lane, Testville, TX 77000
+MRN: MRNZQK0214
+Insurance ID: INSZQK0214XYZ9
+
+Doktor: Dr. Ostermayer
+Diagnosis: acute otitis media
+Gamot: Inumin ang ondansetron 4 mg ayon sa reseta.
+Follow-up: 7/3/2026 kasama ang inyong doktor.

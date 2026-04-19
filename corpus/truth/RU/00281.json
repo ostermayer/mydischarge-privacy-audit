@@ -1,0 +1,76 @@
+{
+  "doc_id": "00281",
+  "language": "RU",
+  "template_index": 0,
+  "canary_token": "ZQK0281",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Quetzalcoatl-ZQK0281",
+      "canary": "ZQK0281",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/02/1931",
+      "canary": "ZQK0281",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0281",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-21-0281",
+      "canary": "ZQK0281",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0281",
+      "canary": "ZQK0281",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0281@example.invalid",
+      "canary": "ZQK0281",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0281",
+      "canary": "ZQK0281",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0281XYZ9",
+      "canary": "ZQK0281",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000281",
+      "canary": "ZQK0281",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "282 Canary-ZQK0281 Lane, Testville, TX 77000",
+      "canary": "ZQK0281",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "1/21/2026"
+  }
+}

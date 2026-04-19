@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Bayshore Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Aleksandr Oduya-ZQK0320
+Data de Nascimento: 11/27/1970   Idade: 50
+CPF: 900-60-0320
+Celular do paciente: 555-010-0320
+Email do paciente: canary-zqk0320@example.invalid
+Endereço do Paciente: 321 Canary-ZQK0320 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0320
+Número do Seguro: INSZQK0320XYZ9
+
+Médico: Dr. Power
+Diagnóstico: viral gastroenteritis
+Medicamento: Tome ibuprofen 400 mg conforme prescrito.
+Retorno: Consulta em 11/12/2026 com seu médico.

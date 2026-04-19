@@ -1,0 +1,76 @@
+{
+  "doc_id": "00399",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0399",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Chakrabarti-ZQK0399",
+      "canary": "ZQK0399",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/04/1979",
+      "canary": "ZQK0399",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "89",
+      "canary": "ZQK0399",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-49-0399",
+      "canary": "ZQK0399",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0399",
+      "canary": "ZQK0399",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0399@example.invalid",
+      "canary": "ZQK0399",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0399",
+      "canary": "ZQK0399",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0399XYZ9",
+      "canary": "ZQK0399",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000399",
+      "canary": "ZQK0399",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "400 Canary-ZQK0399 Lane, Testville, TX 77000",
+      "canary": "ZQK0399",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/6/2026"
+  }
+}

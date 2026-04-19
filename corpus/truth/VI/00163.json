@@ -1,0 +1,76 @@
+{
+  "doc_id": "00163",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0163",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Quetzalcoatl-ZQK0163",
+      "canary": "ZQK0163",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/04/1953",
+      "canary": "ZQK0163",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "53",
+      "canary": "ZQK0163",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-83-0163",
+      "canary": "ZQK0163",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0163",
+      "canary": "ZQK0163",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0163@example.invalid",
+      "canary": "ZQK0163",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0163",
+      "canary": "ZQK0163",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0163XYZ9",
+      "canary": "ZQK0163",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000163",
+      "canary": "ZQK0163",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "164 Canary-ZQK0163 Lane, Testville, TX 77000",
+      "canary": "ZQK0163",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "albuterol inhaler",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "4/26/2026"
+  }
+}

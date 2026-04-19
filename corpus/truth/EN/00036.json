@@ -1,0 +1,76 @@
+{
+  "doc_id": "00036",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0036",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Tchaikovsky-ZQK0036",
+      "canary": "ZQK0036",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/02/1966",
+      "canary": "ZQK0036",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "86",
+      "canary": "ZQK0036",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-46-0036",
+      "canary": "ZQK0036",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0036",
+      "canary": "ZQK0036",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0036@example.invalid",
+      "canary": "ZQK0036",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0036",
+      "canary": "ZQK0036",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0036XYZ9",
+      "canary": "ZQK0036",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000036",
+      "canary": "ZQK0036",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "37 Canary-ZQK0036 Lane, Testville, TX 77000",
+      "canary": "ZQK0036",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "10/24/2026"
+  }
+}

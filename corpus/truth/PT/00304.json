@@ -1,0 +1,76 @@
+{
+  "doc_id": "00304",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0304",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Vranjevic-ZQK0304",
+      "canary": "ZQK0304",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/27/1954",
+      "canary": "ZQK0304",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "74",
+      "canary": "ZQK0304",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-44-0304",
+      "canary": "ZQK0304",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0304",
+      "canary": "ZQK0304",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0304@example.invalid",
+      "canary": "ZQK0304",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0304",
+      "canary": "ZQK0304",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0304XYZ9",
+      "canary": "ZQK0304",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000304",
+      "canary": "ZQK0304",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "305 Canary-ZQK0304 Lane, Testville, TX 77000",
+      "canary": "ZQK0304",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "9/24/2026"
+  }
+}

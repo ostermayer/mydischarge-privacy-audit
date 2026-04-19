@@ -1,0 +1,76 @@
+{
+  "doc_id": "00358",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0358",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Quetzalcoatl-ZQK0358",
+      "canary": "ZQK0358",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "12/09/1938",
+      "canary": "ZQK0358",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "88",
+      "canary": "ZQK0358",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-98-0358",
+      "canary": "ZQK0358",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0358",
+      "canary": "ZQK0358",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0358@example.invalid",
+      "canary": "ZQK0358",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0358",
+      "canary": "ZQK0358",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0358XYZ9",
+      "canary": "ZQK0358",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000358",
+      "canary": "ZQK0358",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "359 Canary-ZQK0358 Lane, Testville, TX 77000",
+      "canary": "ZQK0358",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "2/21/2026"
+  }
+}

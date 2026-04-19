@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Bayshore Medical Center
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Bartholomew Oduya-ZQK0345
+Dat Nesans: 12/17/1995   Laj: 75
+SSN: 900-85-0345
+Telefòn pasyan: 555-010-0345
+Email pasyan: canary-zqk0345@example.invalid
+Adrès Pasyan: 346 Canary-ZQK0345 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0345
+Nimewo Asirans: INSZQK0345XYZ9
+
+Doktè: Dr. Rodriguez
+Dyagnostik: viral gastroenteritis
+Medikaman: Pran amoxicillin 500 mg jan yo preskri a.
+Swivi: Randevou 5/6/2026 ak doktè ou.

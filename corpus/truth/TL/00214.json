@@ -1,0 +1,76 @@
+{
+  "doc_id": "00214",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0214",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Mogensen-ZQK0214",
+      "canary": "ZQK0214",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/13/1934",
+      "canary": "ZQK0214",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "64",
+      "canary": "ZQK0214",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-44-0214",
+      "canary": "ZQK0214",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0214",
+      "canary": "ZQK0214",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0214@example.invalid",
+      "canary": "ZQK0214",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0214",
+      "canary": "ZQK0214",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0214XYZ9",
+      "canary": "ZQK0214",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000214",
+      "canary": "ZQK0214",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "215 Canary-ZQK0214 Lane, Testville, TX 77000",
+      "canary": "ZQK0214",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "7/3/2026"
+  }
+}

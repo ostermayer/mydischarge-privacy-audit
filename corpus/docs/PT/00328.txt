@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: UT Physicians Clinic
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Yumiko Papadimitriou-ZQK0328
+Data de Nascimento: 09/20/1978   Idade: 58
+CPF: 900-68-0328
+Celular do paciente: 555-010-0328
+Email do paciente: canary-zqk0328@example.invalid
+Endereço do Paciente: 329 Canary-ZQK0328 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0328
+Número do Seguro: INSZQK0328XYZ9
+
+Médico: Dr. Rodriguez
+Diagnóstico: musculoskeletal strain
+Medicamento: Tome amoxicillin 500 mg conforme prescrito.
+Retorno: Consulta em 4/16/2026 com seu médico.

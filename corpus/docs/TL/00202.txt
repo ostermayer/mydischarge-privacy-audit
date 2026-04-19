@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: UT Physicians Clinic
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Dashiell Quetzalcoatl-ZQK0202
+Petsa ng Kapanganakan: 05/28/1992   Edad: 52
+SSN: 900-32-0202
+Telepono ng pasyente: 555-010-0202
+Email: canary-zqk0202@example.invalid
+Tirahan: 203 Canary-ZQK0202 Lane, Testville, TX 77000
+MRN: MRNZQK0202
+Insurance ID: INSZQK0202XYZ9
+
+Doktor: Dr. Patel
+Diagnosis: community-acquired pneumonia
+Gamot: Inumin ang amoxicillin 500 mg ayon sa reseta.
+Follow-up: 5/3/2026 kasama ang inyong doktor.

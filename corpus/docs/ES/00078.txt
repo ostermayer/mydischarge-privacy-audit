@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Ben Taub General Hospital
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Priyanka Chakrabarti-ZQK0078
+Fecha de Nacimiento: 06/19/1938    Edad: 88
+Número de Seguro Social: 900-88-0078
+Celular del paciente: 555-010-0078
+Correo del paciente: canary-zqk0078@example.invalid
+Dirección del Paciente: 79 Canary-ZQK0078 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0078
+Número de Seguro: INSZQK0078XYZ9
+Cuenta: 90000078
+
+Médico: Dr. Rodriguez
+Diagnóstico: acute otitis media
+Medicamento: Tome metoprolol 25 mg según indicación.
+Seguimiento: Cita el 2/14/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

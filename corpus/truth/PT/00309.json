@@ -1,0 +1,76 @@
+{
+  "doc_id": "00309",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0309",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Vranjevic-ZQK0309",
+      "canary": "ZQK0309",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/25/1959",
+      "canary": "ZQK0309",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "79",
+      "canary": "ZQK0309",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-49-0309",
+      "canary": "ZQK0309",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0309",
+      "canary": "ZQK0309",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0309@example.invalid",
+      "canary": "ZQK0309",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0309",
+      "canary": "ZQK0309",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0309XYZ9",
+      "canary": "ZQK0309",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000309",
+      "canary": "ZQK0309",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "310 Canary-ZQK0309 Lane, Testville, TX 77000",
+      "canary": "ZQK0309",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "9/23/2026"
+  }
+}

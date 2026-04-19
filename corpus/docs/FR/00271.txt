@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Ben Taub General Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Ximena Quetzalcoatl-ZQK0271
+Date de Naissance: 06/02/1991   Âge: 81
+Numéro de Sécurité Sociale: 900-11-0271
+Portable patient: 555-010-0271
+Email patient: canary-zqk0271@example.invalid
+Adresse du Patient: 272 Canary-ZQK0271 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0271
+Numéro d'Assurance: INSZQK0271XYZ9
+
+Médecin: Dr. Rodriguez
+Diagnostic: community-acquired pneumonia
+Médicament: Prenez metoprolol 25 mg selon prescription.
+Rendez-vous: 11/10/2026 avec votre médecin.

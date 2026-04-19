@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Lyndon B Johnson Hospital
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Tariq Chakrabarti-ZQK0318
+Data de Nascimento: 10/08/1968   Idade: 88
+CPF: 900-58-0318
+Celular do paciente: 555-010-0318
+Email do paciente: canary-zqk0318@example.invalid
+Endereço do Paciente: 319 Canary-ZQK0318 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0318
+Número do Seguro: INSZQK0318XYZ9
+
+Médico: Dr. Fischer
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome ondansetron 4 mg conforme prescrito.
+Retorno: Consulta em 5/8/2026 com seu médico.

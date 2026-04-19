@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Bayshore Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Priyanka Mogensen-ZQK0330
+Data de Nascimento: 10/23/1980   Idade: 60
+CPF: 900-70-0330
+Celular do paciente: 555-010-0330
+Email do paciente: canary-zqk0330@example.invalid
+Endereço do Paciente: 331 Canary-ZQK0330 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0330
+Número do Seguro: INSZQK0330XYZ9
+
+Médico: Dr. Luber
+Diagnóstico: acute otitis media
+Medicamento: Tome acetaminophen 650 mg conforme prescrito.
+Retorno: Consulta em 9/25/2026 com seu médico.

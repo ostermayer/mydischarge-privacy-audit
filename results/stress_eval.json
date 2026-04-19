@@ -1,0 +1,309 @@
+{
+  "generated_at": "2026-04-14T17:28:54.064Z",
+  "corpus": {
+    "total_docs": 60,
+    "total_phi": 530,
+    "categories": {
+      "ocr": 10,
+      "narrative": 10,
+      "typos": 10,
+      "multiline": 10,
+      "duplicated": 10,
+      "unlabeled": 10
+    }
+  },
+  "by_category": {
+    "ocr": {
+      "n_docs": 10,
+      "n_phi": 100,
+      "stages": {
+        "client": {
+          "canary_leaks": 0,
+          "literal_leaks": 5,
+          "docs_any_leak": 5
+        },
+        "server_sanitize": {
+          "canary_leaks": 0,
+          "literal_leaks": 5,
+          "docs_any_leak": 5
+        },
+        "groq_input": {
+          "canary_leaks": 0,
+          "literal_leaks": 5,
+          "docs_any_leak": 5
+        }
+      },
+      "leaks_by_class": {
+        "dob": 5
+      }
+    },
+    "narrative": {
+      "n_docs": 10,
+      "n_phi": 100,
+      "stages": {
+        "client": {
+          "canary_leaks": 0,
+          "literal_leaks": 10,
+          "docs_any_leak": 10
+        },
+        "server_sanitize": {
+          "canary_leaks": 0,
+          "literal_leaks": 10,
+          "docs_any_leak": 10
+        },
+        "groq_input": {
+          "canary_leaks": 0,
+          "literal_leaks": 10,
+          "docs_any_leak": 10
+        }
+      },
+      "leaks_by_class": {
+        "phone": 10
+      }
+    },
+    "typos": {
+      "n_docs": 10,
+      "n_phi": 100,
+      "stages": {
+        "client": {
+          "canary_leaks": 0,
+          "literal_leaks": 7,
+          "docs_any_leak": 7
+        },
+        "server_sanitize": {
+          "canary_leaks": 0,
+          "literal_leaks": 7,
+          "docs_any_leak": 7
+        },
+        "groq_input": {
+          "canary_leaks": 0,
+          "literal_leaks": 7,
+          "docs_any_leak": 7
+        }
+      },
+      "leaks_by_class": {
+        "dob": 7
+      }
+    },
+    "multiline": {
+      "n_docs": 10,
+      "n_phi": 100,
+      "stages": {
+        "client": {
+          "canary_leaks": 10,
+          "literal_leaks": 10,
+          "docs_any_leak": 10
+        },
+        "server_sanitize": {
+          "canary_leaks": 10,
+          "literal_leaks": 10,
+          "docs_any_leak": 10
+        },
+        "groq_input": {
+          "canary_leaks": 10,
+          "literal_leaks": 0,
+          "docs_any_leak": 10
+        }
+      },
+      "leaks_by_class": {}
+    },
+    "duplicated": {
+      "n_docs": 10,
+      "n_phi": 30,
+      "stages": {
+        "client": {
+          "canary_leaks": 0,
+          "literal_leaks": 0,
+          "docs_any_leak": 0
+        },
+        "server_sanitize": {
+          "canary_leaks": 0,
+          "literal_leaks": 0,
+          "docs_any_leak": 0
+        },
+        "groq_input": {
+          "canary_leaks": 0,
+          "literal_leaks": 0,
+          "docs_any_leak": 0
+        }
+      },
+      "leaks_by_class": {}
+    },
+    "unlabeled": {
+      "n_docs": 10,
+      "n_phi": 100,
+      "stages": {
+        "client": {
+          "canary_leaks": 10,
+          "literal_leaks": 30,
+          "docs_any_leak": 10
+        },
+        "server_sanitize": {
+          "canary_leaks": 10,
+          "literal_leaks": 30,
+          "docs_any_leak": 10
+        },
+        "groq_input": {
+          "canary_leaks": 10,
+          "literal_leaks": 20,
+          "docs_any_leak": 10
+        }
+      },
+      "leaks_by_class": {
+        "phone": 10,
+        "account": 10
+      }
+    }
+  },
+  "overall": {
+    "n_docs": 60,
+    "n_phi": 530,
+    "stages": {
+      "client": {
+        "canary_leaks": 20,
+        "literal_leaks": 62,
+        "docs_any_leak": 42
+      },
+      "server_sanitize": {
+        "canary_leaks": 20,
+        "literal_leaks": 62,
+        "docs_any_leak": 42
+      },
+      "groq_input": {
+        "canary_leaks": 20,
+        "literal_leaks": 42,
+        "docs_any_leak": 42
+      }
+    }
+  },
+  "failure_examples": {
+    "ocr": [
+      {
+        "doc_id": "ocr-000",
+        "canary_leaked": false,
+        "leaked_classes": [
+          "dob"
+        ],
+        "groq_preview": "DISCHARGE [REDACTED]\nFacility: Memorial Hermann TMC\nHospital Phone: 713-500-7878\n\nPatient [REDACTED]\nD0B: 03/14/1962   Age: [REDACTED]\nSSN: [REDACTED]\nPatient [REDACTED]\nPatient [REDACTED]\nPatient [REDACTED], Testville, TX 77000\n[REDACTED]\n[REDACTED]\n[REDACTED]\n\nFollow up in 1 week."
+      },
+      {
+        "doc_id": "ocr-001",
+        "canary_leaked": false,
+        "leaked_classes": [
+          "dob"
+        ],
+        "groq_preview": "DISCHARGE [REDACTED]\nFaci1ity:Memoria1 [REDACTED]\nHospita1 Phone:713-500-7878\n\nPatient [REDACTED]\nD0B:03/14/1962   Age:[REDACTED]\nSSN:[REDACTED]\nPatient [REDACTED]\nPatient [REDACTED]\nPatient [REDACTED], Testvi11e, TX 77000\n[REDACTED]\n[REDACTED]\n[REDACTED]\n\nFo11ow up in 1 week."
+      },
+      {
+        "doc_id": "ocr-003",
+        "canary_leaked": false,
+        "leaked_classes": [
+          "dob"
+        ],
+        "groq_preview": "DISCHARGE [REDACTED]\nFacility: Memorial Hermann TMC\nHospital Phone: 713-500-7878\n\nPatient [REDACTED]\nD0B: 03/14/1962   Age: [REDACTED]\nSSN: [REDACTED]\nPatient [REDACTED]\nPatient [REDACTED]\nPatient [REDACTED], Testville, TX 77000\n[REDACTED]\n[REDACTED]\n[REDACTED]\n\nFollow up in 1 week."
+      }
+    ],
+    "narrative": [
+      {
+        "doc_id": "narrative-000",
+        "canary_leaked": false,
+        "leaked_classes": [
+          "phone"
+        ],
+        "groq_preview": "EMERGENCY DEPARTMENT NOTE\nPatient [REDACTED]g of sore throat.\nDate of birth [REDACTED] [REDACTED]\nHis record number is [REDACTED] and his insurance plan ID is [REDACTED].\nReachable at 555-020-1011 or [REDACTED].\nLives at [REDACTED].\n[REDACTED] [REDACTED] was discharged home in stable condition.\nSoci"
+      },
+      {
+        "doc_id": "narrative-001",
+        "canary_leaked": false,
+        "leaked_classes": [
+          "phone"
+        ],
+        "groq_preview": "EMERGENCY DEPARTMENT NOTE\nPatient [REDACTED]g of sore throat.\nDate of birth [REDACTED] [REDACTED]\nHis record number is [REDACTED] and his insurance plan ID is [REDACTED].\nReachable at 555-020-1012 or [REDACTED].\nLives at [REDACTED].\n[REDACTED] [REDACTED] was discharged home in stable condition.\nSoci"
+      },
+      {
+        "doc_id": "narrative-002",
+        "canary_leaked": false,
+        "leaked_classes": [
+          "phone"
+        ],
+        "groq_preview": "EMERGENCY DEPARTMENT NOTE\nPatient [REDACTED]g of sore throat.\nDate of birth [REDACTED] [REDACTED]\nHis record number is [REDACTED] and his insurance plan ID is [REDACTED].\nReachable at 555-020-1013 or [REDACTED].\nLives at [REDACTED].\n[REDACTED] [REDACTED] was discharged home in stable condition.\nSoci"
+      }
+    ],
+    "typos": [
+      {
+        "doc_id": "typos-000",
+        "canary_leaked": false,
+        "leaked_classes": [
+          "dob"
+        ],
+        "groq_preview": "DISCHARGE SUMMARY\nPatiient Name: [REDACTED]\nD.0.B: 03/14/1962\nHome Addres: [REDACTED]\nPt [REDACTED]\nSSN: [REDACTED]\n[REDACTED]\nInsurance: [REDACTED]\n[REDACTED]\nEmail: [REDACTED]\n\nAge: [REDACTED] y\nAttending: Dr. Lee\nDx: viral pharyngitis\nRx: supportive care"
+      },
+      {
+        "doc_id": "typos-002",
+        "canary_leaked": false,
+        "leaked_classes": [
+          "dob"
+        ],
+        "groq_preview": "DISCHARGE SUMMARY\nPatient[REDACTED]\nBirth date: 03/14/1962\nAddr: [REDACTED]\nCell#: [REDACTED]\nSSN: [REDACTED]\n[REDACTED]\nInsurance: [REDACTED]\n[REDACTED]\nEmail: [REDACTED]\n\nAge: [REDACTED] y\nAttending: Dr. Lee\nDx: viral pharyngitis\nRx: supportive care"
+      },
+      {
+        "doc_id": "typos-003",
+        "canary_leaked": false,
+        "leaked_classes": [
+          "dob"
+        ],
+        "groq_preview": "DISCHARGE SUMMARY\nPATIENT  [REDACTED]\nDATE  OF  BIRTH: 03/14/1962\nHOME ADDRESS: [REDACTED]\nCELL PHONE: [REDACTED]\nSSN: [REDACTED]\n[REDACTED]\nInsurance: [REDACTED]\n[REDACTED]\nEmail: [REDACTED]\n\nAge: [REDACTED] y\nAttending: Dr. Lee\nDx: viral pharyngitis\nRx: supportive care"
+      }
+    ],
+    "multiline": [
+      {
+        "doc_id": "multiline-000",
+        "canary_leaked": true,
+        "leaked_classes": [],
+        "groq_preview": "After Visit Summary\n\nPatient [REDACTED]\n[REDACTED]ZQK1031\n\nDate of Birth:\n[REDACTED]\n\nHome Address:\n[REDACTED]\nTestville, TX 77000\n\nContact:\nCell: [REDACTED]\nEmail: [REDACTED]\n\n[REDACTED]:    [REDACTED]\nInsurance [REDACTED]\nSSN:                       [REDACTED]\n[REDACTED]\n\nAge:\n[REDACTED]\n\nAttending"
+      },
+      {
+        "doc_id": "multiline-001",
+        "canary_leaked": true,
+        "leaked_classes": [],
+        "groq_preview": "After Visit Summary\n\nPatient [REDACTED]\n[REDACTED]ZQK1032\n\nDate of Birth:\n[REDACTED]\n\nHome Address:\n[REDACTED]\nTestville, TX 77000\n\nContact:\nCell: [REDACTED]\nEmail: [REDACTED]\n\n[REDACTED]:    [REDACTED]\nInsurance [REDACTED]\nSSN:                       [REDACTED]\n[REDACTED]\n\nAge:\n[REDACTED]\n\nAttending"
+      },
+      {
+        "doc_id": "multiline-002",
+        "canary_leaked": true,
+        "leaked_classes": [],
+        "groq_preview": "After Visit Summary\n\nPatient [REDACTED]\n[REDACTED]ZQK1033\n\nDate of Birth:\n[REDACTED]\n\nHome Address:\n[REDACTED]\nTestville, TX 77000\n\nContact:\nCell: [REDACTED]\nEmail: [REDACTED]\n\n[REDACTED]:    [REDACTED]\nInsurance [REDACTED]\nSSN:                       [REDACTED]\n[REDACTED]\n\nAge:\n[REDACTED]\n\nAttending"
+      }
+    ],
+    "duplicated": [],
+    "unlabeled": [
+      {
+        "doc_id": "unlabeled-000",
+        "canary_leaked": true,
+        "leaked_classes": [
+          "phone",
+          "account"
+        ],
+        "groq_preview": "Visit Summary\n\n[REDACTED]ZQK1051\n03/14/[REDACTED]\n555-020-1051\n[REDACTED]\n[REDACTED]\n[REDACTED]\n[REDACTED]\n90001051\n\nAge [REDACTED]\nReason for visit: acute bronchitis.\nPlan: rest, fluids, follow up if not improving."
+      },
+      {
+        "doc_id": "unlabeled-001",
+        "canary_leaked": true,
+        "leaked_classes": [
+          "phone",
+          "account"
+        ],
+        "groq_preview": "Visit Summary\n\n[REDACTED]ZQK1052\n03/14/[REDACTED]\n555-020-1052\n[REDACTED]\n[REDACTED]\n[REDACTED]\n[REDACTED]\n90001052\n\nAge [REDACTED]\nReason for visit: acute bronchitis.\nPlan: rest, fluids, follow up if not improving."
+      },
+      {
+        "doc_id": "unlabeled-002",
+        "canary_leaked": true,
+        "leaked_classes": [
+          "phone",
+          "account"
+        ],
+        "groq_preview": "Visit Summary\n\n[REDACTED]ZQK1053\n03/14/[REDACTED]\n555-020-1053\n[REDACTED]\n[REDACTED]\n[REDACTED]\n[REDACTED]\n90001053\n\nAge [REDACTED]\nReason for visit: acute bronchitis.\nPlan: rest, fluids, follow up if not improving."
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Bayshore Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Kwame Hvidberg-ZQK0323
+Data de Nascimento: 09/21/1973   Idade: 53
+CPF: 900-63-0323
+Celular do paciente: 555-010-0323
+Email do paciente: canary-zqk0323@example.invalid
+Endereço do Paciente: 324 Canary-ZQK0323 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0323
+Número do Seguro: INSZQK0323XYZ9
+
+Médico: Dr. Fischer
+Diagnóstico: acute bronchitis
+Medicamento: Tome metoprolol 25 mg conforme prescrito.
+Retorno: Consulta em 1/4/2026 com seu médico.

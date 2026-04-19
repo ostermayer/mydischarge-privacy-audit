@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Ben Taub General Hospital
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Saoirse Ashworth-ZQK0308
+Data de Nascimento: 12/02/1958   Idade: 78
+CPF: 900-48-0308
+Celular do paciente: 555-010-0308
+Email do paciente: canary-zqk0308@example.invalid
+Endereço do Paciente: 309 Canary-ZQK0308 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0308
+Número do Seguro: INSZQK0308XYZ9
+
+Médico: Dr. Rodriguez
+Diagnóstico: acute bronchitis
+Medicamento: Tome ondansetron 4 mg conforme prescrito.
+Retorno: Consulta em 3/17/2026 com seu médico.

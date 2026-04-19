@@ -1,0 +1,17 @@
+دستورالعمل ترخیص - اورژانس
+بیمارستان: Harris Health East Clinic
+تلفن بیمارستان: 713-500-7878
+
+نام بیمار: Aleksandr Bergström-ZQK0423
+تاریخ تولد: 01/12/1933   سن: 73
+شماره تأمین اجتماعی: 900-73-0423
+موبایل بیمار: 555-010-0423
+ایمیل بیمار: canary-zqk0423@example.invalid
+آدرس بیمار: 424 Canary-ZQK0423 Lane, Testville, TX 77000
+شماره پرونده: MRNZQK0423
+شماره بیمه: INSZQK0423XYZ9
+
+پزشک: Dr. Patel
+تشخیص: musculoskeletal strain
+دارو: ibuprofen 400 mg را طبق دستور مصرف کنید.
+پیگیری: نوبت 7/20/2026 با پزشک خود.

@@ -1,0 +1,76 @@
+{
+  "doc_id": "00303",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0303",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Mogensen-ZQK0303",
+      "canary": "ZQK0303",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/11/1953",
+      "canary": "ZQK0303",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "73",
+      "canary": "ZQK0303",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-43-0303",
+      "canary": "ZQK0303",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0303",
+      "canary": "ZQK0303",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0303@example.invalid",
+      "canary": "ZQK0303",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0303",
+      "canary": "ZQK0303",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0303XYZ9",
+      "canary": "ZQK0303",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000303",
+      "canary": "ZQK0303",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "304 Canary-ZQK0303 Lane, Testville, TX 77000",
+      "canary": "ZQK0303",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "5/17/2026"
+  }
+}

@@ -1,0 +1,19 @@
+EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+Lyndon B Johnson Hospital
+Hospital Phone: 713-500-7878
+
+Patient Name: Bartholomew Tchaikovsky-ZQK0011
+DOB: 11/08/1941    Age: 61
+SSN: 900-21-0011
+Patient Phone: 555-010-0011
+Patient Email: canary-zqk0011@example.invalid
+Patient Address: 12 Canary-ZQK0011 Lane, Testville, TX 77000
+MRN: MRNZQK0011
+Insurance ID: INSZQK0011XYZ9
+Account #: 90000011
+
+Attending: Dr. Fischer
+Diagnosis: musculoskeletal strain
+Medication: Take ibuprofen 400 mg as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 10/14/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.

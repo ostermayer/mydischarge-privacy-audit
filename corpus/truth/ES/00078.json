@@ -1,0 +1,76 @@
+{
+  "doc_id": "00078",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0078",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Chakrabarti-ZQK0078",
+      "canary": "ZQK0078",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/19/1938",
+      "canary": "ZQK0078",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "88",
+      "canary": "ZQK0078",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-88-0078",
+      "canary": "ZQK0078",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0078",
+      "canary": "ZQK0078",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0078@example.invalid",
+      "canary": "ZQK0078",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0078",
+      "canary": "ZQK0078",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0078XYZ9",
+      "canary": "ZQK0078",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000078",
+      "canary": "ZQK0078",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "79 Canary-ZQK0078 Lane, Testville, TX 77000",
+      "canary": "ZQK0078",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "2/14/2026"
+  }
+}

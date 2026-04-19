@@ -1,0 +1,76 @@
+{
+  "doc_id": "00166",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0166",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Tchaikovsky-ZQK0166",
+      "canary": "ZQK0166",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/07/1956",
+      "canary": "ZQK0166",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "56",
+      "canary": "ZQK0166",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-86-0166",
+      "canary": "ZQK0166",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0166",
+      "canary": "ZQK0166",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0166@example.invalid",
+      "canary": "ZQK0166",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0166",
+      "canary": "ZQK0166",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0166XYZ9",
+      "canary": "ZQK0166",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000166",
+      "canary": "ZQK0166",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "167 Canary-ZQK0166 Lane, Testville, TX 77000",
+      "canary": "ZQK0166",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "6/2/2026"
+  }
+}

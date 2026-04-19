@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+UT Physicians Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Octavio Chakrabarti-ZQK0067
+Fecha de Nacimiento: 10/18/1997    Edad: 77
+Número de Seguro Social: 900-77-0067
+Celular del paciente: 555-010-0067
+Correo del paciente: canary-zqk0067@example.invalid
+Dirección del Paciente: 68 Canary-ZQK0067 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0067
+Número de Seguro: INSZQK0067XYZ9
+Cuenta: 90000067
+
+Médico: Dr. Nguyen
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome amoxicillin 500 mg según indicación.
+Seguimiento: Cita el 8/8/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

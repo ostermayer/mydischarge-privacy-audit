@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Lyndon B Johnson Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Beatriz Tchaikovsky-ZQK0337
+Dat Nesans: 11/18/1987   Laj: 67
+SSN: 900-77-0337
+Telefòn pasyan: 555-010-0337
+Email pasyan: canary-zqk0337@example.invalid
+Adrès Pasyan: 338 Canary-ZQK0337 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0337
+Nimewo Asirans: INSZQK0337XYZ9
+
+Doktè: Dr. Nguyen
+Dyagnostik: acute otitis media
+Medikaman: Pran amoxicillin 500 mg jan yo preskri a.
+Swivi: Randevou 4/18/2026 ak doktè ou.

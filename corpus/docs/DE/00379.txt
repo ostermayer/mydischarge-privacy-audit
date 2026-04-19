@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Ben Taub General Hospital
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Dashiell Ashworth-ZQK0379
+Geburtsdatum: 02/11/1959   Alter: 69
+Sozialversicherungsnummer: 900-29-0379
+Handy Patient: 555-010-0379
+Email Patient: canary-zqk0379@example.invalid
+Patientenadresse: 380 Canary-ZQK0379 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0379
+Versicherungsnummer: INSZQK0379XYZ9
+
+Arzt: Dr. Patel
+Diagnose: viral gastroenteritis
+Medikament: Nehmen Sie ondansetron 4 mg wie verordnet.
+Termin: 1/6/2026 bei Ihrem Arzt.

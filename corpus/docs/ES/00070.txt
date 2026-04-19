@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Harris Health East Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Priyanka Mogensen-ZQK0070
+Fecha de Nacimiento: 04/01/1930    Edad: 80
+Número de Seguro Social: 900-80-0070
+Celular del paciente: 555-010-0070
+Correo del paciente: canary-zqk0070@example.invalid
+Dirección del Paciente: 71 Canary-ZQK0070 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0070
+Número de Seguro: INSZQK0070XYZ9
+Cuenta: 90000070
+
+Médico: Dr. Fischer
+Diagnóstico: viral gastroenteritis
+Medicamento: Tome albuterol inhaler según indicación.
+Seguimiento: Cita el 5/22/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

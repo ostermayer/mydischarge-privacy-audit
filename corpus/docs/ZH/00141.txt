@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Lyndon B Johnson Hospital
+医院电话: 713-500-7878
+
+患者姓名: Beatriz Quetzalcoatl-ZQK0141
+出生日期: 06/20/1931   年龄: 71
+社会安全号: 900-61-0141
+患者手机: 555-010-0141
+患者邮箱: canary-zqk0141@example.invalid
+患者地址: 142 Canary-ZQK0141 Lane, Testville, TX 77000
+病历号: MRNZQK0141
+保险号: INSZQK0141XYZ9
+账号: 90000141
+
+主治医师: Dr. Luber
+诊断: viral gastroenteritis
+药物: 按医嘱服用 ondansetron 4 mg。
+复诊: 请于 8/8/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

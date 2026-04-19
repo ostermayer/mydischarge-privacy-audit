@@ -1,0 +1,76 @@
+{
+  "doc_id": "00196",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0196",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Oduya-ZQK0196",
+      "canary": "ZQK0196",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/12/1986",
+      "canary": "ZQK0196",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "86",
+      "canary": "ZQK0196",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-26-0196",
+      "canary": "ZQK0196",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0196",
+      "canary": "ZQK0196",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0196@example.invalid",
+      "canary": "ZQK0196",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0196",
+      "canary": "ZQK0196",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0196XYZ9",
+      "canary": "ZQK0196",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000196",
+      "canary": "ZQK0196",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "197 Canary-ZQK0196 Lane, Testville, TX 77000",
+      "canary": "ZQK0196",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "1/5/2026"
+  }
+}

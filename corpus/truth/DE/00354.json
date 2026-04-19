@@ -1,0 +1,76 @@
+{
+  "doc_id": "00354",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0354",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Oduya-ZQK0354",
+      "canary": "ZQK0354",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/01/1934",
+      "canary": "ZQK0354",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "84",
+      "canary": "ZQK0354",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-94-0354",
+      "canary": "ZQK0354",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0354",
+      "canary": "ZQK0354",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0354@example.invalid",
+      "canary": "ZQK0354",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0354",
+      "canary": "ZQK0354",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0354XYZ9",
+      "canary": "ZQK0354",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000354",
+      "canary": "ZQK0354",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "355 Canary-ZQK0354 Lane, Testville, TX 77000",
+      "canary": "ZQK0354",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "6/24/2026"
+  }
+}

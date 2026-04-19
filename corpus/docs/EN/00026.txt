@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Ben Taub General Hospital (call 713-500-7878 for questions)
+Name: Saoirse Bergström-ZQK0026
+Date of Birth: 07/06/1956
+Age: 76 years
+Home Address: 27 Canary-ZQK0026 Lane, Testville, TX 77000
+Cell: 555-010-0026
+Email: canary-zqk0026@example.invalid
+Medical Record Number: MRNZQK0026
+Member ID: INSZQK0026XYZ9
+Primary provider: Dr. Luber
+Diagnosis: musculoskeletal strain
+Your doctor prescribed ibuprofen 400 mg.
+Follow up on 5/2/2026.

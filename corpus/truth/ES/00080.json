@@ -1,0 +1,76 @@
+{
+  "doc_id": "00080",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0080",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Vranjevic-ZQK0080",
+      "canary": "ZQK0080",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/16/1940",
+      "canary": "ZQK0080",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "50",
+      "canary": "ZQK0080",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-90-0080",
+      "canary": "ZQK0080",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0080",
+      "canary": "ZQK0080",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0080@example.invalid",
+      "canary": "ZQK0080",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0080",
+      "canary": "ZQK0080",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0080XYZ9",
+      "canary": "ZQK0080",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000080",
+      "canary": "ZQK0080",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "81 Canary-ZQK0080 Lane, Testville, TX 77000",
+      "canary": "ZQK0080",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "7/16/2026"
+  }
+}

@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Harris Health East Clinic
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Aleksandr Quetzalcoatl-ZQK0360
+Geburtsdatum: 05/13/1940   Alter: 50
+Sozialversicherungsnummer: 900-10-0360
+Handy Patient: 555-010-0360
+Email Patient: canary-zqk0360@example.invalid
+Patientenadresse: 361 Canary-ZQK0360 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0360
+Versicherungsnummer: INSZQK0360XYZ9
+
+Arzt: Dr. Rodriguez
+Diagnose: musculoskeletal strain
+Medikament: Nehmen Sie amoxicillin 500 mg wie verordnet.
+Termin: 3/12/2026 bei Ihrem Arzt.

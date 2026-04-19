@@ -1,0 +1,76 @@
+{
+  "doc_id": "00177",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0177",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Priyanka Vranjevic-ZQK0177",
+      "canary": "ZQK0177",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/15/1967",
+      "canary": "ZQK0177",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "67",
+      "canary": "ZQK0177",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-97-0177",
+      "canary": "ZQK0177",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0177",
+      "canary": "ZQK0177",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0177@example.invalid",
+      "canary": "ZQK0177",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0177",
+      "canary": "ZQK0177",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0177XYZ9",
+      "canary": "ZQK0177",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000177",
+      "canary": "ZQK0177",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "178 Canary-ZQK0177 Lane, Testville, TX 77000",
+      "canary": "ZQK0177",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "6/6/2026"
+  }
+}

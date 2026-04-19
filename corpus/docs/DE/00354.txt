@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Lyndon B Johnson Hospital
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Aleksandr Oduya-ZQK0354
+Geburtsdatum: 07/01/1934   Alter: 84
+Sozialversicherungsnummer: 900-94-0354
+Handy Patient: 555-010-0354
+Email Patient: canary-zqk0354@example.invalid
+Patientenadresse: 355 Canary-ZQK0354 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0354
+Versicherungsnummer: INSZQK0354XYZ9
+
+Arzt: Dr. Nguyen
+Diagnose: acute otitis media
+Medikament: Nehmen Sie ondansetron 4 mg wie verordnet.
+Termin: 6/24/2026 bei Ihrem Arzt.

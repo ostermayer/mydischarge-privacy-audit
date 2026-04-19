@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Lyndon B Johnson Hospital
+医院电话: 713-500-7878
+
+患者姓名: Ingrid Hvidberg-ZQK0142
+出生日期: 08/08/1932   年龄: 72
+社会安全号: 900-62-0142
+患者手机: 555-010-0142
+患者邮箱: canary-zqk0142@example.invalid
+患者地址: 143 Canary-ZQK0142 Lane, Testville, TX 77000
+病历号: MRNZQK0142
+保险号: INSZQK0142XYZ9
+账号: 90000142
+
+主治医师: Dr. Ostermayer
+诊断: musculoskeletal strain
+药物: 按医嘱服用 ondansetron 4 mg。
+复诊: 请于 1/22/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

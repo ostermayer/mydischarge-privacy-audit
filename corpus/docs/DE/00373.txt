@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Ben Taub General Hospital
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Kwame Vranjevic-ZQK0373
+Geburtsdatum: 08/21/1953   Alter: 63
+Sozialversicherungsnummer: 900-23-0373
+Handy Patient: 555-010-0373
+Email Patient: canary-zqk0373@example.invalid
+Patientenadresse: 374 Canary-ZQK0373 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0373
+Versicherungsnummer: INSZQK0373XYZ9
+
+Arzt: Dr. Ostermayer
+Diagnose: community-acquired pneumonia
+Medikament: Nehmen Sie metoprolol 25 mg wie verordnet.
+Termin: 12/24/2026 bei Ihrem Arzt.

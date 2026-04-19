@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: UT Physicians Clinic (call 713-500-7878 for questions)
+Name: Ximena Vranjevic-ZQK0046
+Date of Birth: 06/02/1976
+Age: 56 years
+Home Address: 47 Canary-ZQK0046 Lane, Testville, TX 77000
+Cell: 555-010-0046
+Email: canary-zqk0046@example.invalid
+Medical Record Number: MRNZQK0046
+Member ID: INSZQK0046XYZ9
+Primary provider: Dr. Rodriguez
+Diagnosis: uncomplicated cystitis
+Your doctor prescribed metoprolol 25 mg.
+Follow up on 12/17/2026.

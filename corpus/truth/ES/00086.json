@@ -1,0 +1,76 @@
+{
+  "doc_id": "00086",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0086",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Ashworth-ZQK0086",
+      "canary": "ZQK0086",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/13/1946",
+      "canary": "ZQK0086",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "56",
+      "canary": "ZQK0086",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-96-0086",
+      "canary": "ZQK0086",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0086",
+      "canary": "ZQK0086",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0086@example.invalid",
+      "canary": "ZQK0086",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0086",
+      "canary": "ZQK0086",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0086XYZ9",
+      "canary": "ZQK0086",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000086",
+      "canary": "ZQK0086",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "87 Canary-ZQK0086 Lane, Testville, TX 77000",
+      "canary": "ZQK0086",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Luber",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "11/4/2026"
+  }
+}

@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Memorial Hermann Texas Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Beatriz Mogensen-ZQK0110
+Fecha de Nacimiento: 01/09/1970    Edad: 80
+Número de Seguro Social: 900-30-0110
+Celular del paciente: 555-010-0110
+Correo del paciente: canary-zqk0110@example.invalid
+Dirección del Paciente: 111 Canary-ZQK0110 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0110
+Número de Seguro: INSZQK0110XYZ9
+Cuenta: 90000110
+
+Médico: Dr. Ostermayer
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome ondansetron 4 mg según indicación.
+Seguimiento: Cita el 11/10/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

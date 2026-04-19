@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Bayshore Medical Center (call 713-500-7878 for questions)
+Name: Dashiell Tchaikovsky-ZQK0030
+Date of Birth: 10/28/1960
+Age: 80 years
+Home Address: 31 Canary-ZQK0030 Lane, Testville, TX 77000
+Cell: 555-010-0030
+Email: canary-zqk0030@example.invalid
+Medical Record Number: MRNZQK0030
+Member ID: INSZQK0030XYZ9
+Primary provider: Dr. Fischer
+Diagnosis: acute bronchitis
+Your doctor prescribed amoxicillin 500 mg.
+Follow up on 4/13/2026.

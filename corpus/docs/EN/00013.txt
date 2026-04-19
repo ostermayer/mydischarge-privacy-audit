@@ -1,0 +1,19 @@
+EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+UT Physicians Clinic
+Hospital Phone: 713-500-7878
+
+Patient Name: Ximena Hvidberg-ZQK0013
+DOB: 12/27/1943    Age: 63
+SSN: 900-23-0013
+Patient Phone: 555-010-0013
+Patient Email: canary-zqk0013@example.invalid
+Patient Address: 14 Canary-ZQK0013 Lane, Testville, TX 77000
+MRN: MRNZQK0013
+Insurance ID: INSZQK0013XYZ9
+Account #: 90000013
+
+Attending: Dr. Luber
+Diagnosis: uncomplicated cystitis
+Medication: Take ibuprofen 400 mg as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 3/24/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.

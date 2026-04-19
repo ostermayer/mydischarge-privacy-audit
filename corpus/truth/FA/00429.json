@@ -1,0 +1,76 @@
+{
+  "doc_id": "00429",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0429",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Oduya-ZQK0429",
+      "canary": "ZQK0429",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/21/1939",
+      "canary": "ZQK0429",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "79",
+      "canary": "ZQK0429",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-79-0429",
+      "canary": "ZQK0429",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0429",
+      "canary": "ZQK0429",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0429@example.invalid",
+      "canary": "ZQK0429",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0429",
+      "canary": "ZQK0429",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0429XYZ9",
+      "canary": "ZQK0429",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000429",
+      "canary": "ZQK0429",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "430 Canary-ZQK0429 Lane, Testville, TX 77000",
+      "canary": "ZQK0429",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "2/14/2026"
+  }
+}

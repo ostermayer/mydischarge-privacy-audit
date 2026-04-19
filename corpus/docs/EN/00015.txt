@@ -1,0 +1,19 @@
+EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+UT Physicians Clinic
+Hospital Phone: 713-500-7878
+
+Patient Name: Beatriz Hvidberg-ZQK0015
+DOB: 10/11/1945    Age: 65
+SSN: 900-25-0015
+Patient Phone: 555-010-0015
+Patient Email: canary-zqk0015@example.invalid
+Patient Address: 16 Canary-ZQK0015 Lane, Testville, TX 77000
+MRN: MRNZQK0015
+Insurance ID: INSZQK0015XYZ9
+Account #: 90000015
+
+Attending: Dr. Patel
+Diagnosis: acute bronchitis
+Medication: Take albuterol inhaler as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 4/5/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.

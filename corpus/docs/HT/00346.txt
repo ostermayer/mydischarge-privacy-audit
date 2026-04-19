@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Bayshore Medical Center
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Aleksandr Papadimitriou-ZQK0346
+Dat Nesans: 02/23/1996   Laj: 76
+SSN: 900-86-0346
+Telefòn pasyan: 555-010-0346
+Email pasyan: canary-zqk0346@example.invalid
+Adrès Pasyan: 347 Canary-ZQK0346 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0346
+Nimewo Asirans: INSZQK0346XYZ9
+
+Doktè: Dr. Patel
+Dyagnostik: acute bronchitis
+Medikaman: Pran ibuprofen 400 mg jan yo preskri a.
+Swivi: Randevou 7/14/2026 ak doktè ou.

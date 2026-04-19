@@ -1,0 +1,76 @@
+{
+  "doc_id": "00236",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0236",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Bartholomew Oduya-ZQK0236",
+      "canary": "ZQK0236",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "08/06/1956",
+      "canary": "ZQK0236",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "86",
+      "canary": "ZQK0236",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-66-0236",
+      "canary": "ZQK0236",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0236",
+      "canary": "ZQK0236",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0236@example.invalid",
+      "canary": "ZQK0236",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0236",
+      "canary": "ZQK0236",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0236XYZ9",
+      "canary": "ZQK0236",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000236",
+      "canary": "ZQK0236",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "237 Canary-ZQK0236 Lane, Testville, TX 77000",
+      "canary": "ZQK0236",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "7/26/2026"
+  }
+}

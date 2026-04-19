@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Ben Taub General Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Octavio Papadimitriou-ZQK0216
+Petsa ng Kapanganakan: 08/11/1936   Edad: 66
+SSN: 900-46-0216
+Telepono ng pasyente: 555-010-0216
+Email: canary-zqk0216@example.invalid
+Tirahan: 217 Canary-ZQK0216 Lane, Testville, TX 77000
+MRN: MRNZQK0216
+Insurance ID: INSZQK0216XYZ9
+
+Doktor: Dr. Nguyen
+Diagnosis: musculoskeletal strain
+Gamot: Inumin ang ondansetron 4 mg ayon sa reseta.
+Follow-up: 1/12/2026 kasama ang inyong doktor.

@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Harris Health East Clinic
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Aleksandr Oduya-ZQK0267
+Date de Naissance: 10/15/1987   Âge: 77
+Numéro de Sécurité Sociale: 900-97-0267
+Portable patient: 555-010-0267
+Email patient: canary-zqk0267@example.invalid
+Adresse du Patient: 268 Canary-ZQK0267 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0267
+Numéro d'Assurance: INSZQK0267XYZ9
+
+Médecin: Dr. Luber
+Diagnostic: musculoskeletal strain
+Médicament: Prenez metoprolol 25 mg selon prescription.
+Rendez-vous: 8/17/2026 avec votre médecin.

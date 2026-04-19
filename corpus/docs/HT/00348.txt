@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Lyndon B Johnson Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Octavio Vranjevic-ZQK0348
+Dat Nesans: 05/09/1998   Laj: 78
+SSN: 900-88-0348
+Telefòn pasyan: 555-010-0348
+Email pasyan: canary-zqk0348@example.invalid
+Adrès Pasyan: 349 Canary-ZQK0348 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0348
+Nimewo Asirans: INSZQK0348XYZ9
+
+Doktè: Dr. Luber
+Dyagnostik: community-acquired pneumonia
+Medikaman: Pran ondansetron 4 mg jan yo preskri a.
+Swivi: Randevou 11/9/2026 ak doktè ou.

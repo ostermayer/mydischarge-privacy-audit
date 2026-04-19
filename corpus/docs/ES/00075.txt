@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Harris Health East Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Bartholomew Bergström-ZQK0075
+Fecha de Nacimiento: 07/25/1935    Edad: 85
+Número de Seguro Social: 900-85-0075
+Celular del paciente: 555-010-0075
+Correo del paciente: canary-zqk0075@example.invalid
+Dirección del Paciente: 76 Canary-ZQK0075 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0075
+Número de Seguro: INSZQK0075XYZ9
+Cuenta: 90000075
+
+Médico: Dr. Nguyen
+Diagnóstico: community-acquired pneumonia
+Medicamento: Tome ondansetron 4 mg según indicación.
+Seguimiento: Cita el 7/11/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

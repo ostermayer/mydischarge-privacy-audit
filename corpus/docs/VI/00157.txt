@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: UT Physicians Clinic
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Dashiell Hvidberg-ZQK0157
+Ngày sinh: 10/27/1947   Tuổi: 87
+Số an sinh xã hội: 900-77-0157
+Di động bệnh nhân: 555-010-0157
+Email bệnh nhân: canary-zqk0157@example.invalid
+Địa chỉ bệnh nhân: 158 Canary-ZQK0157 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0157
+Số thẻ bảo hiểm: INSZQK0157XYZ9
+
+Bác sĩ: Dr. Nguyen
+Chẩn đoán: acute bronchitis
+Thuốc: Uống amoxicillin 500 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 11/15/2026 với bác sĩ của bạn.

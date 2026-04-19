@@ -1,0 +1,76 @@
+{
+  "doc_id": "00153",
+  "language": "VI",
+  "template_index": 0,
+  "canary_token": "ZQK0153",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Chakrabarti-ZQK0153",
+      "canary": "ZQK0153",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/28/1943",
+      "canary": "ZQK0153",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "83",
+      "canary": "ZQK0153",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-73-0153",
+      "canary": "ZQK0153",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0153",
+      "canary": "ZQK0153",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0153@example.invalid",
+      "canary": "ZQK0153",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0153",
+      "canary": "ZQK0153",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0153XYZ9",
+      "canary": "ZQK0153",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000153",
+      "canary": "ZQK0153",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "154 Canary-ZQK0153 Lane, Testville, TX 77000",
+      "canary": "ZQK0153",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "6/27/2026"
+  }
+}

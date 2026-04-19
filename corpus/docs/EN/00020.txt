@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Memorial Hermann Texas Medical Center (call 713-500-7878 for questions)
+Name: Dashiell Vranjevic-ZQK0020
+Date of Birth: 06/13/1950
+Age: 70 years
+Home Address: 21 Canary-ZQK0020 Lane, Testville, TX 77000
+Cell: 555-010-0020
+Email: canary-zqk0020@example.invalid
+Medical Record Number: MRNZQK0020
+Member ID: INSZQK0020XYZ9
+Primary provider: Dr. Fischer
+Diagnosis: musculoskeletal strain
+Your doctor prescribed albuterol inhaler.
+Follow up on 8/3/2026.

@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Bayshore Medical Center
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Tariq Oduya-ZQK0169
+Ngày sinh: 04/17/1959   Tuổi: 59
+Số an sinh xã hội: 900-89-0169
+Di động bệnh nhân: 555-010-0169
+Email bệnh nhân: canary-zqk0169@example.invalid
+Địa chỉ bệnh nhân: 170 Canary-ZQK0169 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0169
+Số thẻ bảo hiểm: INSZQK0169XYZ9
+
+Bác sĩ: Dr. Luber
+Chẩn đoán: acute otitis media
+Thuốc: Uống ondansetron 4 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 2/25/2026 với bác sĩ của bạn.

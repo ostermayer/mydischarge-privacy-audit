@@ -1,0 +1,76 @@
+{
+  "doc_id": "00248",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0248",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Vranjevic-ZQK0248",
+      "canary": "ZQK0248",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/15/1968",
+      "canary": "ZQK0248",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "58",
+      "canary": "ZQK0248",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-78-0248",
+      "canary": "ZQK0248",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0248",
+      "canary": "ZQK0248",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0248@example.invalid",
+      "canary": "ZQK0248",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0248",
+      "canary": "ZQK0248",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0248XYZ9",
+      "canary": "ZQK0248",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000248",
+      "canary": "ZQK0248",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "249 Canary-ZQK0248 Lane, Testville, TX 77000",
+      "canary": "ZQK0248",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "10/20/2026"
+  }
+}

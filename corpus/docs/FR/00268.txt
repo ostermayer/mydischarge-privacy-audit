@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Bayshore Medical Center
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Aleksandr Quetzalcoatl-ZQK0268
+Date de Naissance: 11/10/1988   Âge: 78
+Numéro de Sécurité Sociale: 900-98-0268
+Portable patient: 555-010-0268
+Email patient: canary-zqk0268@example.invalid
+Adresse du Patient: 269 Canary-ZQK0268 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0268
+Numéro d'Assurance: INSZQK0268XYZ9
+
+Médecin: Dr. Nguyen
+Diagnostic: uncomplicated cystitis
+Médicament: Prenez amoxicillin 500 mg selon prescription.
+Rendez-vous: 10/27/2026 avec votre médecin.

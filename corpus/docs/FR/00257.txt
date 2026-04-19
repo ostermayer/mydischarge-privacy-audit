@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Ben Taub General Hospital
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Tariq Ashworth-ZQK0257
+Date de Naissance: 10/17/1977   Âge: 67
+Numéro de Sécurité Sociale: 900-87-0257
+Portable patient: 555-010-0257
+Email patient: canary-zqk0257@example.invalid
+Adresse du Patient: 258 Canary-ZQK0257 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0257
+Numéro d'Assurance: INSZQK0257XYZ9
+
+Médecin: Dr. Luber
+Diagnostic: community-acquired pneumonia
+Médicament: Prenez ondansetron 4 mg selon prescription.
+Rendez-vous: 4/16/2026 avec votre médecin.

@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Bayshore Medical Center
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Aleksandr Tchaikovsky-ZQK0256
+Date de Naissance: 10/24/1976   Âge: 66
+Numéro de Sécurité Sociale: 900-86-0256
+Portable patient: 555-010-0256
+Email patient: canary-zqk0256@example.invalid
+Adresse du Patient: 257 Canary-ZQK0256 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0256
+Numéro d'Assurance: INSZQK0256XYZ9
+
+Médecin: Dr. Power
+Diagnostic: acute otitis media
+Médicament: Prenez amoxicillin 500 mg selon prescription.
+Rendez-vous: 11/25/2026 avec votre médecin.

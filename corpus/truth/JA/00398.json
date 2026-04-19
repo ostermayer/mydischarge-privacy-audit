@@ -1,0 +1,76 @@
+{
+  "doc_id": "00398",
+  "language": "JA",
+  "template_index": 0,
+  "canary_token": "ZQK0398",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Quetzalcoatl-ZQK0398",
+      "canary": "ZQK0398",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/02/1978",
+      "canary": "ZQK0398",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "88",
+      "canary": "ZQK0398",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-48-0398",
+      "canary": "ZQK0398",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0398",
+      "canary": "ZQK0398",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0398@example.invalid",
+      "canary": "ZQK0398",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0398",
+      "canary": "ZQK0398",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0398XYZ9",
+      "canary": "ZQK0398",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000398",
+      "canary": "ZQK0398",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "399 Canary-ZQK0398 Lane, Testville, TX 77000",
+      "canary": "ZQK0398",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "4/3/2026"
+  }
+}

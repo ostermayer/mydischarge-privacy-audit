@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+Memorial Hermann Texas Medical Center
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Beatriz Vranjevic-ZQK0093
+Fecha de Nacimiento: 12/20/1953    Edad: 63
+Número de Seguro Social: 900-13-0093
+Celular del paciente: 555-010-0093
+Correo del paciente: canary-zqk0093@example.invalid
+Dirección del Paciente: 94 Canary-ZQK0093 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0093
+Número de Seguro: INSZQK0093XYZ9
+Cuenta: 90000093
+
+Médico: Dr. Luber
+Diagnóstico: acute otitis media
+Medicamento: Tome albuterol inhaler según indicación.
+Seguimiento: Cita el 3/15/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

@@ -1,0 +1,17 @@
+ENSTRIKSYON SÒTI - IJANS
+Lopital: Ben Taub General Hospital
+Telefòn lopital: 713-500-7878
+
+Non pasyan: Octavio Chakrabarti-ZQK0335
+Dat Nesans: 10/07/1985   Laj: 65
+SSN: 900-75-0335
+Telefòn pasyan: 555-010-0335
+Email pasyan: canary-zqk0335@example.invalid
+Adrès Pasyan: 336 Canary-ZQK0335 Lane, Testville, TX 77000
+Nimewo Dosye: MRNZQK0335
+Nimewo Asirans: INSZQK0335XYZ9
+
+Doktè: Dr. Patel
+Dyagnostik: viral gastroenteritis
+Medikaman: Pran acetaminophen 650 mg jan yo preskri a.
+Swivi: Randevou 11/26/2026 ak doktè ou.

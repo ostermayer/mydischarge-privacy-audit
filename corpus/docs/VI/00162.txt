@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Memorial Hermann Texas Medical Center
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Yumiko Chakrabarti-ZQK0162
+Ngày sinh: 08/03/1952   Tuổi: 52
+Số an sinh xã hội: 900-82-0162
+Di động bệnh nhân: 555-010-0162
+Email bệnh nhân: canary-zqk0162@example.invalid
+Địa chỉ bệnh nhân: 163 Canary-ZQK0162 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0162
+Số thẻ bảo hiểm: INSZQK0162XYZ9
+
+Bác sĩ: Dr. Fischer
+Chẩn đoán: acute otitis media
+Thuốc: Uống metoprolol 25 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 6/21/2026 với bác sĩ của bạn.

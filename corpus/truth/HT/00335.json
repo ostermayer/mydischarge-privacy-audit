@@ -1,0 +1,76 @@
+{
+  "doc_id": "00335",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0335",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Chakrabarti-ZQK0335",
+      "canary": "ZQK0335",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "10/07/1985",
+      "canary": "ZQK0335",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "65",
+      "canary": "ZQK0335",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-75-0335",
+      "canary": "ZQK0335",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0335",
+      "canary": "ZQK0335",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0335@example.invalid",
+      "canary": "ZQK0335",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0335",
+      "canary": "ZQK0335",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0335XYZ9",
+      "canary": "ZQK0335",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000335",
+      "canary": "ZQK0335",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "336 Canary-ZQK0335 Lane, Testville, TX 77000",
+      "canary": "ZQK0335",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "11/26/2026"
+  }
+}

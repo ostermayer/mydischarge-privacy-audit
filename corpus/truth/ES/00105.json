@@ -1,0 +1,76 @@
+{
+  "doc_id": "00105",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0105",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Quetzalcoatl-ZQK0105",
+      "canary": "ZQK0105",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/12/1965",
+      "canary": "ZQK0105",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "75",
+      "canary": "ZQK0105",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-25-0105",
+      "canary": "ZQK0105",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0105",
+      "canary": "ZQK0105",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0105@example.invalid",
+      "canary": "ZQK0105",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0105",
+      "canary": "ZQK0105",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0105XYZ9",
+      "canary": "ZQK0105",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000105",
+      "canary": "ZQK0105",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "106 Canary-ZQK0105 Lane, Testville, TX 77000",
+      "canary": "ZQK0105",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "6/18/2026"
+  }
+}

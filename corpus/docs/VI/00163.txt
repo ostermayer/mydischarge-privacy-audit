@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Bayshore Medical Center
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Tariq Quetzalcoatl-ZQK0163
+Ngày sinh: 08/04/1953   Tuổi: 53
+Số an sinh xã hội: 900-83-0163
+Di động bệnh nhân: 555-010-0163
+Email bệnh nhân: canary-zqk0163@example.invalid
+Địa chỉ bệnh nhân: 164 Canary-ZQK0163 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0163
+Số thẻ bảo hiểm: INSZQK0163XYZ9
+
+Bác sĩ: Dr. Power
+Chẩn đoán: musculoskeletal strain
+Thuốc: Uống albuterol inhaler theo chỉ dẫn.
+Tái khám: Lịch hẹn 4/26/2026 với bác sĩ của bạn.

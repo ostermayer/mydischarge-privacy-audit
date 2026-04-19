@@ -1,0 +1,76 @@
+{
+  "doc_id": "00046",
+  "language": "EN",
+  "template_index": 1,
+  "canary_token": "ZQK0046",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ximena Vranjevic-ZQK0046",
+      "canary": "ZQK0046",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "06/02/1976",
+      "canary": "ZQK0046",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "56",
+      "canary": "ZQK0046",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-56-0046",
+      "canary": "ZQK0046",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0046",
+      "canary": "ZQK0046",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0046@example.invalid",
+      "canary": "ZQK0046",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0046",
+      "canary": "ZQK0046",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0046XYZ9",
+      "canary": "ZQK0046",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000046",
+      "canary": "ZQK0046",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "47 Canary-ZQK0046 Lane, Testville, TX 77000",
+      "canary": "ZQK0046",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "12/17/2026"
+  }
+}

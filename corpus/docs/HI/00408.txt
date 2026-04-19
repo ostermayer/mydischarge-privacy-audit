@@ -1,0 +1,17 @@
+आपातकालीन विभाग से छुट्टी के निर्देश
+अस्पताल: Lyndon B Johnson Hospital
+अस्पताल फोन: 713-500-7878
+
+रोगी का नाम: Ximena Vranjevic-ZQK0408
+जन्म तिथि: 09/11/1988   आयु: 58
+सामाजिक सुरक्षा संख्या: 900-58-0408
+रोगी मोबाइल: 555-010-0408
+रोगी ईमेल: canary-zqk0408@example.invalid
+रोगी का पता: 409 Canary-ZQK0408 Lane, Testville, TX 77000
+रोगी संख्या: MRNZQK0408
+बीमा संख्या: INSZQK0408XYZ9
+
+डॉक्टर: Dr. Ostermayer
+निदान: musculoskeletal strain
+दवा: acetaminophen 650 mg निर्देशानुसार लें।
+अनुवर्ती: 6/8/2026 को अपने डॉक्टर के पास जाएँ।

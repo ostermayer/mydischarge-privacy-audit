@@ -1,0 +1,76 @@
+{
+  "doc_id": "00426",
+  "language": "FA",
+  "template_index": 0,
+  "canary_token": "ZQK0426",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Quetzalcoatl-ZQK0426",
+      "canary": "ZQK0426",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/06/1936",
+      "canary": "ZQK0426",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "76",
+      "canary": "ZQK0426",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-76-0426",
+      "canary": "ZQK0426",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0426",
+      "canary": "ZQK0426",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0426@example.invalid",
+      "canary": "ZQK0426",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0426",
+      "canary": "ZQK0426",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0426XYZ9",
+      "canary": "ZQK0426",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000426",
+      "canary": "ZQK0426",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "427 Canary-ZQK0426 Lane, Testville, TX 77000",
+      "canary": "ZQK0426",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "acute otitis media",
+    "appointment_date": "5/1/2026"
+  }
+}

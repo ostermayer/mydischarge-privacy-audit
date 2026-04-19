@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Memorial Hermann Texas Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Priyanka Mogensen-ZQK0355
+Geburtsdatum: 11/08/1935   Alter: 85
+Sozialversicherungsnummer: 900-95-0355
+Handy Patient: 555-010-0355
+Email Patient: canary-zqk0355@example.invalid
+Patientenadresse: 356 Canary-ZQK0355 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0355
+Versicherungsnummer: INSZQK0355XYZ9
+
+Arzt: Dr. Ostermayer
+Diagnose: musculoskeletal strain
+Medikament: Nehmen Sie acetaminophen 650 mg wie verordnet.
+Termin: 11/18/2026 bei Ihrem Arzt.

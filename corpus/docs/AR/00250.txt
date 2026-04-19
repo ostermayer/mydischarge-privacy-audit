@@ -1,0 +1,17 @@
+تعليمات الخروج من قسم الطوارئ
+المستشفى: Memorial Hermann Texas Medical Center
+هاتف المستشفى: 713-500-7878
+
+اسم المريض: Priyanka Ashworth-ZQK0250
+تاريخ الميلاد: 02/11/1970    العمر: 60
+رقم الضمان الاجتماعي: 900-80-0250
+جوال المريض: 555-010-0250
+البريد الإلكتروني للمريض: canary-zqk0250@example.invalid
+عنوان المريض: 251 Canary-ZQK0250 Lane, Testville, TX 77000
+رقم الملف الطبي: MRNZQK0250
+رقم التأمين: INSZQK0250XYZ9
+
+الطبيب: Dr. Rodriguez
+التشخيص: musculoskeletal strain
+الدواء: خذ ondansetron 4 mg حسب التعليمات.
+المتابعة: موعد 3/17/2026 مع طبيبك.

@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: UT Physicians Clinic
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Ingrid Ashworth-ZQK0180
+Ngày sinh: 11/16/1970   Tuổi: 70
+Số an sinh xã hội: 900-10-0180
+Di động bệnh nhân: 555-010-0180
+Email bệnh nhân: canary-zqk0180@example.invalid
+Địa chỉ bệnh nhân: 181 Canary-ZQK0180 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0180
+Số thẻ bảo hiểm: INSZQK0180XYZ9
+
+Bác sĩ: Dr. Rodriguez
+Chẩn đoán: musculoskeletal strain
+Thuốc: Uống ibuprofen 400 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 7/17/2026 với bác sĩ của bạn.

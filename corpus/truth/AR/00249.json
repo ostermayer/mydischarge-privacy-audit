@@ -1,0 +1,76 @@
+{
+  "doc_id": "00249",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0249",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Octavio Vranjevic-ZQK0249",
+      "canary": "ZQK0249",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "03/09/1969",
+      "canary": "ZQK0249",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "59",
+      "canary": "ZQK0249",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-79-0249",
+      "canary": "ZQK0249",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0249",
+      "canary": "ZQK0249",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0249@example.invalid",
+      "canary": "ZQK0249",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0249",
+      "canary": "ZQK0249",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0249XYZ9",
+      "canary": "ZQK0249",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000249",
+      "canary": "ZQK0249",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "250 Canary-ZQK0249 Lane, Testville, TX 77000",
+      "canary": "ZQK0249",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "9/4/2026"
+  }
+}

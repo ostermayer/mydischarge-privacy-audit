@@ -1,0 +1,76 @@
+{
+  "doc_id": "00041",
+  "language": "EN",
+  "template_index": 0,
+  "canary_token": "ZQK0041",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Ingrid Quetzalcoatl-ZQK0041",
+      "canary": "ZQK0041",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/10/1971",
+      "canary": "ZQK0041",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "51",
+      "canary": "ZQK0041",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-51-0041",
+      "canary": "ZQK0041",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0041",
+      "canary": "ZQK0041",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0041@example.invalid",
+      "canary": "ZQK0041",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0041",
+      "canary": "ZQK0041",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0041XYZ9",
+      "canary": "ZQK0041",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000041",
+      "canary": "ZQK0041",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "42 Canary-ZQK0041 Lane, Testville, TX 77000",
+      "canary": "ZQK0041",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "5/8/2026"
+  }
+}

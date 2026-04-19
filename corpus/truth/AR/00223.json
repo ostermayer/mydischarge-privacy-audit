@@ -1,0 +1,76 @@
+{
+  "doc_id": "00223",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0223",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Ashworth-ZQK0223",
+      "canary": "ZQK0223",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/23/1943",
+      "canary": "ZQK0223",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "73",
+      "canary": "ZQK0223",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-53-0223",
+      "canary": "ZQK0223",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0223",
+      "canary": "ZQK0223",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0223@example.invalid",
+      "canary": "ZQK0223",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0223",
+      "canary": "ZQK0223",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0223XYZ9",
+      "canary": "ZQK0223",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000223",
+      "canary": "ZQK0223",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "224 Canary-ZQK0223 Lane, Testville, TX 77000",
+      "canary": "ZQK0223",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Lyndon B Johnson Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "8/13/2026"
+  }
+}

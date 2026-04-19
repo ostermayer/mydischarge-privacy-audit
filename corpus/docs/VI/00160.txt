@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Memorial Hermann Texas Medical Center
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Priyanka Vranjevic-ZQK0160
+Ngày sinh: 05/14/1950   Tuổi: 50
+Số an sinh xã hội: 900-80-0160
+Di động bệnh nhân: 555-010-0160
+Email bệnh nhân: canary-zqk0160@example.invalid
+Địa chỉ bệnh nhân: 161 Canary-ZQK0160 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0160
+Số thẻ bảo hiểm: INSZQK0160XYZ9
+
+Bác sĩ: Dr. Power
+Chẩn đoán: viral gastroenteritis
+Thuốc: Uống metoprolol 25 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 2/1/2026 với bác sĩ của bạn.

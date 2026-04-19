@@ -1,0 +1,76 @@
+{
+  "doc_id": "00370",
+  "language": "DE",
+  "template_index": 0,
+  "canary_token": "ZQK0370",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Ashworth-ZQK0370",
+      "canary": "ZQK0370",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/28/1950",
+      "canary": "ZQK0370",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "60",
+      "canary": "ZQK0370",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-20-0370",
+      "canary": "ZQK0370",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0370",
+      "canary": "ZQK0370",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0370@example.invalid",
+      "canary": "ZQK0370",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0370",
+      "canary": "ZQK0370",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0370XYZ9",
+      "canary": "ZQK0370",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000370",
+      "canary": "ZQK0370",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "371 Canary-ZQK0370 Lane, Testville, TX 77000",
+      "canary": "ZQK0370",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Ostermayer",
+    "medication": "acetaminophen 650 mg",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "10/26/2026"
+  }
+}

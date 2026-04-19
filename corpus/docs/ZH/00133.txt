@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: UT Physicians Clinic
+医院电话: 713-500-7878
+
+患者姓名: Aleksandr Tchaikovsky-ZQK0133
+出生日期: 09/19/1993   年龄: 63
+社会安全号: 900-53-0133
+患者手机: 555-010-0133
+患者邮箱: canary-zqk0133@example.invalid
+患者地址: 134 Canary-ZQK0133 Lane, Testville, TX 77000
+病历号: MRNZQK0133
+保险号: INSZQK0133XYZ9
+账号: 90000133
+
+主治医师: Dr. Nguyen
+诊断: uncomplicated cystitis
+药物: 按医嘱服用 ondansetron 4 mg。
+复诊: 请于 2/25/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

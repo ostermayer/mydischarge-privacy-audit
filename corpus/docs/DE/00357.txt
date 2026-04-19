@@ -1,0 +1,17 @@
+ENTLASSUNGSHINWEISE - NOTAUFNAHME
+Krankenhaus: Bayshore Medical Center
+Telefon Krankenhaus: 713-500-7878
+
+Patientenname: Dashiell Ashworth-ZQK0357
+Geburtsdatum: 03/22/1937   Alter: 87
+Sozialversicherungsnummer: 900-97-0357
+Handy Patient: 555-010-0357
+Email Patient: canary-zqk0357@example.invalid
+Patientenadresse: 358 Canary-ZQK0357 Lane, Testville, TX 77000
+Patientennummer: MRNZQK0357
+Versicherungsnummer: INSZQK0357XYZ9
+
+Arzt: Dr. Luber
+Diagnose: acute otitis media
+Medikament: Nehmen Sie albuterol inhaler wie verordnet.
+Termin: 11/27/2026 bei Ihrem Arzt.

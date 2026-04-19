@@ -1,0 +1,76 @@
+{
+  "doc_id": "00320",
+  "language": "PT",
+  "template_index": 0,
+  "canary_token": "ZQK0320",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Aleksandr Oduya-ZQK0320",
+      "canary": "ZQK0320",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "11/27/1970",
+      "canary": "ZQK0320",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "50",
+      "canary": "ZQK0320",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-60-0320",
+      "canary": "ZQK0320",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0320",
+      "canary": "ZQK0320",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0320@example.invalid",
+      "canary": "ZQK0320",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0320",
+      "canary": "ZQK0320",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0320XYZ9",
+      "canary": "ZQK0320",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000320",
+      "canary": "ZQK0320",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "321 Canary-ZQK0320 Lane, Testville, TX 77000",
+      "canary": "ZQK0320",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Bayshore Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "ibuprofen 400 mg",
+    "diagnosis": "viral gastroenteritis",
+    "appointment_date": "11/12/2026"
+  }
+}

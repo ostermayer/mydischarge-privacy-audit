@@ -1,0 +1,14 @@
+DISCHARGE SUMMARY
+Facility: Harris Health East Clinic (call 713-500-7878 for questions)
+Name: Tariq Chakrabarti-ZQK0006
+Date of Birth: 03/24/1936
+Age: 56 years
+Home Address: 7 Canary-ZQK0006 Lane, Testville, TX 77000
+Cell: 555-010-0006
+Email: canary-zqk0006@example.invalid
+Medical Record Number: MRNZQK0006
+Member ID: INSZQK0006XYZ9
+Primary provider: Dr. Rodriguez
+Diagnosis: acute bronchitis
+Your doctor prescribed albuterol inhaler.
+Follow up on 12/2/2026.

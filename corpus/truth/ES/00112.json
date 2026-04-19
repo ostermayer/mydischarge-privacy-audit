@@ -1,0 +1,76 @@
+{
+  "doc_id": "00112",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0112",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Tariq Vranjevic-ZQK0112",
+      "canary": "ZQK0112",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/27/1972",
+      "canary": "ZQK0112",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "82",
+      "canary": "ZQK0112",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-32-0112",
+      "canary": "ZQK0112",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0112",
+      "canary": "ZQK0112",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0112@example.invalid",
+      "canary": "ZQK0112",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0112",
+      "canary": "ZQK0112",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0112XYZ9",
+      "canary": "ZQK0112",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000112",
+      "canary": "ZQK0112",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "113 Canary-ZQK0112 Lane, Testville, TX 77000",
+      "canary": "ZQK0112",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Patel",
+    "medication": "ondansetron 4 mg",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "4/22/2026"
+  }
+}

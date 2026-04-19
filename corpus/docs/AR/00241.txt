@@ -1,0 +1,17 @@
+تعليمات الخروج من قسم الطوارئ
+المستشفى: Memorial Hermann Texas Medical Center
+هاتف المستشفى: 713-500-7878
+
+اسم المريض: Ximena Bergström-ZQK0241
+تاريخ الميلاد: 07/02/1961    العمر: 51
+رقم الضمان الاجتماعي: 900-71-0241
+جوال المريض: 555-010-0241
+البريد الإلكتروني للمريض: canary-zqk0241@example.invalid
+عنوان المريض: 242 Canary-ZQK0241 Lane, Testville, TX 77000
+رقم الملف الطبي: MRNZQK0241
+رقم التأمين: INSZQK0241XYZ9
+
+الطبيب: Dr. Luber
+التشخيص: community-acquired pneumonia
+الدواء: خذ albuterol inhaler حسب التعليمات.
+المتابعة: موعد 8/12/2026 مع طبيبك.

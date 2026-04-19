@@ -1,0 +1,76 @@
+{
+  "doc_id": "00350",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0350",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Tchaikovsky-ZQK0350",
+      "canary": "ZQK0350",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "09/01/1930",
+      "canary": "ZQK0350",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "80",
+      "canary": "ZQK0350",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-90-0350",
+      "canary": "ZQK0350",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0350",
+      "canary": "ZQK0350",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0350@example.invalid",
+      "canary": "ZQK0350",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0350",
+      "canary": "ZQK0350",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0350XYZ9",
+      "canary": "ZQK0350",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000350",
+      "canary": "ZQK0350",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "351 Canary-ZQK0350 Lane, Testville, TX 77000",
+      "canary": "ZQK0350",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "albuterol inhaler",
+    "diagnosis": "acute bronchitis",
+    "appointment_date": "3/27/2026"
+  }
+}

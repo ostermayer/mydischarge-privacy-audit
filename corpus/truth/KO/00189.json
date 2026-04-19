@@ -1,0 +1,76 @@
+{
+  "doc_id": "00189",
+  "language": "KO",
+  "template_index": 0,
+  "canary_token": "ZQK0189",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Bergström-ZQK0189",
+      "canary": "ZQK0189",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "07/03/1979",
+      "canary": "ZQK0189",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "79",
+      "canary": "ZQK0189",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-19-0189",
+      "canary": "ZQK0189",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0189",
+      "canary": "ZQK0189",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0189@example.invalid",
+      "canary": "ZQK0189",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0189",
+      "canary": "ZQK0189",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0189XYZ9",
+      "canary": "ZQK0189",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000189",
+      "canary": "ZQK0189",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "190 Canary-ZQK0189 Lane, Testville, TX 77000",
+      "canary": "ZQK0189",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Power",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "7/16/2026"
+  }
+}

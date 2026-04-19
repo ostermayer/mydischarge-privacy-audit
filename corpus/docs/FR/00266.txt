@@ -1,0 +1,17 @@
+INSTRUCTIONS DE SORTIE - URGENCES
+Hôpital: Harris Health East Clinic
+Téléphone de l'hôpital: 713-500-7878
+
+Nom du Patient: Priyanka Mogensen-ZQK0266
+Date de Naissance: 04/02/1986   Âge: 76
+Numéro de Sécurité Sociale: 900-96-0266
+Portable patient: 555-010-0266
+Email patient: canary-zqk0266@example.invalid
+Adresse du Patient: 267 Canary-ZQK0266 Lane, Testville, TX 77000
+Numéro de Dossier: MRNZQK0266
+Numéro d'Assurance: INSZQK0266XYZ9
+
+Médecin: Dr. Fischer
+Diagnostic: viral gastroenteritis
+Médicament: Prenez ondansetron 4 mg selon prescription.
+Rendez-vous: 6/11/2026 avec votre médecin.

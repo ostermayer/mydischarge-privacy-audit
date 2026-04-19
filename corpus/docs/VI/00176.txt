@@ -1,0 +1,17 @@
+HƯỚNG DẪN XUẤT VIỆN - KHOA CẤP CỨU
+Bệnh viện: Lyndon B Johnson Hospital
+Điện thoại bệnh viện: 713-500-7878
+
+Tên bệnh nhân: Beatriz Ashworth-ZQK0176
+Ngày sinh: 06/04/1966   Tuổi: 66
+Số an sinh xã hội: 900-96-0176
+Di động bệnh nhân: 555-010-0176
+Email bệnh nhân: canary-zqk0176@example.invalid
+Địa chỉ bệnh nhân: 177 Canary-ZQK0176 Lane, Testville, TX 77000
+Mã bệnh nhân: MRNZQK0176
+Số thẻ bảo hiểm: INSZQK0176XYZ9
+
+Bác sĩ: Dr. Ostermayer
+Chẩn đoán: acute otitis media
+Thuốc: Uống ibuprofen 400 mg theo chỉ dẫn.
+Tái khám: Lịch hẹn 1/28/2026 với bác sĩ của bạn.

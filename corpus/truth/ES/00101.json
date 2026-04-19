@@ -1,0 +1,76 @@
+{
+  "doc_id": "00101",
+  "language": "ES",
+  "template_index": 0,
+  "canary_token": "ZQK0101",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Dashiell Tchaikovsky-ZQK0101",
+      "canary": "ZQK0101",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "04/13/1961",
+      "canary": "ZQK0101",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "71",
+      "canary": "ZQK0101",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-21-0101",
+      "canary": "ZQK0101",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0101",
+      "canary": "ZQK0101",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0101@example.invalid",
+      "canary": "ZQK0101",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0101",
+      "canary": "ZQK0101",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0101XYZ9",
+      "canary": "ZQK0101",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000101",
+      "canary": "ZQK0101",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "102 Canary-ZQK0101 Lane, Testville, TX 77000",
+      "canary": "ZQK0101",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "UT Physicians Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "albuterol inhaler",
+    "diagnosis": "uncomplicated cystitis",
+    "appointment_date": "1/25/2026"
+  }
+}

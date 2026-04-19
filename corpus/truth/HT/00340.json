@@ -1,0 +1,76 @@
+{
+  "doc_id": "00340",
+  "language": "HT",
+  "template_index": 0,
+  "canary_token": "ZQK0340",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Beatriz Quetzalcoatl-ZQK0340",
+      "canary": "ZQK0340",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "05/04/1990",
+      "canary": "ZQK0340",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "70",
+      "canary": "ZQK0340",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-80-0340",
+      "canary": "ZQK0340",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0340",
+      "canary": "ZQK0340",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0340@example.invalid",
+      "canary": "ZQK0340",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0340",
+      "canary": "ZQK0340",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0340XYZ9",
+      "canary": "ZQK0340",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000340",
+      "canary": "ZQK0340",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "341 Canary-ZQK0340 Lane, Testville, TX 77000",
+      "canary": "ZQK0340",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Harris Health East Clinic",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Nguyen",
+    "medication": "albuterol inhaler",
+    "diagnosis": "community-acquired pneumonia",
+    "appointment_date": "9/7/2026"
+  }
+}

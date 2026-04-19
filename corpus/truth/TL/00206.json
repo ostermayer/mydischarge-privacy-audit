@@ -1,0 +1,76 @@
+{
+  "doc_id": "00206",
+  "language": "TL",
+  "template_index": 0,
+  "canary_token": "ZQK0206",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Kwame Bergström-ZQK0206",
+      "canary": "ZQK0206",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "02/08/1996",
+      "canary": "ZQK0206",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "56",
+      "canary": "ZQK0206",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-36-0206",
+      "canary": "ZQK0206",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0206",
+      "canary": "ZQK0206",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0206@example.invalid",
+      "canary": "ZQK0206",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0206",
+      "canary": "ZQK0206",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0206XYZ9",
+      "canary": "ZQK0206",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000206",
+      "canary": "ZQK0206",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "207 Canary-ZQK0206 Lane, Testville, TX 77000",
+      "canary": "ZQK0206",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Memorial Hermann Texas Medical Center",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Fischer",
+    "medication": "metoprolol 25 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "9/10/2026"
+  }
+}

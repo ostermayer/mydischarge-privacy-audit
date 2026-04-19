@@ -1,0 +1,17 @@
+INSTRUÇÕES DE ALTA - EMERGÊNCIA
+Hospital: Memorial Hermann Texas Medical Center
+Telefone do hospital: 713-500-7878
+
+Nome do Paciente: Beatriz Mogensen-ZQK0303
+Data de Nascimento: 11/11/1953   Idade: 73
+CPF: 900-43-0303
+Celular do paciente: 555-010-0303
+Email do paciente: canary-zqk0303@example.invalid
+Endereço do Paciente: 304 Canary-ZQK0303 Lane, Testville, TX 77000
+Número do Prontuário: MRNZQK0303
+Número do Seguro: INSZQK0303XYZ9
+
+Médico: Dr. Luber
+Diagnóstico: uncomplicated cystitis
+Medicamento: Tome ondansetron 4 mg conforme prescrito.
+Retorno: Consulta em 5/17/2026 com seu médico.

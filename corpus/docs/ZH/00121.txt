@@ -1,0 +1,19 @@
+急诊科出院说明
+医院: Ben Taub General Hospital
+医院电话: 713-500-7878
+
+患者姓名: Bartholomew Tchaikovsky-ZQK0121
+出生日期: 06/23/1981   年龄: 51
+社会安全号: 900-41-0121
+患者手机: 555-010-0121
+患者邮箱: canary-zqk0121@example.invalid
+患者地址: 122 Canary-ZQK0121 Lane, Testville, TX 77000
+病历号: MRNZQK0121
+保险号: INSZQK0121XYZ9
+账号: 90000121
+
+主治医师: Dr. Nguyen
+诊断: musculoskeletal strain
+药物: 按医嘱服用 metoprolol 25 mg。
+复诊: 请于 12/1/2026 随访您的医生。
+如出现胸痛、呼吸困难或发热,请立即拨打 911。

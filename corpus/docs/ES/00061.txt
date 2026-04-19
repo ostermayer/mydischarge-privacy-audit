@@ -1,0 +1,19 @@
+INSTRUCCIONES DE ALTA - DEPARTAMENTO DE EMERGENCIAS
+UT Physicians Clinic
+Teléfono del Hospital: 713-500-7878
+
+Nombre del Paciente: Octavio Hvidberg-ZQK0061
+Fecha de Nacimiento: 10/04/1991    Edad: 71
+Número de Seguro Social: 900-71-0061
+Celular del paciente: 555-010-0061
+Correo del paciente: canary-zqk0061@example.invalid
+Dirección del Paciente: 62 Canary-ZQK0061 Lane, Testville, TX 77000
+Número de Expediente: MRNZQK0061
+Número de Seguro: INSZQK0061XYZ9
+Cuenta: 90000061
+
+Médico: Dr. Nguyen
+Diagnóstico: musculoskeletal strain
+Medicamento: Tome albuterol inhaler según indicación.
+Seguimiento: Cita el 4/18/2026 con su proveedor.
+Si tiene dolor de pecho o fiebre, llame al 911.

@@ -1,0 +1,17 @@
+MGA TAGUBILIN SA PAGLABAS - ER
+Ospital: Lyndon B Johnson Hospital
+Telepono ng ospital: 713-500-7878
+
+Pangalan ng pasyente: Priyanka Ashworth-ZQK0219
+Petsa ng Kapanganakan: 12/10/1939   Edad: 69
+SSN: 900-49-0219
+Telepono ng pasyente: 555-010-0219
+Email: canary-zqk0219@example.invalid
+Tirahan: 220 Canary-ZQK0219 Lane, Testville, TX 77000
+MRN: MRNZQK0219
+Insurance ID: INSZQK0219XYZ9
+
+Doktor: Dr. Ostermayer
+Diagnosis: musculoskeletal strain
+Gamot: Inumin ang albuterol inhaler ayon sa reseta.
+Follow-up: 6/5/2026 kasama ang inyong doktor.

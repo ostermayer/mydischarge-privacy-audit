@@ -1,0 +1,76 @@
+{
+  "doc_id": "00247",
+  "language": "AR",
+  "template_index": 0,
+  "canary_token": "ZQK0247",
+  "phi": [
+    {
+      "class": "name",
+      "literal": "Saoirse Vranjevic-ZQK0247",
+      "canary": "ZQK0247",
+      "required": true
+    },
+    {
+      "class": "dob",
+      "literal": "01/02/1967",
+      "canary": "ZQK0247",
+      "required": true
+    },
+    {
+      "class": "age",
+      "literal": "57",
+      "canary": "ZQK0247",
+      "required": false
+    },
+    {
+      "class": "ssn",
+      "literal": "900-77-0247",
+      "canary": "ZQK0247",
+      "required": true
+    },
+    {
+      "class": "phone",
+      "literal": "555-010-0247",
+      "canary": "ZQK0247",
+      "required": true
+    },
+    {
+      "class": "email",
+      "literal": "canary-zqk0247@example.invalid",
+      "canary": "ZQK0247",
+      "required": true
+    },
+    {
+      "class": "mrn",
+      "literal": "MRNZQK0247",
+      "canary": "ZQK0247",
+      "required": true
+    },
+    {
+      "class": "insurance",
+      "literal": "INSZQK0247XYZ9",
+      "canary": "ZQK0247",
+      "required": true
+    },
+    {
+      "class": "account",
+      "literal": "90000247",
+      "canary": "ZQK0247",
+      "required": false
+    },
+    {
+      "class": "address",
+      "literal": "248 Canary-ZQK0247 Lane, Testville, TX 77000",
+      "canary": "ZQK0247",
+      "required": true
+    }
+  ],
+  "provider": {
+    "hospital": "Ben Taub General Hospital",
+    "hospital_phone": "713-500-7878",
+    "doctor": "Dr. Rodriguez",
+    "medication": "amoxicillin 500 mg",
+    "diagnosis": "musculoskeletal strain",
+    "appointment_date": "7/16/2026"
+  }
+}
