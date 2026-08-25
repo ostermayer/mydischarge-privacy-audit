@@ -1,0 +1,8 @@
+{
+  "name": "mydischarge-privacy-audit",
+  "private": true,
+  "description": "Root dependency shim so src/scrub.js can resolve compromise from any entry point",
+  "dependencies": {
+    "compromise": "^14.15.0"
+  }
+}

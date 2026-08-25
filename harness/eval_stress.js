@@ -1,6 +1,6 @@
 // Stress-corpus evaluation.
 // Runs each stress document through the FULL production pipeline:
-//   client redact.js -> server sanitize.js -> server scrubNames (compromise NER)
+//   client redact.js  →  server sanitize.js  →  server scrubNames (compromise NER)
 // and reports per-category PHI egress leakage.
 
 import fs from 'fs';

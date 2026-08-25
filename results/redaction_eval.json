@@ -1,6 +1,6 @@
 {
   "summary": {
-    "generated_at": "2026-04-14T17:28:53.827Z",
+    "generated_at": "2026-08-25T01:45:18.179Z",
     "corpus": {
       "total_docs": 440,
       "total_phi": 4400,
@@ -168,20 +168,20 @@
       }
     },
     "provider_info_keep_rate": {
-      "hospital_name": 0.9090909090909091,
+      "hospital_name": 0.9840909090909091,
       "doctor_name": 1,
-      "medication": 0.8227272727272728,
+      "medication": 1,
       "diagnosis": 1,
-      "appointment_date": 0.9318181818181818,
-      "hospital_phone": 0.9090909090909091
+      "appointment_date": 0.9090909090909091,
+      "hospital_phone": 1
     },
     "latency_ms": {
       "n": 440,
-      "min": 0.08,
-      "median": 0.161291,
-      "p95": 0.232416,
-      "max": 3.802916,
-      "mean": 0.17998871136363626
+      "min": 0.157208,
+      "median": 0.191708,
+      "p95": 0.274125,
+      "max": 8.142167,
+      "mean": 0.2296631340909089
     },
     "doc_canary_leaks": 0,
     "doc_canary_leak_rate": 0
@@ -193,16 +193,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 3.802916,
+      "ms": 8.142167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -211,12 +211,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.366875,
+      "ms": 0.410041,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -228,16 +228,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.290625,
+      "ms": 0.425416,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -246,12 +246,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.142542,
+      "ms": 0.274125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -263,16 +263,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.242583,
+      "ms": 0.241416,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -281,12 +281,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.121875,
+      "ms": 0.201875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -298,16 +298,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.206209,
+      "ms": 0.40225,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -316,12 +316,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.113292,
+      "ms": 0.272041,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -333,16 +333,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.234292,
+      "ms": 0.287917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -351,12 +351,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.128541,
+      "ms": 0.233583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -368,16 +368,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.206625,
+      "ms": 0.2225,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -386,12 +386,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.12375,
+      "ms": 0.20925,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -403,16 +403,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.204792,
+      "ms": 0.231084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -421,12 +421,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.125833,
+      "ms": 0.299708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -438,16 +438,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.185292,
+      "ms": 0.291416,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -456,12 +456,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.106334,
+      "ms": 0.206333,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -473,16 +473,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.171834,
+      "ms": 0.3335,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -491,12 +491,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.103875,
+      "ms": 0.200625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -508,16 +508,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.184459,
+      "ms": 0.202,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -526,12 +526,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.092208,
+      "ms": 0.176958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -543,16 +543,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.167292,
+      "ms": 0.18975,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -561,12 +561,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.10575,
+      "ms": 0.169833,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -578,16 +578,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.177459,
+      "ms": 0.19575,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -596,12 +596,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.105791,
+      "ms": 0.167958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -613,16 +613,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.168041,
+      "ms": 0.197625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -631,12 +631,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.103583,
+      "ms": 0.174791,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -648,16 +648,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.182166,
+      "ms": 0.192708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -666,12 +666,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.098833,
+      "ms": 0.168459,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -683,16 +683,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1535,
+      "ms": 0.186958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -701,12 +701,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.08725,
+      "ms": 0.242833,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -718,16 +718,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.191542,
+      "ms": 0.215166,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -736,12 +736,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.23,
+      "ms": 0.174625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -753,16 +753,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.164167,
+      "ms": 0.225166,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -771,12 +771,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.08775,
+      "ms": 0.186458,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -788,16 +788,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148917,
+      "ms": 0.191542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -806,12 +806,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.08025,
+      "ms": 0.178459,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -823,16 +823,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150084,
+      "ms": 0.187583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -841,12 +841,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.08,
+      "ms": 0.173375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -858,16 +858,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150084,
+      "ms": 0.212792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -876,12 +876,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.084458,
+      "ms": 0.188083,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -893,16 +893,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.142334,
+      "ms": 0.209833,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -911,12 +911,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147709,
+      "ms": 0.193084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -928,16 +928,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.206875,
+      "ms": 0.268,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -946,12 +946,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.093125,
+      "ms": 0.193458,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -963,16 +963,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.164083,
+      "ms": 0.211042,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -981,12 +981,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.081125,
+      "ms": 0.185959,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -998,16 +998,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151375,
+      "ms": 0.2075,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -1016,12 +1016,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.080583,
+      "ms": 0.181875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -1033,16 +1033,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.145667,
+      "ms": 0.339958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -1051,12 +1051,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.080458,
+      "ms": 0.242333,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -1068,16 +1068,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144583,
+      "ms": 0.216375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -1086,12 +1086,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.087,
+      "ms": 0.17275,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -1103,16 +1103,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.243041,
+      "ms": 0.203292,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -1121,12 +1121,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.09025,
+      "ms": 0.170625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -1138,16 +1138,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.16325,
+      "ms": 0.190917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -1156,12 +1156,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.086,
+      "ms": 0.259791,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -1173,16 +1173,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.167542,
+      "ms": 0.209792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -1191,12 +1191,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.084084,
+      "ms": 0.163166,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -1208,16 +1208,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.160541,
+      "ms": 0.189,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -1226,12 +1226,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.088,
+      "ms": 0.164167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Age",
         "Patient phone",
-        "Email (1)",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -1243,16 +1243,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.170209,
+      "ms": 0.247083,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1262,16 +1261,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.157542,
+      "ms": 0.202542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1281,16 +1279,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.14875,
+      "ms": 0.195667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1300,16 +1297,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148958,
+      "ms": 0.19025,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1319,16 +1315,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.14975,
+      "ms": 0.19325,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1338,16 +1333,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151083,
+      "ms": 0.190167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1357,16 +1351,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151917,
+      "ms": 0.190167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1376,16 +1369,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150833,
+      "ms": 0.188291,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1395,16 +1387,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148166,
+      "ms": 0.263792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1414,16 +1405,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.14775,
+      "ms": 0.198083,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1433,16 +1423,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.155708,
+      "ms": 0.196292,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1452,16 +1441,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153833,
+      "ms": 0.204875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1471,16 +1459,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.239709,
+      "ms": 0.192833,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1490,16 +1477,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1435,
+      "ms": 0.18125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1509,16 +1495,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149459,
+      "ms": 0.188791,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1528,16 +1513,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149041,
+      "ms": 0.186417,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1547,16 +1531,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146,
+      "ms": 0.187,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1566,16 +1549,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.145583,
+      "ms": 0.184708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1585,16 +1567,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.14625,
+      "ms": 0.184,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1604,16 +1585,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.14625,
+      "ms": 0.206375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1623,16 +1603,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147416,
+      "ms": 0.253875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1642,16 +1621,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.161875,
+      "ms": 0.2105,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1661,16 +1639,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.145458,
+      "ms": 0.1845,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1680,16 +1657,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146458,
+      "ms": 0.189166,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1699,16 +1675,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150708,
+      "ms": 0.186917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1718,16 +1693,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.142875,
+      "ms": 0.182208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1737,16 +1711,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149,
+      "ms": 0.19075,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1756,16 +1729,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.145958,
+      "ms": 0.183208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1775,16 +1747,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144416,
+      "ms": 0.185209,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1794,16 +1765,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.143333,
+      "ms": 0.181792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1813,16 +1783,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144667,
+      "ms": 0.184541,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1832,16 +1801,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.312625,
+      "ms": 0.188916,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1851,16 +1819,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.145334,
+      "ms": 0.183125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1870,16 +1837,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144833,
+      "ms": 0.214333,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1889,16 +1855,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147375,
+      "ms": 0.187667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1908,16 +1873,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151375,
+      "ms": 0.209708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1927,16 +1891,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.143875,
+      "ms": 0.222167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1946,16 +1909,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.143167,
+      "ms": 0.210125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1965,16 +1927,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152583,
+      "ms": 0.19325,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -1984,16 +1945,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152792,
+      "ms": 0.185667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2003,16 +1963,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152,
+      "ms": 0.213541,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2022,16 +1981,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149041,
+      "ms": 0.241875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2041,16 +1999,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150833,
+      "ms": 0.216833,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2060,16 +2017,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.155209,
+      "ms": 0.214875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2079,16 +2035,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149208,
+      "ms": 0.212083,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2098,16 +2053,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150417,
+      "ms": 0.21625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2117,16 +2071,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147333,
+      "ms": 0.214917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2136,16 +2089,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147125,
+      "ms": 0.197667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2155,16 +2107,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148333,
+      "ms": 0.192125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2174,16 +2125,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148375,
+      "ms": 0.190042,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2193,16 +2143,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.155292,
+      "ms": 0.192125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2212,16 +2161,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152291,
+      "ms": 0.19675,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2231,16 +2179,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151625,
+      "ms": 0.188084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2250,16 +2197,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.157042,
+      "ms": 0.197875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2269,16 +2215,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.15675,
+      "ms": 0.190125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2288,16 +2233,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153208,
+      "ms": 0.202958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2307,16 +2251,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.161833,
+      "ms": 0.187167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2326,16 +2269,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153417,
+      "ms": 0.18725,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2345,16 +2287,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.154541,
+      "ms": 0.290166,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2364,16 +2305,15 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.156042,
+      "ms": 0.193834,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Insurance ID",
-        "Account #",
         "Patient address"
       ]
     },
@@ -2383,15 +2323,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 2.726334,
+      "ms": 5.137417,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2400,15 +2341,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.222292,
+      "ms": 0.2315,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2417,15 +2359,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.183167,
+      "ms": 0.202,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2434,15 +2377,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.281792,
+      "ms": 0.205625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2451,15 +2395,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.230833,
+      "ms": 0.197125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2468,15 +2413,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.214417,
+      "ms": 0.205875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2485,15 +2431,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.18875,
+      "ms": 0.194584,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2502,15 +2449,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.179708,
+      "ms": 0.193666,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2519,15 +2467,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.171458,
+      "ms": 0.1885,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2536,15 +2485,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.175417,
+      "ms": 0.181333,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2553,15 +2503,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.180125,
+      "ms": 0.196083,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2570,15 +2521,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.167292,
+      "ms": 0.194708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2587,15 +2539,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.165708,
+      "ms": 0.198917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2604,15 +2557,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.173,
+      "ms": 0.201125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2621,15 +2575,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.169,
+      "ms": 0.208541,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2638,15 +2593,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.161291,
+      "ms": 0.195417,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2655,15 +2611,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.15975,
+      "ms": 0.1975,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2672,15 +2629,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.163208,
+      "ms": 0.195583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2689,15 +2647,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.160166,
+      "ms": 0.192125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2706,15 +2665,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.164208,
+      "ms": 0.217333,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2723,15 +2683,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.16025,
+      "ms": 0.222334,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2740,15 +2701,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.158666,
+      "ms": 0.218541,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2757,15 +2719,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.162625,
+      "ms": 0.217666,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2774,15 +2737,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.159417,
+      "ms": 0.218417,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2791,15 +2755,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1655,
+      "ms": 0.297167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2808,15 +2773,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.162334,
+      "ms": 0.211666,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2825,15 +2791,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.160584,
+      "ms": 0.189959,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2842,15 +2809,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1695,
+      "ms": 0.179084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2859,15 +2827,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.18225,
+      "ms": 0.193541,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2876,15 +2845,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.165917,
+      "ms": 0.183,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
-        "Account #"
+        "Patient address"
       ]
     },
     {
@@ -2893,12 +2863,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.207958,
+      "ms": 0.262375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -2909,12 +2881,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.240084,
+      "ms": 0.220958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -2925,12 +2899,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.198875,
+      "ms": 0.215375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -2941,12 +2917,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.191083,
+      "ms": 0.204625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -2957,12 +2935,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.190125,
+      "ms": 0.208542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -2973,12 +2953,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.187917,
+      "ms": 0.208875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -2989,12 +2971,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.184042,
+      "ms": 0.204584,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3005,12 +2989,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.184958,
+      "ms": 0.20425,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3021,12 +3007,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.208916,
+      "ms": 0.237167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3038,12 +3025,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.202833,
+      "ms": 0.204708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3054,12 +3043,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.195,
+      "ms": 0.207,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3070,12 +3061,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.189625,
+      "ms": 0.218291,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3086,12 +3079,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.191167,
+      "ms": 0.208083,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3102,12 +3097,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.192541,
+      "ms": 0.20475,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3118,12 +3115,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.186667,
+      "ms": 0.207541,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3135,12 +3133,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.192791,
+      "ms": 0.205,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3151,12 +3151,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.187125,
+      "ms": 0.220666,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3167,12 +3169,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.187334,
+      "ms": 0.2325,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3183,12 +3187,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.182667,
+      "ms": 0.223583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3200,12 +3205,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.182,
+      "ms": 0.3135,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3216,12 +3223,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.18025,
+      "ms": 0.221333,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3233,12 +3241,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.181,
+      "ms": 0.205792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3249,12 +3259,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.18575,
+      "ms": 0.209792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3265,12 +3277,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.18625,
+      "ms": 0.210166,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3281,12 +3295,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.180167,
+      "ms": 0.201166,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3297,12 +3313,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.178416,
+      "ms": 0.208208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3313,12 +3331,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.182166,
+      "ms": 0.215834,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3329,12 +3349,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.180583,
+      "ms": 0.232958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3346,12 +3367,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.18375,
+      "ms": 0.237708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3362,12 +3385,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.178625,
+      "ms": 0.2295,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -3378,14 +3403,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.192625,
+      "ms": 0.221458,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3394,14 +3421,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.193666,
+      "ms": 0.2135,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3410,14 +3439,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.165625,
+      "ms": 0.181542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3426,14 +3457,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.162459,
+      "ms": 0.182667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3442,14 +3475,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.164083,
+      "ms": 0.181208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3458,14 +3493,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.162917,
+      "ms": 0.185542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3474,14 +3511,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.166125,
+      "ms": 0.178583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3490,14 +3529,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.163333,
+      "ms": 0.176125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3506,14 +3547,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.168041,
+      "ms": 0.182542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3522,14 +3565,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.16325,
+      "ms": 0.181583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3538,14 +3583,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.161958,
+      "ms": 0.183084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3554,14 +3601,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.158875,
+      "ms": 0.201666,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3570,14 +3619,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.163667,
+      "ms": 0.204667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3586,14 +3637,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.17275,
+      "ms": 0.192667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3602,14 +3655,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.166583,
+      "ms": 0.180625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3618,14 +3673,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.210166,
+      "ms": 0.259,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3634,14 +3691,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.184459,
+      "ms": 0.2065,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3650,14 +3709,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.172416,
+      "ms": 0.177833,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3666,14 +3727,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.167834,
+      "ms": 0.17925,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3682,14 +3745,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.167375,
+      "ms": 0.176416,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -3698,13 +3763,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1375,
+      "ms": 0.234,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3716,13 +3781,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.116166,
+      "ms": 0.190667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3734,13 +3799,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.108375,
+      "ms": 0.178084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3752,13 +3817,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.110375,
+      "ms": 0.17925,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3770,13 +3835,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.105792,
+      "ms": 0.180208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3788,13 +3853,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.261166,
+      "ms": 0.191708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3806,13 +3871,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.10425,
+      "ms": 0.189208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3824,13 +3889,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.104291,
+      "ms": 0.169167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3842,13 +3907,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.101792,
+      "ms": 0.172792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3860,13 +3925,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.102916,
+      "ms": 0.169167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3878,13 +3943,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.102083,
+      "ms": 0.199042,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3896,13 +3961,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.0995,
+      "ms": 0.185959,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3914,13 +3979,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.105667,
+      "ms": 0.192792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3932,13 +3997,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.101042,
+      "ms": 0.189,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3950,13 +4015,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.103083,
+      "ms": 0.189,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3968,13 +4033,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.101875,
+      "ms": 0.196125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -3986,13 +4051,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.102417,
+      "ms": 0.19275,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4004,13 +4069,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.102875,
+      "ms": 0.1935,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4022,13 +4087,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.101208,
+      "ms": 0.197375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4040,13 +4105,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.102791,
+      "ms": 0.217334,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Email (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4058,12 +4123,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.179,
+      "ms": 0.218083,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4075,12 +4141,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.160125,
+      "ms": 0.197708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4092,12 +4159,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.170458,
+      "ms": 0.286791,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4109,12 +4177,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.156583,
+      "ms": 0.227875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4126,12 +4195,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.15475,
+      "ms": 0.222458,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4143,12 +4213,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153666,
+      "ms": 0.190666,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4160,12 +4231,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151834,
+      "ms": 0.193375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4177,12 +4249,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152459,
+      "ms": 0.188583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4194,12 +4267,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153208,
+      "ms": 0.191291,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4211,12 +4285,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.154792,
+      "ms": 0.191416,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4228,12 +4303,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152875,
+      "ms": 0.198792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4245,12 +4321,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.158,
+      "ms": 0.213333,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4262,12 +4339,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.157417,
+      "ms": 0.22525,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4279,12 +4357,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153416,
+      "ms": 0.233375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4296,12 +4375,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153833,
+      "ms": 0.231708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4313,12 +4393,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1515,
+      "ms": 0.208875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4330,12 +4411,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153834,
+      "ms": 0.214875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4347,12 +4429,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152,
+      "ms": 0.23075,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4364,12 +4447,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153208,
+      "ms": 0.19075,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4381,12 +4465,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.15425,
+      "ms": 0.186042,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4398,12 +4483,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.154291,
+      "ms": 0.189583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4415,12 +4501,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153875,
+      "ms": 0.191917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4432,12 +4519,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.159709,
+      "ms": 0.1855,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4449,12 +4537,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1535,
+      "ms": 0.196458,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4466,12 +4555,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.279625,
+      "ms": 0.183791,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4483,12 +4573,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.155834,
+      "ms": 0.18925,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4500,12 +4591,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152916,
+      "ms": 0.186542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4517,12 +4609,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.15225,
+      "ms": 0.189334,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4534,12 +4627,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.158583,
+      "ms": 0.286917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4551,12 +4645,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.155875,
+      "ms": 0.204125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -4568,14 +4663,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.187708,
+      "ms": 0.227042,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4586,14 +4681,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.174,
+      "ms": 0.177167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4604,14 +4699,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.155084,
+      "ms": 0.16925,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4622,14 +4717,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.154625,
+      "ms": 0.172959,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4640,14 +4735,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.154166,
+      "ms": 0.173041,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4658,14 +4753,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.15375,
+      "ms": 0.170291,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4676,14 +4771,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151875,
+      "ms": 0.168792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4694,14 +4789,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151125,
+      "ms": 0.164583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4712,14 +4807,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149875,
+      "ms": 0.165042,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4730,14 +4825,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.15475,
+      "ms": 0.167709,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4748,14 +4843,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153417,
+      "ms": 0.169208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4766,14 +4861,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150542,
+      "ms": 0.171875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4784,14 +4879,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152708,
+      "ms": 0.186458,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4802,14 +4897,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151459,
+      "ms": 0.171459,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4820,14 +4915,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147792,
+      "ms": 0.168917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4838,14 +4933,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150292,
+      "ms": 0.164542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4856,14 +4951,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147917,
+      "ms": 0.164917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4874,14 +4969,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.155125,
+      "ms": 0.166209,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4892,14 +4987,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150916,
+      "ms": 0.164417,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4910,14 +5005,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152083,
+      "ms": 0.169417,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4928,14 +5023,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151625,
+      "ms": 0.167375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4946,14 +5041,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148166,
+      "ms": 0.178708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4964,14 +5059,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.15125,
+      "ms": 0.184459,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -4982,14 +5077,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147916,
+      "ms": 0.187,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -5000,14 +5095,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151,
+      "ms": 0.19525,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -5018,14 +5113,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151875,
+      "ms": 0.26175,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -5036,14 +5131,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151042,
+      "ms": 0.191084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -5054,14 +5149,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.14875,
+      "ms": 0.164125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -5072,14 +5167,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147709,
+      "ms": 0.159208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -5090,14 +5185,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.152625,
+      "ms": 0.168416,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID",
         "Insurance ID",
         "Patient address"
       ]
@@ -5108,12 +5203,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.203792,
+      "ms": 0.255875,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5125,12 +5220,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.209542,
+      "ms": 0.227417,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5142,12 +5237,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.178417,
+      "ms": 0.194375,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5159,12 +5254,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.399625,
+      "ms": 0.192542,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5176,12 +5271,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.221042,
+      "ms": 0.189666,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5193,12 +5288,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.185666,
+      "ms": 0.18825,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5210,12 +5305,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.193167,
+      "ms": 0.189667,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5227,12 +5322,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.177458,
+      "ms": 0.192334,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5244,12 +5339,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.173,
+      "ms": 0.187792,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5261,12 +5356,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.176417,
+      "ms": 0.196083,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5278,12 +5373,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.174333,
+      "ms": 0.197542,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5295,12 +5390,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.172541,
+      "ms": 0.193,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5312,12 +5407,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.173792,
+      "ms": 0.192916,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5329,12 +5424,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.181292,
+      "ms": 0.216167,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5346,12 +5441,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.175,
+      "ms": 0.211,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5363,12 +5458,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.171625,
+      "ms": 0.186541,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5380,12 +5475,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.170625,
+      "ms": 0.190458,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5397,12 +5492,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.293125,
+      "ms": 0.188958,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5414,12 +5509,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.168875,
+      "ms": 0.193208,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5431,12 +5526,12 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.170791,
+      "ms": 0.189042,
       "pii_categories_reported": [
-        "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5448,14 +5543,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1705,
+      "ms": 0.198542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5464,14 +5561,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.154209,
+      "ms": 0.179375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5480,14 +5579,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.154333,
+      "ms": 0.27175,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5496,14 +5597,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151167,
+      "ms": 0.210334,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5512,14 +5615,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149875,
+      "ms": 0.288208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5528,14 +5633,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.14875,
+      "ms": 0.251333,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5544,14 +5651,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146125,
+      "ms": 0.311041,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5560,14 +5669,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147041,
+      "ms": 0.228208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5576,14 +5687,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150833,
+      "ms": 0.193125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5592,14 +5705,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146333,
+      "ms": 0.172084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5608,14 +5723,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147041,
+      "ms": 0.171166,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5624,14 +5741,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146,
+      "ms": 0.165459,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5640,14 +5759,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.145625,
+      "ms": 0.163333,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5656,14 +5777,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150917,
+      "ms": 0.167792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5672,14 +5795,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.166875,
+      "ms": 0.164041,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5688,14 +5813,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.155167,
+      "ms": 0.166583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5704,14 +5831,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.153625,
+      "ms": 0.173291,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5720,14 +5849,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.14975,
+      "ms": 0.161958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5736,14 +5867,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149416,
+      "ms": 0.165416,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5752,14 +5885,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147583,
+      "ms": 0.159,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5768,14 +5903,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151625,
+      "ms": 0.164375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5784,14 +5921,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.259,
+      "ms": 0.1575,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5800,14 +5939,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148708,
+      "ms": 0.157208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5816,14 +5957,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147792,
+      "ms": 0.162959,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5832,14 +5975,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147667,
+      "ms": 0.178209,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5848,14 +5993,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149084,
+      "ms": 0.182916,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5864,14 +6011,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.147458,
+      "ms": 0.162041,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5880,14 +6029,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148042,
+      "ms": 0.162583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5896,14 +6047,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146542,
+      "ms": 0.161875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5912,14 +6065,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146,
+      "ms": 0.158625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -5928,12 +6083,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.151292,
+      "ms": 0.4685,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5945,12 +6101,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.150958,
+      "ms": 0.184041,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5962,12 +6119,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.149083,
+      "ms": 0.177291,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5979,12 +6137,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148125,
+      "ms": 0.183917,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -5996,12 +6155,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146333,
+      "ms": 0.171417,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6013,12 +6173,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144458,
+      "ms": 0.1715,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6030,12 +6191,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.145958,
+      "ms": 0.167833,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6047,12 +6209,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.145917,
+      "ms": 0.170584,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6064,12 +6227,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.142292,
+      "ms": 0.161,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6081,12 +6245,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.145875,
+      "ms": 0.1685,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6098,12 +6263,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1435,
+      "ms": 0.16775,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6115,12 +6281,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144958,
+      "ms": 0.168417,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6132,12 +6299,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.148041,
+      "ms": 0.174375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6149,12 +6317,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144333,
+      "ms": 0.166583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6166,12 +6335,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.143791,
+      "ms": 0.1655,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6183,12 +6353,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146541,
+      "ms": 0.1715,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6200,12 +6371,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144333,
+      "ms": 0.164584,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6217,12 +6389,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144167,
+      "ms": 0.168709,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6234,12 +6407,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.144375,
+      "ms": 0.164584,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6251,12 +6425,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.146083,
+      "ms": 0.167666,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -6268,13 +6443,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.210084,
+      "ms": 0.202084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6283,13 +6461,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.207583,
+      "ms": 0.322459,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6298,13 +6479,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.173625,
+      "ms": 0.260042,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6313,14 +6497,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.169458,
+      "ms": 0.212833,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6329,13 +6515,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.171959,
+      "ms": 0.200166,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6344,13 +6533,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.169084,
+      "ms": 0.200542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6359,13 +6551,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.167458,
+      "ms": 0.292084,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6374,14 +6569,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.172667,
+      "ms": 0.190416,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6390,14 +6587,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.174541,
+      "ms": 0.168625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6406,13 +6605,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.171583,
+      "ms": 0.20025,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6421,13 +6623,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.3975,
+      "ms": 0.168208,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6436,13 +6641,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.215292,
+      "ms": 0.166291,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6451,13 +6659,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.187667,
+      "ms": 0.169041,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6466,14 +6677,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.181458,
+      "ms": 0.166125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6482,14 +6695,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.177459,
+      "ms": 0.208708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6498,13 +6713,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.172792,
+      "ms": 0.164667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6513,14 +6731,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.171459,
+      "ms": 0.16525,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6529,13 +6749,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.168542,
+      "ms": 0.165125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6544,13 +6767,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.172959,
+      "ms": 0.1645,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6559,13 +6785,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.168375,
+      "ms": 0.166125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6574,13 +6803,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.17375,
+      "ms": 0.173083,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6589,13 +6821,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.173459,
+      "ms": 0.165667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6604,13 +6839,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.17075,
+      "ms": 0.167958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6619,13 +6857,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.167417,
+      "ms": 0.164375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6634,13 +6875,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.169333,
+      "ms": 0.171791,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6649,13 +6893,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.170833,
+      "ms": 0.169167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6664,13 +6911,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.169792,
+      "ms": 0.163791,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6679,13 +6929,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.172084,
+      "ms": 0.164583,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6694,14 +6947,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.168667,
+      "ms": 0.163125,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6710,14 +6965,16 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.16725,
+      "ms": 0.1655,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6726,13 +6983,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.232416,
+      "ms": 0.258,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6741,14 +7002,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.237875,
+      "ms": 0.198792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6757,13 +7021,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.180292,
+      "ms": 0.18925,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6772,13 +7040,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.176167,
+      "ms": 0.265,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6787,13 +7059,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.175333,
+      "ms": 0.209041,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6802,13 +7078,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.178042,
+      "ms": 0.174958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6817,13 +7097,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.186833,
+      "ms": 0.183709,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6832,14 +7116,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.174583,
+      "ms": 0.173541,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
-        "Insurance ID"
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6848,13 +7135,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.179958,
+      "ms": 0.17925,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6863,13 +7154,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.177875,
+      "ms": 0.175792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6878,13 +7173,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.178,
+      "ms": 0.180458,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6893,13 +7192,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.17725,
+      "ms": 0.182875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6908,13 +7211,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.177583,
+      "ms": 0.177667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6923,13 +7230,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.174292,
+      "ms": 0.178167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6938,13 +7249,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.174291,
+      "ms": 0.177,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6953,13 +7268,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.172958,
+      "ms": 0.182,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6968,13 +7287,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.178,
+      "ms": 0.181667,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6983,13 +7306,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.6675,
+      "ms": 0.183,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -6998,13 +7325,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.182167,
+      "ms": 0.179292,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -7013,13 +7344,17 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.176708,
+      "ms": 0.181541,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
-        "Insurance ID"
+        "Patient phone",
+        "Medical record #",
+        "Insurance ID",
+        "Patient address"
       ]
     },
     {
@@ -7028,12 +7363,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.239167,
+      "ms": 0.207875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7044,12 +7381,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.244833,
+      "ms": 0.197709,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7060,12 +7399,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.189666,
+      "ms": 0.192792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7076,12 +7417,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.185167,
+      "ms": 0.186875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7092,12 +7435,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.184458,
+      "ms": 0.188625,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7108,12 +7453,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.188083,
+      "ms": 0.190416,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7124,12 +7471,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.18575,
+      "ms": 0.216791,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7140,12 +7489,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.184,
+      "ms": 0.212083,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7156,12 +7507,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.185791,
+      "ms": 0.204458,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7173,12 +7525,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.18725,
+      "ms": 0.188291,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7189,12 +7543,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.182875,
+      "ms": 0.291167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7205,12 +7561,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.183375,
+      "ms": 0.199875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7221,12 +7579,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.186209,
+      "ms": 0.190875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7238,12 +7597,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1865,
+      "ms": 0.1885,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7254,12 +7615,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.193292,
+      "ms": 0.189834,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7270,12 +7633,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.187,
+      "ms": 0.209584,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7286,12 +7651,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.1855,
+      "ms": 0.233708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7302,12 +7669,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.184917,
+      "ms": 0.22375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7318,12 +7687,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.186417,
+      "ms": 0.20275,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
+        "Medical record #",
         "Insurance ID",
         "Patient address"
       ]
@@ -7334,12 +7705,13 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.185041,
+      "ms": 0.199958,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7351,12 +7723,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.23175,
+      "ms": 0.235959,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7368,12 +7742,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.229333,
+      "ms": 0.238709,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7385,12 +7761,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.207666,
+      "ms": 0.209875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7402,12 +7780,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.187084,
+      "ms": 0.198167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7419,12 +7799,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.162875,
+      "ms": 0.194791,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7436,12 +7818,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.165375,
+      "ms": 0.191375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7453,12 +7837,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.203791,
+      "ms": 0.195542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7470,12 +7856,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.212959,
+      "ms": 0.194375,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7487,12 +7875,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.217625,
+      "ms": 0.1905,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7504,12 +7894,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.212667,
+      "ms": 0.18875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7521,12 +7913,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.165292,
+      "ms": 0.188708,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7538,12 +7932,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.16225,
+      "ms": 0.183875,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7555,12 +7951,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.164667,
+      "ms": 0.189042,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7572,12 +7970,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.164166,
+      "ms": 0.18975,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7589,12 +7989,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.168625,
+      "ms": 0.187792,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7606,12 +8008,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.167625,
+      "ms": 0.268542,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7623,12 +8027,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.186667,
+      "ms": 0.216709,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7640,12 +8046,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.189625,
+      "ms": 0.215916,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7657,12 +8065,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.167708,
+      "ms": 0.192458,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"
@@ -7674,12 +8084,14 @@
       "phi_total": 10,
       "phi_redacted": 10,
       "phi_leaked": 0,
-      "ms": 0.175917,
+      "ms": 0.190167,
       "pii_categories_reported": [
         "Patient names",
         "Date of birth",
+        "Date of birth",
         "Age",
         "SSN (1)",
+        "Patient phone",
         "Medical record #",
         "Insurance ID",
         "Patient address"

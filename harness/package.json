@@ -8,7 +8,7 @@
     "generate": "node generate_corpus.js",
     "eval": "node eval_redaction.js",
     "egress": "node eval_egress.js",
-    "all": "npm run generate && npm run eval && npm run egress && node summarize.js"
+    "all": "npm run generate && node generate_stress.js && node eval_redaction.js && node eval_egress.js && node eval_stress.js && node summarize.js"
   },
   "dependencies": {
     "seedrandom": "^3.0.5"

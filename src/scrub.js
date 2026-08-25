@@ -9,22 +9,28 @@
 
 const nlp = require('compromise');
 
-// Word-boundary anchors on short Latin tokens ('pa', 'md', 'np', 'rn', 'dr')
-// are required — without them, 'pa' matches 'patient', 'rn' matches 'return',
-// etc., causing nearly every clinical line to be classified as provider
-// context and suppressing the scrubber entirely.
-const PROVIDER_CONTEXT = new RegExp([
-  '\\battending\\b', '\\bphysician\\b', '\\bdoctor\\b', '\\bprovider\\b',
-  '\\bdr\\.?\\b', '\\bmd\\b', '\\bnp\\b', '\\bpa\\b', '\\brn\\b',
-  '\\bnurse\\b', '\\bhospital\\b', '\\bclinic\\b', '\\bfacility\\b',
-  '\\bdepartment\\b', '\\breferred\\b', 'follow.?up with',
-  '\\bm[eé]dico\\b', '\\bdoctora?\\b', '\\benfermer[oa]\\b',
-  'bác sĩ', '医生', '医师', 'врач',
-  '\\bdoktor\\b', '\\barzt\\b',
-  'طبيب', 'دکتر', 'पزشک', 'چिकित्सक',
-].join('|'), 'i');
-
 const REDACTED = '[REDACTED]';
+
+// A name is only kept when provider context is ADJACENT to it, not merely
+// somewhere on the same line — OCR merges two-column headers into single
+// lines, so "Memorial Hermann Hospital — John Smith" must not whitelist the
+// patient name. Three keep conditions:
+//   (a) a provider title immediately before the name ("Dr. John Smith",
+//       "follow up with John Smith"),
+//   (b) an institution word immediately after ("Memorial Hermann Hospital"),
+//   (c) a credential immediately after ("John Smith, MD").
+const PROVIDER_TITLE_BEFORE = /(?:dr\.?|doctor|physician|nurse|np|pa|rn|provider|attending|referred\s+to|follow\s*.?up\s+with|m[eé]dico|doctora?|enfermer[oa])\s*[:.]?\s*$/i;
+const INSTITUTION_AFTER = /^\s+(?:Hospital|Medical|Health|Clinic|Center|Centre|Klinik|Cl[ií]nica)\b/i;
+const CREDENTIAL_AFTER = /^\s*,?\s*(?:MD|DO|NP|PA|RN|APRN|DDS|PharmD)\b/;
+
+function isProviderAdjacent(text, index, length) {
+  const before = text.slice(Math.max(0, index - 40), index);
+  const after = text.slice(index + length, index + length + 24);
+  if (PROVIDER_TITLE_BEFORE.test(before)) return true;
+  if (INSTITUTION_AFTER.test(after)) return true;
+  if (CREDENTIAL_AFTER.test(after)) return true;
+  return false;
+}
 
 function scrubNames(text) {
   if (!text || text.length < 10) return text;
@@ -34,25 +40,31 @@ function scrubNames(text) {
 
   if (names.length === 0) return text;
 
-  const lines = text.split('\n');
   let result = text;
 
   for (const name of names) {
     // compromise often includes trailing punctuation (', ', '.', ',') in the
     // extracted token. Strip it so the word-boundary anchored replace below
     // can actually match the name in-place.
-    const trimmed = name.trim().replace(/[.,;:!?'")\]]+$/u, '').replace(/^['("[]+/u, '');
+    const trimmed = name.trim()
+      .replace(/[.,;:!?'")\]]+$/u, '')
+      .replace(/^['("[]+/u, '')
+      // compromise sometimes folds a preceding institution word and dash into
+      // the person token ("Hospital — John Smith") — strip it so only the
+      // actual name is replaced.
+      .replace(/^(?:(?:Hospital|Medical|Health|Clinic|Center|Centre|Klinik|Cl[ií]nica)\b[\s—–-]*)+/i, '')
+      .replace(/^[\s—–-]+/u, '');
     if (trimmed.length < 2 || trimmed === REDACTED) continue;
 
-    // Check if this name appears on a line with provider/doctor context — keep it
-    const isProviderName = lines.some((line) =>
-      line.toLowerCase().includes(trimmed.toLowerCase()) && PROVIDER_CONTEXT.test(line)
+    const escaped = trimmed.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    // \b is ASCII-only and never matches at an accented edge, so "José" or
+    // "Álvarez" would slip this barrier entirely. Latin-aware lookarounds
+    // stand in for the word boundary.
+    const B = 'A-Za-zÀ-ÖØ-öø-ÿĀ-ſḀ-ỿ0-9_';
+    result = result.replace(
+      new RegExp(`(?<![${B}])${escaped}(?![${B}])`, 'giu'),
+      (m, offset, str) => (isProviderAdjacent(str, offset, m.length) ? m : REDACTED),
     );
-
-    if (!isProviderName) {
-      const escaped = trimmed.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-      result = result.replace(new RegExp(`\\b${escaped}\\b`, 'gi'), REDACTED);
-    }
   }
 
   return result;

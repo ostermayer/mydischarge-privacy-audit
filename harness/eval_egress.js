@@ -1,9 +1,9 @@
 // End-to-end egress pipeline eval.
 //
 // Simulates the exact bytes that reach the Groq LLM API by chaining:
-//   1. Client-side redact.js
-//   2. Server-side sanitize() - prompt-injection stripper
-//   3. Server-side scrubNames() - compromise NLP person-NER fallback
+//   1. Client-side redact.js (mydischarge-app/src/services/redact.js)
+//   2. Server-side sanitize() — prompt-injection stripper (mydischarge-proxy/src/sanitize.js)
+//   3. Server-side scrubNames() — compromise NLP person-NER fallback (mydischarge-proxy/src/scrub.js)
 //
 // Then measures what would actually be sent in the /api/parse request body.
 // Each corpus doc is pushed through the full chain. Leak detection is

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T18:17:37.206Z",
+  "generated_at": "2026-08-25T02:00:31.124Z",
   "corpus": {
     "total_docs": 440,
     "total_phi": 4400,
@@ -166,21 +166,21 @@
       }
     },
     "provider_keep_rate": {
-      "hospital_name": 0.9090909090909091,
+      "hospital_name": 0.9840909090909091,
       "doctor_name": 1,
-      "medication": 0.8227272727272728,
+      "medication": 1,
       "diagnosis": 1,
-      "appointment_date": 0.9318181818181818,
-      "hospital_phone": 0.9090909090909091
+      "appointment_date": 0.9090909090909091,
+      "hospital_phone": 1
     },
     "doc_canary_leaks": 0,
     "latency_ms": {
       "n": 440,
-      "min": 0.08,
-      "median": 0.161291,
-      "p95": 0.232416,
-      "max": 3.802916,
-      "mean": 0.17998871136363626
+      "min": 0.157208,
+      "median": 0.191708,
+      "p95": 0.274125,
+      "max": 8.142167,
+      "mean": 0.2296631340909089
     }
   },
   "egress_pipeline": {

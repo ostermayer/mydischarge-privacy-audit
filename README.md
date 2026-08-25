@@ -30,12 +30,28 @@ MyDischarge is a patient-facing mobile application that performs on-device optic
 ## Reproducing the results
 
 ```
+npm install          # repository root — installs the NER dependency src/scrub.js loads
 cd harness
 npm install
 npm run all
 ```
 
 `npm run all` regenerates both test suites, runs all three evaluations, and writes aggregate output to `results/summary.json`. End-to-end runtime is under one minute. No external services are contacted; all evaluation runs locally.
+
+## Revision history
+
+- **2026-08-24** — `src/` refreshed to the hardened production revision:
+  Unicode-aware name boundaries in `redact.js` and `scrub.js` (ASCII `\b`
+  missed accented names such as "José"), `LAST, FIRST` labeled-name capture,
+  digit-required MRN values, medication-line preservation in the address
+  passes, and RFC-bounded email/identifier scans that remove an O(n²)
+  worst case. A root `package.json` was added so `src/scrub.js` resolves its
+  NER dependency from a fresh clone (the stress and egress evaluations
+  previously failed with `MODULE_NOT_FOUND` on a clean checkout), and
+  `npm run all` now includes the stress suite. All results were regenerated
+  with identical headline numbers: 4,400/4,400 structured and 530/530 stress
+  PHI instances blocked, zero canary residue, zero egress leaks.
+- **2026-04-19** — initial publication accompanying the manuscript.
 
 ## Canary-token methodology
 
