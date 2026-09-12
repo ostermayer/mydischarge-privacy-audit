@@ -25,6 +25,7 @@ MyDischarge is a patient-facing mobile application that performs on-device optic
   - `stress/` — the 60-document purposefully abnormal test suite organized by failure-mode category.
   - `manifest.json` — document-to-canary mapping.
 - `results/` — raw evaluation output (JSON and CSV) used for the manuscript tables.
+- `reports/` — the visual redaction presentation (HTML and PDF) rendered from `results/`.
 - `figures/` — data-flow figure (SVG source and rendered PNG).
 
 ## Reproducing the results

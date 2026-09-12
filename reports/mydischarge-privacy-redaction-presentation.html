@@ -1,0 +1,850 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>MyDischarge Privacy Redaction Test Presentation</title>
+  <style>
+    @page { size: letter; margin: 0.45in; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: #172235;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 12px;
+      line-height: 1.42;
+      background: #fff;
+    }
+    h1, h2, h3, h4 { margin: 0 0 8px; line-height: 1.14; }
+    h1 { font-size: 34px; max-width: 760px; }
+    h2 { font-size: 22px; margin-top: 24px; padding-top: 12px; border-top: 2px solid #d8e2ef; }
+    h3 { font-size: 17px; margin-top: 18px; }
+    h4 { font-size: 12px; color: #415471; }
+    p { margin: 0 0 10px; }
+    .cover {
+      min-height: 9in;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      background: linear-gradient(135deg, #eef5f8 0%, #ffffff 45%, #f8fbf4 100%);
+      border: 1px solid #dbe6f0;
+      border-radius: 18px;
+      padding: 34px;
+    }
+    .kicker { color: #4a6fa5; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; }
+    .subtitle { color: #4d5f75; font-size: 16px; max-width: 710px; }
+    .version { display: inline-block; margin-top: 18px; padding: 8px 12px; background: #172235; color: #fff; border-radius: 999px; font-weight: 700; }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 16px 0; }
+    .metric {
+      border: 1px solid #dbe6f0;
+      border-radius: 12px;
+      padding: 12px;
+      background: #fbfdff;
+    }
+    .metric strong { display: block; font-size: 22px; color: #234f8f; }
+    .muted { color: #5f6f83; }
+    .callout {
+      background: #f1f7f5;
+      border-left: 5px solid #3a8f7b;
+      padding: 12px 14px;
+      border-radius: 10px;
+      margin: 12px 0;
+    }
+    table { width: 100%; border-collapse: collapse; margin: 10px 0 14px; page-break-inside: avoid; }
+    th, td { border: 1px solid #d8e2ef; padding: 6px 8px; text-align: left; vertical-align: top; }
+    th { background: #eef4fb; color: #263b59; font-weight: 800; }
+    .good { color: #0b6b53; font-weight: 800; }
+    .bad { color: #9d1f2d; font-weight: 900; }
+    .comparison { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; page-break-inside: avoid; }
+    pre {
+      white-space: pre-wrap;
+      word-break: break-word;
+      border: 1px solid #d8e2ef;
+      border-radius: 10px;
+      background: #fbfcfe;
+      padding: 10px;
+      min-height: 160px;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      font-size: 9.4px;
+      line-height: 1.36;
+    }
+    mark {
+      background: #ffe08a;
+      color: #172235;
+      border-radius: 3px;
+      padding: 0 2px;
+      font-weight: 700;
+    }
+    .redaction {
+      display: inline-block;
+      background: #dff4ec;
+      color: #0b6b53;
+      border-radius: 4px;
+      padding: 0 3px;
+      font-weight: 800;
+    }
+    .example { break-inside: avoid; page-break-inside: avoid; }
+    .page-break { break-before: page; page-break-before: always; }
+    ul { margin-top: 6px; }
+    li { margin-bottom: 5px; }
+  </style>
+</head>
+<body>
+  <section class="cover">
+    <div>
+      <p class="kicker">MyDischarge privacy validation</p>
+      <h1>How the discharge app protects patient data before any AI processing</h1>
+      <p class="subtitle">A visual, synthetic-data report showing the current app redactor, the privacy test suite results, and before/after examples for standard and adversarial discharge paperwork.</p>
+      <p class="version">App release 1.1.2</p>
+    </div>
+    <div class="grid">
+      <div class="metric"><strong>4400/4400</strong> standard PHI literals redacted</div>
+      <div class="metric"><strong>530/530</strong> adversarial PHI literals blocked</div>
+      <div class="metric"><strong>0</strong> documents with PHI reaching Groq in the egress test</div>
+    </div>
+    <p class="muted">Generated 2026-05-14T17:57:20.025Z. All patient data shown here is synthetic test data, not real patient data.</p>
+  </section>
+
+  <h2>Privacy Model</h2>
+  <div class="callout">
+    MyDischarge is designed so raw patient-identifying data is removed before language-model processing. The tests below verify the current app redactor against synthetic discharge paperwork with canary tokens and known PHI fields.
+  </div>
+  <ul>
+    <li><strong>Photos stay on device.</strong> OCR reads discharge paperwork locally; image files are not uploaded for parsing.</li>
+    <li><strong>Patient identifiers are redacted on device.</strong> The app removes names, dates of birth, ages, SSNs, patient phone numbers, patient email addresses, MRNs, insurance IDs, account numbers, and home addresses.</li>
+    <li><strong>Clinical utility is preserved where possible.</strong> Diagnosis, medications, doctor names, hospital names, hospital phone numbers, and follow-up dates are intentionally preserved when they are not patient identifiers.</li>
+    <li><strong>Network requests are de-identified.</strong> The egress tests simulate what would be sent after client redaction and the server-side safety barrier.</li>
+    <li><strong>No analytics or tracking SDKs are used in the app.</strong> Local session data is stored on-device in encrypted storage.</li>
+  </ul>
+
+  <h2>Standard Multilingual Corpus</h2>
+  <p>The standard corpus contains 440 synthetic documents across 15 languages with 4400 labeled PHI instances.</p>
+  <table>
+    <thead><tr><th>PHI class</th><th>Instances tested</th><th>Redacted</th><th>Leaked</th><th>Redaction rate</th></tr></thead>
+    <tbody><tr><td>name</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr>
+<tr><td>dob</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr>
+<tr><td>age</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr>
+<tr><td>ssn</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr>
+<tr><td>phone</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr>
+<tr><td>email</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr>
+<tr><td>mrn</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr>
+<tr><td>insurance</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr>
+<tr><td>account</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr>
+<tr><td>address</td><td>440</td><td>440</td><td>0</td><td>100.00%</td></tr></tbody>
+  </table>
+  <table>
+    <thead><tr><th>Language</th><th>PHI instances</th><th>Redacted</th><th>Leaked</th><th>Redaction rate</th></tr></thead>
+    <tbody><tr><td>EN</td><td>600</td><td>600</td><td>0</td><td>100.00%</td></tr>
+<tr><td>ES</td><td>600</td><td>600</td><td>0</td><td>100.00%</td></tr>
+<tr><td>ZH</td><td>300</td><td>300</td><td>0</td><td>100.00%</td></tr>
+<tr><td>VI</td><td>300</td><td>300</td><td>0</td><td>100.00%</td></tr>
+<tr><td>KO</td><td>200</td><td>200</td><td>0</td><td>100.00%</td></tr>
+<tr><td>TL</td><td>200</td><td>200</td><td>0</td><td>100.00%</td></tr>
+<tr><td>AR</td><td>300</td><td>300</td><td>0</td><td>100.00%</td></tr>
+<tr><td>FR</td><td>300</td><td>300</td><td>0</td><td>100.00%</td></tr>
+<tr><td>RU</td><td>200</td><td>200</td><td>0</td><td>100.00%</td></tr>
+<tr><td>PT</td><td>300</td><td>300</td><td>0</td><td>100.00%</td></tr>
+<tr><td>HT</td><td>200</td><td>200</td><td>0</td><td>100.00%</td></tr>
+<tr><td>DE</td><td>300</td><td>300</td><td>0</td><td>100.00%</td></tr>
+<tr><td>JA</td><td>200</td><td>200</td><td>0</td><td>100.00%</td></tr>
+<tr><td>HI</td><td>200</td><td>200</td><td>0</td><td>100.00%</td></tr>
+<tr><td>FA</td><td>200</td><td>200</td><td>0</td><td>100.00%</td></tr></tbody>
+  </table>
+
+  <h2>Provider Information Preservation</h2>
+  <p>Provider details are medically important, so the test suite measures whether they are preserved while patient identifiers are removed.</p>
+  <table>
+    <thead><tr><th>Provider detail</th><th>Kept in redacted output</th></tr></thead>
+    <tbody><tr><td>hospital name</td><td>92.7%</td></tr>
+<tr><td>doctor name</td><td>100.0%</td></tr>
+<tr><td>medication</td><td>100.0%</td></tr>
+<tr><td>diagnosis</td><td>100.0%</td></tr>
+<tr><td>appointment date</td><td>90.9%</td></tr>
+<tr><td>hospital phone</td><td>100.0%</td></tr></tbody>
+  </table>
+
+  <h2>Adversarial and Stress Tests</h2>
+  <p>The stress corpus includes OCR confusions, narrative text, typos, multiline labels, duplicated identifiers, and unlabeled identifiers.</p>
+  <table>
+    <thead><tr><th>Category</th><th>Docs</th><th>PHI instances</th><th>Literal leaks at Groq input</th><th>Canary leaks</th><th>Docs with any leak</th></tr></thead>
+    <tbody><tr><td>ocr</td><td>10</td><td>100</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>narrative</td><td>10</td><td>100</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>typos</td><td>10</td><td>100</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>multiline</td><td>10</td><td>100</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>duplicated</td><td>10</td><td>30</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>unlabeled</td><td>10</td><td>100</td><td>0</td><td>0</td><td>0</td></tr></tbody>
+  </table>
+
+  <h2>Egress Pipeline Test</h2>
+  <p>This test simulates each stage from raw input through the text that would be sent to the LLM.</p>
+  <table>
+    <thead><tr><th>Pipeline stage</th><th>Canary leaks</th><th>PHI literal leaks</th><th>Docs with any leak</th></tr></thead>
+    <tbody><tr><td>raw_input</td><td>440</td><td>4050</td><td>440</td></tr>
+<tr><td>after_client_redaction</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>after_server_sanitize</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>sent_to_groq</td><td>0</td><td>0</td><td>0</td></tr></tbody>
+  </table>
+
+  <h2 class="page-break">Before and After Redaction Examples</h2>
+  <p>The following pages show synthetic source text with PHI highlighted, the current app redaction output, and the status of each labeled test value.</p>
+
+    <section class="example">
+      <h3>Standard corpus example</h3>
+      <p class="muted">English synthetic discharge instruction, representative of the 440-document multilingual corpus.</p>
+      <div class="comparison">
+        <div>
+          <h4>Original synthetic discharge text with PHI highlighted</h4>
+          <pre>EMERGENCY DEPARTMENT DISCHARGE INSTRUCTIONS
+Ben Taub General Hospital
+Hospital Phone: 713-500-7878
+
+Patient Name: <mark data-class="name">Octavio Mogensen-ZQK0001</mark>
+DOB: <mark data-class="dob">05/02/1931</mark>    Age: <mark data-class="age">51</mark>
+SSN: <mark data-class="ssn">900-11-0001</mark>
+Patient Phone: <mark data-class="phone">555-010-0001</mark>
+Patient Email: <mark data-class="email">canary-zqk0001@example.invalid</mark>
+Patient Address: <mark data-class="address">2 Canary-ZQK0001 Lane, Testville, TX 77000</mark>
+MRN: <mark data-class="mrn">MRNZQK0001</mark>
+Insurance ID: <mark data-class="insurance">INSZQK0001XYZ9</mark>
+Account #: <mark data-class="account">90000001</mark>
+
+Attending: Dr. Luber
+Diagnosis: community-acquired pneumonia
+Medication: Take metoprolol 25 mg as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 5/24/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.</pre>
+        </div>
+        <div>
+          <h4>Current app redaction output</h4>
+          <pre>EMERGENCY DEPARTMENT DISCHARGE <span class="redaction">[REDACTED]</span>
+Ben Taub General Hospital
+Hospital <span class="redaction">[REDACTED]</span>: 713-500-7878
+
+<span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+DOB: <span class="redaction">[REDACTED]</span>    Age: <span class="redaction">[REDACTED]</span>SSN: <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span> <span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span> <span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+Account #: <span class="redaction">[REDACTED]</span>
+
+Attending: Dr. Luber
+Diagnosis: community-acquired pneumonia
+Medication: Take metoprolol 25 mg as directed until finished.
+Follow-up: Please schedule a follow-up appointment on 5/24/2026 with your primary care provider.
+If you develop chest pain, shortness of breath, or fever above 101°F, call 911 or return to the ED immediately.</pre>
+        </div>
+      </div>
+      <table>
+        <thead><tr><th>PHI class</th><th>Synthetic value tested</th><th>Result</th></tr></thead>
+        <tbody><tr>
+      <td>name</td>
+      <td>Octavio Mogensen-ZQK0001</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>dob</td>
+      <td>05/02/1931</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>age</td>
+      <td>51</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>ssn</td>
+      <td>900-11-0001</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>phone</td>
+      <td>555-010-0001</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>email</td>
+      <td>canary-zqk0001@example.invalid</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>mrn</td>
+      <td>MRNZQK0001</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>insurance</td>
+      <td>INSZQK0001XYZ9</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>account</td>
+      <td>90000001</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>address</td>
+      <td>2 Canary-ZQK0001 Lane, Testville, TX 77000</td>
+      <td class="good">Redacted</td>
+    </tr></tbody>
+      </table>
+    </section>
+
+    <section class="example">
+      <h3>Adversarial ocr example</h3>
+      <p class="muted">One synthetic stress-test document from the ocr category.</p>
+      <div class="comparison">
+        <div>
+          <h4>Original synthetic discharge text with PHI highlighted</h4>
+          <pre>DISCHARGE INSTRUCTI0NS
+Facility: Memorial Hermann TMC
+Hospital Phone: 713-500-7878
+
+Patient Name: Marcus Thomton-ZQK1001
+D0B: <mark data-class="dob">03/14/1962</mark>   Age: <mark data-class="age">63</mark>
+SSN: <mark data-class="ssn">900-44-1001</mark>
+Patient Phone: <mark data-class="phone">555-020-1001</mark>
+Patient Email: <mark data-class="email">canary-zqk1001@example.invalid</mark>
+Patient Address: <mark data-class="address">14 Canary-ZQK1001 Ct, Testville, TX 77000</mark>
+MRN: <mark data-class="mrn">MRNZQK1001</mark>
+Insurance ID: <mark data-class="insurance">INSZQK1001XYZ</mark>
+Account: <mark data-class="account">90001001</mark>
+
+Follow up in 1 week.</pre>
+        </div>
+        <div>
+          <h4>Current app redaction output</h4>
+          <pre>DISCHARGE <span class="redaction">[REDACTED]</span>
+Facility: Memorial Hermann TMC
+Hospital <span class="redaction">[REDACTED]</span>: 713-500-7878
+
+<span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+D0B: <span class="redaction">[REDACTED]</span>   Age: <span class="redaction">[REDACTED]</span>SSN: <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span> <span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span> <span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+Account: <span class="redaction">[REDACTED]</span>
+
+Follow up in 1 week.</pre>
+        </div>
+      </div>
+      <table>
+        <thead><tr><th>PHI class</th><th>Synthetic value tested</th><th>Result</th></tr></thead>
+        <tbody><tr>
+      <td>name</td>
+      <td>Marcus Thornton-ZQK1001</td>
+      <td class="good">Source variant handled</td>
+    </tr>
+<tr>
+      <td>dob</td>
+      <td>03/14/1962</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>age</td>
+      <td>63</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>ssn</td>
+      <td>900-44-1001</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>phone</td>
+      <td>555-020-1001</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>email</td>
+      <td>canary-zqk1001@example.invalid</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>mrn</td>
+      <td>MRNZQK1001</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>insurance</td>
+      <td>INSZQK1001XYZ</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>account</td>
+      <td>90001001</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>address</td>
+      <td>14 Canary-ZQK1001 Ct, Testville, TX 77000</td>
+      <td class="good">Redacted</td>
+    </tr></tbody>
+      </table>
+    </section>
+
+    <section class="example">
+      <h3>Adversarial narrative example</h3>
+      <p class="muted">One synthetic stress-test document from the narrative category.</p>
+      <div class="comparison">
+        <div>
+          <h4>Original synthetic discharge text with PHI highlighted</h4>
+          <pre>EMERGENCY DEPARTMENT NOTE
+Patient <mark data-class="name">Marcus Thornton-ZQK1011</mark> presented today complaining of sore throat.
+Date of birth <mark data-class="dob">03/14/1962</mark>; the patient is <mark data-class="age">63</mark> years old.
+His record number is <mark data-class="mrn">MRNZQK1011</mark> and his insurance plan ID is <mark data-class="insurance">INSZQK1011XYZ</mark>.
+Reachable at <mark data-class="phone">555-020-1011</mark> or <mark data-class="email">canary-zqk1011@example.invalid</mark>.
+Lives at <mark data-class="address">14 Canary-ZQK1011 Ct, Testville, TX 77000</mark>.
+<mark data-class="name">Marcus Thornton-ZQK1011</mark> was discharged home in stable condition.
+Social security on file ends in 1011 (full: <mark data-class="ssn">900-44-1011</mark>). Account <mark data-class="account">90001011</mark>.
+If Marcus has any questions, please call our clinic at 713-500-7878.</pre>
+        </div>
+        <div>
+          <h4>Current app redaction output</h4>
+          <pre>EMERGENCY DEPARTMENT NOTE
+<span class="redaction">[REDACTED]</span> <span class="redaction">[REDACTED]</span>g of sore throat.
+Date of birth <span class="redaction">[REDACTED]</span>; the <span class="redaction">[REDACTED]</span> is <span class="redaction">[REDACTED]</span> years old.
+His record number is <span class="redaction">[REDACTED]</span> and his insurance plan ID is <span class="redaction">[REDACTED]</span>.
+Reachable at <span class="redaction">[REDACTED]</span> or <span class="redaction">[REDACTED]</span>.
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span> <span class="redaction">[REDACTED]</span> was discharged home in stable condition.
+Social security on file ends in 1011 (full: <span class="redaction">[REDACTED]</span>). Account <span class="redaction">[REDACTED]</span>.
+If <span class="redaction">[REDACTED]</span> has any questions, please call our clinic at 713-500-7878.</pre>
+        </div>
+      </div>
+      <table>
+        <thead><tr><th>PHI class</th><th>Synthetic value tested</th><th>Result</th></tr></thead>
+        <tbody><tr>
+      <td>name</td>
+      <td>Marcus Thornton-ZQK1011</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>dob</td>
+      <td>03/14/1962</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>age</td>
+      <td>63</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>ssn</td>
+      <td>900-44-1011</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>phone</td>
+      <td>555-020-1011</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>email</td>
+      <td>canary-zqk1011@example.invalid</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>mrn</td>
+      <td>MRNZQK1011</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>insurance</td>
+      <td>INSZQK1011XYZ</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>account</td>
+      <td>90001011</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>address</td>
+      <td>14 Canary-ZQK1011 Ct, Testville, TX 77000</td>
+      <td class="good">Redacted</td>
+    </tr></tbody>
+      </table>
+    </section>
+
+    <section class="example">
+      <h3>Adversarial typos example</h3>
+      <p class="muted">One synthetic stress-test document from the typos category.</p>
+      <div class="comparison">
+        <div>
+          <h4>Original synthetic discharge text with PHI highlighted</h4>
+          <pre>DISCHARGE SUMMARY
+Patiient Name: <mark data-class="name">Marcus Thornton-ZQK1021</mark>
+D.0.B: <mark data-class="dob">03/14/1962</mark>
+Home Addres: <mark data-class="address">14 Canary-ZQK1021 Ct, Testville, TX 77000</mark>
+Pt Phone: <mark data-class="phone">555-020-1021</mark>
+SSN: <mark data-class="ssn">900-44-1021</mark>
+MRN: <mark data-class="mrn">MRNZQK1021</mark>
+Insurance: <mark data-class="insurance">INSZQK1021XYZ</mark>
+Acct: <mark data-class="account">90001021</mark>
+Email: <mark data-class="email">canary-zqk1021@example.invalid</mark>
+
+Age: <mark data-class="age">63</mark> y
+Attending: Dr. Lee
+Dx: viral pharyngitis
+Rx: supportive care</pre>
+        </div>
+        <div>
+          <h4>Current app redaction output</h4>
+          <pre><span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+D.0.B: <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+SSN: <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+Insurance: <span class="redaction">[REDACTED]</span>
+Acct: <span class="redaction">[REDACTED]</span>
+Email: <span class="redaction">[REDACTED]</span>
+
+Age: <span class="redaction">[REDACTED]</span>
+Attending: Dr. Lee
+Dx: viral pharyngitis
+Rx: supportive care</pre>
+        </div>
+      </div>
+      <table>
+        <thead><tr><th>PHI class</th><th>Synthetic value tested</th><th>Result</th></tr></thead>
+        <tbody><tr>
+      <td>name</td>
+      <td>Marcus Thornton-ZQK1021</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>dob</td>
+      <td>03/14/1962</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>age</td>
+      <td>63</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>ssn</td>
+      <td>900-44-1021</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>phone</td>
+      <td>555-020-1021</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>email</td>
+      <td>canary-zqk1021@example.invalid</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>mrn</td>
+      <td>MRNZQK1021</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>insurance</td>
+      <td>INSZQK1021XYZ</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>account</td>
+      <td>90001021</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>address</td>
+      <td>14 Canary-ZQK1021 Ct, Testville, TX 77000</td>
+      <td class="good">Redacted</td>
+    </tr></tbody>
+      </table>
+    </section>
+
+    <section class="example">
+      <h3>Adversarial multiline example</h3>
+      <p class="muted">One synthetic stress-test document from the multiline category.</p>
+      <div class="comparison">
+        <div>
+          <h4>Original synthetic discharge text with PHI highlighted</h4>
+          <pre>After Visit Summary
+
+Patient Name:
+<mark data-class="name">Marcus Thornton-ZQK1031</mark>
+
+Date of Birth:
+<mark data-class="dob">03/14/1962</mark>
+
+Home Address:
+14 Canary-ZQK1031 Ct
+Testville, TX 77000
+
+Contact:
+Cell: <mark data-class="phone">555-020-1031</mark>
+Email: <mark data-class="email">canary-zqk1031@example.invalid</mark>
+
+Medical Record Number:    <mark data-class="mrn">MRNZQK1031</mark>
+Insurance Member ID:       <mark data-class="insurance">INSZQK1031XYZ</mark>
+SSN:                       <mark data-class="ssn">900-44-1031</mark>
+Account #:                 <mark data-class="account">90001031</mark>
+
+Age:
+<mark data-class="age">63</mark>
+
+Attending physician: Dr. Carlos Ruiz
+Diagnosis: urinary tract infection
+Medication: nitrofurantoin 100 mg twice daily for 5 days.</pre>
+        </div>
+        <div>
+          <h4>Current app redaction output</h4>
+          <pre><span class="redaction">[REDACTED]</span>
+
+<span class="redaction">[REDACTED]</span>:
+<span class="redaction">[REDACTED]</span>
+
+Date of Birth:
+<span class="redaction">[REDACTED]</span>
+
+<span class="redaction">[REDACTED]</span>:
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+
+Contact:
+Cell: <span class="redaction">[REDACTED]</span>
+Email: <span class="redaction">[REDACTED]</span>
+
+<span class="redaction">[REDACTED]</span>:    <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>:       <span class="redaction">[REDACTED]</span>
+SSN:                       <span class="redaction">[REDACTED]</span>
+Account #:                 <span class="redaction">[REDACTED]</span>
+
+Age:
+<span class="redaction">[REDACTED]</span>
+
+Attending physician: Dr. Carlos Ruiz
+Diagnosis: urinary tract infection
+Medication: nitrofurantoin 100 mg twice daily for 5 days.</pre>
+        </div>
+      </div>
+      <table>
+        <thead><tr><th>PHI class</th><th>Synthetic value tested</th><th>Result</th></tr></thead>
+        <tbody><tr>
+      <td>name</td>
+      <td>Marcus Thornton-ZQK1031</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>dob</td>
+      <td>03/14/1962</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>age</td>
+      <td>63</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>ssn</td>
+      <td>900-44-1031</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>phone</td>
+      <td>555-020-1031</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>email</td>
+      <td>canary-zqk1031@example.invalid</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>mrn</td>
+      <td>MRNZQK1031</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>insurance</td>
+      <td>INSZQK1031XYZ</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>account</td>
+      <td>90001031</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>address</td>
+      <td>14 Canary-ZQK1031 Ct, Testville, TX 77000</td>
+      <td class="good">Source variant handled</td>
+    </tr></tbody>
+      </table>
+    </section>
+
+    <section class="example">
+      <h3>Adversarial duplicated example</h3>
+      <p class="muted">One synthetic stress-test document from the duplicated category.</p>
+      <div class="comparison">
+        <div>
+          <h4>Original synthetic discharge text with PHI highlighted</h4>
+          <pre>Memorial Hermann TMC — Discharge Summary for <mark data-class="name">Marcus Thornton-ZQK1041</mark>
+
+Patient Name: <mark data-class="name">Marcus Thornton-ZQK1041</mark>
+DOB: <mark data-class="dob">03/14/1962</mark>
+MRN: <mark data-class="mrn">MRNZQK1041</mark>
+
+Dear Marcus,
+
+You were seen today in our emergency department. Marcus, you had symptoms of
+chest pain. We performed an ECG and labs. <mark data-class="name">Marcus Thornton-ZQK1041</mark>, your results were normal.
+
+Marcus, please follow up with your primary care provider in 3 days.
+
+If you, Marcus, develop any new symptoms, return to the ED.
+
+Patient signature: <mark data-class="name">Marcus Thornton-ZQK1041</mark>   Date: 4/13/2026
+Printed: <mark data-class="name">Marcus Thornton-ZQK1041</mark>
+Copy to file under MRN <mark data-class="mrn">MRNZQK1041</mark>.</pre>
+        </div>
+        <div>
+          <h4>Current app redaction output</h4>
+          <pre><span class="redaction">[REDACTED]</span> — <span class="redaction">[REDACTED]</span> for <span class="redaction">[REDACTED]</span>
+
+<span class="redaction">[REDACTED]</span>: <span class="redaction">[REDACTED]</span>
+DOB: <span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+
+<span class="redaction">[REDACTED]</span> <span class="redaction">[REDACTED]</span>,
+
+You were seen today in our emergency department. <span class="redaction">[REDACTED]</span>, you had symptoms of
+chest pain. We performed an ECG and labs. <span class="redaction">[REDACTED]</span>, your results were normal.
+
+<span class="redaction">[REDACTED]</span>, please follow up with your primary care provider in 3 days.
+
+If you, <span class="redaction">[REDACTED]</span>, develop any new symptoms, return to the ED.
+
+<span class="redaction">[REDACTED]</span> signature: <span class="redaction">[REDACTED]</span>   <span class="redaction">[REDACTED]</span>: 4/13/2026
+Printed: <span class="redaction">[REDACTED]</span>
+Copy to file under <span class="redaction">[REDACTED]</span>.</pre>
+        </div>
+      </div>
+      <table>
+        <thead><tr><th>PHI class</th><th>Synthetic value tested</th><th>Result</th></tr></thead>
+        <tbody><tr>
+      <td>name</td>
+      <td>Marcus Thornton-ZQK1041</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>dob</td>
+      <td>03/14/1962</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>mrn</td>
+      <td>MRNZQK1041</td>
+      <td class="good">Redacted</td>
+    </tr></tbody>
+      </table>
+    </section>
+
+    <section class="example">
+      <h3>Adversarial unlabeled example</h3>
+      <p class="muted">One synthetic stress-test document from the unlabeled category.</p>
+      <div class="comparison">
+        <div>
+          <h4>Original synthetic discharge text with PHI highlighted</h4>
+          <pre>Visit Summary
+
+<mark data-class="name">Marcus Thornton-ZQK1051</mark>
+<mark data-class="dob">03/14/1962</mark>
+<mark data-class="address">14 Canary-ZQK1051 Ct, Testville, TX 77000</mark>
+<mark data-class="phone">555-020-1051</mark>
+<mark data-class="email">canary-zqk1051@example.invalid</mark>
+<mark data-class="mrn">MRNZQK1051</mark>
+<mark data-class="insurance">INSZQK1051XYZ</mark>
+<mark data-class="ssn">900-44-1051</mark>
+<mark data-class="account">90001051</mark>
+
+Age <mark data-class="age">63</mark>
+Reason for visit: acute bronchitis.
+Plan: rest, fluids, follow up if not improving.</pre>
+        </div>
+        <div>
+          <h4>Current app redaction output</h4>
+          <pre><span class="redaction">[REDACTED]</span>
+
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+<span class="redaction">[REDACTED]</span>
+
+Age <span class="redaction">[REDACTED]</span>Reason for <span class="redaction">[REDACTED]</span>: acute bronchitis.
+Plan: rest, fluids, follow up if not improving.</pre>
+        </div>
+      </div>
+      <table>
+        <thead><tr><th>PHI class</th><th>Synthetic value tested</th><th>Result</th></tr></thead>
+        <tbody><tr>
+      <td>name</td>
+      <td>Marcus Thornton-ZQK1051</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>dob</td>
+      <td>03/14/1962</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>age</td>
+      <td>63</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>ssn</td>
+      <td>900-44-1051</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>phone</td>
+      <td>555-020-1051</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>email</td>
+      <td>canary-zqk1051@example.invalid</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>mrn</td>
+      <td>MRNZQK1051</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>insurance</td>
+      <td>INSZQK1051XYZ</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>account</td>
+      <td>90001051</td>
+      <td class="good">Redacted</td>
+    </tr>
+<tr>
+      <td>address</td>
+      <td>14 Canary-ZQK1051 Ct, Testville, TX 77000</td>
+      <td class="good">Redacted</td>
+    </tr></tbody>
+      </table>
+    </section>
+</body>
+</html>
